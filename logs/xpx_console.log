@@ -2596,3 +2596,61 @@ Debug Output:
 
 [0;33m  -> [0mNone found
 
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 52.369305 * 3 - 1
+[AI Threat Assessment: Wynaut] +2: for target having slow kill
+[AI Threat Assessment: Wynaut] +5: for target having fast kill
+[AI Threat Assessment: Cleffa] -1: for us outspeeding
