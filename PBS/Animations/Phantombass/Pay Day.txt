@@ -1,0 +1,107 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,PAYDAY]
+Name = Pay Day
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    SetX = 0,46
+    SetY = 0,-23
+    SetX = 2,79
+    SetY = 2,-42
+    SetX = 4,120
+    SetY = 4,-68
+    SetX = 6,169
+    SetY = 6,-91
+    SetX = 8,209
+    SetY = 8,-92
+    SetFrame = 10,2
+    SetX = 10,244
+    SetY = 10,-119
+    SetFrame = 12,4
+    SetX = 12,247
+    SetY = 12,-131
+<New particle (copy)>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    SetX = 12,284
+    SetY = 12,-152
+    SetX = 13,308
+    SetY = 13,-162
+    SetX = 14,327
+    SetY = 14,-148
+    SetX = 15,341
+    SetY = 15,-124
+    SetX = 16,349
+    SetY = 16,-94
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    SetX = 12,213
+    SetY = 12,-148
+    SetX = 13,193
+    SetY = 13,-158
+    SetX = 14,178
+    SetY = 14,-149
+    SetY = 15,-141
+    SetX = 16,164
+    SetY = 16,-95
+<Target>
+<SE>
+#-------------------------------
+[OppMove,PAYDAY]
+Name = Pay Day
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,46
+    SetY = 0,-23
+    SetX = 2,79
+    SetY = 2,-42
+    SetX = 4,120
+    SetY = 4,-68
+    SetX = 6,169
+    SetY = 6,-91
+    SetX = 8,209
+    SetY = 8,-92
+    SetFrame = 10,2
+    SetX = 10,244
+    SetY = 10,-119
+    SetFrame = 12,4
+    SetX = 12,247
+    SetY = 12,-131
+<New particle (copy)>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 12,284
+    SetY = 12,-152
+    SetX = 13,308
+    SetY = 13,-162
+    SetX = 14,327
+    SetY = 14,-148
+    SetX = 15,341
+    SetY = 15,-124
+    SetX = 16,349
+    SetY = 16,-94
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Pay Day
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 12,213
+    SetY = 12,-148
+    SetX = 13,193
+    SetY = 13,-158
+    SetX = 14,178
+    SetY = 14,-149
+    SetY = 15,-141
+    SetX = 16,164
+    SetY = 16,-95
+<Target>
+<SE>

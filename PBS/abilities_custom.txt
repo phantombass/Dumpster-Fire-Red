@@ -1,0 +1,13 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[PILLARPLANT]
+Name = Pillar Plant
+Description = The Pokémon takes the rocks around it and uses it at a shield.
+#-------------------------------
+[BLINDINGSPEED]
+Name = Blinding Speed
+Description = Only impacted by retaliatory attacks and recoil.
+#-------------------------------
+[SPRINKLERPOWER]
+Name = Sprinkler Power
+Description = Dry Skin + Sturdy.

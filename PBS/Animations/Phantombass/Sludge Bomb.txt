@@ -1,0 +1,116 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SLUDGEBOMB]
+Name = Sludge Bomb
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Sludge Bomb
+    Focus = User
+    MoveX = 0,3,75
+    MoveY = 0,3,-103
+    SetFrame = 3,1
+    MoveX = 3,3,120
+    MoveY = 3,3,-147
+    SetFrame = 6,2
+    MoveX = 6,3,191
+    MoveY = 6,3,-142
+    SetFrame = 9,3
+    MoveX = 9,3,244
+    MoveY = 9,3,-128
+    MoveOpacity = 12,3,0
+<New particle>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = User
+    SetFrame = 15,1
+    SetFlip = 15,true
+    SetX = 15,384
+    SetY = 15,-41
+    MoveX = 15,2,401
+    MoveY = 15,2,-63
+    MoveX = 17,2,383
+    MoveY = 17,2,-87
+    SetVisible = 20,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = User
+    SetFrame = 15,1
+    SetFlip = 15,true
+    SetX = 15,384
+    SetY = 15,-41
+    SetVisible = 15,false
+    SetX = 16,337
+    SetY = 16,-39
+    SetVisible = 16,true
+    MoveX = 16,2,331
+    MoveY = 16,2,-65
+    MoveX = 18,2,349
+    MoveY = 18,2,-89
+    SetVisible = 21,false
+<Target>
+    SetToneBlue = 12,64
+    MoveToneBlue = 12,3,208
+    SetZoomY = 15,75
+    MoveZoomY = 15,3,100
+    MoveToneBlue = 15,3,0
+<SE>
+#-------------------------------
+[OppMove,SLUDGEBOMB]
+Name = Sludge Bomb
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Sludge Bomb
+    Focus = User
+    FoeInvertX = true
+    MoveX = 0,3,70
+    MoveY = 0,3,-42
+    SetFrame = 3,1
+    MoveX = 3,3,133
+    MoveY = 3,3,-53
+    SetFrame = 6,2
+    MoveX = 6,3,192
+    MoveY = 6,3,-11
+    SetFrame = 9,3
+    MoveX = 9,3,233
+    MoveY = 9,3,107
+    MoveOpacity = 12,3,0
+<New particle>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    FoeFlip = true
+    SetFrame = 15,1
+    SetFlip = 15,true
+    SetX = 15,371
+    SetY = 15,-207
+    MoveX = 15,2,351
+    MoveY = 15,2,-155
+    MoveX = 17,2,386
+    MoveY = 17,2,-125
+    SetVisible = 20,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    FoeFlip = true
+    SetFrame = 15,1
+    SetFlip = 15,true
+    SetX = 15,384
+    SetY = 15,-41
+    SetVisible = 15,false
+    SetX = 16,333
+    SetY = 16,-195
+    SetVisible = 16,true
+    MoveX = 16,2,349
+    MoveY = 16,2,-156
+    MoveX = 18,2,327
+    MoveY = 18,2,-137
+    SetVisible = 21,false
+<Target>
+    SetToneBlue = 12,64
+    MoveToneBlue = 12,3,208
+    SetZoomY = 15,75
+    MoveZoomY = 15,3,100
+    MoveToneBlue = 15,3,0
+<SE>

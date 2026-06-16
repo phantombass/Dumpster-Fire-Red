@@ -1,0 +1,102 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,COVET]
+Name = Covet
+<User>
+    SetX = 0,8
+    MoveX = 0,3,63
+    MoveX = 3,3,0
+<New particle>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 3,1
+    SetX = 3,251
+    SetY = 3,-155
+    MoveX = 3,3,217
+    MoveY = 3,3,-192,EaseOut
+    SetVisible = 6,false
+<New particle (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 3,1
+    SetX = 3,251
+    SetY = 3,-155
+    MoveX = 3,3,366
+    MoveY = 3,3,-194,EaseOut
+    SetVisible = 6,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 3,1
+    SetX = 3,251
+    SetY = 3,-155
+    MoveX = 3,3,329
+    MoveY = 3,3,-237,EaseOut
+    SetVisible = 6,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 3,1
+    SetX = 3,251
+    SetY = 3,-155
+    MoveX = 3,3,260
+    MoveY = 3,3,-237,EaseOut
+    SetVisible = 6,false
+<New particle>
+    Graphic = Normal/Pound hit
+    Focus = User
+    SetX = 3,252
+    SetY = 3,-149
+    SetVisible = 5,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,COVET]
+Name = Covet
+<User>
+    FoeInvertX = true
+    SetX = 0,8
+    MoveX = 0,3,63
+    MoveX = 3,3,0
+<New particle>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 3,1
+    SetX = 3,193
+    SetY = 3,95
+    MoveX = 3,2,118
+    MoveY = 3,2,49,EaseOut
+    SetVisible = 6,false
+<New particle (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 3,1
+    SetX = 3,193
+    SetY = 3,95
+    MoveX = 3,2,171
+    MoveY = 3,2,13,EaseOut
+    SetVisible = 6,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 3,1
+    SetX = 3,193
+    SetY = 3,95
+    MoveX = 3,2,241
+    MoveY = 3,2,15,EaseOut
+    SetVisible = 6,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 3,1
+    SetX = 3,193
+    SetY = 3,95
+    MoveX = 3,2,291
+    MoveY = 3,2,52,EaseOut
+    SetVisible = 6,false
+<Target>
+<SE>

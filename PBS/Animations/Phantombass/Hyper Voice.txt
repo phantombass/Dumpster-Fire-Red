@@ -1,0 +1,61 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,HYPERVOICE]
+Name = Hyper Voice
+<User>
+<New particle>
+    Graphic = Normal/Growl ring
+    Focus = User
+    SetX = 0,30
+    SetY = 0,-20
+    MoveX = 0,11,248
+    MoveY = 0,11,-132
+    SetZoomX = 1,110
+    SetZoomY = 1,110
+    SetZoomX = 2,125
+    SetZoomY = 2,125
+    SetZoomX = 4,140
+    SetZoomY = 4,140
+    SetZoomX = 5,150
+    SetZoomY = 5,150
+    SetZoomX = 7,160
+    SetZoomY = 7,160
+    SetZoomX = 8,175
+    SetZoomY = 8,175
+    SetZoomX = 10,185
+    SetZoomY = 10,185
+    SetZoomX = 11,200
+    SetZoomY = 11,200
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HYPERVOICE]
+Name = Hyper Voice
+<User>
+<New particle>
+    Graphic = Normal/Growl ring
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,30
+    SetY = 0,-20
+    MoveX = 0,11,248
+    MoveY = 0,11,-132
+    SetZoomX = 1,110
+    SetZoomY = 1,110
+    SetZoomX = 2,125
+    SetZoomY = 2,125
+    SetZoomX = 4,140
+    SetZoomY = 4,140
+    SetZoomX = 5,150
+    SetZoomY = 5,150
+    SetZoomX = 7,160
+    SetZoomY = 7,160
+    SetZoomX = 8,175
+    SetZoomY = 8,175
+    SetZoomX = 10,185
+    SetZoomY = 10,185
+    SetZoomX = 11,200
+    SetZoomY = 11,200
+<Target>
+<SE>

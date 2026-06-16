@@ -1,0 +1,111 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,STONEEDGE]
+Name = Stone Edge
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 0,-37
+    SetY = 0,37
+    SetOpacity = 0,22
+    MoveOpacity = 0,3,250
+    MoveY = 7,4,-119
+    SetVisible = 12,false
+<New particle (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 1,38
+    SetY = 1,37
+    SetOpacity = 1,28
+    MoveOpacity = 1,3,255
+    MoveY = 8,4,-114
+    SetX = 12,41
+    SetVisible = 13,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 2,-9
+    SetY = 2,40
+    SetOpacity = 2,14
+    MoveOpacity = 2,3,255
+    MoveY = 8,4,-117
+    SetX = 12,-7
+    SetVisible = 13,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 3,-64
+    SetY = 3,40
+    SetOpacity = 3,18
+    MoveOpacity = 3,3,255
+    MoveY = 9,4,-114
+    SetX = 13,-74
+    SetVisible = 14,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 4,10
+    SetY = 4,41
+    SetOpacity = 4,18
+    MoveOpacity = 4,3,252
+    MoveY = 9,4,-121
+    SetX = 13,19
+    SetVisible = 14,false
+<SE>
+#-------------------------------
+[OppMove,STONEEDGE]
+Name = Stone Edge
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 0,-37
+    SetY = 0,37
+    SetOpacity = 0,22
+    MoveOpacity = 0,3,250
+    MoveY = 7,4,-119
+    SetVisible = 12,false
+<New particle (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 1,38
+    SetY = 1,37
+    SetOpacity = 1,28
+    MoveOpacity = 1,3,255
+    MoveY = 8,4,-114
+    SetX = 12,41
+    SetVisible = 13,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 2,-9
+    SetY = 2,40
+    SetOpacity = 2,14
+    MoveOpacity = 2,3,255
+    MoveY = 8,4,-117
+    SetX = 12,-7
+    SetVisible = 13,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 3,-64
+    SetY = 3,40
+    SetOpacity = 3,18
+    MoveOpacity = 3,3,255
+    MoveY = 9,4,-114
+    SetX = 13,-74
+    SetVisible = 14,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/Rock Tomb
+    Focus = Target
+    SetX = 4,10
+    SetY = 4,41
+    SetOpacity = 4,18
+    MoveOpacity = 4,3,252
+    MoveY = 9,4,-121
+    SetX = 13,19
+    SetVisible = 14,false
+<SE>

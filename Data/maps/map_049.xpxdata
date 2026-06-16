@@ -1,0 +1,2872 @@
+{
+  "version": 1,
+  "map_id": 49,
+  "name": "Cerulean Cave",
+  "cols": 20,
+  "rows": 15,
+  "layer_count": 3,
+  "bgm": null,
+  "bgm_name": "",
+  "autoplay_bgm": true,
+  "group_id": null,
+  "tileset_id": 6,
+  "source": "essentials",
+  "variants": [],
+  "is_variant": false,
+  "variant_parent_id": null,
+  "autotile_paths": [
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea without shore.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea deep.png",
+    null,
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Waterfall crest.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Waterfall.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Waterfall bottom.png"
+  ],
+  "tilesets": [
+    {
+      "slot_index": 0,
+      "tileset_path": "E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png",
+      "tileset_name": "Caves",
+      "condition_switch": null,
+      "condition_state": true
+    }
+  ],
+  "layers": [
+    [
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ],
+      [
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        },
+        {
+          "tc": 6,
+          "tr": 13,
+          "tc2": 6,
+          "tr2": 13
+        }
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  ],
+  "event_layer": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "events": {},
+  "child_ids": [
+    50,
+    51,
+    52
+  ],
+  "parent_map_id": 39
+}

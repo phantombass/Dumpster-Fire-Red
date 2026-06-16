@@ -1,0 +1,169 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,DRAGONPULSE]
+Name = Dragon Pulse
+<User>
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetX = 0,36
+    SetY = 0,-20
+    SetZoomX = 0,10
+    SetZoomY = 0,10
+    MoveZoomX = 0,5,100
+    MoveZoomY = 0,5,100
+    SetFrame = 6,5
+    SetFrame = 8,6
+    SetFrame = 10,7
+    SetFrame = 12,8
+    SetFrame = 14,7
+    SetFrame = 16,6
+    MoveOpacity = 16,4,0
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 5,1
+    SetX = 5,49
+    SetY = 5,-26
+    MoveX = 5,8,250
+    MoveY = 5,8,-125
+    SetVisible = 14,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 6,2
+    SetX = 6,41
+    SetY = 6,-22
+    MoveX = 6,8,250
+    MoveY = 6,8,-122
+    SetVisible = 15,false
+<New particle (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 7,3
+    SetX = 7,36
+    SetY = 7,-22
+    MoveX = 7,8,250
+    MoveY = 7,8,-126
+    SetVisible = 16,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 8,4
+    SetX = 8,36
+    SetY = 8,-21
+    MoveX = 8,8,248
+    MoveY = 8,8,-126
+    SetVisible = 17,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 9,4
+    SetX = 9,41
+    SetY = 9,-22
+    MoveX = 9,8,245
+    MoveY = 9,8,-121
+    SetFrame = 17,2
+    SetVisible = 18,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetFrame = 10,1
+    SetX = 10,43
+    SetY = 10,-20
+    MoveX = 10,8,246
+    MoveY = 10,8,-124
+    SetVisible = 19,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,DRAGONPULSE]
+Name = Dragon Pulse
+<User>
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,36
+    SetY = 0,-20
+    SetZoomX = 0,10
+    SetZoomY = 0,10
+    MoveZoomX = 0,5,100
+    MoveZoomY = 0,5,100
+    SetFrame = 6,5
+    SetFrame = 8,6
+    SetFrame = 10,7
+    SetFrame = 12,8
+    SetFrame = 14,7
+    SetFrame = 16,6
+    MoveOpacity = 16,4,0
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 5,1
+    SetX = 5,49
+    SetY = 5,-26
+    MoveX = 5,8,250
+    MoveY = 5,8,-125
+    SetVisible = 14,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 6,2
+    SetX = 6,41
+    SetY = 6,-22
+    MoveX = 6,8,250
+    MoveY = 6,8,-122
+    SetVisible = 15,false
+<New particle (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 7,3
+    SetX = 7,36
+    SetY = 7,-22
+    MoveX = 7,8,250
+    MoveY = 7,8,-126
+    SetVisible = 16,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 8,4
+    SetX = 8,36
+    SetY = 8,-21
+    MoveX = 8,8,248
+    MoveY = 8,8,-126
+    SetVisible = 17,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 9,4
+    SetX = 9,41
+    SetY = 9,-22
+    MoveX = 9,8,245
+    MoveY = 9,8,-121
+    SetFrame = 17,2
+    SetVisible = 18,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 10,1
+    SetX = 10,43
+    SetY = 10,-20
+    MoveX = 10,8,246
+    MoveY = 10,8,-124
+    SetVisible = 19,false
+<Target>
+<SE>

@@ -1,0 +1,79 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OppCommon,MegaEvolution]
+Name = Mega Evolve
+NoTarget = true
+<User>
+    SetVisible = 0,true
+    SetVisible = 8,false
+    SetVisible = 48,true
+<Mega>
+    Graphic = Examples/MegaEvolving
+    Focus = User
+    SetFrame = 0,1
+    SetX = 0,13
+    SetY = 0,24
+    SetFrame = 2,2
+    SetFrame = 4,3
+    SetFrame = 6,4
+    SetFrame = 8,5
+    SetFrame = 10,6
+    SetFrame = 12,7
+    SetFrame = 14,8
+    SetFrame = 16,9
+    SetFrame = 18,10
+    SetFrame = 20,11
+    SetFrame = 22,12
+    SetFrame = 24,11
+    SetFrame = 26,10
+    SetFrame = 28,9
+    SetFrame = 30,8
+    SetFrame = 32,7
+    SetFrame = 34,6
+    SetFrame = 36,5
+    SetFrame = 38,4
+    SetFrame = 40,3
+    SetFrame = 42,2
+    SetFrame = 44,1
+    SetFrame = 46,0
+    SetVisible = 48,false
+<SE>
+#-------------------------------
+[Common,MegaEvolution]
+Name = Mega Evolve
+NoTarget = true
+<User>
+    SetVisible = 0,true
+    SetVisible = 8,false
+    SetVisible = 48,true
+<Mega>
+    Graphic = Examples/MegaEvolving
+    Focus = User
+    SetFrame = 0,1
+    SetX = 0,13
+    SetY = 0,24
+    SetFrame = 2,2
+    SetFrame = 4,3
+    SetFrame = 6,4
+    SetFrame = 8,5
+    SetFrame = 10,6
+    SetFrame = 12,7
+    SetFrame = 14,8
+    SetFrame = 16,9
+    SetFrame = 18,10
+    SetFrame = 20,11
+    SetFrame = 22,12
+    SetFrame = 24,11
+    SetFrame = 26,10
+    SetFrame = 28,9
+    SetFrame = 30,8
+    SetFrame = 32,7
+    SetFrame = 34,6
+    SetFrame = 36,5
+    SetFrame = 38,4
+    SetFrame = 40,3
+    SetFrame = 42,2
+    SetFrame = 44,1
+    SetFrame = 46,0
+    SetVisible = 48,false
+<SE>

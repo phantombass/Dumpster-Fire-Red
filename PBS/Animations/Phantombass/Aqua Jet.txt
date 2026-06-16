@@ -1,0 +1,170 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OppMove,AQUAJET]
+Name = Aqua Jet
+<User>
+    SetVisible = 0,true
+    SetX = 1,17
+    SetY = 1,-7
+    SetX = 2,55
+    SetY = 2,-18
+    SetX = 3,35
+    SetY = 3,-17
+    SetX = 4,13
+    SetY = 4,-2
+    SetX = 5,-20
+    SetY = 5,24
+    SetVisible = 6,false
+    SetX = 20,0
+    SetY = 20,0
+    SetVisible = 20,true
+<Jet>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,-50
+    SetY = 6,-2
+    SetFrame = 7,11
+    SetFrame = 8,10
+    SetFrame = 9,9
+    SetFrame = 10,8
+    SetFrame = 11,9
+    SetFrame = 12,10
+    SetFrame = 13,11
+    SetFrame = 14,12
+    SetVisible = 15,false
+<Jet (copy)>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,123
+    SetY = 6,-74
+    SetVisible = 6,false
+    SetX = 7,180
+    SetY = 7,-106
+    SetFrame = 8,11
+    SetFrame = 9,9
+    SetFrame = 10,12
+    SetX = 10,-114
+    SetY = 10,48
+    SetVisible = 10,true
+    SetFrame = 11,11
+    SetFrame = 12,10
+    SetFrame = 13,9
+    SetFrame = 14,8
+    SetFrame = 15,9
+    SetFrame = 16,10
+    SetFrame = 17,11
+    SetFrame = 18,12
+    SetVisible = 19,false
+<Jet (copy) (copy)>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,123
+    SetY = 6,-74
+    SetVisible = 6,false
+    SetX = 7,180
+    SetY = 7,-106
+    SetFrame = 8,11
+    SetFrame = 9,9
+    SetFrame = 10,12
+    SetFrame = 11,11
+    SetFrame = 12,10
+    SetFrame = 13,9
+    SetFrame = 14,12
+    SetX = 14,-187
+    SetY = 14,93
+    SetVisible = 14,true
+    SetFrame = 15,11
+    SetFrame = 16,10
+    SetFrame = 17,9
+    SetFrame = 18,8
+    SetFrame = 19,7
+    SetFrame = 20,9
+<Target>
+<SE>
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,AQUAJET]
+Name = Aqua Jet
+<User>
+    SetVisible = 0,true
+    SetX = 1,-10
+    SetY = 1,5
+    SetX = 2,-31
+    SetY = 2,22
+    SetX = 3,-2
+    SetY = 3,11
+    SetX = 4,13
+    SetY = 4,-2
+    SetX = 5,26
+    SetY = 5,-7
+    SetVisible = 6,false
+    SetVisible = 20,true
+<Jet>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,77
+    SetY = 6,-68
+    SetFrame = 7,11
+    SetFrame = 8,10
+    SetFrame = 9,9
+    SetFrame = 10,8
+    SetFrame = 11,9
+    SetFrame = 12,10
+    SetFrame = 13,11
+    SetFrame = 14,12
+    SetVisible = 15,false
+<Jet (copy)>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,123
+    SetY = 6,-74
+    SetVisible = 6,false
+    SetX = 7,180
+    SetY = 7,-106
+    SetFrame = 8,11
+    SetFrame = 9,9
+    SetFrame = 10,12
+    SetVisible = 10,true
+    SetFrame = 11,11
+    SetFrame = 12,10
+    SetFrame = 13,9
+    SetFrame = 14,8
+    SetX = 14,155
+    SetY = 14,-92
+    SetFrame = 15,9
+    SetFrame = 16,10
+    SetFrame = 17,11
+    SetFrame = 18,12
+    SetVisible = 19,false
+<Jet (copy) (copy)>
+    Graphic = Examples/icewater
+    Focus = User
+    SetFrame = 6,12
+    SetX = 6,123
+    SetY = 6,-74
+    SetVisible = 6,false
+    SetX = 7,180
+    SetY = 7,-106
+    SetFrame = 8,11
+    SetFrame = 9,9
+    SetFrame = 10,12
+    SetFrame = 11,11
+    SetFrame = 12,10
+    SetFrame = 13,9
+    SetFrame = 14,12
+    SetX = 14,227
+    SetY = 14,-123
+    SetVisible = 14,true
+    SetFrame = 15,11
+    SetFrame = 16,10
+    SetFrame = 17,9
+    SetFrame = 18,8
+    SetFrame = 19,7
+    SetFrame = 20,9
+<Target>
+<SE>

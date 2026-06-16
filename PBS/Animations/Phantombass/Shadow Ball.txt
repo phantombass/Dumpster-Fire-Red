@@ -1,0 +1,105 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SHADOWBALL]
+Name = Shadow Ball
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = User
+    SetToneRed = 0,-39
+    SetToneGreen = 0,-163
+    SetToneBlue = 0,112
+    SetFrame = 1,1
+    SetFrame = 2,2
+    SetFrame = 3,3
+    SetFrame = 4,4
+    SetFrame = 5,3
+    SetFrame = 6,2
+    SetFrame = 7,1
+    MoveX = 7,8,245
+    MoveY = 7,8,-126
+    SetFrame = 9,2
+    SetFrame = 11,3
+    SetFrame = 13,4
+    SetOpacity = 15,176
+    SetFrame = 16,0
+    SetOpacity = 16,255
+    SetVisible = 17,false
+<New particle>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = User
+    SetX = 16,280
+    SetY = 16,-148
+    SetVisible = 16,false
+    SetToneRed = 16,-39
+    SetToneGreen = 16,-163
+    SetToneBlue = 16,112
+    SetVisible = 17,true
+    SetVisible = 18,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = User
+    SetVisible = 16,false
+    SetToneRed = 16,-39
+    SetToneGreen = 16,-163
+    SetToneBlue = 16,112
+    SetX = 18,242
+    SetY = 18,-169
+    SetVisible = 18,true
+    SetVisible = 19,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,SHADOWBALL]
+Name = Shadow Ball
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetToneRed = 0,-39
+    SetToneGreen = 0,-163
+    SetToneBlue = 0,112
+    SetFrame = 1,1
+    SetFrame = 2,2
+    SetFrame = 3,3
+    SetFrame = 4,4
+    SetFrame = 5,3
+    SetFrame = 6,2
+    SetFrame = 7,1
+    MoveX = 7,8,245
+    MoveY = 7,8,-126
+    SetFrame = 9,2
+    SetFrame = 11,3
+    SetFrame = 13,4
+    SetOpacity = 15,176
+    SetFrame = 16,0
+    SetOpacity = 16,255
+    SetVisible = 17,false
+<New particle>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = Foreground
+    SetX = 16,280
+    SetY = 16,-148
+    SetVisible = 16,false
+    SetToneRed = 16,-39
+    SetToneGreen = 16,-163
+    SetToneBlue = 16,112
+    SetX = 17,96
+    SetY = 17,245
+    SetVisible = 17,true
+    SetVisible = 18,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Shadow Ball
+    Focus = Foreground
+    SetVisible = 16,false
+    SetToneRed = 16,-39
+    SetToneGreen = 16,-163
+    SetToneBlue = 16,112
+    SetX = 18,144
+    SetY = 18,225
+    SetVisible = 18,true
+    SetVisible = 19,false
+<Target>
+<SE>

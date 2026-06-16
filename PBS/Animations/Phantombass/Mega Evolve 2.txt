@@ -1,0 +1,41 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Common,MegaEvolution2]
+Name = Mega Evolve 2
+NoTarget = true
+<User>
+    SetVisible = 0,true
+<New particle>
+    Graphic = Examples/GEN8- MegaEvolution
+    Focus = User
+    SetFrame = 0,1
+    SetFrame = 1,2
+    SetX = 1,-4
+    SetFrame = 2,3
+    SetX = 2,-13
+    SetY = 2,-9
+    SetFrame = 3,4
+    SetX = 3,-37
+    SetY = 3,-30
+    SetVisible = 4,false
+<SE>
+#-------------------------------
+[OppCommon,MegaEvolution2]
+Name = Mega Evolve 2 (copy)
+NoTarget = true
+<New particle>
+    Graphic = Examples/GEN8- MegaEvolution
+    Focus = User
+    SetFrame = 0,1
+    SetFrame = 1,2
+    SetX = 1,-4
+    SetFrame = 2,3
+    SetX = 2,-13
+    SetY = 2,-9
+    SetFrame = 3,4
+    SetX = 3,-37
+    SetY = 3,-30
+    SetVisible = 4,false
+<User>
+    SetVisible = 0,true
+<SE>

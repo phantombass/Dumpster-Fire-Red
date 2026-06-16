@@ -1,0 +1,53 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,ASSIST]
+Name = Example anim
+NoTarget = true
+<User>
+    SetX = 0,0
+    SetY = 0,0
+<Particle 1>
+    Graphic = Examples/PRAS- Assist
+    Focus = Foreground
+    SetX = 0,88
+    SetY = 0,133
+    SetZ = 0,27
+    SetX = 1,275
+    SetY = 1,70
+    SetX = 2,243
+    SetY = 2,255
+    SetX = 3,442
+    SetY = 3,192
+    SetX = 4,299
+    SetY = 4,35
+    SetX = 5,459
+    SetY = 5,107
+    SetX = 6,262
+    SetY = 6,129
+    SetX = 7,223
+    SetY = 7,235
+    SetX = 8,68
+    SetY = 8,112
+    SetX = 9,259
+    SetY = 9,40
+    SetX = 10,471
+    SetY = 10,47
+    SetX = 11,262
+    SetY = 11,200
+    SetX = 12,127
+    SetY = 12,138
+    SetX = 13,402
+    SetY = 13,170
+    SetX = 14,283
+    SetY = 14,86
+    SetX = 15,237
+    SetY = 15,198
+    SetX = 16,74
+    SetY = 16,130
+    SetX = 17,280
+    SetY = 17,29
+    SetX = 18,312
+    SetY = 18,175
+    SetVisible = 19,false
+<SE>
+    Play = 1,PRSFX- Assist.wav

@@ -1,0 +1,194 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,WATERFALL]
+Name = Waterfall
+<User>
+    MoveX = 0,2,70
+    SetX = 3,0
+<New particle>
+    Graphic = Examples/PRAS- Underwater BG
+    Focus = Background
+    SetVisible = 0,true
+    MoveOpacity = 8,2,0
+<New particle>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-98
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 2,true
+    SetVisible = 3,false
+<New particle (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-109
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 3,true
+    SetVisible = 4,false
+<New particle (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-124
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 4,true
+    SetVisible = 5,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,261
+    SetY = 0,-138
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 5,true
+    SetVisible = 6,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,261
+    SetY = 0,-150
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 6,true
+    SetVisible = 7,false
+<New particle (copy) (copy) (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    SetFrame = 0,12
+    SetX = 0,260
+    SetY = 0,-167
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 7,true
+    SetVisible = 8,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,WATERFALL]
+Name = Waterfall
+<User>
+    FoeInvertX = true
+    MoveX = 0,2,70
+    SetX = 3,0
+<New particle>
+    Graphic = Examples/PRAS- Underwater BG
+    Focus = Background
+    SetVisible = 0,true
+    MoveOpacity = 8,2,0
+<New particle>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-98
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetVisible = 2,true
+    SetVisible = 3,false
+<New particle (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-109
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetX = 3,257
+    SetY = 3,-72
+    SetVisible = 3,true
+    SetVisible = 4,false
+<New particle (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,262
+    SetY = 0,-124
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetX = 4,254
+    SetY = 4,-51
+    SetVisible = 4,true
+    SetVisible = 5,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,261
+    SetY = 0,-138
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetX = 5,254
+    SetY = 5,-48
+    SetVisible = 5,true
+    SetVisible = 6,false
+<New particle (copy) (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,261
+    SetY = 0,-150
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetX = 6,252
+    SetY = 6,-26
+    SetVisible = 6,true
+    SetVisible = 7,false
+<New particle (copy) (copy) (copy) (copy) (copy)>
+    Graphic = Examples/finger spoon
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,12
+    SetX = 0,260
+    SetY = 0,-167
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetVisible = 0,false
+    SetToneBlue = 0,255
+    SetX = 7,249
+    SetY = 7,5
+    SetVisible = 7,true
+    SetVisible = 8,false
+<Target>
+<SE>

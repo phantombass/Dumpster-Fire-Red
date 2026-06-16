@@ -1,0 +1,1891 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,HPROCK]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HIDDENPOWER]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPFIGHTING]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPFLYING]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPPOISON]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPGROUND]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPBUG]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPGHOST]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPSTEEL]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPGRASS]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPFIRE]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPWATER]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPELECTRIC]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPICE]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPPSYCHIC]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPDRAGON]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPDARK]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[Move,HPFAIRY]
+Name = Hidden Power
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,-12
+    SetY = 0,-50
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,-1
+    SetY = 10,-8
+    SetAngle = 10,270
+    SetVisible = 10,true
+    SetX = 11,25
+    SetY = 11,-21
+    SetX = 12,56
+    SetY = 12,-32
+    SetX = 13,89
+    SetY = 13,-47
+    SetX = 14,125
+    SetY = 14,-60
+    SetX = 15,152
+    SetY = 15,-76
+    SetX = 16,171
+    SetY = 16,-82
+    SetX = 17,203
+    SetY = 17,-94
+    SetX = 18,220
+    SetY = 18,-103
+    SetFrame = 19,12
+    SetX = 19,256
+    SetY = 19,-128
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,279
+    SetY = 23,-134
+    SetFrame = 24,1
+    SetX = 24,266
+    SetY = 24,-127
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPBUG]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = User
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPFIGHTING]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE
+#-------------------------------
+[OppMove,HIDDENPOWER]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPFLYING]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPPOISON]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPROCK]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPGROUND]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPGHOST]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPSTEEL]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPGRASS]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPFIRE]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPWATER]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPELECTRIC]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPICE]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPPSYCHIC]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPDRAGON]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPDARK]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,HPFAIRY]
+Name = Hidden Power opp
+<User>
+<Power>
+    Graphic = Examples/Cosmo-01
+    Focus = Target
+    SetFrame = 0,3
+    SetX = 0,255
+    SetY = 0,-154
+    SetFrame = 2,2
+    SetFrame = 4,1
+    SetFrame = 6,0
+    SetVisible = 8,false
+    SetFrame = 10,14
+    SetX = 10,258
+    SetY = 10,-135
+    SetAngle = 10,90
+    SetVisible = 10,true
+    SetX = 11,240
+    SetY = 11,-128
+    SetX = 12,216
+    SetY = 12,-104
+    SetX = 13,184
+    SetY = 13,-90
+    SetX = 14,159
+    SetY = 14,-83
+    SetX = 15,136
+    SetY = 15,-70
+    SetX = 16,97
+    SetY = 16,-51
+    SetX = 17,76
+    SetY = 17,-38
+    SetX = 18,42
+    SetFrame = 19,12
+    SetX = 19,-15
+    SetY = 19,-3
+    SetFrame = 20,10
+    SetVisible = 21,false
+    SetFrame = 22,9
+    SetVisible = 22,true
+    SetFrame = 23,0
+    SetX = 23,-37
+    SetY = 23,-19
+    SetFrame = 24,1
+    SetX = 24,-18
+    SetY = 24,-31
+    SetFrame = 25,2
+    SetFrame = 26,3
+    SetVisible = 27,false
+<Target>
+<SE>

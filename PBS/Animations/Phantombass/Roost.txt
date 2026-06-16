@@ -1,0 +1,27 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,ROOST]
+Name = Roost
+NoTarget = true
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Roost
+    Focus = User
+    SetX = 0,-5
+    SetY = 0,-100
+    SetOpacity = 0,62
+    SetOpacity = 1,124
+    SetOpacity = 2,192
+    SetOpacity = 3,255
+    SetX = 5,-3
+    SetY = 5,-76
+    SetY = 7,-45
+    SetY = 9,-19
+    SetX = 11,-2
+    SetY = 11,6
+    SetOpacity = 12,192
+    SetOpacity = 13,124
+    SetOpacity = 14,72
+    SetOpacity = 15,4
+    SetVisible = 16,false
+<SE>

@@ -1,0 +1,77 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,ROCKTOMB]
+Name = Rock Tomb
+NoUser = true
+<Target>
+<Rock 1>
+    Graphic = Examples/Earth1
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-66
+    SetY = 0,-118
+    SetY = 1,-65
+    SetX = 2,-64
+    SetY = 2,-12
+    SetX = 3,-61
+    SetY = 3,31
+    SetFrame = 13,2
+    SetFrame = 14,3
+    SetFrame = 15,4
+    SetFrame = 16,5
+<Rock 2>
+    Graphic = Examples/Earth1
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-66
+    SetY = 0,-118
+    SetVisible = 0,false
+    SetY = 1,-65
+    SetX = 2,-64
+    SetY = 2,-12
+    SetX = 3,-61
+    SetY = 3,31
+    SetX = 4,64
+    SetY = 4,-126
+    SetVisible = 4,true
+    SetY = 5,-80
+    SetX = 6,70
+    SetY = 6,-22
+    SetX = 7,69
+    SetY = 7,32
+    SetFrame = 13,2
+    SetFrame = 14,3
+    SetFrame = 15,4
+    SetFrame = 16,5
+<Rock 3>
+    Graphic = Examples/Earth1
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-66
+    SetY = 0,-118
+    SetVisible = 0,false
+    SetY = 1,-65
+    SetX = 2,-64
+    SetY = 2,-12
+    SetX = 3,-61
+    SetY = 3,31
+    SetX = 4,64
+    SetY = 4,-126
+    SetY = 5,-80
+    SetX = 6,70
+    SetY = 6,-22
+    SetX = 7,69
+    SetY = 7,32
+    SetX = 8,5
+    SetY = 8,-124
+    SetVisible = 8,true
+    SetY = 9,-93
+    SetX = 10,11
+    SetY = 10,-44
+    SetX = 12,5
+    SetY = 12,46
+    SetFrame = 13,2
+    SetFrame = 14,3
+    SetFrame = 15,4
+    SetFrame = 16,5
+<SE>

@@ -1,0 +1,23 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,MAGICROOM]
+Name = Example anim
+NoTarget = true
+<User>
+    SetX = 0,0
+    SetY = 0,0
+<Background>
+    Graphic = 0
+    Focus = Background
+    Graphic = 0
+    SetX = 0,0
+    SetY = 0,0
+    SetOpacity = 0,0
+    SetColorRed = 0,0
+    SetColorGreen = 0,0
+    SetColorBlue = 0,0
+    SetColorAlpha = 0,0
+    MoveOpacity = 0,7,140
+    MoveOpacity = 34,5,0
+<SE>
+    Play = 0,PRSFX- Magic Room.wav

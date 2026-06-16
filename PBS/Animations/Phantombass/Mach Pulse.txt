@@ -1,0 +1,147 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,MACHPULSE]
+Name = Mach Pulse
+<Sonicboom>
+    Graphic = Examples/zan03
+    Focus = User
+    SetX = 0,29
+    SetY = 0,-14
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,-14
+    SetX = 1,58
+    SetY = 1,-30
+    SetX = 2,93
+    SetY = 2,-44
+    SetX = 3,124
+    SetY = 3,-63
+    SetX = 4,160
+    SetY = 4,-85
+    SetX = 5,190
+    SetY = 5,-98
+    SetX = 6,224
+    SetY = 6,-120
+    SetX = 7,255
+    SetY = 7,-138
+<Sonicboom 2>
+    Graphic = Examples/zan03
+    Focus = User
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,-14
+    SetX = 1,29
+    SetY = 1,-14
+    SetX = 2,58
+    SetY = 2,-30
+    SetX = 3,93
+    SetY = 3,-44
+    SetX = 4,124
+    SetY = 4,-63
+    SetX = 5,160
+    SetY = 5,-85
+    SetX = 6,190
+    SetY = 6,-98
+    SetX = 7,224
+    SetY = 7,-120
+    SetX = 8,255
+    SetY = 8,-138
+<Sonicboom 3>
+    Graphic = Examples/zan03
+    Focus = User
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,-14
+    SetX = 2,29
+    SetY = 2,-14
+    SetX = 3,58
+    SetY = 3,-30
+    SetX = 4,93
+    SetY = 4,-44
+    SetX = 5,124
+    SetY = 5,-63
+    SetX = 6,160
+    SetY = 6,-85
+    SetX = 7,190
+    SetY = 7,-98
+    SetX = 8,224
+    SetY = 8,-120
+    SetX = 9,255
+    SetY = 9,-138
+<User>
+<Target>
+<SE>
+    Play = 0,PRSFX- Wing Attack2
+#-------------------------------
+[OppMove,MACHPULSE]
+Name = Mach Pulse Opp
+<Sonicboom>
+    Graphic = Examples/zan03
+    Focus = User
+    SetX = 0,-31
+    SetY = 0,15
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,166
+    SetX = 1,-58
+    SetY = 1,43
+    SetX = 2,-95
+    SetY = 2,63
+    SetX = 3,-136
+    SetY = 3,77
+    SetX = 4,-160
+    SetY = 4,95
+    SetX = 5,-189
+    SetY = 5,110
+    SetX = 6,-212
+    SetY = 6,101
+    SetX = 7,-251
+    SetY = 7,111
+<Sonicboom 2>
+    Graphic = Examples/zan03
+    Focus = User
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,166
+    SetX = 1,29
+    SetY = 1,-14
+    SetX = 2,-32
+    SetY = 2,12
+    SetX = 3,-91
+    SetY = 3,58
+    SetX = 4,-107
+    SetY = 4,72
+    SetX = 5,-151
+    SetY = 5,88
+    SetX = 6,-173
+    SetY = 6,84
+    SetX = 7,-204
+    SetY = 7,102
+    SetX = 8,-244
+    SetY = 8,99
+<Sonicboom 3>
+    Graphic = Examples/zan03
+    Focus = User
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    SetAngle = 0,166
+    SetX = 2,29
+    SetY = 2,-14
+    SetX = 3,-48
+    SetY = 3,35
+    SetX = 4,-58
+    SetY = 4,44
+    SetX = 5,-111
+    SetY = 5,69
+    SetX = 6,-137
+    SetY = 6,65
+    SetX = 7,-165
+    SetY = 7,82
+    SetX = 8,-210
+    SetY = 8,86
+    SetX = 9,-227
+    SetY = 9,101
+<User>
+<Target>
+<SE>
+    Play = 0,PRSFX- Wing Attack2

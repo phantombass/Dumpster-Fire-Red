@@ -1,0 +1,28 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,PROTECT]
+Name = Protect
+NoTarget = true
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Protect
+    Focus = User
+    SetX = 0,-11
+    SetY = 0,-19
+    SetFrame = 1,1
+    SetFrame = 2,2
+    SetFrame = 3,3
+    SetFrame = 4,4
+    SetFrame = 5,3
+    SetFrame = 6,2
+    SetFrame = 7,1
+    SetFrame = 8,0
+    SetFrame = 10,1
+    SetFrame = 11,2
+    SetFrame = 12,3
+    SetFrame = 13,4
+    SetFrame = 14,3
+    SetFrame = 15,2
+    SetFrame = 16,1
+    SetVisible = 18,false
+<SE>

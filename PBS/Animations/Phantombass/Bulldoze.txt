@@ -1,0 +1,154 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,BULLDOZE]
+Name = Bulldoze
+<User>
+    SetY = 1,-38
+    SetY = 2,-54
+    SetY = 3,-36
+    SetX = 4,3
+    SetY = 4,-24
+    SetX = 5,0
+    SetY = 5,-9
+    SetY = 6,0
+<Quake>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 6,73
+    SetY = 6,-2
+    SetVisible = 6,true
+    SetFrame = 8,5
+    SetFrame = 10,6
+    SetVisible = 13,false
+<Quake (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 9,169
+    SetY = 9,-47
+    SetVisible = 9,true
+    SetFrame = 11,5
+    SetFrame = 13,6
+    SetX = 13,139
+    SetY = 13,-36
+    SetVisible = 17,false
+<Quake (copy) (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 13,205
+    SetY = 13,-75
+    SetVisible = 13,true
+    SetFrame = 15,5
+    SetFrame = 17,6
+    SetX = 17,-126
+    SetY = 17,108
+    SetVisible = 21,false
+<Quake (copy) (copy) (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 13,190
+    SetY = 13,-64
+    SetFrame = 15,5
+    SetFrame = 17,4
+    SetX = 17,255
+    SetY = 17,-112
+    SetVisible = 17,true
+    SetFrame = 19,5
+    SetFrame = 21,6
+<Target>
+<SE>
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OppMove,BULLDOZE]
+Name = Bulldoze
+<User>
+    SetY = 1,-38
+    SetY = 2,-54
+    SetY = 3,-36
+    SetX = 4,3
+    SetY = 4,-24
+    SetX = 5,0
+    SetY = 5,-9
+    SetY = 6,0
+<Quake>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 6,-7
+    SetY = 6,40
+    SetVisible = 6,true
+    SetFrame = 8,5
+    SetFrame = 10,6
+    SetVisible = 13,false
+<Quake (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 9,-75
+    SetY = 9,80
+    SetVisible = 9,true
+    SetFrame = 11,5
+    SetFrame = 13,6
+    SetVisible = 17,false
+<Quake (copy) (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 13,-135
+    SetY = 13,121
+    SetVisible = 13,true
+    SetFrame = 15,5
+    SetFrame = 17,6
+    SetX = 17,-126
+    SetY = 17,108
+    SetVisible = 21,false
+<Quake (copy) (copy) (copy)>
+    Graphic = Examples/Earth1
+    Focus = User
+    SetFrame = 0,6
+    SetX = 0,84
+    SetY = 0,9
+    SetVisible = 0,false
+    SetFrame = 6,4
+    SetX = 13,190
+    SetY = 13,-64
+    SetFrame = 15,5
+    SetFrame = 17,4
+    SetX = 17,-219
+    SetY = 17,138
+    SetVisible = 17,true
+    SetFrame = 19,5
+    SetFrame = 21,6
+<Target>
+<SE>

@@ -1,0 +1,208 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,DRAGONCLAW]
+Name = Dragon Claw
+<User>
+    MoveX = 4,1,40
+    MoveX = 5,4,0
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = User
+    SetX = 0,231
+    SetY = 0,-157
+    SetVisible = 0,false
+    SetX = 5,214
+    SetY = 5,-158
+    SetVisible = 5,true
+    SetFrame = 6,1
+    SetFrame = 7,2
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = User
+    SetX = 5,214
+    SetY = 5,-127
+    SetFrame = 6,1
+    SetFrame = 7,2
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = User
+    SetFlip = 10,true
+    SetX = 10,280
+    SetY = 10,-158
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = User
+    SetFlip = 10,true
+    SetX = 10,280
+    SetY = 10,-127
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    MoveY = 0,9,-113
+    SetVisible = 9,false
+    SetY = 10,0
+    SetVisible = 10,true
+    MoveY = 10,7,-113
+    SetVisible = 17,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetX = 0,-40
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetVisible = 1,true
+    MoveY = 1,9,-113
+    SetVisible = 10,false
+    SetY = 11,0
+    SetVisible = 11,true
+    MoveY = 11,7,-113
+    SetVisible = 18,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetX = 2,40
+    SetVisible = 2,true
+    MoveY = 2,9,-113
+    SetVisible = 11,false
+    SetY = 12,0
+    SetVisible = 12,true
+    MoveY = 12,7,-113
+    SetVisible = 19,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetX = 3,-80
+    SetVisible = 3,true
+    MoveY = 3,9,-113
+    SetVisible = 12,false
+    SetY = 13,0
+    SetVisible = 13,true
+    MoveY = 13,7,-113
+    SetVisible = 20,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,DRAGONCLAW]
+Name = Dragon Claw
+<User>
+    FoeInvertX = true
+    MoveX = 4,1,40
+    MoveX = 5,4,0
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = Foreground
+    SetX = 0,231
+    SetY = 0,-157
+    SetVisible = 0,false
+    SetX = 5,74
+    SetY = 5,208
+    SetVisible = 5,true
+    SetFrame = 6,1
+    SetFrame = 7,2
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = Foreground
+    SetX = 5,74
+    SetY = 5,255
+    SetFrame = 6,1
+    SetFrame = 7,2
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = Foreground
+    SetFlip = 10,true
+    SetX = 10,156
+    SetY = 10,208
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Claw
+    Focus = Foreground
+    SetFlip = 10,true
+    SetX = 10,156
+    SetY = 10,255
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    MoveY = 0,9,-113
+    SetVisible = 9,false
+    SetY = 10,0
+    SetVisible = 10,true
+    MoveY = 10,7,-113
+    SetVisible = 17,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetX = 0,-40
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetVisible = 1,true
+    MoveY = 1,9,-113
+    SetVisible = 10,false
+    SetY = 11,0
+    SetVisible = 11,true
+    MoveY = 11,7,-113
+    SetVisible = 18,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetX = 2,40
+    SetVisible = 2,true
+    MoveY = 2,9,-113
+    SetVisible = 11,false
+    SetY = 12,0
+    SetVisible = 12,true
+    MoveY = 12,7,-113
+    SetVisible = 19,false
+<New particle>
+    Graphic = Examples/Custom--Dragon-Pulse
+    Focus = User
+    SetZoomX = 0,20
+    SetVisible = 0,false
+    SetX = 3,-80
+    SetVisible = 3,true
+    MoveY = 3,9,-113
+    SetVisible = 12,false
+    SetY = 13,0
+    SetVisible = 13,true
+    MoveY = 13,7,-113
+    SetVisible = 20,false
+<Target>
+<SE>

@@ -1,0 +1,107 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,VOLTSWITCH]
+Name = Volt Switch
+<User>
+    SetX = 0,1
+    SetY = 0,1
+    SetOpacity = 0,190
+    MoveX = 0,3,57
+    MoveY = 0,3,-22
+    MoveOpacity = 0,3,0
+    SetX = 20,0
+    SetY = 20,0
+    SetOpacity = 20,255
+<New particle>
+    Graphic = Examples/electric1
+    Focus = User
+    SetX = 0,-2
+    SetY = 0,2
+    SetOpacity = 0,68
+    MoveX = 0,3,57
+    MoveY = 0,3,-24
+    MoveOpacity = 0,3,254
+    MoveX = 3,7,252
+    MoveY = 3,7,-129
+    SetFrame = 4,1
+    SetFrame = 5,2
+    SetFrame = 6,3
+    SetFrame = 7,4
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetFrame = 10,5
+    MoveX = 10,3,155
+    MoveY = 10,3,-134
+    SetFrame = 11,4
+    SetFrame = 12,3
+    SetFrame = 13,2
+    MoveX = 13,3,81
+    MoveY = 13,3,-110
+    SetFrame = 14,3
+    SetFrame = 15,4
+    SetFrame = 16,5
+    MoveX = 16,3,15
+    MoveY = 16,3,-33
+    SetFrame = 17,4
+    SetFrame = 18,3
+    SetFrame = 19,2
+    SetX = 20,0
+    SetY = 20,0
+    SetVisible = 20,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,VOLTSWITCH]
+Name = Volt Switch
+<User>
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,1
+    SetY = 0,1
+    SetOpacity = 0,190
+    MoveX = 0,3,57
+    MoveY = 0,3,-22
+    MoveOpacity = 0,3,0
+    SetX = 20,0
+    SetY = 20,0
+    SetOpacity = 20,255
+<New particle>
+    Graphic = Examples/electric1
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,-2
+    SetY = 0,2
+    SetOpacity = 0,68
+    MoveX = 0,3,57
+    MoveY = 0,3,-24
+    MoveOpacity = 0,3,254
+    MoveX = 3,7,225
+    MoveY = 3,7,-114
+    SetFrame = 4,1
+    SetFrame = 5,2
+    SetFrame = 6,3
+    SetFrame = 7,4
+    SetFrame = 8,3
+    SetFrame = 9,4
+    SetFrame = 10,5
+    MoveX = 10,3,100
+    MoveY = 10,3,15
+    SetFrame = 11,4
+    SetFrame = 12,3
+    SetFrame = 13,2
+    MoveX = 13,3,9
+    MoveY = 13,3,28
+    SetFrame = 14,3
+    SetFrame = 15,4
+    SetFrame = 16,5
+    MoveX = 16,3,15
+    MoveY = 16,3,-33
+    SetFrame = 17,4
+    SetFrame = 18,3
+    SetFrame = 19,2
+    SetX = 20,0
+    SetY = 20,0
+    SetVisible = 20,false
+<Target>
+<SE>

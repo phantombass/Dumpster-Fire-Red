@@ -1,0 +1,39 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SURF]
+Name = Surf
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Surf FG
+    Focus = User
+    SetX = 0,40
+    SetY = 0,260
+    SetZoomX = 0,50
+    SetZoomY = 0,50
+    MoveX = 0,15,180
+    MoveY = 0,15,-60
+    MoveOpacity = 10,5,0
+<Target>
+<SE>
+#-------------------------------
+[OppMove,SURF]
+Name = Surf
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Surf FG Opp
+    Focus = User
+    SetX = 0,-102
+    SetY = 0,330
+    MoveX = 0,10,-292
+    MoveY = 0,10,590
+    MoveOpacity = 10,5,0
+<New particle>
+    Graphic = Examples/PRAS- Surf FG Opp
+    Focus = User
+    SetX = 4,430
+    SetY = 4,434
+    MoveX = 4,6,316
+    MoveY = 4,6,590
+    MoveOpacity = 10,5,2
+<Target>
+<SE>

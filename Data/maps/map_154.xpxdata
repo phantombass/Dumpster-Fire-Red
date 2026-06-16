@@ -1,0 +1,2873 @@
+{
+  "version": 1,
+  "map_id": 154,
+  "name": "Safari Zone",
+  "cols": 20,
+  "rows": 15,
+  "layer_count": 3,
+  "bgm": null,
+  "bgm_name": "",
+  "autoplay_bgm": false,
+  "group_id": null,
+  "tileset_id": 1,
+  "source": "essentials",
+  "variants": [],
+  "is_variant": false,
+  "variant_parent_id": null,
+  "autotile_paths": [
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea without shore.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sea deep.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Sand shore.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Flowers1.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Water rock.png",
+    "E:\\Games\\Dumpster Fire Red\\Graphics\\Autotiles\\Fountain1.png"
+  ],
+  "tilesets": [
+    {
+      "slot_index": 0,
+      "tileset_path": "E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png",
+      "tileset_name": "Outside",
+      "condition_switch": null,
+      "condition_state": true
+    }
+  ],
+  "layers": [
+    [
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ],
+      [
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        },
+        {
+          "tc": 0,
+          "tr": 0,
+          "tc2": 0,
+          "tr2": 0
+        }
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  ],
+  "event_layer": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "events": {},
+  "child_ids": [
+    155,
+    157,
+    159,
+    161
+  ],
+  "parent_map_id": 153
+}

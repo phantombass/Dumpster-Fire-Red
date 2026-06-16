@@ -1,0 +1,21 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Common,EatBerry]
+Name = Eat Berry
+<User>
+<EatBerry>
+    Graphic = Examples/EatBerry
+    Focus = User
+    SetX = 0,-4
+    SetY = 0,-11
+    SetZoomX = 0,150
+    SetZoomY = 0,150
+    SetFrame = 2,1
+    SetFrame = 8,2
+    SetFrame = 14,3
+    SetVisible = 20,false
+<Target>
+<SE>
+    Play = 2,PRSFX- Bite
+    Play = 8,PRSFX- Bite
+    Play = 14,PRSFX- Bite

@@ -1,0 +1,36 @@
+Name         = HM Catalogue
+Version      = 2.0
+Essentials   = 21.1
+Requires     = Phantombass Custom Scripts
+Website      = https://reliccastle.com/members/7217/
+Credits      = Phantombass
+
+#=============How to Use==================
+#Simply create a key item called the HM Catalogue. The item ID should be :HMCATALOGUE (though if you name it something else, you will need to modify give_hm_catalogue)
+#Once this is done, simply use the following script command to give the player the item:
+#
+#give_hm_catalogue
+#
+#To give the player access to a new HM move (Rock Smash, for example),
+#use this script command:
+#
+#HM_Catalogue.rock_smash = true
+#
+#After that, the player will be able to both use the move from the Catalogue menu, or interact with Rock Smash rocks to use the move.
+#
+#To check if the HM Catalogue has been obtained, use the script command:
+#
+#HM_Catalogue.obtained?
+
+#================================
+#Change log
+#================================
+# v1.1
+#================================
+# Fixes the Rock Climb method and prevents it from crashing the game
+#================================
+# v2.0
+#================================
+# Reworks entire system to be defined around switches. Choose which switch you'd like
+# be associated with each HM.
+#================================

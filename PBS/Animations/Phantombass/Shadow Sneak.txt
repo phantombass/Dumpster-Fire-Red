@@ -1,0 +1,81 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SHADOWSNEAK]
+Name = Shadow Sneak
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Dark void
+    Focus = User
+    SetX = 0,15
+    SetY = 0,-37
+    SetX = 1,52
+    SetY = 1,-53
+    SetX = 2,92
+    SetY = 2,-73
+    SetX = 3,136
+    SetY = 3,-95
+    SetX = 4,176
+    SetY = 4,-115
+    SetX = 5,213
+    SetY = 5,-137
+    SetX = 6,254
+    SetY = 6,-155
+    SetVisible = 20,false
+<New particle>
+    Graphic = Examples/PRAS- Dark Pulse
+    Focus = User
+    SetX = 6,224
+    SetY = 6,-149
+    SetVisible = 8,false
+    SetX = 10,287
+    SetY = 10,-127
+    SetVisible = 10,true
+    SetVisible = 12,false
+    SetX = 14,264
+    SetY = 14,-170
+    SetVisible = 14,true
+    SetVisible = 16,false
+    SetX = 18,237
+    SetY = 18,-147
+    SetVisible = 18,true
+    SetVisible = 20,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,SHADOWSNEAK]
+Name = Shadow Sneak
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Dark void
+    Focus = User
+    SetX = 0,15
+    SetY = 0,-37
+    SetX = 1,-61
+    SetY = 1,1
+    SetX = 2,-112
+    SetY = 2,34
+    SetX = 3,-165
+    SetY = 3,67
+    SetX = 4,-215
+    SetY = 4,99
+    SetX = 5,-244
+    SetY = 5,120
+    SetX = 6,-256
+    SetY = 6,124
+    SetVisible = 17,false
+<New particle>
+    Graphic = Examples/PRAS- Dark Pulse
+    Focus = User
+    SetX = 6,-203
+    SetY = 6,81
+    SetVisible = 8,false
+    SetX = 10,-298
+    SetY = 10,83
+    SetVisible = 10,true
+    SetVisible = 12,false
+    SetX = 14,-206
+    SetY = 14,140
+    SetVisible = 14,true
+    SetVisible = 17,false
+<Target>
+<SE>

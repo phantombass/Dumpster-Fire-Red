@@ -1,0 +1,121 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Common,UseItem]
+Name = Use Item
+NoTarget = true
+<User>
+    SetX = 0,-3
+    SetAngle = 0,-3
+    SetX = 2,-5
+    SetAngle = 2,-5
+    SetX = 4,-7
+    SetAngle = 4,-7
+    SetX = 6,-10
+    SetAngle = 6,-10
+    SetX = 8,-7
+    SetAngle = 8,-7
+    SetX = 10,-5
+    SetAngle = 10,-5
+    SetX = 12,-3
+    SetAngle = 12,-3
+    SetX = 14,0
+    SetAngle = 14,0
+    SetX = 16,-3
+    SetAngle = 16,-3
+    SetX = 18,-5
+    SetAngle = 18,-5
+    SetX = 20,-7
+    SetAngle = 20,-7
+    SetX = 22,-10
+    SetAngle = 22,-10
+    SetX = 24,-7
+    SetAngle = 24,-7
+    SetX = 26,-5
+    SetAngle = 26,-5
+    SetX = 28,-3
+    SetAngle = 28,-3
+    SetX = 30,0
+    SetAngle = 30,0
+<UseItem>
+    Graphic = Normal/Growl ring
+    Focus = User
+    SetZoomX = 30,50
+    SetZoomY = 30,50
+    SetZoomX = 31,60
+    SetZoomY = 31,60
+    SetZoomX = 32,70
+    SetZoomY = 32,70
+    SetZoomX = 33,80
+    SetZoomY = 33,80
+    SetZoomX = 34,90
+    SetZoomY = 34,90
+    SetZoomX = 35,100
+    SetZoomY = 35,100
+    SetZoomX = 36,110
+    SetZoomY = 36,110
+    SetZoomX = 37,120
+    SetZoomY = 37,120
+    SetZoomX = 38,130
+    SetZoomY = 38,130
+    SetVisible = 39,false
+<SE>
+#-------------------------------
+[OppCommon,UseItem]
+Name = Use Item
+NoTarget = true
+<User>
+    SetX = 0,3
+    SetAngle = 0,3
+    SetX = 2,5
+    SetAngle = 2,5
+    SetX = 4,7
+    SetAngle = 4,7
+    SetX = 6,10
+    SetAngle = 6,10
+    SetX = 8,7
+    SetAngle = 8,7
+    SetX = 10,5
+    SetAngle = 10,5
+    SetX = 12,3
+    SetAngle = 12,3
+    SetX = 14,0
+    SetAngle = 14,0
+    SetX = 16,3
+    SetAngle = 16,3
+    SetX = 18,5
+    SetAngle = 18,5
+    SetX = 20,7
+    SetAngle = 20,7
+    SetX = 22,10
+    SetAngle = 22,10
+    SetX = 24,7
+    SetAngle = 24,7
+    SetX = 26,5
+    SetAngle = 26,5
+    SetX = 28,3
+    SetAngle = 28,3
+    SetX = 30,0
+    SetAngle = 30,0
+<UseItem>
+    Graphic = Normal/Growl ring
+    Focus = User
+    SetZoomX = 30,50
+    SetZoomY = 30,50
+    SetZoomX = 31,60
+    SetZoomY = 31,60
+    SetZoomX = 32,70
+    SetZoomY = 32,70
+    SetZoomX = 33,80
+    SetZoomY = 33,80
+    SetZoomX = 34,90
+    SetZoomY = 34,90
+    SetZoomX = 35,100
+    SetZoomY = 35,100
+    SetZoomX = 36,110
+    SetZoomY = 36,110
+    SetZoomX = 37,120
+    SetZoomY = 37,120
+    SetZoomX = 38,130
+    SetZoomY = 38,130
+    SetVisible = 39,false
+<SE>

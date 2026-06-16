@@ -1,0 +1,88 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,POISONJAB]
+Name = Poison Jab
+NoUser = true
+<Target>
+    SetToneBlue = 5,188
+    MoveZoomY = 5,2,75
+    MoveToneBlue = 5,4,4
+    MoveZoomY = 7,2,100
+<New particle>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = Target
+    SetFrame = 7,1
+    SetFlip = 7,true
+    SetX = 7,126
+    SetY = 7,97
+    MoveX = 7,2,108
+    MoveY = 7,2,69
+    SetVisible = 10,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = Target
+    SetFrame = 7,1
+    SetFlip = 7,true
+    SetX = 7,63
+    SetY = 7,101
+    MoveX = 7,2,82
+    MoveY = 7,2,54
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Poison Jab
+    Focus = Target
+    SetX = 0,-43
+    SetY = 0,-10
+    MoveX = 0,1,-28
+    MoveY = 0,1,1
+    SetAngle = 1,15
+    MoveX = 1,1,-12
+    MoveY = 1,1,4
+    MoveAngle = 1,1,35
+    SetFrame = 3,1
+    MoveOpacity = 3,2,132
+    MoveOpacity = 5,2,0
+<SE>
+#-------------------------------
+[OppMove,POISONJAB]
+Name = Poison Jab
+NoUser = true
+<Target>
+    SetToneBlue = 5,188
+    MoveZoomY = 5,2,75
+    MoveToneBlue = 5,4,4
+    MoveZoomY = 7,2,100
+<New particle>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = Target
+    SetFrame = 7,1
+    SetX = 7,-90
+    SetY = 7,100
+    MoveX = 7,2,-129
+    MoveY = 7,2,49
+    SetVisible = 10,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Poison Tail
+    Focus = Target
+    SetFrame = 7,1
+    SetX = 7,-125
+    SetY = 7,107
+    MoveX = 7,2,-94
+    MoveY = 7,2,65
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/PRAS- Poison Jab
+    Focus = Target
+    SetFlip = 0,true
+    SetX = 0,-43
+    SetY = 0,-10
+    MoveX = 0,1,-28
+    MoveY = 0,1,1
+    SetAngle = 1,15
+    MoveX = 1,1,-12
+    MoveY = 1,1,4
+    MoveAngle = 1,1,35
+    SetFrame = 3,1
+    MoveOpacity = 3,2,132
+    MoveOpacity = 5,2,0
+<SE>

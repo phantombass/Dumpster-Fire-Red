@@ -1,0 +1,17 @@
+{
+    "gameTitle": "Dumpster Fire Red",
+    "rgssVersion": 1,
+    "allowSymlinks": true,
+    "defScreenW": 512,
+    "defScreenH": 384,
+    "vsync": true,
+    "subImageFix": true,
+    "syncToRefreshrate": true,
+    "preloadScript": [
+        "Scripts/XPX_Preload.rb"
+    ],
+    "windowTitle": "Dumpster Fire Red",
+    "fontPixelMode": 0,
+    "fontHinting": 1,
+    "fixedFramerate": 40
+}

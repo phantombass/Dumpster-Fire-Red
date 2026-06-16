@@ -1,0 +1,92 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,GIGATONHAMMER]
+Name = Gigaton Hammer
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Double Iron Bash
+    Focus = User
+    SetX = 0,351
+    SetY = 0,-246
+    SetX = 3,354
+    SetY = 3,-227
+    SetY = 4,-217
+    SetX = 5,357
+    SetY = 5,-206
+    SetY = 6,-195
+    SetX = 7,358
+    SetY = 7,-181
+    SetX = 8,359
+    SetY = 8,-162
+    SetX = 9,360
+    SetY = 9,-148
+    SetY = 10,-135
+    SetX = 11,361
+    SetY = 11,-120
+    SetVisible = 13,false
+<Target>
+    SetX = 7,1
+    SetY = 7,1
+    SetZoomY = 7,80
+    SetX = 8,2
+    SetY = 8,-14
+    SetZoomY = 8,60
+    SetX = 9,1
+    SetY = 9,-23
+    SetZoomY = 9,40
+    SetX = 10,3
+    SetY = 10,-33
+    SetZoomY = 10,20
+    SetX = 11,9
+    SetY = 11,-39
+    SetZoomY = 11,5
+    SetX = 13,0
+    SetY = 13,0
+    SetZoomY = 13,100
+<SE>
+#-------------------------------
+[OppMove,GIGATONHAMMER]
+Name = Gigaton Hammer
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Double Iron Bash
+    Focus = Foreground
+    SetFlip = 0,true
+    SetX = 0,19
+    SetY = 0,68
+    SetX = 3,21
+    SetY = 3,105
+    SetX = 4,23
+    SetY = 4,131
+    SetY = 5,158
+    SetX = 6,22
+    SetY = 6,184
+    SetX = 7,25
+    SetY = 7,212
+    SetX = 8,28
+    SetY = 8,235
+    SetY = 9,254
+    SetY = 10,276
+    SetX = 11,27
+    SetY = 11,295
+    SetVisible = 13,false
+<Target>
+    SetX = 7,1
+    SetY = 7,1
+    SetZoomY = 7,80
+    SetX = 8,2
+    SetY = 8,-14
+    SetZoomY = 8,60
+    SetX = 9,1
+    SetY = 9,-23
+    SetZoomY = 9,40
+    SetX = 10,3
+    SetY = 10,-33
+    SetZoomY = 10,20
+    SetX = 11,9
+    SetY = 11,-39
+    SetZoomY = 11,5
+    SetX = 13,0
+    SetY = 13,0
+    SetZoomY = 13,100
+<SE>

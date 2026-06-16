@@ -1,0 +1,103 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,DRACOMETEOR]
+Name = Draco Meteor
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-172
+    SetY = 0,-129
+    MoveX = 0,10,54
+    MoveY = 0,10,13
+    SetVisible = 11,false
+<New particle (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-254
+    SetY = 0,-129
+    MoveX = 0,11,87
+    MoveY = 0,11,57
+    SetVisible = 12,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    SetFrame = 0,1
+    SetX = 0,-222
+    SetY = 0,-84
+    MoveX = 0,12,51
+    MoveY = 0,12,49
+    SetVisible = 13,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    SetX = 3,-204
+    SetY = 3,-123
+    SetZoomX = 3,150
+    SetZoomY = 3,150
+    MoveX = 3,10,34
+    MoveY = 3,10,27
+    SetVisible = 14,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Fire BG
+    Focus = Background
+    SetVisible = 0,true
+<SE>
+#-------------------------------
+[OppMove,DRACOMETEOR]
+Name = Draco Meteor
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,1
+    SetX = 0,371
+    SetY = 0,-188
+    MoveX = 0,10,54
+    MoveY = 0,10,13
+    SetVisible = 11,false
+<New particle (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,1
+    SetX = 0,362
+    SetY = 0,-223
+    MoveX = 0,11,87
+    MoveY = 0,11,57
+    SetVisible = 12,false
+<New particle (copy) (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFrame = 0,1
+    SetX = 0,305
+    SetY = 0,-202
+    MoveX = 0,12,51
+    MoveY = 0,12,49
+    SetVisible = 13,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/Ancient-PowerFilesheet
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 3,370
+    SetY = 3,-197
+    SetZoomX = 3,150
+    SetZoomY = 3,150
+    MoveX = 3,10,34
+    MoveY = 3,10,27
+    SetVisible = 14,false
+<New particle>
+    Graphic = Examples/PRAS- Dragon Fire BG
+    Focus = Background
+    SetVisible = 0,true
+<SE>

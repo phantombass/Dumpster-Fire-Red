@@ -1,0 +1,152 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OppMove,ACROBATICS]
+Name = Acrobatics
+<User>
+    SetVisible = 0,true
+<New particle>
+    Graphic = Examples/PRAS- Fly
+    Focus = User
+    FoeInvertX = true
+    SetFlip = 0,true
+    SetX = 0,-104
+    SetY = 0,81
+    SetY = 1,41
+    SetX = 2,-102
+    SetY = 2,-13
+    SetX = 3,-103
+    SetY = 3,-57
+    SetX = 4,-97
+    SetY = 4,-97
+    SetVisible = 5,false
+    SetX = 6,353
+    SetY = 6,-76
+    SetVisible = 6,true
+    SetX = 7,351
+    SetY = 7,-21
+    SetX = 8,352
+    SetY = 8,40
+    SetX = 9,347
+    SetY = 9,78
+    SetX = 10,340
+    SetY = 10,123
+    SetX = 11,339
+    SetY = 11,165
+    SetX = 12,343
+    SetY = 12,109
+    SetX = 13,335
+    SetY = 13,61
+    SetX = 14,350
+    SetY = 14,-10
+    SetX = 15,342
+    SetY = 15,-68
+    SetX = 16,-103
+    SetY = 16,-40
+    SetX = 17,-106
+    SetY = 17,2
+    SetX = 18,-98
+    SetY = 18,12
+    SetX = 19,-99
+    SetY = 19,62
+    SetX = 20,-96
+    SetY = 20,95
+    SetVisible = 21,false
+<New particle>
+    Graphic = Normal/Tackle hit
+    Focus = UserSideForeground
+    SetX = 11,-226
+    SetY = 11,57
+    SetFrame = 13,1
+    SetVisible = 14,false
+    SetX = 21,192
+    SetY = 21,-101
+<New particle (copy)>
+    Graphic = Normal/Tackle hit
+    Focus = User
+    FoeInvertX = true
+    FoeFlip = true
+    SetX = 11,222
+    SetY = 11,-112
+    SetVisible = 11,false
+    SetX = 12,279
+    SetY = 12,67
+    SetVisible = 12,true
+    SetFrame = 14,1
+    SetVisible = 15,false
+    SetX = 21,192
+    SetY = 21,-101
+<Target>
+<SE>
+#-------------------------------
+[Move,ACROBATICS]
+Name = Acrobatics
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Fly
+    Focus = User
+    FoeInvertX = true
+    SetFlip = 0,true
+    SetX = 0,-104
+    SetY = 0,81
+    SetY = 1,41
+    SetX = 2,-102
+    SetY = 2,-13
+    SetX = 3,-103
+    SetY = 3,-57
+    SetX = 4,-97
+    SetY = 4,-97
+    SetVisible = 5,false
+    SetX = 6,355
+    SetY = 6,-187
+    SetVisible = 6,true
+    SetY = 7,-160
+    SetX = 8,356
+    SetY = 8,-120
+    SetX = 9,365
+    SetY = 9,-88
+    SetX = 10,357
+    SetY = 10,-19
+    SetY = 11,-47
+    SetX = 12,366
+    SetY = 12,-95
+    SetX = 13,364
+    SetY = 13,-132
+    SetX = 14,373
+    SetY = 14,-165
+    SetX = 15,363
+    SetY = 15,-240
+    SetX = 16,-108
+    SetY = 16,-193
+    SetX = 17,-102
+    SetY = 17,-109
+    SetX = 18,-97
+    SetY = 18,-87
+    SetY = 19,-7
+    SetY = 20,60
+    SetVisible = 21,false
+<New particle>
+    Graphic = Normal/Tackle hit
+    Focus = UserSideForeground
+    SetX = 11,224
+    SetY = 11,-181
+    SetFrame = 13,1
+    SetVisible = 14,false
+    SetX = 21,192
+    SetY = 21,-101
+<New particle (copy)>
+    Graphic = Normal/Tackle hit
+    Focus = User
+    FoeInvertX = true
+    FoeFlip = true
+    SetX = 11,222
+    SetY = 11,-112
+    SetVisible = 11,false
+    SetX = 12,279
+    SetY = 12,-109
+    SetVisible = 12,true
+    SetFrame = 14,1
+    SetVisible = 15,false
+    SetX = 21,192
+    SetY = 21,-101
+<Target>
+<SE>

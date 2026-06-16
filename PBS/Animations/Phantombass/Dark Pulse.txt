@@ -1,0 +1,88 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,DARKPULSE]
+Name = Dark Pulse
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = User
+    SetX = 0,7
+    SetY = 0,14
+    SetZ = 0,-3
+    MoveZoomX = 0,19,400
+    MoveZoomY = 0,19,200
+    SetOpacity = 19,242
+    MoveOpacity = 19,2,6
+<New particle>
+    Graphic = Examples/PRAS- Dark Void BG
+    Focus = Background
+    SetOpacity = 0,0
+    MoveOpacity = 0,1,252
+    SetOpacity = 21,255
+    MoveOpacity = 21,2,2
+<New particle>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = User
+    SetFrame = 16,1
+    SetX = 16,233
+    SetY = 16,-114
+    MoveOpacity = 16,3,6
+<New particle (copy)>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = User
+    SetFrame = 18,1
+    SetX = 18,281
+    SetY = 18,-146
+    MoveOpacity = 18,3,0
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = User
+    SetFrame = 20,1
+    SetX = 20,239
+    SetY = 20,-164
+    MoveOpacity = 20,3,0
+<Target>
+<SE>
+#-------------------------------
+[OppMove,DARKPULSE]
+Name = Dark Pulse
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = User
+    SetX = 0,2
+    SetY = 0,40
+    MoveZoomX = 0,19,400
+    MoveZoomY = 0,19,200
+    SetOpacity = 19,242
+    MoveOpacity = 19,2,6
+<New particle>
+    Graphic = Examples/PRAS- Dark Void BG
+    Focus = Background
+    SetOpacity = 0,0
+    MoveOpacity = 0,1,252
+    SetOpacity = 21,255
+    MoveOpacity = 21,2,2
+<New particle>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = Foreground
+    SetFrame = 16,1
+    SetX = 16,149
+    SetY = 16,240
+    MoveOpacity = 16,3,6
+<New particle (copy)>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = Foreground
+    SetFrame = 18,1
+    SetX = 18,110
+    SetY = 18,265
+    MoveOpacity = 18,3,0
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Shadow Sneak
+    Focus = Foreground
+    SetFrame = 20,1
+    SetX = 20,80
+    SetY = 20,224
+    MoveOpacity = 20,3,0
+<Target>
+<SE>

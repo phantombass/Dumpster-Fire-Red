@@ -1,0 +1,91 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,PSYBEAM]
+Name = Psybeam
+<User>
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    SetX = 0,-211
+    SetY = 0,108
+    MoveX = 0,6,-26
+    MoveY = 0,6,17
+    SetVisible = 6,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    SetX = 1,-213
+    SetY = 1,115
+    MoveX = 1,6,-8
+    MoveY = 1,6,5
+    SetVisible = 7,false
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    SetX = 1,-213
+    SetY = 1,114
+    MoveX = 1,7,-14
+    MoveY = 1,7,4
+    SetVisible = 8,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    SetX = 2,-213
+    SetY = 2,124
+    MoveX = 2,7,-19
+    MoveY = 2,7,9
+    SetVisible = 9,false
+<New particle>
+    Graphic = Examples/PRAS- Confusion BG
+    Focus = Background
+<SE>
+#-------------------------------
+[OppMove,PSYBEAM]
+Name = Psybeam
+<User>
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 0,244
+    SetY = 0,-127
+    MoveX = 0,6,-26
+    MoveY = 0,6,17
+    SetVisible = 6,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 1,246
+    SetY = 1,-127
+    MoveX = 1,6,-8
+    MoveY = 1,6,5
+    SetVisible = 7,false
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 1,244
+    SetY = 1,-127
+    MoveX = 1,7,-14
+    MoveY = 1,7,4
+    SetVisible = 8,false
+<New particle (copy) (copy) (copy)>
+    Graphic = Examples/PRAS- Psybeam
+    Focus = Target
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 2,244
+    SetY = 2,-127
+    MoveX = 2,7,-19
+    MoveY = 2,7,9
+    SetVisible = 9,false
+<New particle>
+    Graphic = Examples/PRAS- Confusion BG
+    Focus = Background
+<SE>

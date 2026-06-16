@@ -1,0 +1,83 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,ICESHARD]
+Name = Ice Shard
+<User>
+    SetX = 1,-10
+    SetY = 1,6
+    SetX = 3,-21
+    SetY = 3,15
+    SetX = 5,-4
+    SetY = 5,6
+    SetX = 7,0
+    SetY = 7,0
+<Ice Shard>
+    Graphic = Examples/rockice
+    Focus = User
+    SetFrame = 7,5
+    SetX = 7,40
+    SetY = 7,-13
+    SetAngle = 7,-45
+    SetX = 8,73
+    SetY = 8,-24
+    SetX = 9,98
+    SetY = 9,-38
+    SetX = 10,128
+    SetY = 10,-53
+    SetX = 11,148
+    SetY = 11,-64
+    SetX = 12,170
+    SetY = 12,-78
+    SetX = 13,195
+    SetY = 13,-91
+    SetX = 14,215
+    SetY = 14,-107
+    SetX = 15,237
+    SetY = 15,-121
+    SetFrame = 16,6
+    SetX = 16,251
+    SetY = 16,-127
+    SetFrame = 18,7
+    SetVisible = 19,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,ICESHARD]
+Name = Ice Shard Foe
+<Ice Shard>
+    Graphic = Examples/rockice
+    Focus = User
+    SetFrame = 7,5
+    SetX = 7,-27
+    SetY = 7,18
+    SetAngle = 7,125
+    SetX = 8,-61
+    SetY = 8,42
+    SetX = 9,-83
+    SetY = 9,65
+    SetX = 10,-113
+    SetY = 10,82
+    SetX = 11,-134
+    SetY = 11,96
+    SetX = 12,-156
+    SetY = 12,104
+    SetX = 13,-169
+    SetY = 13,113
+    SetX = 14,-193
+    SetY = 14,121
+    SetX = 15,-217
+    SetY = 15,126
+    SetFrame = 16,6
+    SetFrame = 18,7
+    SetVisible = 19,false
+<User>
+    SetX = 1,10
+    SetY = 1,-6
+    SetX = 3,21
+    SetY = 3,-15
+    SetX = 5,4
+    SetY = 5,-6
+    SetX = 7,0
+    SetY = 7,0
+<Target>
+<SE>

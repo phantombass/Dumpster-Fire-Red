@@ -1,0 +1,204 @@
+#-------------------------------
+[HPFIGHTING]
+Name = Hidden Power
+Type = FIGHTING
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPFLYING]
+Name = Hidden Power
+Type = FLYING
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPPOISON]
+Name = Hidden Power
+Type = POISON
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPROCK]
+Name = Hidden Power
+Type = ROCK
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPGROUND]
+Name = Hidden Power
+Type = GROUND
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPBUG]
+Name = Hidden Power
+Type = BUG
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPGHOST]
+Name = Hidden Power
+Type = GHOST
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPSTEEL]
+Name = Hidden Power
+Type = STEEL
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPGRASS]
+Name = Hidden Power
+Type = GRASS
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPFIRE]
+Name = Hidden Power
+Type = FIRE
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPWATER]
+Name = Hidden Power
+Type = WATER
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPELECTRIC]
+Name = Hidden Power
+Type = ELECTRIC
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPICE]
+Name = Hidden Power
+Type = ICE
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPPSYCHIC]
+Name = Hidden Power
+Type = PSYCHIC
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPDRAGON]
+Name = Hidden Power
+Type = DRAGON
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPDARK]
+Name = Hidden Power
+Type = DARK
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[HPFAIRY]
+Name = Hidden Power
+Type = FAIRY
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = A unique attack that varies in type and intensity depending on the Pokémon using it.

@@ -1,0 +1,57 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,DRAGONDARTS]
+Name = Dragon Darts
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Dragon Darts
+    Focus = User
+    SetFrame = 0,1
+    SetX = 0,27
+    SetY = 0,-31
+    SetX = 1,50
+    SetY = 1,-38
+    SetX = 2,72
+    SetY = 2,-48
+    SetX = 3,140
+    SetY = 3,-81
+    SetX = 4,164
+    SetY = 4,-95
+    SetX = 5,190
+    SetY = 5,-111
+    SetX = 6,220
+    SetY = 6,-123
+    SetFrame = 7,2
+    SetX = 7,246
+    SetY = 7,-136
+    SetVisible = 8,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,DRAGONDARTS]
+Name = Dragon Darts
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Dragon Darts
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetY = 0,-8
+    SetX = 1,50
+    SetY = 1,-38
+    SetX = 2,72
+    SetY = 2,-48
+    SetX = 3,140
+    SetY = 3,-81
+    SetX = 4,164
+    SetY = 4,-95
+    SetX = 5,190
+    SetY = 5,-111
+    SetX = 6,220
+    SetY = 6,-123
+    SetFrame = 7,2
+    SetX = 7,246
+    SetY = 7,-136
+    SetVisible = 8,false
+<Target>
+<SE>

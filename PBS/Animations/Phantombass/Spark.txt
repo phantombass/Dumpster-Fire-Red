@@ -1,0 +1,132 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SPARK]
+Name = Spark
+<Target>
+    SetToneRed = 13,52
+    SetToneGreen = 13,72
+    SetToneRed = 14,108
+    SetToneGreen = 14,140
+    SetToneRed = 15,180
+    SetToneGreen = 15,212
+    SetToneRed = 16,220
+    SetToneGreen = 16,252
+    SetToneRed = 17,120
+    SetToneGreen = 17,120
+    SetToneRed = 18,52
+    SetToneRed = 19,0
+    SetToneGreen = 19,0
+<User>
+    SetVisible = 0,true
+    SetToneRed = 1,52
+    SetToneGreen = 1,132
+    SetToneBlue = 1,-27
+    SetToneGreen = 2,180
+    SetToneRed = 3,136
+    SetToneGreen = 4,240
+    SetToneRed = 5,84
+    SetToneGreen = 5,184
+    SetToneRed = 6,44
+    SetToneGreen = 6,108
+    SetToneRed = 7,0
+    SetToneGreen = 7,0
+    SetToneBlue = 7,0
+    SetX = 13,80
+    MoveX = 13,5,0
+<Particle 2>
+    Graphic = Examples/GEN8- Thundercage
+    Focus = User
+    SetX = 0,-16
+    SetY = 0,46
+    SetZoomX = 0,75
+    SetZoomY = 0,75
+    SetFlip = 1,true
+    SetFlip = 2,false
+    SetFlip = 3,true
+    SetFlip = 4,false
+    SetFlip = 5,true
+    SetFlip = 6,false
+    SetFlip = 7,true
+    SetFlip = 8,false
+    SetFlip = 9,true
+    SetVisible = 9,false
+    SetX = 13,256
+    SetY = 13,-277
+    SetZoomY = 13,150
+    SetAngle = 13,180
+    SetVisible = 13,true
+    SetFlip = 14,false
+    SetFlip = 15,true
+    SetFlip = 16,false
+    SetFlip = 17,true
+    SetFlip = 18,false
+    SetVisible = 19,false
+<SE>
+    Play = 0,Paralyze3,80
+#-------------------------------
+[OppMove,SPARK]
+Name = Spark
+<Target>
+    SetToneRed = 13,52
+    SetToneGreen = 13,72
+    SetToneRed = 14,108
+    SetToneGreen = 14,140
+    SetToneRed = 15,180
+    SetToneGreen = 15,212
+    SetToneRed = 16,220
+    SetToneGreen = 16,252
+    SetToneRed = 17,120
+    SetToneGreen = 17,120
+    SetToneRed = 18,52
+    SetToneRed = 19,0
+    SetToneGreen = 19,0
+<User>
+    FoeInvertX = true
+    SetVisible = 0,true
+    SetToneRed = 1,52
+    SetToneGreen = 1,132
+    SetToneBlue = 1,-27
+    SetToneGreen = 2,180
+    SetToneRed = 3,136
+    SetToneGreen = 4,240
+    SetToneRed = 5,84
+    SetToneGreen = 5,184
+    SetToneRed = 6,44
+    SetToneGreen = 6,108
+    SetToneRed = 7,0
+    SetToneGreen = 7,0
+    SetToneBlue = 7,0
+    SetX = 13,80
+    MoveX = 13,5,0
+<Particle 2>
+    Graphic = Examples/GEN8- Thundercage
+    Focus = User
+    FoeInvertY = true
+    SetX = 0,1
+    SetY = 0,149
+    SetZoomX = 0,75
+    SetZoomY = 0,150
+    SetAngle = 0,180
+    SetFlip = 1,true
+    SetFlip = 2,false
+    SetFlip = 3,true
+    SetFlip = 4,false
+    SetFlip = 5,true
+    SetFlip = 6,false
+    SetFlip = 7,true
+    SetFlip = 8,false
+    SetFlip = 9,true
+    SetVisible = 9,false
+    SetFlip = 13,false
+    SetX = 13,-271
+    SetY = 13,-166
+    SetZoomY = 13,75
+    SetAngle = 13,0
+    SetVisible = 13,true
+    SetFlip = 15,true
+    SetFlip = 16,false
+    SetFlip = 17,true
+    SetFlip = 18,false
+    SetVisible = 19,false
+<SE>
+    Play = 0,Paralyze3,80

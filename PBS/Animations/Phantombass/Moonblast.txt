@@ -1,0 +1,110 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,MOONBLAST]
+Name = Moonblast
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Moonblast
+    Focus = User
+    SetFlip = 0,true
+    SetX = 0,-105
+    SetY = 0,-82
+    SetX = 1,-104
+    SetY = 1,-106
+    SetY = 2,-140
+    SetX = 3,-98
+    SetY = 3,-166
+    SetX = 4,-97
+    SetY = 4,-187
+    SetY = 5,-203
+    SetX = 6,-96
+    SetY = 6,-219
+    SetVisible = 20,false
+<New particle (copy)>
+    Graphic = Normal/Scratch spark
+    Focus = User
+    SetFlip = 0,true
+    SetX = 0,-105
+    SetY = 0,-70
+    SetVisible = 0,false
+    SetFlip = 10,false
+    SetX = 10,55
+    SetY = 10,-40
+    SetVisible = 10,true
+    SetX = 11,91
+    SetY = 11,-53
+    SetX = 12,123
+    SetY = 12,-69
+    SetX = 13,144
+    SetY = 13,-80
+    SetX = 14,171
+    SetY = 14,-90
+    SetX = 15,206
+    SetY = 15,-100
+    SetX = 16,225
+    SetY = 16,-110
+    SetX = 17,241
+    SetY = 17,-123
+    SetX = 18,258
+    SetY = 18,-131
+    SetVisible = 19,false
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Starry BG
+    Focus = Background
+    SetZ = 0,-50
+    SetVisible = 20,false
+<SE>
+#-------------------------------
+[OppMove,MOONBLAST]
+Name = Moonblast
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Moonblast
+    Focus = User
+    SetX = 0,117
+    SetY = 0,-22
+    SetX = 1,112
+    SetY = 1,-52
+    SetX = 2,118
+    SetY = 2,-69
+    SetX = 3,117
+    SetY = 3,-92
+    SetVisible = 20,false
+<New particle (copy)>
+    Graphic = Normal/Scratch spark
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetFlip = 0,true
+    SetX = 0,-105
+    SetY = 0,-70
+    SetVisible = 0,false
+    SetFlip = 10,false
+    SetX = 10,55
+    SetY = 10,-40
+    SetVisible = 10,true
+    SetX = 11,91
+    SetY = 11,-53
+    SetX = 12,123
+    SetY = 12,-69
+    SetX = 13,144
+    SetY = 13,-80
+    SetX = 14,171
+    SetY = 14,-90
+    SetX = 15,206
+    SetY = 15,-100
+    SetX = 16,225
+    SetY = 16,-110
+    SetX = 17,241
+    SetY = 17,-123
+    SetX = 18,258
+    SetY = 18,-131
+    SetVisible = 19,false
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Starry BG
+    Focus = Background
+    SetZ = 0,-50
+    SetVisible = 20,false
+<SE>

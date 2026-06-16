@@ -1,0 +1,77 @@
+#-------------------------------
+[BLOODMOONSTONE]
+Name = Blood Moon Stone
+NamePlural = Blood Moon Stones
+Pocket = Items
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. It has a twisted pattern.
+#-------------------------------
+[ALTERNATESTONE]
+Name = Alternate Stone
+NamePlural = Alternate Stones
+Pocket = Items
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. It has a twisted pattern.
+#-------------------------------
+[HMCATALOGUE]
+Name = HM Catalogue
+NamePlural = HM Catalogues
+Pocket = KeyItems
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Consumable = false
+Description = A catalog of devices that allows Trainers to use HMs in the field.
+#-------------------------------
+[IVMAXSTONE]
+Name = IV Max Stone
+NamePlural = IV Max Stones
+Pocket = Items
+Price = 15000
+FieldUse = OnPokemon
+Flags = Fling_100
+Description = When a Pokémon touches this stone, a chosen stat will have its IVs maxed out.
+#-------------------------------
+[IVMINSTONE]
+Name = IV Min Stone
+NamePlural = IV Min Stones
+Pocket = Items
+Price = 15000
+FieldUse = OnPokemon
+Flags = Fling_100
+Description = When a Pokémon touches this stone, a chosen stat will have its IVs set to 0.
+#-------------------------------
+[INFINITECANDY]
+Name = Everlasting Gobstopper
+NamePlural = Everlasting Gobstoppers
+Pocket = KeyItems
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = A special candy that can be used to level a Pokémon to the Level Cap 1 level at a time.
+#-------------------------------
+[MOMSLEFTOVERS]
+Name = Mom's Leftovers
+NamePlural = Mom's Leftovers
+PortionName = serving of Mom's Leftovers
+PortionNamePlural = servings of Mom's Leftovers
+Pocket = Items
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = An item to be held by a Pokémon. The holder's HP is radically restored during battle.
+#-------------------------------
+[RAGECANDYBAR2]
+Name = Dragon Rage Candy Bar
+NamePlural = Dragon Rage Candy Bars
+Pocket = Medicine
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = A clever knock off of the famous candy. It can be used once to heal a Pokémon for 40 HP.
+#-------------------------------

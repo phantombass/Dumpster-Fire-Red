@@ -1,0 +1,64 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,BODYPRESS]
+Name = Body Press
+<User>
+    MoveX = 0,3,25
+    MoveY = 0,3,-124
+    MoveZoomX = 0,3,125
+    MoveZoomY = 0,3,125
+    MoveX = 3,3,109
+    MoveY = 3,3,-192
+    MoveZoomX = 3,3,150
+    MoveZoomY = 3,3,150
+    MoveX = 6,4,263
+    MoveY = 6,4,-75
+    MoveZoomX = 6,4,175
+    MoveZoomY = 6,4,175
+    MoveX = 10,5,172
+    MoveY = 10,5,-189
+    MoveZoomX = 10,5,150
+    MoveZoomY = 10,5,150
+    MoveX = 15,3,0
+    MoveY = 15,3,0
+    MoveZoomX = 15,3,100
+    MoveZoomY = 15,3,100
+<Target>
+    SetZoomY = 9,50
+    SetZoomY = 10,25
+    SetZoomY = 13,50
+    SetZoomY = 14,75
+    SetZoomY = 15,100
+<SE>
+#-------------------------------
+[OppMove,BODYPRESS]
+Name = Body Press
+<User>
+    FoeInvertX = true
+    MoveX = 0,3,99
+    MoveY = 0,3,-100
+    MoveZoomX = 0,3,125
+    MoveZoomY = 0,3,125
+    MoveX = 3,3,183
+    MoveY = 3,3,-96
+    MoveZoomX = 3,3,150
+    MoveZoomY = 3,3,150
+    MoveX = 6,4,254
+    MoveY = 6,4,137
+    MoveZoomX = 6,4,175
+    MoveZoomY = 6,4,175
+    MoveX = 10,5,116
+    MoveY = 10,5,-118
+    MoveZoomX = 10,5,150
+    MoveZoomY = 10,5,150
+    MoveX = 15,3,0
+    MoveY = 15,3,0
+    MoveZoomX = 15,3,100
+    MoveZoomY = 15,3,100
+<Target>
+    SetZoomY = 9,50
+    SetZoomY = 10,25
+    SetZoomY = 13,50
+    SetZoomY = 14,75
+    SetZoomY = 15,100
+<SE>

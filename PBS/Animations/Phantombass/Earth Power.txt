@@ -1,0 +1,59 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,EARTHPOWER]
+Name = Earth Power
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetX = 0,-50
+    SetY = 0,53
+    SetFrame = 2,1
+    SetFrame = 4,2
+    MoveOpacity = 4,2,0
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetY = 4,53
+    SetFrame = 6,1
+    SetFrame = 8,2
+    MoveOpacity = 8,2,0
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetX = 8,49
+    SetY = 8,52
+    SetFrame = 10,1
+    SetFrame = 12,2
+    MoveOpacity = 12,2,0
+<SE>
+#-------------------------------
+[OppMove,EARTHPOWER]
+Name = Earth Power
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetX = 0,-54
+    SetY = 0,22
+    SetFrame = 2,1
+    SetFrame = 4,2
+    MoveOpacity = 4,2,0
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetY = 4,22
+    SetFrame = 6,1
+    SetFrame = 8,2
+    MoveOpacity = 8,2,0
+<New particle>
+    Graphic = Examples/PRAS- Earth Power
+    Focus = Target
+    SetX = 8,49
+    SetY = 8,22
+    SetFrame = 10,1
+    SetFrame = 12,2
+    MoveOpacity = 12,2,0
+<SE>

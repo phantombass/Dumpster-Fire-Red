@@ -1,0 +1,145 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,PIXIEHAMMER]
+Name = Pixie Hammer
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Double Iron Bash
+    Focus = User
+    SetX = 0,351
+    SetY = 0,-246
+    SetToneRed = 0,92
+    SetToneGreen = 0,-59
+    SetToneBlue = 0,36
+    SetX = 3,354
+    SetY = 3,-227
+    SetY = 4,-217
+    SetX = 5,357
+    SetY = 5,-206
+    SetY = 6,-195
+    SetX = 7,358
+    SetY = 7,-181
+    SetX = 8,359
+    SetY = 8,-162
+    SetX = 9,360
+    SetY = 9,-148
+    SetY = 10,-135
+    SetX = 11,361
+    SetY = 11,-120
+    SetVisible = 13,false
+<New particle>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 10,1
+    SetX = 10,335
+    SetY = 10,-112
+    MoveX = 10,1,359,EaseOut
+    MoveY = 10,1,-152,EaseOut
+    MoveX = 11,1,376,EaseOut
+    MoveY = 11,1,-138,EaseIn
+    SetVisible = 13,false
+<New particle (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    SetFrame = 10,1
+    SetX = 10,250
+    SetY = 10,-113
+    MoveX = 10,1,227,EaseOut
+    MoveY = 10,1,-151,EaseOut
+    MoveX = 11,1,209,EaseOut
+    MoveY = 11,1,-127,EaseIn
+    SetVisible = 13,false
+<Target>
+    SetX = 7,1
+    SetY = 7,1
+    SetZoomY = 7,80
+    SetX = 8,2
+    SetY = 8,-14
+    SetZoomY = 8,60
+    SetX = 9,1
+    SetY = 9,-23
+    SetZoomY = 9,40
+    SetX = 10,3
+    SetY = 10,-33
+    SetZoomY = 10,20
+    SetX = 11,9
+    SetY = 11,-39
+    SetZoomY = 11,5
+    SetX = 13,0
+    SetY = 13,0
+    SetZoomY = 13,100
+<SE>
+#-------------------------------
+[OppMove,PIXIEHAMMER]
+Name = Pixie Hammer
+<User>
+<New particle>
+    Graphic = Examples/GEN8- Double Iron Bash
+    Focus = User
+    FoeInvertX = true
+    FoeFlip = true
+    SetX = 0,357
+    SetY = 0,-24
+    SetToneRed = 0,92
+    SetToneGreen = 0,-59
+    SetToneBlue = 0,36
+    SetX = 3,354
+    SetX = 4,352
+    SetY = 4,2
+    SetX = 5,349
+    SetY = 5,14
+    SetY = 6,43
+    SetX = 7,348
+    SetY = 7,88
+    SetX = 8,352
+    SetY = 8,110
+    SetY = 9,140
+    SetX = 10,338
+    SetY = 10,143
+    SetX = 11,333
+    SetY = 11,173
+    SetVisible = 13,false
+<New particle>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 10,1
+    SetX = 10,252
+    SetY = 10,121
+    MoveX = 10,1,267,EaseOut
+    MoveY = 10,1,95,EaseOut
+    MoveX = 11,1,284,EaseOut
+    MoveY = 11,1,141,EaseIn
+    SetVisible = 13,false
+<New particle (copy)>
+    Graphic = Examples/Custom---Covet
+    Focus = User
+    FoeInvertX = true
+    SetFrame = 10,1
+    SetX = 10,170
+    SetY = 10,122
+    MoveX = 10,1,147,EaseOut
+    MoveY = 10,1,92,EaseOut
+    MoveX = 11,1,120,EaseOut
+    MoveY = 11,1,141,EaseIn
+    SetVisible = 13,false
+<Target>
+    SetX = 7,1
+    SetY = 7,1
+    SetZoomY = 7,80
+    SetX = 8,2
+    SetY = 8,-14
+    SetZoomY = 8,60
+    SetX = 9,1
+    SetY = 9,-23
+    SetZoomY = 9,40
+    SetX = 10,3
+    SetY = 10,-33
+    SetZoomY = 10,20
+    SetX = 11,9
+    SetY = 11,-39
+    SetZoomY = 11,5
+    SetX = 13,0
+    SetY = 13,0
+    SetZoomY = 13,100
+<SE>

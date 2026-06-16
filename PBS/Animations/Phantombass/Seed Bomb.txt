@@ -1,0 +1,104 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,SEEDBOMB]
+Name = Seed Bomb
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    MoveX = 0,3,88
+    MoveY = 0,3,-120
+    MoveX = 3,3,180
+    MoveY = 3,3,-145
+    MoveX = 6,2,238
+    MoveY = 6,2,-107
+    SetFrame = 9,1
+    SetFrame = 10,2
+    SetFrame = 11,3
+    SetFrame = 12,4
+    SetVisible = 13,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    MoveX = 2,3,88
+    MoveY = 2,3,-120
+    MoveX = 5,3,180
+    MoveY = 5,3,-145
+    MoveX = 8,2,208
+    MoveY = 8,2,-107
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    MoveX = 4,3,88
+    MoveY = 4,3,-120
+    MoveX = 7,3,180
+    MoveY = 7,3,-145
+    MoveX = 10,2,268
+    MoveY = 10,2,-107
+    SetFrame = 13,1
+    SetFrame = 14,2
+    SetFrame = 15,3
+    SetFrame = 16,4
+    SetVisible = 17,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,SEEDBOMB]
+Name = Seed Bomb
+<User>
+<New particle>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    FoeInvertX = true
+    MoveX = 0,3,125
+    MoveY = 0,3,-35
+    MoveX = 3,2,185
+    MoveY = 3,2,18
+    MoveX = 5,1,199
+    MoveY = 5,1,78
+    MoveX = 6,2,207
+    MoveY = 6,2,124
+    SetFrame = 9,1
+    SetFrame = 10,2
+    SetFrame = 11,3
+    SetFrame = 12,4
+    SetVisible = 13,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    FoeInvertX = true
+    MoveX = 2,3,125
+    MoveY = 2,3,-35
+    MoveX = 5,2,185
+    MoveY = 5,2,18
+    MoveX = 7,1,229
+    MoveY = 7,1,78
+    MoveX = 8,2,299
+    MoveY = 8,2,85
+    SetFrame = 11,1
+    SetFrame = 12,2
+    SetFrame = 13,3
+    SetFrame = 14,4
+    SetVisible = 15,false
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Seed Bomb
+    Focus = User
+    FoeInvertX = true
+    MoveX = 4,3,125
+    MoveY = 4,3,-35
+    MoveX = 7,3,161
+    MoveY = 7,3,29
+    MoveX = 10,2,224
+    MoveY = 10,2,92
+    SetFrame = 13,1
+    SetFrame = 14,2
+    SetFrame = 15,3
+    SetFrame = 16,4
+    SetVisible = 17,false
+<Target>
+<SE>

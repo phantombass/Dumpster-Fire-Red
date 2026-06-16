@@ -1,0 +1,49 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,FORCEPALM]
+Name = Force Palm
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Force Palm
+    Focus = Target
+    SetX = 0,9
+    SetY = 0,9
+    SetX = 1,5
+    SetX = 2,7
+    SetY = 2,8
+    MoveX = 2,3,65
+    SetVisible = 8,false
+<New particle (copy)>
+    Graphic = Examples/PRAS- Force Palm
+    Focus = Target
+    SetX = 2,1
+    SetY = 2,9
+    MoveX = 2,4,64
+    SetY = 6,8
+    SetVisible = 8,false
+<New particle (copy) (copy)>
+    Graphic = Examples/PRAS- Force Palm
+    Focus = Target
+    SetX = 2,1
+    SetY = 2,9
+    SetVisible = 2,false
+    MoveX = 2,5,63
+    SetVisible = 3,true
+    SetY = 7,10
+    SetVisible = 8,false
+<New particle>
+    Graphic = Normal/Pound hit
+    Focus = Target
+    SetColorRed = 3,222
+    SetColorGreen = 3,54
+    SetColorBlue = 3,180
+    SetColorAlpha = 3,160
+    SetToneRed = 3,236
+    SetToneGreen = 3,20
+    SetToneBlue = 3,172
+    SetOpacity = 4,254
+    SetOpacity = 5,184
+    SetOpacity = 6,136
+    SetVisible = 7,false
+<SE>

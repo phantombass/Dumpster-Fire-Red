@@ -1,0 +1,80 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,BRAVEBIRD]
+Name = Brave Bird
+<User>
+    SetOpacity = 1,200
+    SetOpacity = 2,134
+    SetOpacity = 3,52
+    SetOpacity = 4,2
+    SetOpacity = 13,255
+<New particle>
+    Graphic = Examples/PRAS- Brave Bird
+    Focus = User
+    SetAngle = 0,-45
+    SetOpacity = 0,64
+    SetOpacity = 1,124
+    SetOpacity = 2,190
+    SetOpacity = 3,255
+    SetX = 4,3
+    SetY = 4,-1
+    MoveX = 4,8,357
+    MoveY = 4,8,-215
+    SetVisible = 13,false
+<New particle>
+    Graphic = Normal/Pound hit
+    Focus = User
+    SetX = 10,223
+    SetY = 10,-130
+    SetVisible = 12,false
+<New particle (copy)>
+    Graphic = Normal/Pound hit
+    Focus = User
+    SetX = 11,280
+    SetY = 11,-118
+    SetVisible = 13,false
+<Target>
+<SE>
+#-------------------------------
+[OppMove,BRAVEBIRD]
+Name = Brave Bird
+<User>
+    SetOpacity = 1,200
+    SetOpacity = 2,134
+    SetOpacity = 3,52
+    SetOpacity = 4,2
+    SetOpacity = 13,255
+<New particle>
+    Graphic = Examples/PRAS- Brave Bird
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetZ = 0,50
+    SetAngle = 0,125
+    SetOpacity = 0,64
+    SetOpacity = 1,124
+    SetOpacity = 2,190
+    SetOpacity = 3,255
+    SetX = 4,3
+    SetY = 4,-1
+    MoveX = 4,8,357
+    MoveY = 4,8,-215
+    SetVisible = 13,false
+<New particle>
+    Graphic = Normal/Pound hit
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 10,223
+    SetY = 10,-130
+    SetVisible = 12,false
+<New particle (copy)>
+    Graphic = Normal/Pound hit
+    Focus = User
+    FoeInvertX = true
+    FoeInvertY = true
+    SetX = 11,280
+    SetY = 11,-118
+    SetVisible = 13,false
+<Target>
+<SE>

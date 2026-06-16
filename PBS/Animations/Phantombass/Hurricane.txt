@@ -1,0 +1,95 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Move,HURRICANE]
+Name = Hurricane
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Hurricane FG
+    Focus = Foreground
+    SetOpacity = 0,128
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 2,-70
+    SetY = 2,-15
+    MoveX = 2,2,-31
+    MoveY = 2,2,33
+    MoveX = 4,2,29
+    MoveY = 4,2,32
+    MoveX = 6,2,76
+    MoveY = 6,2,-10
+    SetVisible = 8,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 3,-61
+    SetY = 3,-16
+    MoveX = 3,2,-36
+    MoveY = 3,2,23
+    MoveX = 5,2,14
+    MoveY = 5,2,27
+    MoveX = 7,2,58
+    MoveY = 7,2,2
+    SetVisible = 9,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 4,-24
+    SetY = 4,-29
+    MoveX = 4,2,-55
+    MoveY = 4,2,2
+    MoveX = 6,2,-13
+    MoveY = 6,2,26
+    MoveX = 8,2,41
+    MoveY = 8,2,9
+    SetVisible = 10,false
+<SE>
+#-------------------------------
+[OppMove,HURRICANE]
+Name = Hurricane
+NoUser = true
+<Target>
+<New particle>
+    Graphic = Examples/PRAS- Hurricane FG
+    Focus = Foreground
+    SetOpacity = 0,128
+    SetVisible = 10,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 2,-70
+    SetY = 2,-15
+    MoveX = 2,2,-31
+    MoveY = 2,2,33
+    MoveX = 4,2,29
+    MoveY = 4,2,32
+    MoveX = 6,2,76
+    MoveY = 6,2,-10
+    SetVisible = 8,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 3,-61
+    SetY = 3,-16
+    MoveX = 3,2,-36
+    MoveY = 3,2,23
+    MoveX = 5,2,14
+    MoveY = 5,2,27
+    MoveX = 7,2,58
+    MoveY = 7,2,2
+    SetVisible = 9,false
+<New particle>
+    Graphic = Examples/Gust
+    Focus = Target
+    SetX = 4,-24
+    SetY = 4,-29
+    MoveX = 4,2,-55
+    MoveY = 4,2,2
+    MoveX = 6,2,-13
+    MoveY = 6,2,26
+    MoveX = 8,2,41
+    MoveY = 8,2,9
+    SetVisible = 10,false
+<SE>
