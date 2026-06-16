@@ -16510,3 +16510,1430 @@ Set up score for Trubbish (0): 0
 ===== Round 1 =====
 
 "You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Goldeen appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Goldeen (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Goldeen (1) is considering using Peck (1) against Trubbish (0)...
+     Goldeen (1)'s highest damaging move vs Trubbish: Peck
+[AI] Goldeen (1) is considering using Tail Whip (4)...
+     Goldeen (1)'s highest damaging move vs Trubbish: Peck
+[AI] Move choices for Goldeen (1):
+   *   0.0% to use Peck (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Tail Whip: score 4
+   => will use Tail Whip
+
+[Round order] Trubbish (0), the wild Goldeen (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Goldeen was caught!"
+"Trubbish got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Goldeen's data was added to the Pokédex."
+"Would you like to give a nickname to Goldeen?"
+"Goldeen has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Paras appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Paras (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Paras (1) is considering using Scratch (1) against Trubbish (0)...
+     Paras (1)'s highest damaging move vs Trubbish: Scratch
+[AI] Move choices for Paras (1):
+   *  50.0% to use Scratch (target 0): score 1
+   *  50.0% to use Scratch (target 0): score 1
+   => will use Scratch (target 0)
+
+[Round order] Trubbish (0), the wild Paras (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Paras was caught!"
+
+===== Pokémon caught =====
+
+"Paras's data was added to the Pokédex."
+"Would you like to give a nickname to Paras?"
+"Paras has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sunkern appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Sunkern (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Hoothoot appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Hoothoot (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hoothoot (1) is considering using Peck (1) against Trubbish (0)...
+     Hoothoot (1)'s highest damaging move vs Trubbish: Peck
+[AI] Hoothoot (1) is considering using Growl (4)...
+     Hoothoot (1)'s highest damaging move vs Trubbish: Peck
+[AI] Move choices for Hoothoot (1):
+   *   0.0% to use Peck (target 0): score 0
+   *  50.0% to use Growl: score 4
+   *  50.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Trubbish (0), the wild Hoothoot (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Hoothoot was caught!"
+
+===== Pokémon caught =====
+
+"Hoothoot's data was added to the Pokédex."
+"Would you like to give a nickname to Hoothoot?"
+"Hoothoot has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Cleffa appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Cleffa (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Cleffa (1) is considering using Splash (4)...
+[AI] Cleffa (1) is considering using Pound (1) against Trubbish (0)...
+     Cleffa (1)'s highest damaging move vs Trubbish: Pound
+[AI] Cleffa (1) is considering using Copycat (4)...
+[AI] Move choices for Cleffa (1):
+   *  33.3% to use Splash: score 4
+   *   0.0% to use Pound (target 0): score 0
+   *  33.3% to use Copycat: score 4
+   *  33.3% to use Copycat: score 4
+   => will use Splash
+
+[Round order] Trubbish (0), the wild Cleffa (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Cleffa was caught!"
+
+===== Pokémon caught =====
+
+"Cleffa's data was added to the Pokédex."
+"Would you like to give a nickname to Cleffa?"
+"Cleffa has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Pichu appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Pichu (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pichu (1) is considering using Thunder Shock (1) against Trubbish (0)...
+     Pichu (1)'s highest damaging move vs Trubbish: Thunder Shock
+[AI] Pichu (1) is considering using Tail Whip (4)...
+     Pichu (1)'s highest damaging move vs Trubbish: Thunder Shock
+[AI] Move choices for Pichu (1):
+   *   0.0% to use Thunder Shock (target 0): score 0
+   *   0.0% to use Thunder Shock (target 0): score 0
+   * 100.0% to use Tail Whip: score 4
+   => will use Tail Whip
+
+[Round order] Trubbish (0), the wild Pichu (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Pichu was caught!"
+
+===== Pokémon caught =====
+
+"Pichu's data was added to the Pokédex."
+"Would you like to give a nickname to Pichu?"
+"Pichu has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Spinarak appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Spinarak (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Spinarak (1) is considering using Poison Sting (1) against Trubbish (0)...
+     Spinarak (1)'s highest damaging move vs Trubbish: Poison Sting
+[AI] Spinarak (1) is considering using String Shot (4)...
+     Spinarak (1)'s highest damaging move vs Trubbish: Poison Sting
+[AI] Move choices for Spinarak (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *  50.0% to use String Shot: score 4
+   *  50.0% to use String Shot: score 4
+   => will use String Shot
+
+[Round order] Trubbish (0), the wild Spinarak (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Spinarak was caught!"
+
+===== Pokémon caught =====
+
+"Spinarak's data was added to the Pokédex."
+"Would you like to give a nickname to Spinarak?"
+"Where do you want to send Spinarak to?"
+"Spinarak has been sent to Box "Box 1"!"
+Roles for CATERPIE: [:NONE]
+=====> Nature for Caterpie: Adamant
+Roles for CATERPIE: [:NONE]
+=====> Nature for Caterpie: Adamant
+Roles for CATERPIE: [:NONE]
+=====> Nature for Caterpie: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Rick!"
+"Bug Catcher Rick sent out Caterpie!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Caterpie (1) is considering using Tackle (1) against Trubbish (0)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Caterpie (1) is considering using String Shot (4)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Caterpie (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Tackle (target 0)
+
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Caterpie lost 23 HP (23 -> 0)
+"It's super effective!"
+"The opposing Caterpie fainted!"
+
+[End of round 1]
+==============================
+     [Caterpie] using Tackle vs Trubbish does a max of 3/42 damage
+     Trubbish (0)'s best move: Rock Throw for 26/25 damage
+==============================
+     Trubbish (0) speed (26) vs Caterpie speed: 13
+[AI] =====> Flags assigned to Caterpie:
+==========> target_fast_kill: true
+
+     [Caterpie] -  9: for target fast kill
+     [Caterpie] final Switch score: -9
+"Bug Catcher Rick sent out Caterpie!"
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Caterpie (1) is considering using Tackle (1) against Trubbish (0)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Caterpie (1) is considering using String Shot (4)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Caterpie (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Tackle (target 0)
+
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Caterpie lost 22 HP (25 -> 3)
+"It's super effective!"
+[Use move] The opposing Caterpie (1) used Tackle
+"The opposing Caterpie used Tackle!"
+[HP change] Trubbish lost 4 HP (42 -> 38)
+"A critical hit!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Caterpie (1) is considering using Tackle (1) against Trubbish (0)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Caterpie (1) is considering using String Shot (4)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Caterpie (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Tackle (target 0)
+
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Caterpie lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Caterpie fainted!"
+
+[End of round 3]
+==============================
+     [Caterpie] using Tackle vs Trubbish does a max of 4/38 damage
+     Trubbish (0)'s best move: Rock Throw for 24/27 damage
+==============================
+     Trubbish (0) speed (26) vs Caterpie speed: 14
+[AI] =====> Flags assigned to Caterpie:
+==========> target_fast_2hko: true
+
+     [Caterpie] -  5: for target having fast 2HKO and us having no kill
+     [Caterpie] final Switch score: -5
+"Bug Catcher Rick sent out Caterpie!"
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Caterpie (1) is considering using Tackle (1) against Trubbish (0)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Caterpie (1) is considering using String Shot (4)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Caterpie (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Tackle (target 0)
+
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Caterpie lost 21 HP (27 -> 6)
+"It's super effective!"
+[Use move] The opposing Caterpie (1) used Tackle
+"The opposing Caterpie used Tackle!"
+[HP change] Trubbish lost 4 HP (38 -> 34)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Caterpie (1) is considering using Tackle (1) against Trubbish (0)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Caterpie (1) is considering using String Shot (4)...
+     Caterpie (1)'s highest damaging move vs Trubbish: Tackle
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Caterpie (1):
+   * 100.0% to use Tackle (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Tackle (target 0)
+
+[Round order] Trubbish (0), the opposing Caterpie (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Caterpie lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Caterpie fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Rick!"
+"No! Caterpie can't hack it!"
+
+"You got $128 for winning!"
+Roles for METAPOD: [:NONE]
+=====> Nature for Metapod: Adamant
+Roles for KAKUNA: [:NONE]
+=====> Nature for Kakuna: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Doug!"
+"Bug Catcher Doug sent out Metapod!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Metapod (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Metapod (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Metapod (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Metapod (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Metapod (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Metapod lost 19 HP (28 -> 9)
+"It's super effective!"
+[Use move] The opposing Metapod (1) used Bug Bite
+"The opposing Metapod used Bug Bite!"
+[HP change] Trubbish lost 3 HP (34 -> 31)
+"It's not very effective..."
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Metapod (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Metapod (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Metapod (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Metapod (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Metapod lost 9 HP (9 -> 0)
+"It's super effective!"
+"The opposing Metapod fainted!"
+
+[End of round 2]
+==============================
+     [Kakuna] using Bug Bite vs Trubbish does a max of 3/31 damage
+     Trubbish (0)'s best move: Rock Throw for 20/27 damage
+==============================
+     Trubbish (0) speed (26) vs Kakuna speed: 13
+[AI] =====> Flags assigned to Kakuna:
+==========> target_fast_2hko: true
+
+     [Kakuna] -  5: for target having fast 2HKO and us having no kill
+     [Kakuna] final Switch score: -5
+"Bug Catcher Doug sent out Kakuna!"
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kakuna (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Kakuna (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kakuna (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Kakuna (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Kakuna lost 18 HP (27 -> 9)
+"It's super effective!"
+[Use move] The opposing Kakuna (1) used Bug Bite
+"The opposing Kakuna used Bug Bite!"
+[HP change] Trubbish lost 3 HP (31 -> 28)
+"It's not very effective..."
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kakuna (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Kakuna (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kakuna (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Kakuna (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Kakuna lost 9 HP (9 -> 0)
+"It's super effective!"
+"The opposing Kakuna fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Doug!"
+"Huh? I ran out of Pokémon!"
+
+"You got $128 for winning!"
+Roles for WEEDLE: [:NONE]
+=====> Nature for Weedle: Adamant
+Roles for KAKUNA: [:NONE]
+=====> Nature for Kakuna: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Anthony!"
+"Bug Catcher Anthony sent out Weedle!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Weedle (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Weedle (1) is considering using Poison Sting (1) against Trubbish (0)...
+     Weedle (1)'s highest damaging move vs Trubbish: Poison Sting
+     + 4 to prioritize highest damaging move
+[AI] Weedle (1) is considering using String Shot (4)...
+     Weedle (1)'s highest damaging move vs Trubbish: Poison Sting
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Weedle (1):
+   * 100.0% to use Poison Sting (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Poison Sting (target 0)
+
+[Round order] Trubbish (0), the opposing Weedle (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Weedle lost 22 HP (26 -> 4)
+"It's super effective!"
+[Use move] The opposing Weedle (1) used Poison Sting
+"The opposing Weedle used Poison Sting!"
+[HP change] Trubbish lost 1 HP (28 -> 27)
+"It's not very effective..."
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Weedle (1) is considering using Poison Sting (1) against Trubbish (0)...
+     Weedle (1)'s highest damaging move vs Trubbish: Poison Sting
+     + 4 to prioritize highest damaging move
+[AI] Weedle (1) is considering using String Shot (4)...
+     Weedle (1)'s highest damaging move vs Trubbish: Poison Sting
+     - 3 because this will be pointless
+     - 15 to discourage use
+[AI] Move choices for Weedle (1):
+   * 100.0% to use Poison Sting (target 0): score 5
+   *   0.0% to use String Shot: score 0
+   => will use Poison Sting (target 0)
+
+[Round order] Trubbish (0), the opposing Weedle (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Weedle lost 4 HP (4 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Weedle fainted!"
+
+[End of round 2]
+==============================
+     [Kakuna] using Bug Bite vs Trubbish does a max of 4/27 damage
+     Trubbish (0)'s best move: Rock Throw for 20/29 damage
+==============================
+     Trubbish (0) speed (26) vs Kakuna speed: 14
+[AI] =====> Flags assigned to Kakuna:
+==========> target_fast_2hko: true
+
+     [Kakuna] -  5: for target having fast 2HKO and us having no kill
+     [Kakuna] final Switch score: -5
+"Bug Catcher Anthony sent out Kakuna!"
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kakuna (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Kakuna (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kakuna (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Kakuna (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Kakuna lost 18 HP (29 -> 11)
+"It's super effective!"
+[Use move] The opposing Kakuna (1) used Bug Bite
+"The opposing Kakuna used Bug Bite!"
+[HP change] Trubbish lost 3 HP (27 -> 24)
+"It's not very effective..."
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Kakuna (1) is considering using Bug Bite (1) against Trubbish (0)...
+     Kakuna (1)'s highest damaging move vs Trubbish: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Kakuna (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   => will use Bug Bite (target 0)
+
+[Round order] Trubbish (0), the opposing Kakuna (1)
+
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Kakuna lost 11 HP (11 -> 0)
+"It's super effective!"
+"The opposing Kakuna fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Anthony!"
+"Oh, boo! Nothing went right."
+
+"You got $144 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Spinarak appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Spinarak (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for BURMY: [:NONE]
+=====> Nature for Burmy: Modest
+Roles for BURMY: [:NONE]
+=====> Nature for Burmy: Modest
+Roles for BURMY: [:NONE]
+=====> Nature for Burmy: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Charlie!"
+"Bug Catcher Charlie sent out Burmy!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Burmy (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+"The opposing Burmy protected itself!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Rock Throw
+"Trubbish used Rock Throw!"
+[HP change] The opposing Burmy lost 20 HP (28 -> 8)
+"It's super effective!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Burmy protected itself!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+[HP change] The opposing Burmy lost 8 HP (8 -> 0)
+"The opposing Burmy fainted!"
+
+[End of round 4]
+==============================
+     Trubbish (0)'s best move: Rock Throw for 20/28 damage
+==============================
+     Trubbish (0) speed (26) vs Burmy speed: 14
+[AI] =====> Flags assigned to Burmy:
+==========> target_fast_2hko: true
+
+     [Burmy] -  5: for target having fast 2HKO and us having no kill
+     [Burmy] final Switch score: -5
+"Bug Catcher Charlie sent out Burmy!"
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Burmy protected itself!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+[HP change] The opposing Burmy lost 13 HP (28 -> 15)
+[Stat change] The opposing Burmy's Special Defense changed by -2 (0 -> -2)
+"The opposing Burmy's Special Defense harshly fell!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Burmy protected itself!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+"The opposing Burmy protected itself!"
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 45 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+[HP change] The opposing Burmy lost 15 HP (15 -> 0)
+"The opposing Burmy fainted!"
+
+[End of round 9]
+==============================
+     Trubbish (0)'s best move: Rock Throw for 20/28 damage
+==============================
+     Trubbish (0) speed (26) vs Burmy speed: 14
+[AI] =====> Flags assigned to Burmy:
+==========> target_fast_2hko: true
+
+     [Burmy] -  5: for target having fast 2HKO and us having no kill
+     [Burmy] final Switch score: -5
+"Bug Catcher Charlie sent out Burmy!"
+
+===== Round 10 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Burmy protected itself!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+[HP change] The opposing Burmy lost 12 HP (28 -> 16)
+[Stat change] The opposing Burmy's Special Defense changed by -2 (0 -> -2)
+"The opposing Burmy's Special Defense harshly fell!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 4
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"The opposing Burmy protected itself!"
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Burmy protected itself!"
+
+[End of round 12]
+
+===== Round 13 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Burmy (1) is considering using Protect (4)...
+     - 15 to prevent Protect failure
+[AI] Move choices for Burmy (1):
+   * 100.0% to use Protect: score 1
+   => will use Protect
+
+[Round order] The opposing Burmy (1), Trubbish (0)
+
+[Use move] The opposing Burmy (1) used Protect
+"The opposing Burmy used Protect!"
+"But it failed!"
+[Move failed] In function code ProtectUser's def pbMoveFailed?
+[Use move] Trubbish (0) used Acid Spray
+"Trubbish used Acid Spray!"
+[HP change] The opposing Burmy lost 16 HP (16 -> 0)
+"The opposing Burmy fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Charlie!"
+"Oh! I lost!"
+
+"You got $144 for winning!"
+Roles for ORTHWORM: [:SPEEDCONTROL]
+=====> Nature for Orthworm: Adamant
+Roles for TRAPINCH: [:SPEEDCONTROL]
+=====> Nature for Trapinch: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Sammy!"
+"Bug Catcher Sammy sent out Orthworm!"
+"Go! Pichu!"
+[Round order] Pichu (0), the opposing Orthworm (1)
+
+===== Round 1 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Pichu (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Pichu (0)...
+     Orthworm (1)'s highest damaging move vs Pichu: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Pichu (0), the opposing Orthworm (1)
+
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Orthworm lost 4 HP (37 -> 33)
+"The opposing Orthworm is paralyzed! It may be unable to move!"
+[Use move] The opposing Orthworm (1) used Rock Tomb
+"The opposing Orthworm used Rock Tomb!"
+[HP change] Pichu lost 18 HP (31 -> 13)
+[Stat change] Pichu's Speed changed by -1 (0 -> -1)
+"Pichu's Speed fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Pichu (0): -1
+     Threat Score for Pichu (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Pichu (0)...
+     Orthworm (1)'s highest damaging move vs Pichu: Rock Tomb
+      + 20 for fast kill
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 21
+   => will use Rock Tomb (target 0)
+
+[Round order] Pichu (0), the opposing Orthworm (1)
+
+"OK, Pichu! Come back!"
+"Go for it, Goldeen!"
+[Use move] The opposing Orthworm (1) used Rock Tomb
+"The opposing Orthworm used Rock Tomb!"
+[HP change] Goldeen lost 9 HP (40 -> 31)
+[Stat change] Goldeen's Speed changed by -1 (0 -> -1)
+"Goldeen's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Goldeen (0): -1
+     Threat Score for Goldeen (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Goldeen (0)...
+     Orthworm (1)'s highest damaging move vs Goldeen: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Goldeen (0), the opposing Orthworm (1)
+
+[Use move] Goldeen (0) used Water Pulse
+"Goldeen used Water Pulse!"
+[HP change] The opposing Orthworm lost 14 HP (33 -> 19)
+"The opposing Orthworm became confused!"
+[Lingering effect] The opposing Orthworm's confusion count is 4
+[Use move] The opposing Orthworm (1) used Rock Tomb
+"The opposing Orthworm is confused!"
+"The opposing Orthworm is paralyzed! It can't move!"
+[Move failed] The opposing Orthworm is paralyzed
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Goldeen (0): -1
+     Threat Score for Goldeen (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Goldeen (0)...
+     Orthworm (1)'s highest damaging move vs Goldeen: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Goldeen (0), the opposing Orthworm (1)
+
+[Use move] Goldeen (0) used Water Pulse
+"Goldeen used Water Pulse!"
+[HP change] The opposing Orthworm lost 14 HP (19 -> 5)
+[Use move] The opposing Orthworm (1) used Rock Tomb
+"The opposing Orthworm is confused!"
+"The opposing Orthworm is paralyzed! It can't move!"
+[Move failed] The opposing Orthworm is paralyzed
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Goldeen (0): -1
+     Threat Score for Goldeen (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Goldeen (0)...
+     Orthworm (1)'s highest damaging move vs Goldeen: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 5
+   => will use Rock Tomb (target 0)
+
+[Round order] Goldeen (0), the opposing Orthworm (1)
+
+"Goldeen, come back!"
+"Your opponent's weak! Get 'em, Hoothoot!"
+[Use move] The opposing Orthworm (1) used Rock Tomb
+"The opposing Orthworm is confused!"
+"The opposing Orthworm used Rock Tomb!"
+[HP change] Hoothoot lost 35 HP (40 -> 5)
+"A critical hit!"
+"It's super effective!"
+[Stat change] Hoothoot's Speed changed by -1 (0 -> -1)
+"Hoothoot's Speed fell!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Hoothoot (0): -1
+     Threat Score for Hoothoot (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Orthworm (1) is considering using Rock Tomb (1) against Hoothoot (0)...
+     Orthworm (1)'s highest damaging move vs Hoothoot: Rock Tomb
+      + 20 for fast kill
+[AI] Move choices for Orthworm (1):
+   * 100.0% to use Rock Tomb (target 0): score 21
+   => will use Rock Tomb (target 0)
+
+[Round order] Hoothoot (0), the opposing Orthworm (1)
+
+[Use move] Hoothoot (0) used Night Shade
+"Hoothoot used Night Shade!"
+[HP change] The opposing Orthworm lost 5 HP (5 -> 0)
+"The opposing Orthworm fainted!"
+"Pichu got 1 Exp. Points!"
+"Goldeen got 1 Exp. Points!"
+"Hoothoot got 1 Exp. Points!"
+
+[End of round 6]
+==============================
+     Hoothoot (0)'s best move: Night Shade for 14/32 damage
+==============================
+     Hoothoot (0) speed (12) vs Trapinch speed: 10
+[AI] =====> Flags assigned to Trapinch:
+
+     [Trapinch] final Switch score: 0
+"Bug Catcher Sammy sent out Trapinch!"
+
+===== Round 7 =====
+
+Set up score for Hoothoot (0): -1
+     Threat Score for Hoothoot (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     Trapinch (1)'s highest damaging move vs Hoothoot: Bulldoze
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 1
+   => will use Bulldoze
+
+[Round order] Hoothoot (0), the opposing Trapinch (1)
+
+[Use move] Hoothoot (0) used Night Shade
+"Hoothoot used Night Shade!"
+[HP change] The opposing Trapinch lost 14 HP (32 -> 18)
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[Target immune] Hoothoot's type immunity
+"It doesn't affect Hoothoot..."
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Hoothoot (0): -1
+     Threat Score for Hoothoot (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     Trapinch (1)'s highest damaging move vs Hoothoot: Bulldoze
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 1
+   => will use Bulldoze
+
+[Round order] Hoothoot (0), the opposing Trapinch (1)
+
+[Use move] Hoothoot (0) used Night Shade
+"Hoothoot used Night Shade!"
+[HP change] The opposing Trapinch lost 14 HP (18 -> 4)
+[Use move] The opposing Trapinch (1) used Bulldoze
+"The opposing Trapinch used Bulldoze!"
+[Target immune] Hoothoot's type immunity
+"It doesn't affect Hoothoot..."
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Hoothoot (0): -1
+     Threat Score for Hoothoot (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Trapinch (1) is considering using Bulldoze (1)...
+     Trapinch (1)'s highest damaging move vs Hoothoot: Bulldoze
+     move will not affect Hoothoot (0)
+     -  1: move will fail
+[AI] Move choices for Trapinch (1):
+   * 100.0% to use Bulldoze: score 1
+   => will use Bulldoze
+
+[Round order] Hoothoot (0), the opposing Trapinch (1)
+
+[Use move] Hoothoot (0) used Night Shade
+"Hoothoot used Night Shade!"
+[HP change] The opposing Trapinch lost 4 HP (4 -> 0)
+"The opposing Trapinch fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Sammy!"
+"I give! You're good at this!"
+
+"You got $160 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Wynaut appeared!"
+"Go! Pichu!"
+[Round order] Pichu (0), the wild Wynaut (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Pichu (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Wynaut (1) is considering using Safeguard (4)...
+[AI] Wynaut (1) is considering using Splash (4)...
+[AI] Wynaut (1) is considering using Charm (4) against Pichu (0)...
+     Wynaut (1)'s highest damaging move vs Pichu: Safeguard
+[AI] Wynaut (1) is considering using Encore (4) against Pichu (0)...
+     Wynaut (1)'s highest damaging move vs Pichu: Safeguard
+[AI] Move choices for Wynaut (1):
+   *  20.0% to use Safeguard: score 4
+   *  20.0% to use Safeguard: score 4
+   *  20.0% to use Splash: score 4
+   *  20.0% to use Charm (target 0): score 4
+   *  20.0% to use Encore (target 0): score 4
+   => will use Splash
+
+[Round order] Pichu (0), the wild Wynaut (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Wynaut was caught!"
+
+===== Pokémon caught =====
+
+"Wynaut's data was added to the Pokédex."
+"Would you like to give a nickname to Wynaut?"
+"Where do you want to send Wynaut to?"
+"Wynaut has been sent to Box "Box 1"!"
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Wynaut!"
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+===== Round 1 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Wynaut (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (54 -> 14)
+[HP change] Wynaut gained 40 HP (14 -> 54)
+"Wynaut restored a little HP using its Dragon Rage Candy Bar!"
+[Item consumed] Wynaut consumed its held Dragon Rage Candy Bar
+[HP change] Wynaut lost 40 HP (54 -> 14)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 46 HP (46 -> 0)
+"The opposing Yanma fainted!"
+"Wynaut got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Blue!"
+"Awww! You just lucked out!"
+
+"You got $224 for winning!"
