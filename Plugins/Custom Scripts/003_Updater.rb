@@ -359,7 +359,7 @@ end
 module Dumpster
   def self.need_update?
     return false if $DEBUG
-    return false if is_mobile?
+    # return false if is_mobile?
     link = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/version"
     vers = read_version
     return Downloader.toString(link) != vers
