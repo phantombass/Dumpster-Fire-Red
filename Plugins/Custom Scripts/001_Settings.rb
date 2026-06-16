@@ -1,6 +1,6 @@
 module Settings
 
-  GAME_VERSION = "0.1.0"
+  GAME_VERSION = "0.1.1"
   POISON_ANIMATION_ID = 8
   TIME_SHADING = true
   POISON_IN_FIELD = true
