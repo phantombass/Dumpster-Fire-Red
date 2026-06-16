@@ -837,7 +837,7 @@ class Battle::AI::FakeMove
     damage   = [(damage * multipliers[:final_damage_multiplier]).poke_round, 1].max
     ret = damage.floor
     ret = target.hp - 1 if @move.nonLethal?(user_battler, target_battler) && ret >= target.hp
-    ret = target.hp - 1 if target.hp == target.totalhp && target.has_active_ability?([:STURDY]) && !@ai.battle.moldBreaker && ret >= target.hp
+    ret = target.hp - 1 if target.hp == target.totalhp && target.has_active_ability?([:STURDY,:SPRINKLERPOWER]) && !@ai.battle.moldBreaker && ret >= target.hp
     return ret
   end
   # Full critical hit chance calculation (returns the determined critical hit

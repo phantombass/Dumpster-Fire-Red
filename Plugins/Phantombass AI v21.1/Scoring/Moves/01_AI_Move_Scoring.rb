@@ -500,8 +500,8 @@ Battle::AI::ScoreHandler.add_status do |score, ai, user, target, move, max_move,
         score += party_size
         PBDebug.log("     + #{party_size} to encourage hazards for each able opposing party member") if log
         if user.turnCount == 0
-          score += 16
-          PBDebug.log("     + 16 to incentivize hazards turn 1") if log
+          score += 46
+          PBDebug.log("     + 46 to incentivize hazards turn 1") if log
         end
       end
     end

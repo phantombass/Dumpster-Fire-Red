@@ -509,6 +509,11 @@ class Battle::Move::SwitchOutTargetDragonTail < Battle::Move::FixedDamageMove
     end
   end
 
+  def pbCalcTypeModSingle(moveType, defType, user, target)
+    return Effectiveness::NORMAL_EFFECTIVE_MULTIPLIER if moveType == :DRAGON && defType == :FAIRY
+    return super
+  end
+
   def pbSwitchOutTargetEffect(user, targets, numHits, switched_battlers)
     return if !switched_battlers.empty?
     return if user.fainted? || numHits == 0
