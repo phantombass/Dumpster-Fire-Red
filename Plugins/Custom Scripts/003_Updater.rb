@@ -350,17 +350,17 @@ end
 
 def rewrite_version
   File.open("version", "wb") { |f|
-    link = "https://raw.githubusercontent.com/phantombass/Pokemon-Ancient-Platinum/Release/version"
+    link = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/version"
     version = Downloader.toString(link)
     f.write(version)
   }
 end
 
-module BW_Doubles
+module Dumpster
   def self.need_update?
     return false if $DEBUG
     return false if is_mobile?
-    link = "https://raw.githubusercontent.com/phantombass/Pokemon-Ancient-Platinum/Release/version"
+    link = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/version"
     vers = read_version
     return Downloader.toString(link) != vers
   end
@@ -368,9 +368,9 @@ module BW_Doubles
   def self.update
     msgwindow = pbCreateMessageWindow
     pbMessageDisplay(msgwindow, _INTL("Downloading patch...\\wtnp[0]"))
-    link = "https://raw.githubusercontent.com/phantombass/Pokemon-Ancient-Platinum/Release/version"
+    link = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/version"
     new_vers = Downloader.toString(link)
-    patch = "https://raw.githubusercontent.com/phantombass/Pokemon-Ancient-Platinum/Release/patch.zip"
+    patch = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/patch.zip"
     pbDownloadToFile(patch,"patch.zip")
     self.applyPatch("patch.zip",'.')
     rewrite_version
@@ -414,11 +414,11 @@ end
 MenuHandlers.add(:load_screen, :update, {
   "name"      => _INTL("Update Available!"),
   "order"     => 35,
-  "condition" => proc { |screen| next BW_Doubles.need_update? }
+  "condition" => proc { |screen| next Dumpster.need_update? }
 })
 
 MenuHandlers.add(:load_screen, :update_not_needed, {
   "name"      => _INTL("Current Version: #{Settings::GAME_VERSION}"),
   "order"     => 36,
-  "condition" => proc { |screen| next !BW_Doubles.need_update? }
+  "condition" => proc { |screen| next !Dumpster.need_update? }
 })
