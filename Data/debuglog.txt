@@ -17937,3 +17937,122 @@ Set up score for Wynaut (0): 0
 "Awww! You just lucked out!"
 
 "You got $224 for winning!"
+Roles for ONIX: [:LEAD, :PHAZER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Brock!"
+"Leader Brock sent out Onix!"
+"Go! Paras!"
+[Round order] The opposing Onix (1), Paras (0)
+
+===== Round 1 =====
+
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 1
+     Paras (0) has been assigned Should Taunt flag
+     End flag assignment.
+[AI] Onix (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   * 100.0% to use Stealth Rock: score 56
+   *   0.0% to use Dragon Tail (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] Paras (0), the opposing Onix (1)
+
+[Use move] Paras (0) used Ingrain
+"Paras used Ingrain!"
+"Paras planted its roots!"
+[Use move] The opposing Onix (1) used Stealth Rock
+"The opposing Onix used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+[Ability triggered] Paras's Pillar Plant
+[Stat change] Paras's Defense changed by +6 (0 -> 6)
+"Paras's Defense rose drastically!"
+[Ability triggered] Paras's Pillar Plant
+[Stat change] Paras's Special Defense changed by +6 (0 -> 6)
+"Paras's Special Defense rose drastically!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Onix (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Dragon Tail (target 0): score 21
+   => will use Dragon Tail (target 0)
+
+[Round order] The opposing Onix (1), Paras (0)
+
+[Use move] The opposing Onix (1) used Dragon Tail
+"The opposing Onix used Dragon Tail!"
+[HP change] Paras lost 2 HP (34 -> 32)
+[Use move] Paras (0) used Absorb
+"Paras used Absorb!"
+[HP change] The opposing Onix lost 37 HP (38 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Onix's Sprinkler Power
+"The opposing Onix endured the hit!"
+"The opposing Onix had its energy drained!"
+[HP change] Paras gained 2 HP (32 -> 34)
+
+[End of round 2]
+[HP change] The opposing Onix gained 19 HP (1 -> 20)
+"The opposing Onix restored a lot of HP using its Mom's Leftovers!"
+
+===== Round 3 =====
+
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Onix (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Dragon Tail (target 0): score 21
+   => will use Dragon Tail (target 0)
+
+[Round order] The opposing Onix (1), Paras (0)
+
+[Use move] The opposing Onix (1) used Dragon Tail
+"The opposing Onix used Dragon Tail!"
+[HP change] Paras lost 2 HP (34 -> 32)
+[Use move] Paras (0) used Absorb
+"Paras used Absorb!"
+[HP change] The opposing Onix lost 20 HP (20 -> 0)
+"It's super effective!"
+"The opposing Onix fainted!"
+"The opposing Onix had its energy drained!"
+[HP change] Paras gained 2 HP (32 -> 34)
+"Paras got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Leader Brock!"
+"I took you for granted, and so I lost."
+
+"You got $1,400 for winning!"

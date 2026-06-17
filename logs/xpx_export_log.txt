@@ -914,3 +914,267 @@
 [2026-06-16 16:25:19]     write_system                174.7ms
 [2026-06-16 16:25:19]     write_tilesets               42.2ms
 [2026-06-16 16:25:19]     seed_terrain_tags            16.4ms
+[2026-06-16 17:25:40] 
+[2026-06-16 17:25:40] ================================================
+[2026-06-16 17:25:40] === integrate_essentials invoked ===
+[2026-06-16 17:25:40]   project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 17:25:40]   ess_folder   = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 17:25:40]   project.start_map_id = 1
+[2026-06-16 17:25:40] === environment ===
+[2026-06-16 17:25:40]   os       : Windows 11 (10.0.26200)
+[2026-06-16 17:25:40]   arch     : AMD64
+[2026-06-16 17:25:40]   python   : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+[2026-06-16 17:25:40]   pyqt6    : 6.7.1 (Qt 6.7.1)
+[2026-06-16 17:25:40]   locale   : ('English_United States', '1252')
+[2026-06-16 17:25:40]   preferred encoding   : cp1252
+[2026-06-16 17:25:40]   filesystem encoding  : utf-8
+[2026-06-16 17:25:40]   default str encoding : utf-8
+[2026-06-16 17:25:40]   win32 code pages: ACP=1252, OEM=437
+[2026-06-16 17:25:40]   ess path repr : 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 17:25:40]   settings: do_preload=True, do_rxdata=True, do_runtime=True
+[2026-06-16 17:25:41]   Game.ini script source: kind='rxdata', ini_value='Data\\Scripts.rxdata', custom_script=None, entry_rb=None
+[2026-06-16 17:25:46]   export_to_rxdata: 147 written, 74 skipped (rxdata up-to-date)
+[2026-06-16 17:25:47] === write_system invoked ===
+[2026-06-16 17:25:47]   ess_folder = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 17:25:47]   project.essentials_settings.essentials_folder = None
+[2026-06-16 17:25:47]   project.project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 17:25:47]   sys_path   = 'E:\\Games\\Dumpster Fire Red\\Data\\System.rxdata'
+[2026-06-16 17:25:47]   exists?    = True
+[2026-06-16 17:25:47]   existing System.rxdata: 6212 bytes, mtime=2026-06-16 16:25:15
+[2026-06-16 17:25:47]   System.rxdata* files found in tree: 2
+[2026-06-16 17:25:47]     - E:\Games\Dumpster Fire Red\Data\System.rxdata
+[2026-06-16 17:25:47]     - E:\Games\Dumpster Fire Red\patch\Data\System.rxdata
+[2026-06-16 17:25:47]   current System.rxdata: @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 17:25:47]   project state: start_map_id=1, start_x=9, start_y=7
+[2026-06-16 17:25:47]   target values: @start_map_id=1, @start_x=9, @start_y=7 (fallback=False)
+[2026-06-16 17:25:47]   bumped @magic_number 309270976 -> 494577479 (maps changed → old saves will reload their map)
+[2026-06-16 17:25:47]   wrote 6212 bytes
+[2026-06-16 17:25:47]   VERIFIED: read back @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 17:25:47] 
+[2026-06-16 17:25:47] === _deploy_xpx_runtime ===
+[2026-06-16 17:25:47]   source: E:\XPX Engine\_internal\base_runtime
+[2026-06-16 17:25:47]   dest:   E:\Games\Dumpster Fire Red
+[2026-06-16 17:25:47]   XPX install integrity: OK (1922 file(s), cached)
+[2026-06-16 17:25:47]   manifest: 5 file(s), 1 folder(s)
+[2026-06-16 17:25:47]     BEFORE Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 17:25:47]     BEFORE MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 17:25:47]     BEFORE build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 17:25:47]     BEFORE x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 17:25:47]     BEFORE zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 17:25:47]     5 file(s) already in sync — byte copy skipped
+[2026-06-16 17:25:49]     1 folder(s) already in sync — rebuild skipped
+[2026-06-16 17:25:49]     AFTER  Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 17:25:49]     AFTER  MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 17:25:49]     AFTER  build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 17:25:49]     AFTER  x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 17:25:49]     AFTER  zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 17:25:49]   hash-verifying against MANIFEST.json (runtime v0.3.7, 1922 expected file(s))
+[2026-06-16 17:25:50]     ? build_info.json: not in MANIFEST (extra file in runtime folder)
+[2026-06-16 17:25:50]   manifest verified: 3/1922 file(s) match shipped hashes; 0 mismatch(es), 0 error(s)
+[2026-06-16 17:25:50]   result: copied 5 file(s), 1 folder(s); verified 5/5 sizes; 0 file failure(s), 0 folder failure(s)
+[2026-06-16 17:25:50]   integrate timings (total 9541ms):
+[2026-06-16 17:25:50]     export_to_rxdata           5345.5ms
+[2026-06-16 17:25:50]     deploy_runtime             3066.8ms
+[2026-06-16 17:25:50]     write_mkxp_json             458.0ms
+[2026-06-16 17:25:50]     write_system                364.0ms
+[2026-06-16 17:25:50]     write_preload_script        262.8ms
+[2026-06-16 17:25:50]     write_tilesets               43.4ms
+[2026-06-16 17:25:50]     seed_terrain_tags             0.0ms
+[2026-06-16 20:35:07] 
+[2026-06-16 20:35:07] ================================================
+[2026-06-16 20:35:07] === integrate_essentials invoked ===
+[2026-06-16 20:35:07]   project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:35:07]   ess_folder   = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:35:07]   project.start_map_id = 1
+[2026-06-16 20:35:07] === environment ===
+[2026-06-16 20:35:07]   os       : Windows 11 (10.0.26200)
+[2026-06-16 20:35:07]   arch     : AMD64
+[2026-06-16 20:35:07]   python   : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+[2026-06-16 20:35:07]   pyqt6    : 6.7.1 (Qt 6.7.1)
+[2026-06-16 20:35:07]   locale   : ('English_United States', '1252')
+[2026-06-16 20:35:07]   preferred encoding   : cp1252
+[2026-06-16 20:35:07]   filesystem encoding  : utf-8
+[2026-06-16 20:35:07]   default str encoding : utf-8
+[2026-06-16 20:35:07]   win32 code pages: ACP=1252, OEM=437
+[2026-06-16 20:35:07]   ess path repr : 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:35:07]   settings: do_preload=True, do_rxdata=True, do_runtime=True
+[2026-06-16 20:35:07]   Game.ini script source: kind='rxdata', ini_value='Data\\Scripts.rxdata', custom_script=None, entry_rb=None
+[2026-06-16 20:35:12]   export_to_rxdata: 146 written, 75 skipped (rxdata up-to-date)
+[2026-06-16 20:35:12] === write_system invoked ===
+[2026-06-16 20:35:12]   ess_folder = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:35:12]   project.essentials_settings.essentials_folder = None
+[2026-06-16 20:35:12]   project.project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:35:12]   sys_path   = 'E:\\Games\\Dumpster Fire Red\\Data\\System.rxdata'
+[2026-06-16 20:35:12]   exists?    = True
+[2026-06-16 20:35:12]   existing System.rxdata: 6212 bytes, mtime=2026-06-16 17:25:47
+[2026-06-16 20:35:12]   System.rxdata* files found in tree: 2
+[2026-06-16 20:35:12]     - E:\Games\Dumpster Fire Red\Data\System.rxdata
+[2026-06-16 20:35:12]     - E:\Games\Dumpster Fire Red\patch\Data\System.rxdata
+[2026-06-16 20:35:12]   current System.rxdata: @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:35:12]   project state: start_map_id=1, start_x=9, start_y=7
+[2026-06-16 20:35:12]   target values: @start_map_id=1, @start_x=9, @start_y=7 (fallback=False)
+[2026-06-16 20:35:12]   bumped @magic_number 494577479 -> 405358212 (maps changed → old saves will reload their map)
+[2026-06-16 20:35:12]   wrote 6212 bytes
+[2026-06-16 20:35:13]   VERIFIED: read back @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:35:13] 
+[2026-06-16 20:35:13] === _deploy_xpx_runtime ===
+[2026-06-16 20:35:13]   source: E:\XPX Engine\_internal\base_runtime
+[2026-06-16 20:35:13]   dest:   E:\Games\Dumpster Fire Red
+[2026-06-16 20:35:13]   XPX install integrity: OK (1922 file(s), cached)
+[2026-06-16 20:35:13]   manifest: 5 file(s), 1 folder(s)
+[2026-06-16 20:35:13]     BEFORE Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:35:13]     BEFORE MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:35:13]     BEFORE build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:35:13]     BEFORE x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:35:13]     BEFORE zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:35:13]     5 file(s) already in sync — byte copy skipped
+[2026-06-16 20:35:16]     1 folder(s) already in sync — rebuild skipped
+[2026-06-16 20:35:16]     AFTER  Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:35:16]     AFTER  MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:35:16]     AFTER  build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:35:16]     AFTER  x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:35:16]     AFTER  zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:35:16]   hash-verifying against MANIFEST.json (runtime v0.3.7, 1922 expected file(s))
+[2026-06-16 20:35:18]     ? build_info.json: not in MANIFEST (extra file in runtime folder)
+[2026-06-16 20:35:19]   manifest verified: 3/1922 file(s) match shipped hashes; 0 mismatch(es), 0 error(s)
+[2026-06-16 20:35:19]   result: copied 5 file(s), 1 folder(s); verified 5/5 sizes; 0 file failure(s), 0 folder failure(s)
+[2026-06-16 20:35:19]   integrate timings (total 12310ms):
+[2026-06-16 20:35:19]     deploy_runtime             6449.4ms
+[2026-06-16 20:35:19]     export_to_rxdata           5015.6ms
+[2026-06-16 20:35:19]     write_system                480.8ms
+[2026-06-16 20:35:19]     write_mkxp_json             151.2ms
+[2026-06-16 20:35:19]     write_preload_script        114.1ms
+[2026-06-16 20:35:19]     write_tilesets               86.5ms
+[2026-06-16 20:35:19]     seed_terrain_tags            12.4ms
+[2026-06-16 20:35:55] 
+[2026-06-16 20:35:55] ================================================
+[2026-06-16 20:35:55] === integrate_essentials invoked ===
+[2026-06-16 20:35:55]   project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:35:55]   ess_folder   = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:35:55]   project.start_map_id = 1
+[2026-06-16 20:35:55] === environment ===
+[2026-06-16 20:35:55]   os       : Windows 11 (10.0.26200)
+[2026-06-16 20:35:55]   arch     : AMD64
+[2026-06-16 20:35:55]   python   : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+[2026-06-16 20:35:55]   pyqt6    : 6.7.1 (Qt 6.7.1)
+[2026-06-16 20:35:55]   locale   : ('English_United States', '1252')
+[2026-06-16 20:35:55]   preferred encoding   : cp1252
+[2026-06-16 20:35:55]   filesystem encoding  : utf-8
+[2026-06-16 20:35:55]   default str encoding : utf-8
+[2026-06-16 20:35:55]   win32 code pages: ACP=1252, OEM=437
+[2026-06-16 20:35:55]   ess path repr : 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:35:55]   settings: do_preload=True, do_rxdata=True, do_runtime=True
+[2026-06-16 20:35:55]   Game.ini script source: kind='rxdata', ini_value='Data\\Scripts.rxdata', custom_script=None, entry_rb=None
+[2026-06-16 20:36:00]   export_to_rxdata: 147 written, 74 skipped (rxdata up-to-date)
+[2026-06-16 20:36:00] === write_system invoked ===
+[2026-06-16 20:36:00]   ess_folder = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:36:00]   project.essentials_settings.essentials_folder = None
+[2026-06-16 20:36:00]   project.project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:36:00]   sys_path   = 'E:\\Games\\Dumpster Fire Red\\Data\\System.rxdata'
+[2026-06-16 20:36:00]   exists?    = True
+[2026-06-16 20:36:00]   existing System.rxdata: 6212 bytes, mtime=2026-06-16 20:35:12
+[2026-06-16 20:36:00]   System.rxdata* files found in tree: 2
+[2026-06-16 20:36:00]     - E:\Games\Dumpster Fire Red\Data\System.rxdata
+[2026-06-16 20:36:00]     - E:\Games\Dumpster Fire Red\patch\Data\System.rxdata
+[2026-06-16 20:36:00]   current System.rxdata: @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:36:00]   project state: start_map_id=1, start_x=9, start_y=7
+[2026-06-16 20:36:00]   target values: @start_map_id=1, @start_x=9, @start_y=7 (fallback=False)
+[2026-06-16 20:36:00]   bumped @magic_number 405358212 -> 209862595 (maps changed → old saves will reload their map)
+[2026-06-16 20:36:00]   wrote 6212 bytes
+[2026-06-16 20:36:00]   VERIFIED: read back @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:36:00] 
+[2026-06-16 20:36:00] === _deploy_xpx_runtime ===
+[2026-06-16 20:36:00]   source: E:\XPX Engine\_internal\base_runtime
+[2026-06-16 20:36:00]   dest:   E:\Games\Dumpster Fire Red
+[2026-06-16 20:36:00]   XPX install integrity: OK (1922 file(s), cached)
+[2026-06-16 20:36:00]   manifest: 5 file(s), 1 folder(s)
+[2026-06-16 20:36:00]     BEFORE Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:36:00]     BEFORE MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:36:00]     BEFORE build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:36:00]     BEFORE x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:36:00]     BEFORE zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:36:00]     5 file(s) already in sync — byte copy skipped
+[2026-06-16 20:36:00]     1 folder(s) already in sync — rebuild skipped
+[2026-06-16 20:36:00]     AFTER  Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:36:00]     AFTER  MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:36:00]     AFTER  build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:36:00]     AFTER  x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:36:00]     AFTER  zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:36:00]   hash-verifying against MANIFEST.json (runtime v0.3.7, 1922 expected file(s))
+[2026-06-16 20:36:01]     ? build_info.json: not in MANIFEST (extra file in runtime folder)
+[2026-06-16 20:36:02]   manifest verified: 3/1922 file(s) match shipped hashes; 0 mismatch(es), 0 error(s)
+[2026-06-16 20:36:02]   result: copied 5 file(s), 1 folder(s); verified 5/5 sizes; 0 file failure(s), 0 folder failure(s)
+[2026-06-16 20:36:02]   integrate timings (total 6829ms):
+[2026-06-16 20:36:02]     export_to_rxdata           4717.5ms
+[2026-06-16 20:36:02]     deploy_runtime             2012.5ms
+[2026-06-16 20:36:02]     write_system                 80.8ms
+[2026-06-16 20:36:02]     write_tilesets               13.9ms
+[2026-06-16 20:36:02]     write_mkxp_json               3.3ms
+[2026-06-16 20:36:02]     write_preload_script          1.2ms
+[2026-06-16 20:36:02]     seed_terrain_tags             0.0ms
+[2026-06-16 20:39:07] 
+[2026-06-16 20:39:07] ================================================
+[2026-06-16 20:39:07] === integrate_essentials invoked ===
+[2026-06-16 20:39:07]   project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:39:07]   ess_folder   = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:39:07]   project.start_map_id = 1
+[2026-06-16 20:39:07] === environment ===
+[2026-06-16 20:39:07]   os       : Windows 11 (10.0.26200)
+[2026-06-16 20:39:07]   arch     : AMD64
+[2026-06-16 20:39:07]   python   : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+[2026-06-16 20:39:07]   pyqt6    : 6.7.1 (Qt 6.7.1)
+[2026-06-16 20:39:07]   locale   : ('English_United States', '1252')
+[2026-06-16 20:39:07]   preferred encoding   : cp1252
+[2026-06-16 20:39:07]   filesystem encoding  : utf-8
+[2026-06-16 20:39:07]   default str encoding : utf-8
+[2026-06-16 20:39:07]   win32 code pages: ACP=1252, OEM=437
+[2026-06-16 20:39:07]   ess path repr : 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:39:07]   settings: do_preload=True, do_rxdata=True, do_runtime=True
+[2026-06-16 20:39:07]   Game.ini script source: kind='rxdata', ini_value='Data\\Scripts.rxdata', custom_script=None, entry_rb=None
+[2026-06-16 20:39:13]   export_to_rxdata: 146 written, 75 skipped (rxdata up-to-date)
+[2026-06-16 20:39:13] === write_system invoked ===
+[2026-06-16 20:39:13]   ess_folder = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-16 20:39:13]   project.essentials_settings.essentials_folder = None
+[2026-06-16 20:39:13]   project.project_root = 'E:/Games\\Dumpster Fire Red'
+[2026-06-16 20:39:13]   sys_path   = 'E:\\Games\\Dumpster Fire Red\\Data\\System.rxdata'
+[2026-06-16 20:39:13]   exists?    = True
+[2026-06-16 20:39:13]   existing System.rxdata: 6212 bytes, mtime=2026-06-16 20:36:00
+[2026-06-16 20:39:13]   System.rxdata* files found in tree: 2
+[2026-06-16 20:39:13]     - E:\Games\Dumpster Fire Red\Data\System.rxdata
+[2026-06-16 20:39:13]     - E:\Games\Dumpster Fire Red\patch\Data\System.rxdata
+[2026-06-16 20:39:13]   current System.rxdata: @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:39:13]   project state: start_map_id=1, start_x=9, start_y=7
+[2026-06-16 20:39:13]   target values: @start_map_id=1, @start_x=9, @start_y=7 (fallback=False)
+[2026-06-16 20:39:13]   bumped @magic_number 209862595 -> 602849937 (maps changed → old saves will reload their map)
+[2026-06-16 20:39:13]   wrote 6212 bytes
+[2026-06-16 20:39:13]   VERIFIED: read back @start_map_id=1, @start_x=9, @start_y=7
+[2026-06-16 20:39:14] 
+[2026-06-16 20:39:14] === _deploy_xpx_runtime ===
+[2026-06-16 20:39:14]   source: E:\XPX Engine\_internal\base_runtime
+[2026-06-16 20:39:14]   dest:   E:\Games\Dumpster Fire Red
+[2026-06-16 20:39:14]   XPX install integrity: OK (1922 file(s), cached)
+[2026-06-16 20:39:14]   manifest: 5 file(s), 1 folder(s)
+[2026-06-16 20:39:14]     BEFORE Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:39:14]     BEFORE MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:39:14]     BEFORE build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:39:14]     BEFORE x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:39:14]     BEFORE zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:39:14]     5 file(s) already in sync — byte copy skipped
+[2026-06-16 20:39:16]     1 folder(s) already in sync — rebuild skipped
+[2026-06-16 20:39:16]     AFTER  Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:39:16]     AFTER  MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:39:16]     AFTER  build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-16 20:39:16]     AFTER  x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-16 20:39:16]     AFTER  zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-16 20:39:16]   hash-verifying against MANIFEST.json (runtime v0.3.7, 1922 expected file(s))
+[2026-06-16 20:39:17]     ? build_info.json: not in MANIFEST (extra file in runtime folder)
+[2026-06-16 20:39:17]   manifest verified: 3/1922 file(s) match shipped hashes; 0 mismatch(es), 0 error(s)
+[2026-06-16 20:39:17]   result: copied 5 file(s), 1 folder(s); verified 5/5 sizes; 0 file failure(s), 0 folder failure(s)
+[2026-06-16 20:39:17]   integrate timings (total 9851ms):
+[2026-06-16 20:39:17]     export_to_rxdata           5618.9ms
+[2026-06-16 20:39:17]     deploy_runtime             3853.3ms
+[2026-06-16 20:39:17]     write_system                152.0ms
+[2026-06-16 20:39:17]     write_preload_script        132.5ms
+[2026-06-16 20:39:17]     write_mkxp_json              60.8ms
+[2026-06-16 20:39:17]     write_tilesets               33.7ms
+[2026-06-16 20:39:17]     seed_terrain_tags             0.0ms

@@ -2771,3 +2771,235 @@ Debug Output:
 
 [0;33m  -> [0mNone found
 
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 60.89252 * 3 - 1
+Roles for ONIX: [:LEAD, :PHAZER]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Leader Brock!"[0m
+[0;1;30m"Leader Brock sent out Onix!"[0m
+[0;1;30m"Go! Paras!"[0m
+[Round order] The opposing Onix (1), Paras (0)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Paras] -3: for us having fast kill
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 1
+     Paras (0) has been assigned Should Taunt flag
+     End flag assignment.
+[AI] Onix (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Dragon Tail (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] Paras (0), the opposing Onix (1)
+
+[Use move] Paras (0) used Ingrain
+[0;1;30m"Paras used Ingrain!"[0m
+[0;1;30m"Paras planted its roots!"[0m
+[Use move] The opposing Onix (1) used Stealth Rock
+[0;1;30m"The opposing Onix used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+[Ability triggered] Paras's Pillar Plant
+[Stat change] Paras's Defense changed by +6 (0 -> 6)
+[0;1;30m"Paras's Defense rose drastically!"[0m
+[Ability triggered] Paras's Pillar Plant
+[Stat change] Paras's Special Defense changed by +6 (0 -> 6)
+[0;1;30m"Paras's Special Defense rose drastically!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Paras] -3: for us having fast kill
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Onix (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   *   0.0%% to use Stealth Rock: score 0
+   * 100.0%% to use Dragon Tail (target 0): score 21
+   => will use Dragon Tail (target 0)
+
+[Round order] The opposing Onix (1), Paras (0)
+
+[Use move] The opposing Onix (1) used Dragon Tail
+[0;1;30m"The opposing Onix used Dragon Tail!"[0m
+[HP change] Paras lost 2 HP (34 -> 32)
+[Use move] Paras (0) used Absorb
+[0;1;30m"Paras used Absorb!"[0m
+[HP change] The opposing Onix lost 37 HP (38 -> 1)
+[0;1;30m"It's super effective!"[0m
+[Ability triggered] The opposing Onix's Sprinkler Power
+[0;1;30m"The opposing Onix endured the hit!"[0m
+[0;1;30m"The opposing Onix had its energy drained!"[0m
+[HP change] Paras gained 2 HP (32 -> 34)
+
+[End of round 2]
+[HP change] The opposing Onix gained 19 HP (1 -> 20)
+[0;1;30m"The opposing Onix restored a lot of HP using its Mom's Leftovers!"[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Paras] -3: for us having fast kill
+[AI Threat Assessment: Paras] +2: for target having slow kill
+Set up score for Paras (0): 0
+     Threat Score for Paras (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Onix (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Onix (1) is considering using Dragon Tail (1) against Paras (0)...
+     Onix (1)'s highest damaging move vs Paras: Dragon Tail
+      + 20 for fast kill
+[AI] Move choices for Onix (1):
+   *   0.0%% to use Stealth Rock: score 0
+   * 100.0%% to use Dragon Tail (target 0): score 21
+   => will use Dragon Tail (target 0)
+
+[Round order] The opposing Onix (1), Paras (0)
+
+[Use move] The opposing Onix (1) used Dragon Tail
+[0;1;30m"The opposing Onix used Dragon Tail!"[0m
+[HP change] Paras lost 2 HP (34 -> 32)
+[Use move] Paras (0) used Absorb
+[0;1;30m"Paras used Absorb!"[0m
+[HP change] The opposing Onix lost 20 HP (20 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Onix fainted!"[0m
+[0;1;30m"The opposing Onix had its energy drained!"[0m
+[HP change] Paras gained 2 HP (32 -> 34)
+[0;1;30m"Paras got 1 Exp. Points!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Leader Brock!"[0m
+[0;1;30m"I took you for granted, and so I lost."[0m
+
+[0;1;30m"You got $1,400 for winning!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
