@@ -1,6 +1,6 @@
 module Settings
 
-  GAME_VERSION = "0.1.1"
+  GAME_VERSION = "0.1.2"
   POISON_ANIMATION_ID = 8
   TIME_SHADING = true
   POISON_IN_FIELD = true
@@ -48,7 +48,7 @@ def block_debug
 end
 
 def write_version(path = "version")
-  # block_debug
+  block_debug
   $intro = true
   $in_battle = false
   File.open(path, "wb") { |f|

@@ -595,3 +595,13 @@ Battle::ItemEffects::HPHeal.add(:RAGECANDYBAR2,
     next true
   }
 )
+
+class Battle::Move::FixedDamage40 < Battle::Move::FixedDamageMove
+  def pbFixedDamage(user, target)
+    return 40
+  end
+  def pbCalcTypeModSingle(moveType, defType, user, target)
+    return Effectiveness::NORMAL_EFFECTIVE_MULTIPLIER if moveType == :DRAGON && defType == :FAIRY
+    return super
+  end
+end
