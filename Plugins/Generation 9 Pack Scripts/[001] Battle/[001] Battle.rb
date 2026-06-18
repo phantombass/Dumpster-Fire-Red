@@ -380,6 +380,20 @@ class Battle::Move
     end
     paldea_pbCalcDamageMultipliers(user, target, numTargets, type, baseDmg, multipliers)
   end
+
+  def pbFlinchChance(user, target)
+    return 0 if flinchingMove?
+    return 0 if target.hasActiveAbility?(:SHIELDDUST) && !@battle.moldBreaker
+    ret = 0
+    if user.hasActiveAbility?(:STENCH, true) ||
+       user.hasActiveItem?([:KINGSROCK, :RAZORFANG], true)
+      ret = 10
+    end
+    ret *= 2 if user.hasActiveAbility?(:SERENEGRACE) ||
+                user.pbOwnSide.effects[PBEffects::Rainbow] > 0
+    ret = 100 if user.hasActiveAbility?(:MASOCHIST)
+    return ret
+  end
 end
 
 

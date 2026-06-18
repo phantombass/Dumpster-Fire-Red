@@ -202,3 +202,17 @@ Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove
 Description = A unique attack that varies in type and intensity depending on the Pokémon using it.
+#-------------------------------
+[ICETOMB]
+Name = Ice Tomb
+Type = ICE
+Category = Physical
+Power = 1
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = HitFourTimesOneTimeIfIce
+Flags = Contact,CanProtect,CanMirrorMove,Punching
+EffectChance = 10
+Description = The target is encased in an icy grave. If only there were some Pokémon that were immune to this...
+#-------------------------------

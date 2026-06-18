@@ -1,6 +1,8 @@
 class Battle::AI
 	def pbChooseToSwitchOut(terrible_moves = false)
     return false if !@battle.canSwitch   # Battle rule
+    return false # due to the puzzle nature of this, we will not be having hard switches
+    PBDebug.log_ai("#{@user.name} will not switch out, even though normally it would want to")
     return false if @user.wild?
     return false if !@battle.pbCanSwitchOut?(@user.index)
     # Don't switch if all foes are unable to do anything, e.g. resting after

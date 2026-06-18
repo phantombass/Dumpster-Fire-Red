@@ -457,8 +457,12 @@ Battle::AbilityEffects::CriticalCalcFromTarget.copy(:BATTLEARMOR, :MAGMAARMOR, :
 
 module Battle::AbilityEffects
   OnHazardsSet                        = AbilityHandlerHash.new
+  OnTargetFlinch                         = AbilityHandlerHash.new
    def self.triggerOnHazardsSet(ability, battler, battle)
     return trigger(OnHazardsSet, ability, battler, battle)
+  end
+  def self.triggerOnTargetFlinch(ability, battler, battle)
+    return trigger(OnTargetFlinch, ability, battler, battle)
   end
 end
 
@@ -603,5 +607,150 @@ class Battle::Move::FixedDamage40 < Battle::Move::FixedDamageMove
   def pbCalcTypeModSingle(moveType, defType, user, target)
     return Effectiveness::NORMAL_EFFECTIVE_MULTIPLIER if moveType == :DRAGON && defType == :FAIRY
     return super
+  end
+end
+
+class Battle::Battler
+  def pbTryUseMove(choice, move, specialUsage, skipAccuracyCheck)
+    # Check whether it's possible for self to use the given move
+    # NOTE: Encore has already changed the move being used, no need to have a
+    #       check for it here.
+    if !pbCanChooseMove?(move, false, true, specialUsage)
+      @lastMoveFailed = true
+      return false
+    end
+    # Check whether it's possible for self to do anything at all
+    if @effects[PBEffects::SkyDrop] >= 0   # Intentionally no message here
+      PBDebug.log("[Move failed] #{pbThis} can't use #{move.name} because of being Sky Dropped")
+      return false
+    end
+    if @effects[PBEffects::HyperBeam] > 0   # Intentionally before Truant
+      PBDebug.log("[Move failed] #{pbThis} is recharging after using #{move.name}")
+      @battle.pbDisplay(_INTL("{1} must recharge!", pbThis))
+      @effects[PBEffects::Truant] = !@effects[PBEffects::Truant] if hasActiveAbility?(:TRUANT)
+      return false
+    end
+    if choice[1] == -2   # Battle Palace
+      PBDebug.log("[Move failed] #{pbThis} can't act in the Battle Palace somehow")
+      @battle.pbDisplay(_INTL("{1} appears incapable of using its power!", pbThis))
+      return false
+    end
+    # Skip checking all applied effects that could make self fail doing something
+    return true if skipAccuracyCheck
+    # Check status problems and continue their effects/cure them
+    case @status
+    when :SLEEP
+      self.statusCount -= 1
+      if @statusCount <= 0
+        pbCureStatus
+      else
+        pbContinueStatus
+        if !move.usableWhenAsleep?   # Snore/Sleep Talk
+          PBDebug.log("[Move failed] #{pbThis} is asleep")
+          @lastMoveFailed = true
+          return false
+        end
+      end
+    when :FROZEN
+      if !move.thawsUser?
+        if @battle.pbRandom(100) < 20
+          pbCureStatus
+        else
+          pbContinueStatus
+          PBDebug.log("[Move failed] #{pbThis} is frozen")
+          @lastMoveFailed = true
+          return false
+        end
+      end
+    end
+    # Obedience check
+    return false if !pbObedienceCheck?(choice)
+    # Truant
+    if hasActiveAbility?(:TRUANT)
+      @effects[PBEffects::Truant] = !@effects[PBEffects::Truant]
+      if !@effects[PBEffects::Truant]   # True means loafing, but was just inverted
+        @battle.pbShowAbilitySplash(self)
+        @battle.pbDisplay(_INTL("{1} is loafing around!", pbThis))
+        @lastMoveFailed = true
+        @battle.pbHideAbilitySplash(self)
+        PBDebug.log("[Move failed] #{pbThis} can't act because of #{abilityName}")
+        return false
+      end
+    end
+    # Flinching
+    if @effects[PBEffects::Flinch]
+      @battle.pbDisplay(_INTL("{1} flinched and couldn't move!", pbThis))
+      PBDebug.log("[Move failed] #{pbThis} flinched")
+      if abilityActive?
+        Battle::AbilityEffects.triggerOnFlinch(self.ability, self, @battle)
+      end
+      @battle.battlers.each do |b|
+        next if self.idxOwnSide == b.idxOwnSide
+        Battle::AbilityEffects.triggerOnTargetFlinch(b.ability,b,@battle) if b.abilityActive?
+      end
+      @lastMoveFailed = true
+      return false
+    end
+    # Confusion
+    if @effects[PBEffects::Confusion] > 0
+      @effects[PBEffects::Confusion] -= 1
+      if @effects[PBEffects::Confusion] <= 0
+        pbCureConfusion
+        @battle.pbDisplay(_INTL("{1} snapped out of its confusion.", pbThis))
+      else
+        @battle.pbCommonAnimation("Confusion", self)
+        @battle.pbDisplay(_INTL("{1} is confused!", pbThis))
+        threshold = (Settings::MECHANICS_GENERATION >= 7) ? 33 : 50   # % chance
+        if @battle.pbRandom(100) < threshold
+          pbConfusionDamage(_INTL("It hurt itself in its confusion!"))
+          PBDebug.log("[Move failed] #{pbThis} hurt itself in its confusion")
+          @lastMoveFailed = true
+          return false
+        end
+      end
+    end
+    # Paralysis
+    if @status == :PARALYSIS && @battle.pbRandom(100) < 25
+      pbContinueStatus
+      PBDebug.log("[Move failed] #{pbThis} is paralyzed")
+      @lastMoveFailed = true
+      return false
+    end
+    # Infatuation
+    if @effects[PBEffects::Attract] >= 0
+      @battle.pbCommonAnimation("Attract", self)
+      @battle.pbDisplay(_INTL("{1} is in love with {2}!", pbThis,
+                              @battle.battlers[@effects[PBEffects::Attract]].pbThis(true)))
+      if @battle.pbRandom(100) < 50
+        @battle.pbDisplay(_INTL("{1} is immobilized by love!", pbThis))
+        PBDebug.log("[Move failed] #{pbThis} is immobilized by love")
+        @lastMoveFailed = true
+        return false
+      end
+    end
+    return true
+  end
+end
+
+Battle::AbilityEffects::OnTargetFlinch.add(:MASOCHIST,
+  proc { |ability, battler, battle|
+    battler.pbRaiseStatStageByAbility(:SPEED, 1, battler)
+    battler.pbRaiseStatStageByAbility(:SPECIAL_ATTACK, 1, battler)
+  }
+)
+
+class Battle::Move::HitFourTimesOneTimeIfIce < Battle::Move
+  def multiHitMove?;            return true; end
+  def pbNumHits(user, targets)
+    if targets.any? { |target| target.pbHasType?(:ICE) || target.pbHasType?(:GHOST)  }
+      return 1
+    else
+      return 4
+    end
+  end
+  def pbFixedDamage(user, target)
+    return 1 if target.pbHasType?(:ICE)
+    return 1 if target.pbHasType?(:GHOST)
+    return (target.totalhp/4).floor
   end
 end

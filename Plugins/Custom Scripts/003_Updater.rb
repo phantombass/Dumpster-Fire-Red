@@ -422,3 +422,14 @@ MenuHandlers.add(:load_screen, :update_not_needed, {
   "order"     => 36,
   "condition" => proc { |screen| next !Dumpster.need_update? }
 })
+
+UIActionHandlers.add(UI::Load::SCREEN_ID, :update, {
+  :effect => proc { |screen|
+    link = "https://raw.githubusercontent.com/phantombass/Dumpster-Fire-Red/Release/version"
+    version = Downloader.toString(link)
+    pbMessage(_INTL("Current Version: #{Settings::GAME_VERSION}\nNew Version: #{version}"))
+    if pbConfirmMessage(_INTL("Would you like to update?"))
+      Dumpster.update
+    end
+  }
+})
