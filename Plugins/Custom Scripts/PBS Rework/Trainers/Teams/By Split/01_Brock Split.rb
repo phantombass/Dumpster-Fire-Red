@@ -104,7 +104,7 @@ PB_Trainers.register(:BUGCATCHER,"Charlie",{
 :lose_text => "Oh! I lost!",
 :pokemon=> [
 {:species => :BURMY,
-
+:form => 0,
 
 :level => 9,
 

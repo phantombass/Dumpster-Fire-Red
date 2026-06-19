@@ -212,7 +212,32 @@ Accuracy = 100
 TotalPP = 15
 Target = NearOther
 FunctionCode = HitFourTimesOneTimeIfIce
-Flags = Contact,CanProtect,CanMirrorMove,Punching
+Flags = CanProtect,CanMirrorMove
 EffectChance = 10
+Priority = 2
 Description = The target is encased in an icy grave. If only there were some Pokémon that were immune to this...
+#-------------------------------
+[DUALWINGBEAK]
+Name = Dual WingBeak
+Type = FLYING
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = HitTwiceAsManyAsHeads
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user slams the target with its beaks. The target is hit twice as many times as the user has heads.
+#-------------------------------
+[DOUBLEHEADBONK]
+Name = Double Headbonk
+Type = NORMAL
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = HitTwiceAsManyAsHeads
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user slams the target with its heads. The target is hit twice as many times as the user has heads.
 #-------------------------------

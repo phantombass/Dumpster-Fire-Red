@@ -3003,3 +3003,192 @@ Debug Output:
 
 [0;33m  -> [0mNone found
 
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mCompiling PBS file [0;36mtown_map.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_connections.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtypes.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves.txt[0m...........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_hidden_power.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems.txt[0m..........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mberry_plants.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon.txt[0m..............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_forms.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics.txt[0m...............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mregional_dexes.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mribbons.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mencounters.txt[0m.............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainer_types.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainers.txt[0m......................[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mbattle_facility_lists.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmetadata.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_metadata.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_tilesets.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_parameters.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mphone.txt[0m....[0;32mdone[0m
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
