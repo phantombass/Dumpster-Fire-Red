@@ -3,7 +3,7 @@
 #===================================#
 PB_Trainers.register(:LASS,"Janice",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You're mean!",
 :pokemon=> [
 {:species => :PIKACHU,
 
@@ -22,7 +22,7 @@ PB_Trainers.register(:LASS,"Janice",{
 
 PB_Trainers.register(:BUGCATCHER,"Colton",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You beat me again!",
 :pokemon=> [
 {:species => :BUTTERFREE,
 
@@ -42,7 +42,7 @@ PB_Trainers.register(:BUGCATCHER,"Colton",{
 
 PB_Trainers.register(:YOUNGSTER,"Ben",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I don't believe it!",
 :pokemon=> [
 {:species => :DRILBUR,
 
@@ -61,7 +61,7 @@ PB_Trainers.register(:YOUNGSTER,"Ben",{
 
 PB_Trainers.register(:BUGCATCHER,"Greg",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "If I had new Pokémon, I would've won!",
 :pokemon=> [
 {:species => :LARVESTA,
 
@@ -80,7 +80,7 @@ PB_Trainers.register(:BUGCATCHER,"Greg",{
 
 PB_Trainers.register(:BUGCATCHER,"James",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Done like dinner!",
 :pokemon=> [
 {:species => :DEWPIDER,
 
@@ -106,7 +106,7 @@ PB_Trainers.register(:BUGCATCHER,"James",{
 
 PB_Trainers.register(:LASS,"Sally",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Be nice!",
 :pokemon=> [
 {:species => :JIGGLYPUFF,
 
@@ -125,7 +125,7 @@ PB_Trainers.register(:LASS,"Sally",{
 
 PB_Trainers.register(:LASS,"Robin",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "That's it?",
 :pokemon=> [
 {:species => :SNUBBULL,
 :ability => :INTIMIDATE,
@@ -142,13 +142,33 @@ PB_Trainers.register(:LASS,"Robin",{
 
 }]}})
 
+PB_Trainers.register(:YOUNGSTER,"Calvin",{
+:base => {
+:lose_text => "Lost! Lost! Lost!",
+:pokemon=> [
+{:species => :COMBUSKEN,
+
+
+:level => 16,
+:moves => [:DOUBLEKICK,:FLAMECHARGE]
+
+},
+{:species => :FROGADIER,
+
+
+:level => 16,
+:moves => [:WATERPULSE,:ICYWIND]
+
+}]}})
+
+
 #===================================#
 #             Mt. Moon              #
 #===================================#
 
 PB_Trainers.register(:BUGCATCHER,"Kent",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You got me!",
 :pokemon=> [
 {:species => :DOTTLER,
 
@@ -167,7 +187,7 @@ PB_Trainers.register(:BUGCATCHER,"Kent",{
 
 PB_Trainers.register(:LASS,"Iris",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I lost?",
 :pokemon=> [
 {:species => :CLEFAIRY,
 :ability => :MAGICGUARD,
@@ -179,7 +199,7 @@ PB_Trainers.register(:LASS,"Iris",{
 
 PB_Trainers.register(:LASS,"Miriam",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Oh! I lost it!",
 :pokemon=> [
 {:species => :BELLSPROUT,
 
@@ -205,7 +225,7 @@ PB_Trainers.register(:LASS,"Miriam",{
 
 PB_Trainers.register(:BUGCATCHER,"Robby",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I lost.",
 :pokemon=> [
 {:species => :SIZZLIPEDE,
 
@@ -224,7 +244,7 @@ PB_Trainers.register(:BUGCATCHER,"Robby",{
 
 PB_Trainers.register(:SUPERNERD,"Jovan",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "My Pokémon won't do!",
 :pokemon=> [
 {:species => :MARILL,
 :ability => :HUGEPOWER,
@@ -243,7 +263,7 @@ PB_Trainers.register(:SUPERNERD,"Jovan",{
 
 PB_Trainers.register(:YOUNGSTER,"Josh",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Losing stinks! It's so uncool.",
 :pokemon=> [
 {:species => :HERDIER,
 
@@ -262,7 +282,7 @@ PB_Trainers.register(:YOUNGSTER,"Josh",{
 
 PB_Trainers.register(:HIKER,"Marcos",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Wow! Shocked again!",
 :pokemon=> [
 {:species => :GEODUDE,
 
@@ -288,7 +308,7 @@ PB_Trainers.register(:HIKER,"Marcos",{
 
 PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Mt_Moon_1 => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I'm steamed!",
 :pokemon=> [
 {:species => :KOFFING,
 
@@ -307,7 +327,7 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 
 PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Mt_Moon_2 => {
-:lose_text => "Wow. You're great!",
+:lose_text => "So, you are good...",
 :pokemon=> [
 {:species => :QWILFISH_1,
 
@@ -333,7 +353,7 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 
 PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Mt_Moon_3 => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I blew it!",
 :pokemon=> [
 {:species => :VAROOM,
 
@@ -352,7 +372,7 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 
 PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Mt_Moon_4 => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Urgh! Now I'm mad!",
 :pokemon=> [
 {:species => :SNEASEL_1,
 
@@ -378,7 +398,7 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 
 PB_Trainers.register(:SUPERNERD,"Miguel",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Okay! I'll share!",
 :pokemon=> [
 {:species => :PAWMO,
 
@@ -408,7 +428,7 @@ PB_Trainers.register(:SUPERNERD,"Miguel",{
 
 PB_Trainers.register(:RIVAL1,"Blue",{
 :Cerulean => {
-:lose_text => "Ugh.",
+:lose_text => "Hey! Take it easy! You won already!",
 :pokemon=> [
 {:species => :DELIBIRD,
 :ability => :MAGICGUARD,
