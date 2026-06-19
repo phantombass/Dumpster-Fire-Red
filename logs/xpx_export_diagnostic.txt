@@ -279,5 +279,5 @@ ts_list length: 26
   Map221 (Hall of Fame): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
 
 === Summary ===
-Exported: 147 maps
-Skipped : 74 maps (rxdata up-to-date, no mismatch)
+Exported: 149 maps
+Skipped : 72 maps (rxdata up-to-date, no mismatch)
