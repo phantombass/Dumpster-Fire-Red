@@ -12327,3 +12327,416 @@ Set up score for Wynaut (0): 0
 
 [0;1;30m"You have no more Pokémon that can fight!"[0m
 [0;1;30m"You lost against Rival Blue!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 17.586489 * 3 - 1
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Rival Blue!"[0m
+[0;1;30m"Rival Blue sent out Delibird!"[0m
+[0;1;30m"Go! Sandshrew!"[0m
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0%% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+[0;1;30m"The opposing Delibird used Ice Tomb!"[0m
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Rapid Spin
+[0;1;30m"Sandshrew used Rapid Spin!"[0m
+[HP change] The opposing Delibird lost 14 HP (51 -> 37)
+[0;1;30m"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"[0m
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+[0;1;30m"Sandshrew's Speed rose!"[0m
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+[0;1;30m"Sandshrew is hurt by its Sticky Barb!"[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Sandshrew] +2: for target having slow kill
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0%% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+[0;1;30m"The opposing Delibird used Ice Tomb!"[0m
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Delibird lost 37 HP (37 -> 0)
+[0;1;30m"A critical hit!"[0m
+[0;1;30m"The opposing Delibird fainted!"[0m
+[0;1;30m"Sandshrew got 1 Exp. Points!"[0m
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+[0;1;30m"Sandshrew is hurt by its Sticky Barb!"[0m
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (37) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+[0;1;30m"Rival Blue sent out Togekiss!"[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] Sandshrew (0), the opposing Togekiss (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+[0;1;30m"Sandshrew used Ice Shard!"[0m
+[HP change] The opposing Togekiss lost 20 HP (70 -> 50)
+[0;1;30m"It's super effective!"[0m
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Sandshrew lost 33 HP (41 -> 8)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 3]
+[HP change] Sandshrew lost 6 HP (8 -> 2)
+[0;1;30m"Sandshrew is hurt by its Sticky Barb!"[0m
+
+[0;1;35m===== Round 4 =====[0m
+
+[AI Threat Assessment: Sandshrew] -3: for us having fast kill
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+      + 20 for fast kill
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 21
+   => will use Air Slash (target 0)
+
+[Round order] Sandshrew (0), the opposing Togekiss (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+[0;1;30m"Sandshrew used Ice Shard!"[0m
+[HP change] The opposing Togekiss lost 18 HP (50 -> 32)
+[0;1;30m"It's super effective!"[0m
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Sandshrew lost 2 HP (2 -> 0)
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"Sandshrew fainted!"[0m
+
+[End of round 4]
+[0;1;30m"Just a little more! Hang in there, Trubbish!"[0m
+
+[0;1;35m===== Round 5 =====[0m
+
+[AI Threat Assessment: Trubbish] -1: for us outspeeding
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Trubbish (0)...
+     Togekiss (1)'s highest damaging move vs Trubbish: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Trubbish (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Trubbish lost 47 HP (58 -> 11)
+[Use move] Trubbish (0) used Gastro Acid
+[0;1;30m"Trubbish used Gastro Acid!"[0m
+[0;1;30m"The opposing Togekiss's Ability was suppressed!"[0m
+
+[End of round 5]
+
+[0;1;35m===== Round 6 =====[0m
+
+[AI Threat Assessment: Trubbish] -3: for us having fast kill
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Trubbish (0)...
+     Togekiss (1)'s highest damaging move vs Trubbish: Air Slash
+      + 20 for fast kill
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 21
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Trubbish (0)
+
+[0;1;30m"Good job, Trubbish! Come back!"[0m
+[0;1;30m"Just a little more! Hang in there, Noctowl!"[0m
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Noctowl lost 34 HP (73 -> 39)
+
+[End of round 6]
+
+[0;1;35m===== Round 7 =====[0m
+
+[AI Threat Assessment: Noctowl] -1: for us outspeeding
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Noctowl (0)...
+     Togekiss (1)'s highest damaging move vs Noctowl: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Noctowl (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Noctowl lost 36 HP (39 -> 3)
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Togekiss lost 29 HP (32 -> 3)
+[0;1;30m"A critical hit!"[0m
+
+[End of round 7]
+
+[0;1;35m===== Round 8 =====[0m
+
+[AI Threat Assessment: Noctowl] -3: for us having fast kill
+[AI Threat Assessment: Noctowl] +2: for target having slow kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Noctowl (0)...
+     Togekiss (1)'s highest damaging move vs Noctowl: Air Slash
+      + 20 for fast kill
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 21
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Noctowl (0)
+
+[0;1;30m"Good job, Noctowl! Come back!"[0m
+[0;1;30m"Your opponent's weak! Get 'em, Beldum!"[0m
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Beldum lost 23 HP (49 -> 26)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 8]
+
+[0;1;35m===== Round 9 =====[0m
+
+[AI Threat Assessment: Beldum] +2: for target having slow kill
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Beldum (0)...
+     Togekiss (1)'s highest damaging move vs Beldum: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0%% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Beldum (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+[0;1;30m"The opposing Togekiss used Air Slash!"[0m
+[HP change] Beldum lost 22 HP (26 -> 4)
+[0;1;30m"It's not very effective..."[0m
+[Use move] Beldum (0) used Metal Claw
+[0;1;30m"Beldum used Metal Claw!"[0m
+[HP change] The opposing Togekiss lost 3 HP (3 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Togekiss fainted!"[0m
+[0;1;30m"Beldum got 1 Exp. Points!"[0m
+
+[End of round 9]
+==============================
+     [Doduo] using Double Headbonk vs Beldum does a max of 7/4 damage
+     [Doduo] using Dual WingBeak vs Beldum does a max of 7/4 damage
+     Beldum (0)'s best move: Metal Claw for 18/50 damage
+==============================
+     Beldum (0) speed (17) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+[0;1;30m"Rival Blue sent out Doduo!"[0m
+
+[0;1;35m===== Round 10 =====[0m
+
+[AI Threat Assessment: Beldum] -3: for us having fast kill
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+      + 20 for fast kill
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+      + 20 for fast kill
+[AI] Move choices for Doduo (1):
+   *  50.0%% to use Double Headbonk (target 0): score 21
+   *  50.0%% to use Dual WingBeak (target 0): score 21
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+[0;1;30m"The opposing Doduo used Dual WingBeak!"[0m
+[HP change] Beldum lost 4 HP (4 -> 0)
+[0;1;30m"Beldum fainted!"[0m
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"Hit 1 time!"[0m
+
+[End of round 10]
+[0;1;30m"You're in charge, Wynaut!"[0m
+
+[0;1;35m===== Round 11 =====[0m
+
+[AI Threat Assessment: Wynaut] +2: for target having slow kill
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Wynaut (0)...
+     Doduo (1)'s highest damaging move vs Wynaut: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Wynaut (0)...
+     Doduo (1)'s highest damaging move vs Wynaut: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0%% to use Double Headbonk (target 0): score 0
+   * 100.0%% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Wynaut (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+[0;1;30m"The opposing Doduo used Dual WingBeak!"[0m
+[HP change] Wynaut lost 17 HP (76 -> 59)
+[HP change] Wynaut lost 17 HP (59 -> 42)
+[HP change] Wynaut lost 17 HP (42 -> 25)
+[HP change] Wynaut gained 10 HP (25 -> 35)
+[0;1;30m"Wynaut restored a little HP using its Oran Berry!"[0m
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 19 HP (35 -> 16)
+[0;1;30m"Hit 4 times!"[0m
+[Use move] Wynaut (0) used Counter
+[0;1;30m"Wynaut used Counter!"[0m
+[HP change] The opposing Doduo lost 38 HP (50 -> 12)
+
+[End of round 11]
+
+[0;1;35m===== Round 12 =====[0m
+
