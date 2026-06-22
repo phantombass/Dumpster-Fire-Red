@@ -1,59 +1,59 @@
 === XPX rxdata export diagnostic ===
 Tilesets.rxdata at: E:\Games\Dumpster Fire Red\Data\Tilesets.rxdata
-ts_list length: 26
+ts_list length: 25
 
 === Raw position dump (every array entry) ===
   [  0] = None
   [  1] = RubyObject @tileset_name='Outside' @name='Outside'
-  [  2] = RubyObject @tileset_name='Outside2' @name='Outside waterfall'
-  [  3] = RubyObject @tileset_name='Interior general' @name='Inside'
-  [  4] = RubyObject @tileset_name='Poke Centre interior' @name='Poké Center'
-  [  5] = RubyObject @tileset_name='Mart interior' @name='Poké Mart'
+  [  2] = RubyObject @tileset_name='Interior general' @name='Inside'
+  [  3] = RubyObject @tileset_name='Poke Centre interior' @name='Poké Center'
+  [  4] = RubyObject @tileset_name='Mart interior' @name='Poké Mart'
+  [  5] = RubyObject @tileset_name='Gyms interior' @name='Gyms'
   [  6] = RubyObject @tileset_name='Caves' @name='Caves'
-  [  7] = RubyObject @tileset_name='Dungeon cave' @name='Dungeon cave'
+  [  7] = RubyObject @tileset_name='Museum interior' @name='Museum'
   [  8] = RubyObject @tileset_name='Bike shop interior' @name='Bike Shop'
-  [  9] = RubyObject @tileset_name='Boat' @name='Boat'
-  [ 10] = RubyObject @tileset_name='Department store interior' @name='Department Store'
+  [  9] = RubyObject @tileset_name='Underground path' @name='Underground Path'
+  [ 10] = RubyObject @tileset_name='Boat' @name='Boat'
   [ 11] = RubyObject @tileset_name='Factory interior' @name='Power Plant'
-  [ 12] = RubyObject @tileset_name='Game Corner interior' @name='Game Corner'
-  [ 13] = RubyObject @tileset_name='Graveyard tower interior' @name='Graveyard'
-  [ 14] = RubyObject @tileset_name='Gyms interior' @name='Gyms'
-  [ 15] = RubyObject @tileset_name='Harbour interior' @name='Harbour'
-  [ 16] = RubyObject @tileset_name='Mansion interior' @name='Mansion'
-  [ 17] = RubyObject @tileset_name='Multiplayer rooms' @name='Multiplayer rooms'
-  [ 18] = RubyObject @tileset_name='Museum interior' @name='Museum'
-  [ 19] = RubyObject @tileset_name='Ruins interior' @name='Ruins'
-  [ 20] = RubyObject @tileset_name='Trainer Tower interior' @name='Trainer Tower'
-  [ 21] = RubyObject @tileset_name='Underground path' @name='Underground Path'
+  [ 12] = RubyObject @tileset_name='Graveyard tower interior' @name='Graveyard'
+  [ 13] = RubyObject @tileset_name='Department store interior' @name='Department Store'
+  [ 14] = RubyObject @tileset_name='Game Corner interior' @name='Game Corner'
+  [ 15] = RubyObject @tileset_name='Mansion interior' @name='Mansion'
+  [ 16] = RubyObject @tileset_name='' @name='Outside waterfall'
+  [ 17] = RubyObject @tileset_name='Dungeon cave.png' @name='Dungeon cave'
+  [ 18] = RubyObject @tileset_name='Harbour interior.png' @name='Harbour'
+  [ 19] = RubyObject @tileset_name='Multiplayer rooms' @name='Multiplayer rooms'
+  [ 20] = RubyObject @tileset_name='Ruins interior' @name='Ruins'
+  [ 21] = RubyObject @tileset_name='Trainer Tower interior' @name='Trainer Tower'
   [ 22] = RubyObject @tileset_name='Underwater' @name='Underwater'
   [ 23] = RubyObject @tileset_name='Dungeon forest' @name='Dungeon forest'
-  [ 24] = RubyObject @tileset_name='' @name=''
-  [ 25] = RubyObject @tileset_name='' @name=''
+  [ 24] = RubyObject @tileset_name='Outside2' @name='Outside waterfall'
 
 === Lookup entries (76) ===
   [  1] -> ['outside', 'outside.png']
-  [  2] -> ['outside waterfall', 'outside waterfall.png', 'outside2', 'outside2.png']
-  [  3] -> ['inside', 'inside.png', 'interior general', 'interior general.png']
-  [  4] -> ['poke centre interior', 'poke centre interior.png', 'poké center', 'poké center.png']
-  [  5] -> ['mart interior', 'mart interior.png', 'poké mart', 'poké mart.png']
+  [  2] -> ['inside', 'inside.png', 'interior general', 'interior general.png']
+  [  3] -> ['poke centre interior', 'poke centre interior.png', 'poké center', 'poké center.png']
+  [  4] -> ['mart interior', 'mart interior.png', 'poké mart', 'poké mart.png']
+  [  5] -> ['gyms', 'gyms interior', 'gyms interior.png', 'gyms.png']
   [  6] -> ['caves', 'caves.png']
-  [  7] -> ['dungeon cave', 'dungeon cave.png']
+  [  7] -> ['museum', 'museum interior', 'museum interior.png', 'museum.png']
   [  8] -> ['bike shop', 'bike shop interior', 'bike shop interior.png', 'bike shop.png']
-  [  9] -> ['boat', 'boat.png']
-  [ 10] -> ['department store', 'department store interior', 'department store interior.png', 'department store.png']
+  [  9] -> ['underground path', 'underground path.png']
+  [ 10] -> ['boat', 'boat.png']
   [ 11] -> ['factory interior', 'factory interior.png', 'power plant', 'power plant.png']
-  [ 12] -> ['game corner', 'game corner interior', 'game corner interior.png', 'game corner.png']
-  [ 13] -> ['graveyard', 'graveyard tower interior', 'graveyard tower interior.png', 'graveyard.png']
-  [ 14] -> ['gyms', 'gyms interior', 'gyms interior.png', 'gyms.png']
-  [ 15] -> ['harbour', 'harbour interior', 'harbour interior.png', 'harbour.png']
-  [ 16] -> ['mansion', 'mansion interior', 'mansion interior.png', 'mansion.png']
-  [ 17] -> ['multiplayer rooms', 'multiplayer rooms.png']
-  [ 18] -> ['museum', 'museum interior', 'museum interior.png', 'museum.png']
-  [ 19] -> ['ruins', 'ruins interior', 'ruins interior.png', 'ruins.png']
-  [ 20] -> ['trainer tower', 'trainer tower interior', 'trainer tower interior.png', 'trainer tower.png']
-  [ 21] -> ['underground path', 'underground path.png']
+  [ 12] -> ['graveyard', 'graveyard tower interior', 'graveyard tower interior.png', 'graveyard.png']
+  [ 13] -> ['department store', 'department store interior', 'department store interior.png', 'department store.png']
+  [ 14] -> ['game corner', 'game corner interior', 'game corner interior.png', 'game corner.png']
+  [ 15] -> ['mansion', 'mansion interior', 'mansion interior.png', 'mansion.png']
+  [ 16] -> ['outside waterfall', 'outside waterfall.png']
+  [ 17] -> ['dungeon cave', 'dungeon cave.png']
+  [ 18] -> ['harbour', 'harbour interior', 'harbour interior.png', 'harbour.png']
+  [ 19] -> ['multiplayer rooms', 'multiplayer rooms.png']
+  [ 20] -> ['ruins', 'ruins interior', 'ruins interior.png', 'ruins.png']
+  [ 21] -> ['trainer tower', 'trainer tower interior', 'trainer tower interior.png', 'trainer tower.png']
   [ 22] -> ['underwater', 'underwater.png']
   [ 23] -> ['dungeon forest', 'dungeon forest.png']
+  [ 24] -> ['outside2', 'outside2.png']
 
 === Per-map reconciliation ===
   Map001 (Intro): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
@@ -61,190 +61,190 @@ ts_list length: 26
   Map003 (Battle Test): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map004 (Kanto): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map005 (Pallet Town): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map006 (Oak's Lab): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map007 (Player's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map008 (Rival's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map006 (Oak's Lab): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map007 (Player's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map008 (Rival's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map009 (Route 1): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map010 (Viridian City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map011 (Viridian Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map012 (Viridian Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map013 (Viridian Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map014 (Viridian House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map015 (Viridian House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map011 (Viridian Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map012 (Viridian Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map013 (Viridian Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map014 (Viridian House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map015 (Viridian House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map016 (Route 22): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map017 (Indigo Plateau Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map017 (Indigo Plateau Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map018 (Route 2): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map019 (Gatehouse South): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map020 (Gatehouse North): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map021 (Secret Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map022 (Hidden House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map019 (Gatehouse South): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map020 (Gatehouse North): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map021 (Secret Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map022 (Hidden House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map023 (Diglett's Cave - Entrance): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map024 (Viridian Forest): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map025 (Pewter City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map026 (Pewter Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map027 (Pewter Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map028 (Pewter Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map029 (Pewter Museum): stored_id=7, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Museum interior.png', slot_name='Museum', resolved_id=18 (matched 'museum interior.png') *** MISMATCH ***
-  Map030 (Pewter House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map031 (Pewter House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map026 (Pewter Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map027 (Pewter Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map028 (Pewter Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map029 (Pewter Museum): stored_id=7, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Museum interior.png', slot_name='Museum', resolved_id=7 (matched 'museum interior.png')
+  Map030 (Pewter House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map031 (Pewter House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map032 (Route 3): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map033 (Route 4): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map034 (Mt. Moon Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
+  Map034 (Mt. Moon Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
   Map035 (Mt. Moon): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map036 (Mt. Moon - 1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map037 (Mt. Moon - B1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map038 (Mt. Moon - B2F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map039 (Cerulean City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map040 (Cerulean Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map041 (Cerulean Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map042 (Cerulean Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
+  Map040 (Cerulean Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map041 (Cerulean Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map042 (Cerulean Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
   Map043 (Bike Shop): stored_id=8, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Bike shop interior.png', slot_name='Bike Shop', resolved_id=8 (matched 'bike shop interior.png')
-  Map044 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map045 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map046 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map047 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map048 (Ransacked House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map044 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map045 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map046 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map047 (Cerulean House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map048 (Ransacked House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map049 (Cerulean Cave): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map050 (Cerulean Cave - 1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map051 (Cerulean Cave - 2F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map052 (Cerulean Cave - B1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map053 (Route 24): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map054 (Route 25): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map055 (Bill's Cottage): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map055 (Bill's Cottage): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map056 (Route 5): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map057 (Saffron Gate North): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map058 (Pokémon Day Care): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map059 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map060 (Underground Path - Tunnel): stored_id=9, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Underground path.png', slot_name='Underground Path', resolved_id=21 (matched 'underground path.png') *** MISMATCH ***
+  Map057 (Saffron Gate North): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map058 (Pokémon Day Care): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map059 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map060 (Underground Path - Tunnel): stored_id=9, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Underground path.png', slot_name='Underground Path', resolved_id=9 (matched 'underground path.png')
   Map061 (Route 6): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map062 (Saffron Gate South): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map063 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map062 (Saffron Gate South): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map063 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map064 (Vermilion City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map065 (Vermilion Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map066 (Vermilion Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map067 (Vermilion Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map068 (Pokémon Fan Club): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map069 (Vermilion House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map070 (Vermilion House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map071 (Fisherman's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map065 (Vermilion Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map066 (Vermilion Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map067 (Vermilion Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map068 (Pokémon Fan Club): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map069 (Vermilion House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map070 (Vermilion House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map071 (Fisherman's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map072 (Vermilion Harbor): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map073 (S.S. Anne): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
-  Map074 (S.S. Anne - 1F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
-  Map075 (S.S. Anne - 2F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
-  Map076 (S.S. Anne - Captain's Cabin): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
-  Map077 (S.S. Anne - B1F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
-  Map078 (S.S. Anne - Deck): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=9 (matched 'boat.png') *** MISMATCH ***
+  Map073 (S.S. Anne): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
+  Map074 (S.S. Anne - 1F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
+  Map075 (S.S. Anne - 2F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
+  Map076 (S.S. Anne - Captain's Cabin): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
+  Map077 (S.S. Anne - B1F): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
+  Map078 (S.S. Anne - Deck): stored_id=10, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Boat.png', slot_name='Boat', resolved_id=10 (matched 'boat.png')
   Map079 (Route 11): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map080 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map080 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map081 (Diglett's Cave - Entrance): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map082 (Diglett's Cave - Tunnel): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map083 (Route 12): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map084 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map085 (Fishing Guru's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map084 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map085 (Fishing Guru's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map086 (Route 9): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map087 (Route 10): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map088 (Rock Tunnel Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
+  Map088 (Rock Tunnel Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
   Map089 (Rock Tunnel): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map090 (Rock Tunnel - 1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map091 (Rock Tunnel - B1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map092 (Power Plant): stored_id=11, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Factory interior.png', slot_name='Power Plant', resolved_id=11 (matched 'factory interior.png')
   Map093 (Lavender Town): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map094 (Lavender Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map095 (Lavender Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map096 (Lavender House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map097 (Name Rater's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map098 (Mr. Fuji's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map099 (Pokémon Tower): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map100 (Pokémon Tower - 1F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map101 (Pokémon Tower - 2F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map102 (Pokémon Tower - 3F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map103 (Pokémon Tower - 4F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map104 (Pokémon Tower - 5F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map105 (Pokémon Tower - 6F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
-  Map106 (Pokémon Tower - 7F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=13 (matched 'graveyard tower interior.png') *** MISMATCH ***
+  Map094 (Lavender Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map095 (Lavender Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map096 (Lavender House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map097 (Name Rater's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map098 (Mr. Fuji's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map099 (Pokémon Tower): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map100 (Pokémon Tower - 1F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map101 (Pokémon Tower - 2F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map102 (Pokémon Tower - 3F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map103 (Pokémon Tower - 4F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map104 (Pokémon Tower - 5F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map105 (Pokémon Tower - 6F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
+  Map106 (Pokémon Tower - 7F): stored_id=12, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Graveyard tower interior.png', slot_name='Graveyard', resolved_id=12 (matched 'graveyard tower interior.png')
   Map107 (Route 8): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map108 (Saffron Gate East): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map109 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map110 (Underground Path - Tunnel): stored_id=9, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Underground path.png', slot_name='Underground Path', resolved_id=21 (matched 'underground path.png') *** MISMATCH ***
+  Map108 (Saffron Gate East): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map109 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map110 (Underground Path - Tunnel): stored_id=9, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Underground path.png', slot_name='Underground Path', resolved_id=9 (matched 'underground path.png')
   Map111 (Route 7): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map112 (Saffron Gate West): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map113 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map112 (Saffron Gate West): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map113 (Underground Path - Entrance): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map114 (Celadon City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map115 (Celadon Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map116 (Celadon Dept. Store): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map117 (Celadon Dept. Store - 1F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map118 (Celadon Dept. Store - 2F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map119 (Celadon Dept. Store - 3F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map120 (Celadon Dept. Store - 4F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map121 (Celadon Dept. Store - 5F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map122 (Celadon Dept. Store - Rooftop): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map123 (Celadon Dept. Store - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
-  Map124 (Celadon Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map125 (Celadon Diner): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map126 (Celadon Hotel): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map127 (Celadon House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map128 (Celadon Mansion): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map129 (Game Corner): stored_id=14, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Game Corner interior.png', slot_name='Game Corner', resolved_id=12 (matched 'game corner interior.png') *** MISMATCH ***
-  Map130 (Rocket Hideout): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map131 (Rocket Hideout - B1F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map132 (Rocket Hideout - B2F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map133 (Rocket Hideout - B3F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map134 (Rocket Hideout - B4F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map135 (Rocket Hideout - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
+  Map115 (Celadon Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map116 (Celadon Dept. Store): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map117 (Celadon Dept. Store - 1F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map118 (Celadon Dept. Store - 2F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map119 (Celadon Dept. Store - 3F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map120 (Celadon Dept. Store - 4F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map121 (Celadon Dept. Store - 5F): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map122 (Celadon Dept. Store - Rooftop): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map123 (Celadon Dept. Store - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
+  Map124 (Celadon Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map125 (Celadon Diner): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map126 (Celadon Hotel): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map127 (Celadon House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map128 (Celadon Mansion): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map129 (Game Corner): stored_id=14, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Game Corner interior.png', slot_name='Game Corner', resolved_id=14 (matched 'game corner interior.png')
+  Map130 (Rocket Hideout): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map131 (Rocket Hideout - B1F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map132 (Rocket Hideout - B2F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map133 (Rocket Hideout - B3F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map134 (Rocket Hideout - B4F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map135 (Rocket Hideout - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
   Map136 (Route 16): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map137 (Cycling Road Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map138 (Secret House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map137 (Cycling Road Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map138 (Secret House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map139 (Route 16): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map140 (Route 17): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map141 (Route 18): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map142 (Cycling Road Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map142 (Cycling Road Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map143 (Route 18): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map144 (Fuchsia City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map145 (Fuchsia Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map146 (Fuchsia Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map147 (Fuchsia Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map148 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map149 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map150 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map151 (Fisherman's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map152 (Warden's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map153 (Safari Zone Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map145 (Fuchsia Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map146 (Fuchsia Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map147 (Fuchsia Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map148 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map149 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map150 (Fuchsia House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map151 (Fisherman's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map152 (Warden's House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map153 (Safari Zone Gate): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map154 (Safari Zone): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map155 (Safari Zone - South): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map156 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map156 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map157 (Safari Zone - East): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map158 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map158 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map159 (Safari Zone - North): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map160 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map160 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map161 (Safari Zone - West): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map162 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map163 (Secret Safari House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map162 (Safari Rest House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map163 (Secret Safari House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map164 (Route 15): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map165 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
+  Map165 (Gatehouse): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
   Map166 (Route 14): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map167 (Route 13): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map168 (Saffron City): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map169 (Saffron Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map170 (Saffron Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map171 (Saffron Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map172 (Fighting Dojo): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map173 (Pokémon Trainer Fan Club): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map174 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map175 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map176 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map177 (Silph Co.): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map178 (Silph Co. - 1F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map179 (Silph Co. - 2F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map180 (Silph Co. - 3F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map181 (Silph Co. - 4F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map182 (Silph Co. - 5F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map183 (Silph Co. - 6F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map184 (Silph Co. - 7F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map185 (Silph Co. - 8F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map186 (Silph Co. - 9F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map187 (Silph Co. - 10F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map188 (Silph Co. - 11F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map189 (Silph Co. - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=10 (matched 'department store interior.png') *** MISMATCH ***
+  Map169 (Saffron Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map170 (Saffron Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map171 (Saffron Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map172 (Fighting Dojo): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map173 (Pokémon Trainer Fan Club): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map174 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map175 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map176 (Saffron House): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map177 (Silph Co.): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map178 (Silph Co. - 1F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map179 (Silph Co. - 2F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map180 (Silph Co. - 3F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map181 (Silph Co. - 4F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map182 (Silph Co. - 5F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map183 (Silph Co. - 6F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map184 (Silph Co. - 7F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map185 (Silph Co. - 8F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map186 (Silph Co. - 9F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map187 (Silph Co. - 10F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map188 (Silph Co. - 11F): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map189 (Silph Co. - Elevator): stored_id=13, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Department store interior.png', slot_name='Department Store', resolved_id=13 (matched 'department store interior.png')
   Map190 (Route 19): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map191 (Route 20): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map192 (Seafoam Island Cave): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
@@ -255,29 +255,29 @@ ts_list length: 26
   Map197 (Seafoam Island Cave - B4F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map198 (Route 21): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map199 (Cinnabar Island): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map200 (Cinnabar Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map201 (Cinnabar Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=5 (matched 'mart interior.png') *** MISMATCH ***
-  Map202 (Cinnabar Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map203 (Cinnabar Lab): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=3 (matched 'interior general.png') *** MISMATCH ***
-  Map204 (Pokémon Mansion): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=16 (matched 'mansion interior.png') *** MISMATCH ***
-  Map205 (Pokémon Mansion - 1F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=16 (matched 'mansion interior.png') *** MISMATCH ***
-  Map206 (Pokémon Mansion - 2F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=16 (matched 'mansion interior.png') *** MISMATCH ***
-  Map207 (Pokémon Mansion - 3F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=16 (matched 'mansion interior.png') *** MISMATCH ***
-  Map208 (Pokémon Mansion - B1F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=16 (matched 'mansion interior.png') *** MISMATCH ***
+  Map200 (Cinnabar Pokémon Center): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map201 (Cinnabar Poké Mart): stored_id=4, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mart interior.png', slot_name='Poké Mart', resolved_id=4 (matched 'mart interior.png')
+  Map202 (Cinnabar Gym): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map203 (Cinnabar Lab): stored_id=2, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Interior general.png', slot_name='Inside', resolved_id=2 (matched 'interior general.png')
+  Map204 (Pokémon Mansion): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=15 (matched 'mansion interior.png')
+  Map205 (Pokémon Mansion - 1F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=15 (matched 'mansion interior.png')
+  Map206 (Pokémon Mansion - 2F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=15 (matched 'mansion interior.png')
+  Map207 (Pokémon Mansion - 3F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=15 (matched 'mansion interior.png')
+  Map208 (Pokémon Mansion - B1F): stored_id=15, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Mansion interior.png', slot_name='Mansion', resolved_id=15 (matched 'mansion interior.png')
   Map209 (Route 23): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
   Map210 (Victory Road): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map211 (Victory Road - 1F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map212 (Victory Road - 2F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map213 (Victory Road - 3F): stored_id=6, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Caves.png', slot_name='Caves', resolved_id=6 (matched 'caves.png')
   Map214 (Indigo Plateau): stored_id=1, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Outside.png', slot_name='Outside', resolved_id=1 (matched 'outside.png')
-  Map215 (Indigo Plateau Lobby): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=4 (matched 'poke centre interior.png') *** MISMATCH ***
-  Map216 (Lorelei's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map217 (Bruno's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map218 (Agatha's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map219 (Lance's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map220 (Champion's Hall): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
-  Map221 (Hall of Fame): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=14 (matched 'gyms interior.png') *** MISMATCH ***
+  Map215 (Indigo Plateau Lobby): stored_id=3, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Poke Centre interior.png', slot_name='Poké Center', resolved_id=3 (matched 'poke centre interior.png')
+  Map216 (Lorelei's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map217 (Bruno's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map218 (Agatha's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map219 (Lance's Chamber): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map220 (Champion's Hall): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
+  Map221 (Hall of Fame): stored_id=5, slot_path='E:\\Games\\Dumpster Fire Red\\Graphics\\Tilesets\\Gyms interior.png', slot_name='Gyms', resolved_id=5 (matched 'gyms interior.png')
 
 === Summary ===
-Exported: 147 maps
-Skipped : 74 maps (rxdata up-to-date, no mismatch)
+Exported: 1 maps
+Skipped : 220 maps (rxdata up-to-date, no mismatch)

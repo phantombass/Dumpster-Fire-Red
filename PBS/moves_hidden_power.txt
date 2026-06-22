@@ -239,5 +239,5 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = HitTwiceAsManyAsHeads
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user slams the target with its heads. The target is hit twice as many times as the user has heads.
+Description = The target is hit twice as many times as the user has heads. Always hits for neutral damage.
 #-------------------------------

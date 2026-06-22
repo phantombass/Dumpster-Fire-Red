@@ -202,6 +202,20 @@ end
 def pbSEPlay(param, volume = nil, pitch = nil)
   return if !param
   param = pbResolveAudioFile(param, volume, pitch)
+  if param.is_a?(Hash) && param.has_key?("name")
+    if $game_system
+      $game_system.se_play(param["name"])
+      return
+    end
+    if (RPG.const_defined?(:SE) rescue false)
+      b = RPG::SE.new(param["name"], param["volume"], param["pitch"])
+      if b.respond_to?("play")
+        b.play
+        return
+      end
+    end
+    Audio.se_play(canonicalize("Audio/SE/" + param["name"]), param["volume"], param["pitch"])
+  end
   if param.name && param.name != ""
     if $game_system
       $game_system.se_play(param)

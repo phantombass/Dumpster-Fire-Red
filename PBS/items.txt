@@ -5680,7 +5680,7 @@ Price = 2000
 BPPrice = 32
 FieldUse = TR
 Flags = Fling_10
-Move = SUNNYDAY
+Move = ROCKBLAST
 Description = The sun blazes for five turns, powering up Fire-type moves.
 
 [TM12]

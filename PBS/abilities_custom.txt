@@ -15,3 +15,7 @@ Description = Dry Skin + Sturdy.
 [PARRYBLOW]
 Name = Parry Blow
 Description = Multi-hit moves heal on alternating turns.
+#-------------------------------
+[MASOCHIST]
+Name = Masochist
+Description = Boosts SpAtk and Speed if an opponent flinches.

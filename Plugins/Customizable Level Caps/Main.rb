@@ -567,7 +567,7 @@ ItemHandlers::UseOnPokemon.add(:INFINITECANDY, proc { |item, qty, pkmn, scene|
         evo.pbStartScreen(pkmn, new_species)
         evo.pbEvolution
         evo.pbEndScreen
-        scene.pbRefresh if scene.is_a?(PokemonPartyScreen)
+        scene.pbRefresh if scene.is_a?(UI::Party)
       }
       next true
     end
@@ -584,7 +584,7 @@ ItemHandlers::UseOnPokemon.add(:INFINITECANDY, proc { |item, qty, pkmn, scene|
         evo.pbStartScreen(pkmn, new_species)
         evo.pbEvolution
         evo.pbEndScreen
-        scene.pbRefresh if scene.is_a?(PokemonPartyScreen)
+        scene.pbRefresh if scene.is_a?(UI::Party)
       }
       next true
     end

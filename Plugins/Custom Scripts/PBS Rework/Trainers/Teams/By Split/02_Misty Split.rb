@@ -28,10 +28,12 @@ PB_Trainers.register(:BUGCATCHER,"Colton",{
 
 
 :level => 13,
+},
 {:species => :BEEDRILL,
 
 
 :level => 13,
+},
 {:species => :KRICKETUNE,
 
 
@@ -202,21 +204,21 @@ PB_Trainers.register(:LASS,"Miriam",{
 :lose_text => "Oh! I lost it!",
 :pokemon=> [
 {:species => :BELLSPROUT,
-
+:moves => [:RAZORLEAF,:POISONFANG],
 
 :level => 16,
 
 
 },
 {:species => :ODDISH,
-
+:moves => [:MEGADRAIN,:SLUDGE],
 
 :level => 17,
 
 
 },
 {:species => :TANGELA,
-
+:moves => [:MEGADRAIN,:ANCIENTPOWER],
 
 :level => 18,
 
@@ -329,17 +331,10 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Mt_Moon_2 => {
 :lose_text => "So, you are good...",
 :pokemon=> [
-{:species => :QWILFISH_1,
-
-
-:level => 19,
-:moves => [:BITE,:POISONFANG]
-
-},
 {:species => :MAREANIE,
 
 
-:level => 20,
+:level => 19,
 :moves => [:BANEFULBUNKER,:VENOSHOCK]
 
 },

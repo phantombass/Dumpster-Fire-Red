@@ -686,6 +686,8 @@ class Battle::Battler
       end
       @battle.battlers.each do |b|
         next if self.idxOwnSide == b.idxOwnSide
+        p b.pokemon.ability_id
+        p b.abilityActive?
         Battle::AbilityEffects.triggerOnTargetFlinch(b.ability,b,@battle) if b.abilityActive?
       end
       @lastMoveFailed = true
@@ -974,6 +976,10 @@ class Battle::Move::HitTwiceAsManyAsHeads < Battle::Move
     end
     return heads * 2
   end
+  def pbCalcTypeModSingle(moveType, defType, user, target)
+    return Effectiveness::NORMAL_EFFECTIVE_MULTIPLIER if moveType == :NORMAL
+    return super
+  end
 end
 
 class Battle::Move
@@ -997,8 +1003,31 @@ Battle::AbilityEffects::ChangeOnBattlerFainting.add(:POWEROFALCHEMY,
     battle.pbReplaceAbilitySplash(battler)
     battler.ability = :POWEROFALCHEMY
     battle.pbDisplay(_INTL("{1}'s {2} was added!", fainted.pbThis, fainted.abilityName))
+    $ability_received = fainted.ability
     battle.pbHideAbilitySplash(battler)
   }
 )
 
-Battle::AbilityEffects::DamageCalcFromUser.copy(:HUGEPOWER, :PUREPOWER, :POWEROFALCHEMY)
+Battle::AbilityEffects::DamageCalcFromUser.add(:POWEROFALCHEMY,
+  proc { |ability, user, target, move, mults, power, type|
+    mults[:attack_multiplier] *= 2 if move.physicalMove? && $ability_received == :HUGEPOWER
+  }
+)
+
+Battle::AbilityEffects::OnBeingHit.add(:BATTERY,
+  proc { |ability, user, target, move, battle|
+    next if target.fainted?
+    if target.effects[PBEffects::Charge] > 0
+      next if target.hp == target.totalhp
+      battle.pbShowAbilitySplash(target)
+      target.pbRecoverHP((target.totalhp/4).round)
+      battle.pbDisplay(_INTL("Because it is already charged up, being hit by {1} recovered some of {2}'s HP!", move.name, target.pbThis(true)))
+      battle.pbHideAbilitySplash(target)
+    else
+      battle.pbShowAbilitySplash(target)
+      target.effects[PBEffects::Charge] = 2
+      battle.pbDisplay(_INTL("Being hit by {1} charged {2} with power!", move.name, target.pbThis(true)))
+      battle.pbHideAbilitySplash(target)
+    end
+  }
+)
