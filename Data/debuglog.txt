@@ -26805,3 +26805,2098 @@ Set up score for Wynaut (0): 0
 
 ===== Round 12 =====
 
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 41 HP (51 -> 10)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+[Stat change] Sandshrew's Attack changed by +1 (0 -> 1)
+"Sandshrew's Attack rose!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Delibird lost 10 HP (10 -> 0)
+"The opposing Delibird fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 54/70 damage
+==============================
+     Sandshrew (0) speed (25) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[HP change] Pichu lost 31 HP (41 -> 10)
+"It's not very effective..."
+
+[End of round 3]
+
+===== Round 4 =====
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Delibird lost 29 HP (51 -> 22)
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Delibird fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (25) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[HP change] Pichu lost 33 HP (41 -> 8)
+"It's not very effective..."
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 40 HP (51 -> 11)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Rapid Spin
+"Sandshrew used Rapid Spin!"
+[HP change] The opposing Delibird lost 11 HP (11 -> 0)
+"The opposing Delibird fainted!"
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+"Sandshrew's Speed rose!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (37) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+
+**Exception: undefined method `pbShowAbilitySplash' for :FLYING:Symbol
+[Generation 9 Pack] [001] New Ability Handlers.rb:251:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+185:Data/Scripts/011_Battle/007_Other battle code/008_Battle_AbilityEffects:70:in `trigger'
+185:Data/Scripts/011_Battle/007_Other battle code/008_Battle_AbilityEffects:163:in `triggerMoveImmunity'
+137:Data/Scripts/011_Battle/003_Move/002_Move_Usage:92:in `pbImmunityByAbility'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:192:in `pbSuccessCheckAgainstTarget'
+[Generation 9 Pack] [002] Battle_Battler.rb:572:in `pbSuccessCheckAgainstTarget'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:395:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:393:in `each'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:393:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:519:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:485:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 42 HP (51 -> 9)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Rapid Spin
+"Sandshrew used Rapid Spin!"
+[HP change] The opposing Delibird lost 9 HP (9 -> 0)
+"The opposing Delibird fainted!"
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+"Sandshrew's Speed rose!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (37) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[HP change] Pichu lost 32 HP (41 -> 9)
+"It's not very effective..."
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 36 HP (70 -> 34)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 45 HP (51 -> 6)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (54 -> 48)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (48 -> 47)
+[Use move] Sandshrew (0) used Rapid Spin
+"Sandshrew used Rapid Spin!"
+[HP change] The opposing Delibird lost 6 HP (6 -> 0)
+"The opposing Delibird fainted!"
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+"Sandshrew's Speed rose!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (47 -> 41)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/41 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (37) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 31 HP (70 -> 39)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 16 HP (39 -> 23)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 23 HP (23 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+"Pichu got 1 Exp. Points!"
+
+[End of round 6]
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 40/41 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 20/41 damage
+     Pichu (0)'s best move: Shock Wave for 42/50 damage
+==============================
+     Pichu (0) speed (34) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_2hko: true
+
+     [Doduo] +  6: for fast 2HKO
+     [Doduo] final Switch score: 6
+"Rival Blue sent out Doduo!"
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Beldum lost 15 HP (49 -> 34)
+[HP change] Beldum gained 14 HP (34 -> 48)
+[HP change] Beldum lost 14 HP (48 -> 34)
+[HP change] Beldum gained 15 HP (34 -> 49)
+"Hit 4 times!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+[HP change] Beldum lost 8 HP (49 -> 41)
+[HP change] Beldum gained 7 HP (41 -> 48)
+"It's not very effective..."
+"Hit 4 times!"
+[Use move] Beldum (0) used Metal Claw
+"Beldum used Metal Claw!"
+[HP change] The opposing Doduo lost 16 HP (50 -> 34)
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Beldum lost 6 HP (48 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+"It's not very effective..."
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 3 HP (34 -> 37)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+[Use move] Beldum (0) used Metal Claw
+"Beldum used Metal Claw!"
+[HP change] The opposing Doduo lost 17 HP (37 -> 20)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+"It's not very effective..."
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 4 HP (20 -> 24)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+[Use move] Beldum (0) used Metal Claw
+"Beldum used Metal Claw!"
+[HP change] The opposing Doduo lost 18 HP (24 -> 6)
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+[HP change] Beldum lost 6 HP (49 -> 43)
+[HP change] Beldum gained 6 HP (43 -> 49)
+"It's not very effective..."
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 3 HP (6 -> 9)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+[Use move] Beldum (0) used Metal Claw
+"Beldum used Metal Claw!"
+[HP change] The opposing Doduo lost 9 HP (9 -> 0)
+"The opposing Doduo fainted!"
+"Beldum got 1 Exp. Points!"
+
+[End of round 11]
+==============================
+     [Yanma] using Dragon Rage vs Beldum does a max of 40/49 damage
+     Beldum (0)'s best move: Metal Claw for 16/64 damage
+==============================
+     Beldum (0) speed (17) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_2hko: true
+
+     [Yanma] +  6: for fast 2HKO
+     [Yanma] final Switch score: 6
+"Rival Blue sent out Yanma!"
+
+===== Round 12 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Beldum (0)...
+     Yanma (1)'s highest damaging move vs Beldum: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Beldum (0)
+
+"Beldum, that's enough! Come back!"
+"You're in charge, Wynaut!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (76 -> 36)
+[HP change] Wynaut gained 10 HP (36 -> 46)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (46 -> 6)
+"Hit 2 times!"
+
+[End of round 12]
+
+===== Round 13 =====
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 40 HP (51 -> 11)
+"It's super effective!"
+[Stat change] Sandshrew's Attack changed by +1 (0 -> 1)
+"Sandshrew's Attack rose!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (54 -> 53)
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Delibird lost 11 HP (11 -> 0)
+"The opposing Delibird fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 2]
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/53 damage
+     Sandshrew (0)'s best move: Ice Punch for 54/70 damage
+==============================
+     Sandshrew (0) speed (25) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 33 HP (70 -> 37)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 34 HP (37 -> 3)
+"It's super effective!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+"Pichu got 1 Exp. Points!"
+
+[End of round 6]
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 40/41 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 20/41 damage
+     Pichu (0)'s best move: Shock Wave for 42/50 damage
+==============================
+     Pichu (0) speed (34) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_2hko: true
+
+     [Doduo] +  6: for fast 2HKO
+     [Doduo] final Switch score: 6
+"Rival Blue sent out Doduo!"
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Sandshrew lost 12 HP (53 -> 41)
+[HP change] Sandshrew lost 13 HP (41 -> 28)
+[HP change] Sandshrew lost 13 HP (28 -> 15)
+[HP change] Sandshrew gained 10 HP (15 -> 25)
+"Sandshrew restored a little HP using its Oran Berry!"
+[Item consumed] Sandshrew consumed its held Oran Berry
+[HP change] Sandshrew lost 13 HP (25 -> 12)
+"Hit 4 times!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] Sandshrew (0), the opposing Doduo (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Doduo lost 29 HP (50 -> 21)
+"It's super effective!"
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 6 HP (12 -> 6)
+[HP change] Sandshrew lost 6 HP (6 -> 0)
+"Sandshrew fainted!"
+"It's not very effective..."
+"Hit 2 times!"
+[HP change] The opposing Doduo gained 1 HP (21 -> 22)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 8]
+"Just a little more! Hang in there, Noctowl!"
+
+===== Round 9 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Noctowl (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Noctowl lost 18 HP (73 -> 55)
+[HP change] Noctowl lost 26 HP (55 -> 29)
+"A critical hit!"
+[HP change] Noctowl lost 18 HP (29 -> 11)
+[HP change] Noctowl lost 11 HP (11 -> 0)
+"Noctowl fainted!"
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 9 HP (22 -> 31)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 9]
+"Go for it, Trubbish!"
+
+===== Round 10 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Trubbish (0)...
+     Doduo (1)'s highest damaging move vs Trubbish: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Trubbish (0)...
+     Doduo (1)'s highest damaging move vs Trubbish: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Trubbish (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Trubbish lost 15 HP (58 -> 43)
+[HP change] Trubbish lost 16 HP (43 -> 27)
+[HP change] Trubbish lost 17 HP (27 -> 10)
+[HP change] Trubbish lost 10 HP (10 -> 0)
+"A critical hit!"
+"Trubbish fainted!"
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 7 HP (31 -> 38)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 10]
+"Go for it, Pichu!"
+
+===== Round 11 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Pichu lost 38 HP (41 -> 3)
+[HP change] Pichu lost 3 HP (3 -> 0)
+"Pichu fainted!"
+"Hit 2 times!"
+[HP change] The opposing Doduo gained 5 HP (38 -> 43)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 11]
+"Go for it, Beldum!"
+
+===== Round 12 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Beldum (0)...
+     Doduo (1)'s highest damaging move vs Beldum: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Beldum (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+[HP change] Beldum lost 7 HP (49 -> 42)
+[HP change] Beldum gained 7 HP (42 -> 49)
+"It's not very effective..."
+"Hit 4 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 51 HP (51 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Delibird fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 1]
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/54 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (25) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 34 HP (70 -> 36)
+"It's super effective!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 33 HP (36 -> 3)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+"Pichu got 1 Exp. Points!"
+
+[End of round 5]
+[Ability triggered] Pichu's Wind Power
+"Being hit by Air Slash charged Pichu with power!"
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 40/41 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 20/41 damage
+     Pichu (0)'s best move: Shock Wave for 42/50 damage
+==============================
+     Pichu (0) speed (34) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_2hko: true
+
+     [Doduo] +  6: for fast 2HKO
+     [Doduo] final Switch score: 6
+"Rival Blue sent out Doduo!"
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Sandshrew lost 13 HP (54 -> 41)
+[HP change] Sandshrew lost 13 HP (41 -> 28)
+[HP change] Sandshrew lost 12 HP (28 -> 16)
+[HP change] Sandshrew gained 10 HP (16 -> 26)
+"Sandshrew restored a little HP using its Oran Berry!"
+[Item consumed] Sandshrew consumed its held Oran Berry
+[HP change] Sandshrew lost 13 HP (26 -> 13)
+"Hit 4 times!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] Sandshrew (0), the opposing Doduo (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Doduo lost 31 HP (50 -> 19)
+"It's super effective!"
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 6 HP (13 -> 7)
+[HP change] Sandshrew lost 6 HP (7 -> 1)
+[HP change] Sandshrew lost 1 HP (1 -> 0)
+"Sandshrew fainted!"
+"It's not very effective..."
+"Hit 3 times!"
+[HP change] The opposing Doduo gained 1 HP (19 -> 20)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 7]
+"Just a little more! Hang in there, Noctowl!"
+
+===== Round 8 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Noctowl (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Noctowl lost 19 HP (73 -> 54)
+[HP change] Noctowl lost 18 HP (54 -> 36)
+[HP change] Noctowl gained 10 HP (36 -> 46)
+"Noctowl restored a little HP using its Oran Berry!"
+[Item consumed] Noctowl consumed its held Oran Berry
+[HP change] Noctowl lost 20 HP (46 -> 26)
+[HP change] Noctowl lost 17 HP (26 -> 9)
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 9 HP (20 -> 29)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Doduo lost 29 HP (29 -> 0)
+"The opposing Doduo fainted!"
+
+[End of round 8]
+==============================
+     [Yanma] using Dragon Rage vs Noctowl does a max of 40/9 damage
+     Noctowl (0)'s best move: Air Slash for 75/64 damage
+==============================
+     Noctowl (0) speed (32) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Blue sent out Yanma!"
+
+===== Round 9 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Noctowl (0)...
+     Yanma (1)'s highest damaging move vs Noctowl: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Noctowl (0)
+
+"Good job, Noctowl! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Beldum lost 40 HP (49 -> 9)
+[HP change] Beldum gained 9 HP (9 -> 18)
+"Hit 2 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+"You're in charge, Wynaut!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (76 -> 36)
+[HP change] Wynaut gained 10 HP (36 -> 46)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (46 -> 6)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 64 HP (64 -> 0)
+"The opposing Yanma fainted!"
+"Beldum got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Blue!"
+"Hey! Take it easy! You won already!"
+
+"You got $336 for winning!"
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (55 -> 54)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 51 HP (51 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Delibird fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 1]
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 37/54 damage
+     Sandshrew (0)'s best move: Ice Punch for 39/70 damage
+==============================
+     Sandshrew (0) speed (25) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Blue sent out Togekiss!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 21 HP (70 -> 49)
+"It's super effective!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 12 HP (49 -> 37)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 19 HP (37 -> 18)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+"Pichu got 1 Exp. Points!"
+
+[End of round 6]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 40/41 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 20/41 damage
+     Pichu (0)'s best move: Shock Wave for 42/50 damage
+==============================
+     Pichu (0) speed (34) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_2hko: true
+
+     [Doduo] +  6: for fast 2HKO
+     [Doduo] final Switch score: 6
+"Rival Blue sent out Doduo!"
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Sandshrew lost 12 HP (54 -> 42)
+[HP change] Sandshrew lost 13 HP (42 -> 29)
+[HP change] Sandshrew lost 12 HP (29 -> 17)
+[HP change] Sandshrew gained 10 HP (17 -> 27)
+"Sandshrew restored a little HP using its Oran Berry!"
+[Item consumed] Sandshrew consumed its held Oran Berry
+[HP change] Sandshrew lost 13 HP (27 -> 14)
+"Hit 4 times!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] Sandshrew (0), the opposing Doduo (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Doduo lost 33 HP (50 -> 17)
+"It's super effective!"
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 6 HP (14 -> 8)
+[HP change] Sandshrew lost 7 HP (8 -> 1)
+[HP change] Sandshrew lost 1 HP (1 -> 0)
+"Sandshrew fainted!"
+"It's not very effective..."
+"Hit 3 times!"
+[HP change] The opposing Doduo gained 1 HP (17 -> 18)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+
+[End of round 8]
+"Just a little more! Hang in there, Noctowl!"
+
+===== Round 9 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Noctowl (0)...
+     Doduo (1)'s highest damaging move vs Noctowl: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Noctowl (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Noctowl lost 19 HP (73 -> 54)
+[HP change] Noctowl lost 17 HP (54 -> 37)
+[HP change] Noctowl lost 19 HP (37 -> 18)
+[HP change] Noctowl gained 10 HP (18 -> 28)
+"Noctowl restored a little HP using its Oran Berry!"
+[Item consumed] Noctowl consumed its held Oran Berry
+[HP change] Noctowl lost 18 HP (28 -> 10)
+"Hit 4 times!"
+[HP change] The opposing Doduo gained 9 HP (18 -> 27)
+"The opposing Doduo restored a little HP using its Shell Bell!"
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Doduo lost 27 HP (27 -> 0)
+"The opposing Doduo fainted!"
+
+[End of round 9]
+==============================
+     [Yanma] using Dragon Rage vs Noctowl does a max of 40/10 damage
+     Noctowl (0)'s best move: Air Slash for 75/64 damage
+==============================
+     Noctowl (0) speed (32) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Blue sent out Yanma!"
+
+===== Round 10 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Noctowl (0)...
+     Yanma (1)'s highest damaging move vs Noctowl: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Noctowl (0)
+
+"Good job, Noctowl! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Beldum lost 40 HP (49 -> 9)
+[HP change] Beldum gained 9 HP (9 -> 18)
+"Hit 2 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+"You're in charge, Wynaut!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (76 -> 36)
+[HP change] Wynaut gained 10 HP (36 -> 46)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (46 -> 6)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 64 HP (64 -> 0)
+"The opposing Yanma fainted!"
+"Beldum got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Blue!"
+"Hey! Take it easy! You won already!"
+
+"You got $336 for winning!"

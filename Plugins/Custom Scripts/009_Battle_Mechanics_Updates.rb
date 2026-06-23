@@ -423,7 +423,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:ILLUMINATE,
   }
 )
 
-Battle::AbilityEffects::MoveImmunity.add(:WINDRIDER,
+Battle::AbilityEffects::MoveImmunity.add(:WINDPOWER,
   proc { |ability, user, target, move, type, battle, show_message|
     next false if user.index == target.index
     next false if !move.windMove?
@@ -686,8 +686,6 @@ class Battle::Battler
       end
       @battle.battlers.each do |b|
         next if self.idxOwnSide == b.idxOwnSide
-        p b.pokemon.ability_id
-        p b.abilityActive?
         Battle::AbilityEffects.triggerOnTargetFlinch(b.ability,b,@battle) if b.abilityActive?
       end
       @lastMoveFailed = true
@@ -956,7 +954,7 @@ end
 
 class Battle::Move::HitTwiceAsManyAsHeads < Battle::Move
   def multiHitMove?;            return true; end
-  def pbNumHits(user, targets)
+  def numHeads(user)
     if [:DODUO,:GIRAFARIG,:FARIGIRAF,:TANDEMAUS,:WEEZING,:CHERUBI,:DRAKLOAK,:DOUBLADE,:KLINK,:KLANG,:VANILLUXE,:SLOWBRO,:SLOWKING,:BINACLE,:METANG].include?(user.pokemon.species)
       heads = 2
     elsif [:DODRIO,:HYDREIGON,:DUGTRIO,:WUGTRIO,:EXEGGUTOR,:MAGNETON,:COMBEE,:DRAGAPULT,:KLINKLANG,:MAGNEZONE].include?(user.pokemon.species)
@@ -974,11 +972,40 @@ class Battle::Move::HitTwiceAsManyAsHeads < Battle::Move
     elsif user.pokemon.species == :EXEGGCUTE
       heads = 6
     end
+    return heads
+  end
+  def pbNumHits(user, targets)
+    heads = numHeads(user)
     return heads * 2
+  end
+  def pbBaseDamage(baseDmg, user, target)
+    heads = numHeads(user)
+    return baseDmg if heads == 1
+    baseDmg = (baseDmg*heads)/(heads+1)
+    return baseDmg
   end
   def pbCalcTypeModSingle(moveType, defType, user, target)
     return Effectiveness::NORMAL_EFFECTIVE_MULTIPLIER if moveType == :NORMAL
     return super
+  end
+  def preventsBattlerConsumingHealingBerry?(battler, targets)
+    return targets.any? { |b| b.index == battler.index } &&
+           battler.item&.is_berry? && Battle::ItemEffects::HPHeal[battler.item] && @type == :FLYING
+  end
+
+  def pbEffectAfterAllHits(user, target)
+    return if user.fainted? || target.fainted?
+    return if target.damageState.unaffected || target.damageState.substitute
+    return if !target.item || !target.item.is_berry? || target.unlosableItem?(target.item)
+    return if target.hasActiveAbility?(:STICKYHOLD) && !@battle.moldBreaker
+    return unless @type == :FLYING
+    item = target.item
+    itemName = target.itemName
+    user.setBelched
+    target.pbRemoveItem
+    @battle.pbDisplay(_INTL("{1} stole and ate its target's {2}!", user.pbThis, itemName))
+    user.pbHeldItemTriggerCheck(item.id, false)
+    user.pbSymbiosis
   end
 end
 
