@@ -1058,3 +1058,21 @@ Battle::AbilityEffects::OnBeingHit.add(:BATTERY,
     end
   }
 )
+
+Battle::ItemEffects::AfterMoveUseFromTarget.add(:EJECTBERRY,
+  proc { |item, battler, user, move, switched_battlers, battle|
+    next if !switched_battlers.empty?
+    next if battle.pbAllFainted?(battler.idxOpposingSide)
+    next if !battle.pbCanChooseNonActive?(battler.index)
+    battle.pbCommonAnimation("EatBerry", battler)
+    battle.pbDisplay(_INTL("{1} is switched out with the {2}!", battler.pbThis, battler.itemName))
+    battler.pbConsumeItem(true, false)
+    newPkmn = battle.pbGetReplacementPokemonIndex(battler.index)   # Owner chooses
+    next if newPkmn < 0
+    battle.pbRecallAndReplace(battler.index, newPkmn)
+    battle.pbClearChoice(battler.index)   # Replacement Pokémon does nothing this round
+    switched_battlers.push(battler.index)
+    battle.moldBreaker = false if battler.index == user.index
+    battle.pbOnBattlerEnteringBattle(battler.index)
+  }
+)
