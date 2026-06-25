@@ -542,7 +542,7 @@ class Battle::Move::SwitchOutTargetDragonTail < Battle::Move::FixedDamageMove
   end
 
   def pbFixedDamage(user, target)
-    exempt = [:PARAS,:SUNKERN].include?(target.pokemon.species)
+    exempt = [:PARAS,:SUNKERN,:PARASECT,:SUNFLORA].include?(target.pokemon.species)
     return ((target.totalhp*1.0) / 16.0).floor if exempt
     return ((target.totalhp*7.0) / 8.0).round
   end

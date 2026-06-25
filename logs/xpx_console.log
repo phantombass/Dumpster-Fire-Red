@@ -20263,3 +20263,1573 @@ Debug Output:
 [0;33m  -> [0mNone found
 
 UNSCALED 29.62427 * 3 - 1
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 23.381076 * 3 - 1
+Roles for GRAVELER: [:LEAD]
+=====> Nature for Graveler: Adamant
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for QWILFISH: [:NONE]
+Roles for ONIX: [:REVENGEKILLER, :PHAZER]
+=====> Nature for Onix: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Wayne!"[0m
+[0;1;30m"Hiker Wayne sent out Graveler!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Graveler (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Graveler (1) is considering using Explosion (1)...
+     Graveler (1)'s highest damaging move vs Lombre: Stealth Rock
+      + 17 for slow kill
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Graveler (1), Lombre (0)
+
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 40 HP (77 -> 37)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +5: for target having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion (1)...
+     Graveler (1)'s highest damaging move vs Lombre: Stealth Rock
+     + 2 to incentivize exploding the lower HP we are
+      + 17 for slow kill
+[AI] Move choices for Graveler (1):
+   *   0.0%% to use Stealth Rock: score 0
+   * 100.0%% to use Explosion: score 20
+   => will use Explosion
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 37 HP (37 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler fainted!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+
+[End of round 2]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 34/76 damage
+     Lombre (0)'s best move: Mega Drain for 72/99 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 33
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_2hko: true
+
+     [Quagsire] -  5: for target having fast 2HKO and us having no kill
+     [Quagsire] final Switch score: -5
+
+**Exception: undefined method `move' for #<Battle::Move::DoublePowerIfTargetPoisonedPoisonTarget>
+[Generation 9 Pack] [002] AI New Move Rankings.rb:134:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:139:in `trigger'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:122:in `get_base_power'
+[Phantombass AI] 03_AI_Moves.rb:473:in `base_power'
+[Phantombass AI] 03_AI_Moves.rb:500:in `rough_damage'
+[Phantombass AI] 02_AI_Switching.rb:181:in `block (2 levels) in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:177:in `each'
+[Phantombass AI] 02_AI_Switching.rb:177:in `block in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:174:in `each'
+[Phantombass AI] 02_AI_Switching.rb:174:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:127:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:126:in `each'
+[Phantombass AI] 02_AI_Switching.rb:126:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:126:in `choose_best_replacement_pokemon'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:77:in `pbDefaultChooseNewEnemy'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:139:in `pbSwitchInBetween'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:163:in `block (2 levels) in pbEORSwitch'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:157:in `each'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:157:in `block in pbEORSwitch'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:155:in `loop'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:155:in `pbEORSwitch'
+125:Data/Scripts/011_Battle/001_Battle/011_Battle_EndOfRoundPhase:729:in `pbEndOfRoundPhase'
+183:Data/Scripts/011_Battle/007_Other battle code/006_Battle_Clauses:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:157:in `pbEndOfRoundPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:350:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:350:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:486:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 17.135183 * 3 - 1
+Roles for GRAVELER: [:LEAD]
+=====> Nature for Graveler: Adamant
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for QWILFISH: [:NONE]
+Roles for ONIX: [:REVENGEKILLER, :PHAZER]
+=====> Nature for Onix: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Wayne!"[0m
+[0;1;30m"Hiker Wayne sent out Graveler!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Graveler (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Graveler (1) is considering using Explosion (1)...
+     Graveler (1)'s highest damaging move vs Lombre: Stealth Rock
+      + 17 for slow kill
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 41 HP (77 -> 36)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +5: for target having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion (1)...
+     Graveler (1)'s highest damaging move vs Lombre: Stealth Rock
+     + 2 to incentivize exploding the lower HP we are
+      + 17 for slow kill
+[AI] Move choices for Graveler (1):
+   *   0.0%% to use Stealth Rock: score 0
+   * 100.0%% to use Explosion: score 20
+   => will use Explosion
+
+[Round order] The opposing Graveler (1), Lombre (0)
+
+[Use move] The opposing Graveler (1) used Explosion
+[0;1;30m"The opposing Graveler used Explosion!"[0m
+[HP change] Lombre lost 76 HP (76 -> 0)
+[HP change] The opposing Graveler lost 36 HP (36 -> 0)
+[0;1;30m"The opposing Graveler fainted!"[0m
+[0;1;30m"Lombre fainted!"[0m
+
+[End of round 2]
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 19.783267 * 3 - 1
+Roles for GRAVELER: [:LEAD]
+=====> Nature for Graveler: Adamant
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for QWILFISH: [:NONE]
+Roles for ONIX: [:REVENGEKILLER, :PHAZER]
+=====> Nature for Onix: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Wayne!"[0m
+[0;1;30m"Hiker Wayne sent out Graveler!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Graveler (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 40 HP (77 -> 37)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +5: for target having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 1
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 37 HP (37 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler fainted!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+
+[End of round 2]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 34/76 damage
+     Lombre (0)'s best move: Mega Drain for 72/99 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 33
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_2hko: true
+
+     [Quagsire] -  5: for target having fast 2HKO and us having no kill
+     [Quagsire] final Switch score: -5
+
+**Exception: undefined method `battler' for #<Battle::Battler>
+[Generation 9 Pack] [002] AI New Move Rankings.rb:134:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:139:in `trigger'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:122:in `get_base_power'
+[Phantombass AI] 03_AI_Moves.rb:473:in `base_power'
+[Phantombass AI] 03_AI_Moves.rb:500:in `rough_damage'
+[Phantombass AI] 02_AI_Switching.rb:181:in `block (2 levels) in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:177:in `each'
+[Phantombass AI] 02_AI_Switching.rb:177:in `block in rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:174:in `each'
+[Phantombass AI] 02_AI_Switching.rb:174:in `rate_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:127:in `block in choose_best_replacement_pokemon'
+[Phantombass AI] 02_AI_Switching.rb:126:in `each'
+[Phantombass AI] 02_AI_Switching.rb:126:in `each_with_index'
+[Phantombass AI] 02_AI_Switching.rb:126:in `choose_best_replacement_pokemon'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:77:in `pbDefaultChooseNewEnemy'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:139:in `pbSwitchInBetween'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:163:in `block (2 levels) in pbEORSwitch'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:157:in `each'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:157:in `block in pbEORSwitch'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:155:in `loop'
+119:Data/Scripts/011_Battle/001_Battle/005_Battle_ActionSwitching:155:in `pbEORSwitch'
+125:Data/Scripts/011_Battle/001_Battle/011_Battle_EndOfRoundPhase:729:in `pbEndOfRoundPhase'
+183:Data/Scripts/011_Battle/007_Other battle code/006_Battle_Clauses:41:in `pbEndOfRoundPhase'
+[Generation 9 Pack] [001] Battle.rb:157:in `pbEndOfRoundPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:350:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:350:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:486:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 22.494321 * 3 - 1
+Roles for GRAVELER: [:LEAD]
+=====> Nature for Graveler: Adamant
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for QWILFISH: [:NONE]
+Roles for ONIX: [:REVENGEKILLER, :PHAZER]
+=====> Nature for Onix: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Wayne!"[0m
+[0;1;30m"Hiker Wayne sent out Graveler!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Graveler (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Graveler (1), Lombre (0)
+
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+[Use move] Lombre (0) used Worry Seed
+[0;1;30m"Lombre used Worry Seed!"[0m
+[0;1;30m"The opposing Graveler acquired Insomnia!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 1
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 39 HP (77 -> 38)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"But it failed!"[0m
+[Move failed] In function code AddStealthRocksToFoeSide's def pbMoveFailed?
+
+[End of round 2]
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +5: for target having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 1
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Graveler (1), Lombre (0)
+
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"But it failed!"[0m
+[Move failed] In function code AddStealthRocksToFoeSide's def pbMoveFailed?
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 38 HP (38 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler fainted!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+
+[End of round 3]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 34/76 damage
+     Lombre (0)'s best move: Mega Drain for 72/99 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 33
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_2hko: true
+
+     [Quagsire] -  5: for target having fast 2HKO and us having no kill
+     [Quagsire] final Switch score: -5
+==============================
+     [Qwilfish] using Barb Barrage vs Lombre does a max of 96/76 damage
+     Lombre (0)'s best move: Mega Drain for 19/83 damage
+==============================
+     Lombre (0) speed (33) vs Qwilfish speed: 67
+[AI] =====> Flags assigned to Qwilfish:
+==========> fast_kill: true
+
+     [Qwilfish] + 12: for fast kill
+     [Qwilfish] final Switch score: 12
+==============================
+     [Onix] using Dragon Tail vs Lombre does a max of 60/76 damage
+     Lombre (0)'s best move: Mega Drain for 65/66 damage
+==============================
+     Lombre (0) speed (33) vs Onix speed: 78
+[AI] =====> Flags assigned to Onix:
+==========> fast_2hko: true
+
+     [Onix] +  6: for fast 2HKO
+     [Onix] final Switch score: 6
+[0;1;30m"Hiker Wayne sent out Qwilfish!"[0m
+
+[0;1;35m===== Round 4 =====[0m
+
+[AI Threat Assessment: Lombre] -3: for us having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Lombre (0)...
+     Qwilfish (1)'s highest damaging move vs Lombre: Barb Barrage
+      + 20 for fast kill
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 21
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Lombre (0)
+
+[0;1;30m"Lombre, come back!"[0m
+[0;1;30m"You're in charge, Sandshrew!"[0m
+[HP change] Sandshrew lost 9 HP (70 -> 61)
+[0;1;30m"Pointed stones dug into Sandshrew!"[0m
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Sandshrew lost 32 HP (61 -> 29)
+[0;1;30m"Sandshrew was poisoned!"[0m
+
+[End of round 4]
+[HP change] Sandshrew lost 8 HP (29 -> 21)
+[0;1;30m"Sandshrew was hurt by poison!"[0m
+
+[0;1;35m===== Round 5 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 5
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[0;1;30m"OK, Sandshrew! Come back!"[0m
+[0;1;30m"You're in charge, Noctowl!"[0m
+[HP change] Noctowl lost 24 HP (94 -> 70)
+[0;1;30m"Pointed stones dug into Noctowl!"[0m
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Noctowl lost 46 HP (70 -> 24)
+
+[End of round 5]
+
+[0;1;35m===== Round 6 =====[0m
+
+[AI Threat Assessment: Noctowl] -3: for us having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Noctowl (0)...
+     Qwilfish (1)'s highest damaging move vs Noctowl: Barb Barrage
+      + 20 for fast kill
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 21
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Noctowl (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Noctowl lost 24 HP (24 -> 0)
+[0;1;30m"Noctowl fainted!"[0m
+
+[End of round 6]
+[0;1;30m"You're in charge, Trubbish!"[0m
+[HP change] Trubbish lost 9 HP (74 -> 65)
+[0;1;30m"Pointed stones dug into Trubbish!"[0m
+
+[0;1;35m===== Round 7 =====[0m
+
+[AI Threat Assessment: Trubbish] -1: for us outspeeding
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Trubbish (0)...
+     Qwilfish (1)'s highest damaging move vs Trubbish: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 5
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Trubbish (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Trubbish lost 21 HP (65 -> 44)
+[0;1;30m"It's not very effective..."[0m
+[Use move] Trubbish (0) used Gastro Acid
+[0;1;30m"Trubbish used Gastro Acid!"[0m
+[0;1;30m"The opposing Qwilfish's Ability was suppressed!"[0m
+
+[End of round 7]
+
+[0;1;35m===== Round 8 =====[0m
+
+[AI Threat Assessment: Trubbish] -1: for us outspeeding
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Trubbish (0)...
+     Qwilfish (1)'s highest damaging move vs Trubbish: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 5
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Trubbish (0)
+
+[0;1;30m"Trubbish, come back!"[0m
+[0;1;30m"You're in charge, Sandshrew!"[0m
+[HP change] Sandshrew lost 9 HP (21 -> 12)
+[0;1;30m"Pointed stones dug into Sandshrew!"[0m
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+
+[End of round 8]
+[HP change] Sandshrew lost 8 HP (12 -> 4)
+[0;1;30m"Sandshrew was hurt by poison!"[0m
+
+[0;1;35m===== Round 9 =====[0m
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 15.236085 * 3 - 1
+Roles for GRAVELER: [:LEAD]
+=====> Nature for Graveler: Adamant
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for QWILFISH: [:NONE]
+Roles for ONIX: [:REVENGEKILLER, :PHAZER]
+=====> Nature for Onix: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Wayne!"[0m
+[0;1;30m"Hiker Wayne sent out Graveler!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +3: for target having fast 2HKO
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Graveler (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 56
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] Lombre (0), the opposing Graveler (1)
+
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 45 HP (77 -> 32)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"Pointed stones float in the air around your team!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Lombre] -2: for us having slow kill
+[AI Threat Assessment: Lombre] +5: for target having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Graveler (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Graveler (1) is considering using Explosion...
+     +  1: move will fail
+[AI] Move choices for Graveler (1):
+   * 100.0%% to use Stealth Rock: score 1
+   *   0.0%% to use Explosion: score 0
+   => will use Stealth Rock
+
+[Round order] The opposing Graveler (1), Lombre (0)
+
+[Use move] The opposing Graveler (1) used Stealth Rock
+[0;1;30m"The opposing Graveler used Stealth Rock!"[0m
+[0;1;30m"But it failed!"[0m
+[Move failed] In function code AddStealthRocksToFoeSide's def pbMoveFailed?
+[Use move] Lombre (0) used Mega Drain
+[0;1;30m"Lombre used Mega Drain!"[0m
+[HP change] The opposing Graveler lost 32 HP (32 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Graveler fainted!"[0m
+[0;1;30m"The opposing Graveler had its energy drained!"[0m
+
+[End of round 2]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 34/76 damage
+     Lombre (0)'s best move: Mega Drain for 72/99 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 33
+[AI] =====> Flags assigned to Quagsire:
+==========> target_fast_2hko: true
+
+     [Quagsire] -  5: for target having fast 2HKO and us having no kill
+     [Quagsire] final Switch score: -5
+==============================
+     [Qwilfish] using Barb Barrage vs Lombre does a max of 96/76 damage
+     Lombre (0)'s best move: Mega Drain for 19/83 damage
+==============================
+     Lombre (0) speed (33) vs Qwilfish speed: 67
+[AI] =====> Flags assigned to Qwilfish:
+==========> fast_kill: true
+
+     [Qwilfish] + 12: for fast kill
+     [Qwilfish] final Switch score: 12
+==============================
+     [Onix] using Dragon Tail vs Lombre does a max of 60/76 damage
+     Lombre (0)'s best move: Mega Drain for 65/66 damage
+==============================
+     Lombre (0) speed (33) vs Onix speed: 78
+[AI] =====> Flags assigned to Onix:
+==========> fast_2hko: true
+
+     [Onix] +  6: for fast 2HKO
+     [Onix] final Switch score: 6
+[0;1;30m"Hiker Wayne sent out Qwilfish!"[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Lombre] -3: for us having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Lombre (0)...
+     Qwilfish (1)'s highest damaging move vs Lombre: Barb Barrage
+      + 20 for fast kill
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 21
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Lombre (0)
+
+[0;1;30m"Lombre, come back!"[0m
+[0;1;30m"You're in charge, Trubbish!"[0m
+[HP change] Trubbish lost 9 HP (74 -> 65)
+[0;1;30m"Pointed stones dug into Trubbish!"[0m
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Trubbish lost 20 HP (65 -> 45)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 3]
+
+[0;1;35m===== Round 4 =====[0m
+
+[AI Threat Assessment: Trubbish] -1: for us outspeeding
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Trubbish (0)...
+     Qwilfish (1)'s highest damaging move vs Trubbish: Barb Barrage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 5
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Trubbish (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[HP change] Trubbish lost 18 HP (45 -> 27)
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"Trubbish was poisoned!"[0m
+[Use move] Trubbish (0) used Gastro Acid
+[0;1;30m"Trubbish used Gastro Acid!"[0m
+[0;1;30m"The opposing Qwilfish's Ability was suppressed!"[0m
+
+[End of round 4]
+[HP change] Trubbish lost 9 HP (27 -> 18)
+[0;1;30m"Trubbish was hurt by poison!"[0m
+
+[0;1;35m===== Round 5 =====[0m
+
+[AI Threat Assessment: Trubbish] -3: for us having fast kill
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Trubbish (0)...
+     Qwilfish (1)'s highest damaging move vs Trubbish: Barb Barrage
+      + 20 for fast kill
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 21
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Trubbish (0)
+
+[0;1;30m"Good job, Trubbish! Come back!"[0m
+[0;1;30m"You're in charge, Sandshrew!"[0m
+[HP change] Sandshrew lost 9 HP (70 -> 61)
+[0;1;30m"Pointed stones dug into Sandshrew!"[0m
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+
+[End of round 5]
+
+[0;1;35m===== Round 6 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Rapid Spin
+[0;1;30m"Sandshrew used Rapid Spin!"[0m
+[HP change] The opposing Qwilfish lost 12 HP (83 -> 71)
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+[0;1;30m"Sandshrew's Speed rose!"[0m
+[0;1;30m"Sandshrew blew away stealth rocks!"[0m
+
+[End of round 6]
+
+[0;1;35m===== Round 7 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Qwilfish lost 12 HP (71 -> 59)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 7]
+
+[0;1;35m===== Round 8 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Qwilfish lost 12 HP (59 -> 47)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 8]
+
+[0;1;35m===== Round 9 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Qwilfish lost 11 HP (47 -> 36)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 9]
+
+[0;1;35m===== Round 10 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Qwilfish lost 13 HP (36 -> 23)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 10]
+
+[0;1;35m===== Round 11 =====[0m
+
+[AI Threat Assessment: Sandshrew] -1: for us outspeeding
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Ice Punch
+[0;1;30m"Sandshrew used Ice Punch!"[0m
+[HP change] The opposing Qwilfish lost 11 HP (23 -> 12)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 11]
+
+[0;1;35m===== Round 12 =====[0m
+
+[AI Threat Assessment: Sandshrew] +2: for target having slow kill
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Qwilfish (1) is considering using Barb Barrage (1) against Sandshrew (0)...
+     Qwilfish (1)'s highest damaging move vs Sandshrew: Barb Barrage
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Qwilfish (1):
+   * 100.0%% to use Barb Barrage (target 0): score 1
+   => will use Barb Barrage (target 0)
+
+[Round order] The opposing Qwilfish (1), Sandshrew (0)
+
+[Use move] The opposing Qwilfish (1) used Barb Barrage
+[0;1;30m"The opposing Qwilfish used Barb Barrage!"[0m
+[Target immune] Sandshrew's type immunity
+[0;1;30m"It doesn't affect Sandshrew..."[0m
+[Use move] Sandshrew (0) used Iron Head
+[0;1;30m"Sandshrew used Iron Head!"[0m
+[HP change] The opposing Qwilfish lost 12 HP (12 -> 0)
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"The opposing Qwilfish fainted!"[0m
+
+[End of round 12]
+==============================
+     [Quagsire] using Earthquake vs Sandshrew does a max of 87/61 damage
+     Sandshrew (0)'s best move: Ice Punch for 25/99 damage
+==============================
+     Sandshrew (0) speed (48) vs Quagsire speed: 33
+[AI] =====> Flags assigned to Quagsire:
+==========> slow_kill: true
+
+     [Quagsire] +  9: for slow kill
+     [Quagsire] final Switch score: 9
+==============================
+     [Onix] using Dragon Tail vs Sandshrew does a max of 60/61 damage
+     Sandshrew (0)'s best move: Iron Head for 33/66 damage
+==============================
+     Sandshrew (0) speed (48) vs Onix speed: 78
+[AI] =====> Flags assigned to Onix:
+==========> fast_2hko: true
+
+     [Onix] +  6: for fast 2HKO
+     [Onix] final Switch score: 6
+[0;1;30m"Hiker Wayne sent out Quagsire!"[0m
+
+[0;1;35m===== Round 13 =====[0m
+
+[AI Threat Assessment: Sandshrew] -2: for us having slow kill
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Sandshrew: Earthquake
+      + 17 for slow kill
+[AI] Move choices for Quagsire (1):
+   * 100.0%% to use Earthquake: score 18
+   => will use Earthquake
+
+[Round order] Sandshrew (0), the opposing Quagsire (1)
+
+[0;1;30m"Sandshrew, that's enough! Come back!"[0m
+[0;1;30m"You're in charge, Parasect!"[0m
+[Use move] The opposing Quagsire (1) used Earthquake
+[0;1;30m"The opposing Quagsire used Earthquake!"[0m
+[HP change] Parasect lost 12 HP (73 -> 61)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 13]
+
+[0;1;35m===== Round 14 =====[0m
+
+[AI Threat Assessment: Parasect] -1: for us outspeeding
+Set up score for Parasect (0): 0
+     Threat Score for Parasect (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Parasect: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Quagsire (1):
+   * 100.0%% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] Parasect (0), the opposing Quagsire (1)
+
+[Use move] Parasect (0) used Ingrain
+[0;1;30m"Parasect used Ingrain!"[0m
+[0;1;30m"Parasect planted its roots!"[0m
+[Use move] The opposing Quagsire (1) used Earthquake
+[0;1;30m"The opposing Quagsire used Earthquake!"[0m
+[HP change] Parasect lost 12 HP (61 -> 49)
+[0;1;30m"It's not very effective..."[0m
+
+[End of round 14]
+[HP change] Parasect gained 4 HP (49 -> 53)
+[0;1;30m"Parasect absorbed nutrients with its roots!"[0m
+
+[0;1;35m===== Round 15 =====[0m
+
+[AI Threat Assessment: Parasect] -1: for us outspeeding
+Set up score for Parasect (0): 0
+     Threat Score for Parasect (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Parasect: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Quagsire (1):
+   * 100.0%% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] The opposing Quagsire (1), Parasect (0)
+
+[Use move] The opposing Quagsire (1) used Earthquake
+[0;1;30m"The opposing Quagsire used Earthquake!"[0m
+[HP change] Parasect lost 10 HP (53 -> 43)
+[0;1;30m"It's not very effective..."[0m
+[Use move] Parasect (0) used Absorb
+[0;1;30m"Parasect used Absorb!"[0m
+[HP change] The opposing Quagsire lost 33 HP (99 -> 66)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Quagsire had its energy drained!"[0m
+[HP change] Parasect gained 17 HP (43 -> 60)
+[0;1;30m"The opposing Quagsire held up its Red Card against Parasect!"[0m
+[Item consumed] The opposing Quagsire consumed its held Red Card
+[0;1;30m"Parasect anchored itself with its roots!"[0m
+
+[End of round 15]
+[HP change] Parasect gained 4 HP (60 -> 64)
+[0;1;30m"Parasect absorbed nutrients with its roots!"[0m
+
+[0;1;35m===== Round 16 =====[0m
+
+[AI Threat Assessment: Parasect] -1: for us outspeeding
+Set up score for Parasect (0): 0
+     Threat Score for Parasect (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Parasect: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Quagsire (1):
+   * 100.0%% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] The opposing Quagsire (1), Parasect (0)
+
+[Use move] The opposing Quagsire (1) used Earthquake
+[0;1;30m"The opposing Quagsire used Earthquake!"[0m
+[HP change] Parasect lost 10 HP (64 -> 54)
+[0;1;30m"It's not very effective..."[0m
+[Use move] Parasect (0) used Absorb
+[0;1;30m"Parasect used Absorb!"[0m
+[HP change] The opposing Quagsire lost 36 HP (66 -> 30)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Quagsire had its energy drained!"[0m
+[HP change] Parasect gained 18 HP (54 -> 72)
+
+[End of round 16]
+[HP change] Parasect gained 1 HP (72 -> 73)
+[0;1;30m"Parasect absorbed nutrients with its roots!"[0m
+
+[0;1;35m===== Round 17 =====[0m
+
+[AI Threat Assessment: Parasect] +2: for target having slow kill
+Set up score for Parasect (0): 0
+     Threat Score for Parasect (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Parasect: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Quagsire (1):
+   * 100.0%% to use Earthquake: score 5
+   => will use Earthquake
+
+[Round order] The opposing Quagsire (1), Parasect (0)
+
+[Use move] The opposing Quagsire (1) used Earthquake
+[0;1;30m"The opposing Quagsire used Earthquake!"[0m
+[HP change] Parasect lost 12 HP (73 -> 61)
+[0;1;30m"It's not very effective..."[0m
+[Use move] Parasect (0) used Absorb
+[0;1;30m"Parasect used Absorb!"[0m
+[HP change] The opposing Quagsire lost 30 HP (30 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Quagsire fainted!"[0m
+[0;1;30m"The opposing Quagsire had its energy drained!"[0m
+[HP change] Parasect gained 12 HP (61 -> 73)
+[0;1;30m"Parasect got 1 Exp. Points!"[0m
+
+[End of round 17]
+==============================
+     [Onix] using Dragon Tail vs Parasect does a max of 60/73 damage
+     Parasect (0)'s best move: Absorb for 42/66 damage
+==============================
+     Parasect (0) speed (26) vs Onix speed: 78
+[AI] =====> Flags assigned to Onix:
+==========> fast_2hko: true
+
+     [Onix] +  6: for fast 2HKO
+     [Onix] final Switch score: 6
+[0;1;30m"Hiker Wayne sent out Onix!"[0m
+
+[0;1;35m===== Round 18 =====[0m
+
+[AI Threat Assessment: Parasect] -1: for us outspeeding
+Set up score for Parasect (0): 0
+     Threat Score for Parasect (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Onix (1) is considering using Dragon Tail (1) against Parasect (0)...
+     Onix (1)'s highest damaging move vs Parasect: Dragon Tail
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Onix (1):
+   * 100.0%% to use Dragon Tail (target 0): score 5
+   => will use Dragon Tail (target 0)
+
+[Round order] The opposing Onix (1), Parasect (0)
+
+[Use move] The opposing Onix (1) used Dragon Tail
+[0;1;30m"The opposing Onix used Dragon Tail!"[0m
+[HP change] Parasect lost 64 HP (73 -> 9)
+[Use move] Parasect (0) used Absorb
+[0;1;30m"Parasect used Absorb!"[0m
+[HP change] The opposing Onix lost 65 HP (66 -> 1)
+[0;1;30m"It's super effective!"[0m
+[Ability triggered] The opposing Onix's Sprinkler Power
+[0;1;30m"The opposing Onix endured the hit!"[0m
+[0;1;30m"The opposing Onix had its energy drained!"[0m
+[HP change] Parasect gained 33 HP (9 -> 42)
+
+[End of round 18]
+[HP change] Parasect gained 4 HP (42 -> 46)
+[0;1;30m"Parasect absorbed nutrients with its roots!"[0m
+
+[0;1;35m===== Round 19 =====[0m
+
