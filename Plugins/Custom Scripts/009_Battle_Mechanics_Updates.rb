@@ -1116,3 +1116,20 @@ Battle::AbilityEffects::OnSwitchIn.add(:ELECTRICSURGE,
     # NOTE: The ability splash is hidden again in def pbStartTerrain.
   }
 )
+
+Battle::AbilityEffects::OnSwitchIn.add(:INKSPRAY,
+  proc { |ability, battler, battle, switch_in|
+    next if battler.ability_triggered?
+    battle.pbShowAbilitySplash(battler)
+    battle.pbDisplay(_INTL("{1} covered the other side in ink!", battler.pbThis(true)))
+    battle.allOtherSideBattlers(battler.index).each do |b|
+      next if !b.near?(battler) || b.fainted?
+      if b.itemActive? && !b.hasActiveAbility?(:CONTRARY) && b.effects[PBEffects::Substitute] == 0
+        next if Battle::ItemEffects.triggerStatLossImmunity(b.item, b, :ACCURACY, battle, true)
+      end
+      b.pbLowerStatStageByAbility(:ACCURACY, 1, battler, false)
+    end
+    battle.pbHideAbilitySplash(battler)
+    battle.pbSetAbilityTrigger(battler)
+  }
+)

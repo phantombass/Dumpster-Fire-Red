@@ -38208,3 +38208,212 @@ Set up score for Noctowl (0): 0
 "Wow. You're great!"
 
 "You got $400 for winning!"
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Chingling!"
+[Round order] The opposing Seaking (1), Chingling (0)
+
+===== Round 1 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Chingling (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 30 HP (85 -> 55)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 31 HP (55 -> 24)
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 24 HP (24 -> 0)
+"The opposing Seaking fainted!"
+
+[End of round 3]
+==============================
+     [Horsea] using Octazooka vs Chingling does a max of 37/66 damage
+     Chingling (0)'s best move: Psyshock for 30/61 damage
+==============================
+     Chingling (0) speed (34) vs Horsea speed: 45
+[AI] =====> Flags assigned to Horsea:
+==========> fast_2hko: true
+
+     [Horsea] +  6: for fast 2HKO
+     [Horsea] final Switch score: 6
+==============================
+     [Quagsire] using Earthquake vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/96 damage
+==============================
+     Chingling (0) speed (34) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> outdamage: true
+
+     [Quagsire] +  3: for outdamage
+     [Quagsire] final Switch score: 3
+==============================
+     [Starmie] using Hydro Pump vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/80 damage
+==============================
+     Chingling (0) speed (34) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_2hko: true
+
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 6
+"Leader Misty sent out Horsea!"
+
+===== Round 4 =====
+
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Wynaut!"
+[Round order] The opposing Seaking (1), Wynaut (0)
+
+===== Round 1 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Wynaut (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Wynaut (0)...
+     Seaking (1)'s highest damaging move vs Wynaut: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Wynaut (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[HP change] Wynaut lost 47 HP (98 -> 51)
+[Use move] Wynaut (0) used Counter
+"Wynaut used Counter!"
+[HP change] The opposing Seaking lost 85 HP (85 -> 0)
+"The opposing Seaking fainted!"
+"Wynaut got 1 Exp. Points!"
+
+[End of round 1]
+==============================
+     [Horsea] using Octazooka vs Wynaut does a max of 40/51 damage
+     Wynaut (0)'s best move: Mirror Coat for 60/61 damage
+==============================
+     Wynaut (0) speed (22) vs Horsea speed: 45
+[AI] =====> Flags assigned to Horsea:
+==========> fast_2hko: true
+
+     [Horsea] +  6: for fast 2HKO
+     [Horsea] final Switch score: 6
+==============================
+     [Quagsire] using Earthquake vs Wynaut does a max of 60/51 damage
+     Wynaut (0)'s best move: Mirror Coat for 60/96 damage
+==============================
+     Wynaut (0) speed (22) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> fast_kill: true
+
+     [Quagsire] + 12: for fast kill
+     [Quagsire] final Switch score: 12
+==============================
+     [Starmie] using Hydro Pump vs Wynaut does a max of 97/51 damage
+     Wynaut (0)'s best move: Mirror Coat for 60/80 damage
+==============================
+     Wynaut (0) speed (22) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_kill: true
+
+     [Starmie] + 12: for fast kill
+     [Starmie] final Switch score: 12
+"Leader Misty sent out Quagsire!"
+
+===== Round 2 =====
+
