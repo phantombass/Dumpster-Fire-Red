@@ -823,7 +823,7 @@ PB_Trainers.register(:LASS,"Haley",{
 #           Cerulean Gym            #
 #===================================#
 
-PB_Trainers.register(:SWIMMER2_M,"Swimmer",{
+PB_Trainers.register(:SWIMMER2_M,"Luis",{
 :base => {
 :lose_text => "Wow. You're great!",
 :pokemon=> [

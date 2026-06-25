@@ -36286,3 +36286,885 @@ Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_updat
 -e:in `eval'
 
 
+Roles for GROWLITHE: [:PHYSICALBREAKER, :SUPPORT]
+=====> Nature for Growlithe: Adamant
+Roles for BOLTUND: [:PHYSICALBREAKER]
+=====> Nature for Boltund: Adamant
+Roles for LUCARIO: [:PHYSICALBREAKER]
+=====> Nature for Lucario: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Chad!"
+"Youngster Chad sent out Growlithe!"
+"Go! Sandshrew!"
+[Round order] The opposing Growlithe (1), Sandshrew (0)
+[Ability triggered] The opposing Growlithe's Intimidate
+[Stat change] Sandshrew's Attack changed by -1 (0 -> -1)
+"Sandshrew's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Growlithe (1) is considering using Bite (1) against Sandshrew (0)...
+     Growlithe (1)'s highest damaging move vs Sandshrew: Flame Wheel
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Sandshrew (0)...
+     Growlithe (1)'s highest damaging move vs Sandshrew: Flame Wheel
+     + 4 to prioritize highest damaging move
+     no valid targets
+[AI] Growlithe (1) is considering using Take Down (1) against Sandshrew (0)...
+     Growlithe (1)'s highest damaging move vs Sandshrew: Flame Wheel
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Take Down (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Growlithe (1), Sandshrew (0)
+
+"Sandshrew, switch out! Come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Growlithe (1) used Flame Wheel
+"The opposing Growlithe used Flame Wheel!"
+[HP change] Lombre lost 22 HP (76 -> 54)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Growlithe (1) is considering using Bite (1) against Lombre (0)...
+     Growlithe (1)'s highest damaging move vs Lombre: Flame Wheel
+[AI] Growlithe (1) is considering using Flame Wheel (1) against Lombre (0)...
+     Growlithe (1)'s highest damaging move vs Lombre: Flame Wheel
+     + 4 to prioritize highest damaging move
+     no valid targets
+[AI] Growlithe (1) is considering using Take Down (1) against Lombre (0)...
+     Growlithe (1)'s highest damaging move vs Lombre: Flame Wheel
+[AI] Move choices for Growlithe (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Flame Wheel (target 0): score 5
+   *   0.0% to use Take Down (target 0): score 0
+   => will use Flame Wheel (target 0)
+
+[Round order] The opposing Growlithe (1), Lombre (0)
+
+[Use move] The opposing Growlithe (1) used Flame Wheel
+"The opposing Growlithe used Flame Wheel!"
+[HP change] Lombre lost 25 HP (54 -> 29)
+[Use move] Lombre (0) used Bubble Beam
+"Lombre used Bubble Beam!"
+[HP change] The opposing Growlithe lost 65 HP (65 -> 0)
+"It's super effective!"
+"The opposing Growlithe fainted!"
+
+[End of round 2]
+==============================
+     [Boltund] using Bite vs Lombre does a max of 31/29 damage
+     [Boltund] using Spark vs Lombre does a max of 34/29 damage
+     [Boltund] using Covet vs Lombre does a max of 21/29 damage
+     Lombre (0)'s best move: Bubble Beam for 33/74 damage
+==============================
+     Lombre (0) speed (33) vs Boltund speed: 70
+[AI] =====> Flags assigned to Boltund:
+==========> fast_kill: true
+
+     [Boltund] + 12: for fast kill
+     [Boltund] final Switch score: 12
+"Youngster Chad sent out Boltund!"
+
+===== Round 3 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Boltund (1) is considering using Bite (1) against Lombre (0)...
+     Boltund (1)'s highest damaging move vs Lombre: Spark
+      + 20 for fast kill
+[AI] Boltund (1) is considering using Spark (1) against Lombre (0)...
+     Boltund (1)'s highest damaging move vs Lombre: Spark
+      + 20 for fast kill
+[AI] Boltund (1) is considering using Covet (1) against Lombre (0)...
+     Boltund (1)'s highest damaging move vs Lombre: Spark
+[AI] Move choices for Boltund (1):
+   *  50.0% to use Bite (target 0): score 21
+   *  50.0% to use Spark (target 0): score 21
+   *   0.0% to use Covet (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Boltund (1), Lombre (0)
+
+"OK, Lombre! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Boltund (1) used Spark
+"The opposing Boltund used Spark!"
+[HP change] Sandshrew lost 20 HP (70 -> 50)
+"Sandshrew is paralyzed! It may be unable to move!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Boltund (1) is considering using Bite (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+[AI] Boltund (1) is considering using Spark (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Covet (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Boltund (1), Sandshrew (0)
+
+[Use move] The opposing Boltund (1) used Spark
+"The opposing Boltund used Spark!"
+[HP change] Sandshrew lost 19 HP (50 -> 31)
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Boltund lost 33 HP (74 -> 41)
+"The opposing Boltund was frozen solid!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Boltund (1) is considering using Bite (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+[AI] Boltund (1) is considering using Spark (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+     + 4 to prioritize highest damaging move
+[AI] Boltund (1) is considering using Covet (1) against Sandshrew (0)...
+     Boltund (1)'s highest damaging move vs Sandshrew: Spark
+[AI] Move choices for Boltund (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   *   0.0% to use Covet (target 0): score 0
+   => will use Spark (target 0)
+
+[Round order] The opposing Boltund (1), Sandshrew (0)
+
+[Use move] The opposing Boltund (1) used Spark
+"The opposing Boltund is frozen solid!"
+[Move failed] The opposing Boltund is frozen
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Boltund lost 41 HP (41 -> 0)
+"A critical hit!"
+"The opposing Boltund fainted!"
+
+[End of round 5]
+==============================
+     [Lucario] using Seismic Toss vs Sandshrew does a max of 24/31 damage
+     [Lucario] using Bite vs Sandshrew does a max of 16/31 damage
+     [Lucario] using Force Palm vs Sandshrew does a max of 96/31 damage
+     [Lucario] using Vacuum Wave vs Sandshrew does a max of 126/31 damage
+     Sandshrew (0)'s best move: Iron Head for 17/75 damage
+==============================
+     Sandshrew (0) speed (32) vs Lucario speed: 55
+[AI] =====> Flags assigned to Lucario:
+==========> fast_kill: true
+
+     [Lucario] + 12: for fast kill
+     [Lucario] final Switch score: 12
+"Youngster Chad sent out Lucario!"
+
+===== Round 6 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Sandshrew (0)...
+     Lucario (1)'s highest damaging move vs Sandshrew: Vacuum Wave
+[AI] Lucario (1) is considering using Bite (1) against Sandshrew (0)...
+     Lucario (1)'s highest damaging move vs Sandshrew: Vacuum Wave
+[AI] Lucario (1) is considering using Force Palm (1) against Sandshrew (0)...
+     Lucario (1)'s highest damaging move vs Sandshrew: Vacuum Wave
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Sandshrew (0)...
+     Lucario (1)'s highest damaging move vs Sandshrew: Vacuum Wave
+      + 20 for fast kill
+[AI] Move choices for Lucario (1):
+   *   0.0% to use Seismic Toss (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *  50.0% to use Force Palm (target 0): score 21
+   *  50.0% to use Vacuum Wave (target 0): score 21
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Lucario (1), Sandshrew (0)
+
+"OK, Sandshrew! Come back!"
+"You're in charge, Noctowl!"
+[Use move] The opposing Lucario (1) used Force Palm
+"The opposing Lucario used Force Palm!"
+[HP change] Noctowl lost 33 HP (94 -> 61)
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+[AI] Lucario (1) is considering using Bite (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+[AI] Lucario (1) is considering using Force Palm (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+     + 4 to prioritize highest damaging move
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+[AI] Move choices for Lucario (1):
+   *   0.0% to use Seismic Toss (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Force Palm (target 0): score 5
+   *   0.0% to use Vacuum Wave (target 0): score 0
+   => will use Force Palm (target 0)
+
+[Round order] The opposing Lucario (1), Noctowl (0)
+
+[Use move] The opposing Lucario (1) used Force Palm
+"The opposing Lucario used Force Palm!"
+[HP change] Noctowl lost 55 HP (61 -> 6)
+"A critical hit!"
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Lucario lost 40 HP (75 -> 35)
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Bite (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Force Palm (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Noctowl (0)...
+     Lucario (1)'s highest damaging move vs Noctowl: Force Palm
+      + 20 for fast kill
+[AI] Move choices for Lucario (1):
+   *  25.0% to use Seismic Toss (target 0): score 21
+   *  25.0% to use Bite (target 0): score 21
+   *  25.0% to use Force Palm (target 0): score 21
+   *  25.0% to use Vacuum Wave (target 0): score 21
+   => will use Vacuum Wave (target 0)
+
+[Round order] The opposing Lucario (1), Noctowl (0)
+
+"Good job, Noctowl! Come back!"
+"Just a little more! Hang in there, Chingling!"
+[Use move] The opposing Lucario (1) used Vacuum Wave
+"The opposing Lucario used Vacuum Wave!"
+[HP change] Chingling lost 11 HP (66 -> 55)
+"It's not very effective..."
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+[AI] Lucario (1) is considering using Bite (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+     + 4 to prioritize highest damaging move
+[AI] Lucario (1) is considering using Force Palm (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+[AI] Move choices for Lucario (1):
+   *   0.0% to use Seismic Toss (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Vacuum Wave (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Lucario (1), Chingling (0)
+
+[Use move] The opposing Lucario (1) used Bite
+"The opposing Lucario used Bite!"
+[HP change] Chingling lost 50 HP (55 -> 5)
+"It's super effective!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Lucario lost 31 HP (35 -> 4)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Bite (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Force Palm (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+      + 20 for fast kill
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Chingling (0)...
+     Lucario (1)'s highest damaging move vs Chingling: Bite
+      + 20 for fast kill
+[AI] Move choices for Lucario (1):
+   *  25.0% to use Seismic Toss (target 0): score 21
+   *  25.0% to use Bite (target 0): score 21
+   *  25.0% to use Force Palm (target 0): score 21
+   *  25.0% to use Vacuum Wave (target 0): score 21
+   => will use Bite (target 0)
+
+[Round order] The opposing Lucario (1), Chingling (0)
+
+"Good job, Chingling! Come back!"
+"Your opponent's weak! Get 'em, Clefairy!"
+[Use move] The opposing Lucario (1) used Bite
+"The opposing Lucario used Bite!"
+[HP change] Clefairy lost 14 HP (79 -> 65)
+"It's not very effective..."
+[Ability triggered] Clefairy's Cute Charm
+"The opposing Lucario fell in love!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Lucario (1) is considering using Seismic Toss (1) against Clefairy (0)...
+     Lucario (1)'s highest damaging move vs Clefairy: Seismic Toss
+     + 4 to prioritize highest damaging move
+[AI] Lucario (1) is considering using Bite (1) against Clefairy (0)...
+     Lucario (1)'s highest damaging move vs Clefairy: Seismic Toss
+[AI] Lucario (1) is considering using Force Palm (1) against Clefairy (0)...
+     Lucario (1)'s highest damaging move vs Clefairy: Seismic Toss
+[AI] Lucario (1) is considering using Vacuum Wave (1) against Clefairy (0)...
+     Lucario (1)'s highest damaging move vs Clefairy: Seismic Toss
+[AI] Move choices for Lucario (1):
+   * 100.0% to use Seismic Toss (target 0): score 5
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Force Palm (target 0): score 0
+   *   0.0% to use Vacuum Wave (target 0): score 0
+   => will use Seismic Toss (target 0)
+
+[Round order] The opposing Lucario (1), Clefairy (0)
+
+[Use move] The opposing Lucario (1) used Seismic Toss
+"The opposing Lucario is in love with Clefairy!"
+"The opposing Lucario is immobilized by love!"
+[Move failed] The opposing Lucario is immobilized by love
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Lucario lost 4 HP (4 -> 0)
+"The opposing Lucario fainted!"
+"The opposing Lucario had its energy drained!"
+[HP change] Clefairy gained 3 HP (65 -> 68)
+
+===== Player won =====
+
+"You defeated Youngster Chad!"
+"Wow. You're great!"
+
+"You got $384 for winning!"
+Roles for PERRSERKER: [:PHYSICALBREAKER]
+=====> Nature for Perrserker: Adamant
+Roles for DELCATTY: [:NONE]
+=====> Nature for Delcatty: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Haley!"
+"Lass Haley sent out Perrserker!"
+"Go! Lombre!"
+[Round order] The opposing Perrserker (1), Lombre (0)
+
+===== Round 1 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Perrserker (1) is considering using Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Metal Claw (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Night Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Perrserker (1):
+   *   0.0% to use Slash (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bullet Punch (target 0): score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   => will use Night Slash (target 0)
+
+[Round order] Lombre (0), the opposing Perrserker (1)
+
+[Use move] Lombre (0) used Protect
+"Lombre used Protect!"
+"Lombre protected itself!"
+[Use move] The opposing Perrserker (1) used Night Slash
+"The opposing Perrserker used Night Slash!"
+"Lombre protected itself!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Perrserker (1) is considering using Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Metal Claw (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Night Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Perrserker (1):
+   *   0.0% to use Slash (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bullet Punch (target 0): score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Perrserker (1), Lombre (0)
+
+[Use move] The opposing Perrserker (1) used Night Slash
+"The opposing Perrserker used Night Slash!"
+[HP change] Lombre lost 28 HP (76 -> 48)
+[Use move] Lombre (0) used Worry Seed
+"Lombre used Worry Seed!"
+"The opposing Perrserker acquired Insomnia!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Perrserker (1) is considering using Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Metal Claw (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Night Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Perrserker (1):
+   *   0.0% to use Slash (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bullet Punch (target 0): score 0
+   * 100.0% to use Night Slash (target 0): score 5
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Perrserker (1), Lombre (0)
+
+[Use move] The opposing Perrserker (1) used Night Slash
+"The opposing Perrserker used Night Slash!"
+[HP change] Lombre lost 28 HP (48 -> 20)
+[Use move] Lombre (0) used Bubble Beam
+"Lombre used Bubble Beam!"
+[HP change] The opposing Perrserker lost 28 HP (75 -> 47)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Perrserker (1) is considering using Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+      + 20 for fast kill
+[AI] Perrserker (1) is considering using Metal Claw (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+[AI] Perrserker (1) is considering using Night Slash (1) against Lombre (0)...
+     Perrserker (1)'s highest damaging move vs Lombre: Night Slash
+      + 20 for fast kill
+[AI] Move choices for Perrserker (1):
+   *  50.0% to use Slash (target 0): score 21
+   *   0.0% to use Metal Claw (target 0): score 0
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *  50.0% to use Night Slash (target 0): score 21
+   => will use Night Slash (target 0)
+
+[Round order] The opposing Perrserker (1), Lombre (0)
+
+"OK, Lombre! Come back!"
+"Go for it, Noctowl!"
+[Use move] The opposing Perrserker (1) used Night Slash
+"The opposing Perrserker used Night Slash!"
+[HP change] Noctowl lost 28 HP (94 -> 66)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Perrserker (1) is considering using Slash (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+[AI] Perrserker (1) is considering using Metal Claw (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+[AI] Perrserker (1) is considering using Night Slash (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+[AI] Move choices for Perrserker (1):
+   *   0.0% to use Slash (target 0): score 0
+   * 100.0% to use Metal Claw (target 0): score 5
+   *   0.0% to use Bullet Punch (target 0): score 0
+   *   0.0% to use Night Slash (target 0): score 0
+   => will use Metal Claw (target 0)
+
+[Round order] Noctowl (0), the opposing Perrserker (1)
+
+[Use move] Noctowl (0) used Night Shade
+"Noctowl used Night Shade!"
+[HP change] The opposing Perrserker lost 28 HP (47 -> 19)
+[Use move] The opposing Perrserker (1) used Metal Claw
+"The opposing Perrserker used Metal Claw!"
+[HP change] Noctowl lost 29 HP (66 -> 37)
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Perrserker (1) is considering using Slash (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+[AI] Perrserker (1) is considering using Metal Claw (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Perrserker (1) is considering using Bullet Punch (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+     + 9 to get a last ditch hit off.
+[AI] Perrserker (1) is considering using Night Slash (1) against Noctowl (0)...
+     Perrserker (1)'s highest damaging move vs Noctowl: Metal Claw
+[AI] Move choices for Perrserker (1):
+   *   0.0% to use Slash (target 0): score 0
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Bullet Punch (target 0): score 10
+   *   0.0% to use Night Slash (target 0): score 0
+   => will use Bullet Punch (target 0)
+
+[Round order] The opposing Perrserker (1), Noctowl (0)
+
+[Use move] The opposing Perrserker (1) used Bullet Punch
+"The opposing Perrserker used Bullet Punch!"
+[HP change] Noctowl lost 23 HP (37 -> 14)
+[Use move] Noctowl (0) used Night Shade
+"Noctowl used Night Shade!"
+[HP change] The opposing Perrserker lost 19 HP (19 -> 0)
+"The opposing Perrserker fainted!"
+
+[End of round 6]
+==============================
+     [Delcatty] using Tackle vs Noctowl does a max of 18/14 damage
+     Noctowl (0)'s best move: Hyper Voice for 58/75 damage
+==============================
+     Noctowl (0) speed (42) vs Delcatty speed: 55
+[AI] =====> Flags assigned to Delcatty:
+==========> fast_kill: true
+
+     [Delcatty] + 12: for fast kill
+     [Delcatty] final Switch score: 12
+"Lass Haley sent out Delcatty!"
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Noctowl (0)...
+     Delcatty (1)'s highest damaging move vs Noctowl: Tackle
+     move will not affect Noctowl (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Noctowl: Tackle
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Noctowl: Tackle
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Delcatty (1) is considering using Tackle (1) against Noctowl (0)...
+     Delcatty (1)'s highest damaging move vs Noctowl: Tackle
+      + 20 for fast kill
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *   0.0% to use Growl: score 0
+   *   0.0% to use Tail Whip: score 0
+   * 100.0% to use Tackle (target 0): score 21
+   => will use Tackle (target 0)
+
+[Round order] The opposing Delcatty (1), Noctowl (0)
+
+"Good job, Noctowl! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Delcatty (1) used Tackle
+"The opposing Delcatty used Tackle!"
+[HP change] Sandshrew lost 5 HP (70 -> 65)
+"It's not very effective..."
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tackle (1) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *  33.3% to use Growl: score 5
+   *  33.3% to use Tail Whip: score 5
+   *  33.3% to use Tackle (target 0): score 5
+   => will use Growl
+
+[Round order] The opposing Delcatty (1), Sandshrew (0)
+
+[Use move] The opposing Delcatty (1) used Growl
+"The opposing Delcatty used Growl!"
+[Stat change] Sandshrew's Attack changed by -1 (0 -> -1)
+"Sandshrew's Attack fell!"
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Delcatty lost 23 HP (75 -> 52)
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tackle (1) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *  33.3% to use Growl: score 5
+   *  33.3% to use Tail Whip: score 5
+   *  33.3% to use Tackle (target 0): score 5
+   => will use Tail Whip
+
+[Round order] Sandshrew (0), the opposing Delcatty (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Delcatty lost 13 HP (52 -> 39)
+[Use move] The opposing Delcatty (1) used Tail Whip
+"The opposing Delcatty used Tail Whip!"
+[Stat change] Sandshrew's Defense changed by -1 (0 -> -1)
+"Sandshrew's Defense fell!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): -2
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tackle (1) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *  33.3% to use Growl: score 5
+   *  33.3% to use Tail Whip: score 5
+   *  33.3% to use Tackle (target 0): score 5
+   => will use Growl
+
+[Round order] Sandshrew (0), the opposing Delcatty (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Delcatty lost 12 HP (39 -> 27)
+[Use move] The opposing Delcatty (1) used Growl
+"The opposing Delcatty used Growl!"
+[Stat change] Sandshrew's Attack changed by -1 (-1 -> -2)
+"Sandshrew's Attack fell!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): -3
+     Threat Score for Sandshrew (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 1 to make equal to highest damaging move
+[AI] Delcatty (1) is considering using Tackle (1) against Sandshrew (0)...
+     Delcatty (1)'s highest damaging move vs Sandshrew: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *  33.3% to use Growl: score 5
+   *  33.3% to use Tail Whip: score 5
+   *  33.3% to use Tackle (target 0): score 5
+   => will use Growl
+
+[Round order] The opposing Delcatty (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"Just a little more! Hang in there, Chingling!"
+[Use move] The opposing Delcatty (1) used Growl
+"The opposing Delcatty used Growl!"
+[Stat change] Chingling's Attack changed by -1 (0 -> -1)
+"Chingling's Attack fell!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delcatty (1) is considering using Attract (4) against Chingling (0)...
+     Delcatty (1)'s highest damaging move vs Chingling: Tackle
+     move will not affect Chingling (0)
+     -  4: move will fail
+[AI] Delcatty (1) is considering using Growl (4)...
+     Delcatty (1)'s highest damaging move vs Chingling: Tackle
+     - 3 because this will be pointless
+[AI] Delcatty (1) is considering using Tail Whip (4)...
+     Delcatty (1)'s highest damaging move vs Chingling: Tackle
+     - 3 because this will be pointless
+[AI] Delcatty (1) is considering using Tackle (1) against Chingling (0)...
+     Delcatty (1)'s highest damaging move vs Chingling: Tackle
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delcatty (1):
+   *   0.0% to use Attract (target 0): score 0
+   *   0.0% to use Growl: score 0
+   *   0.0% to use Tail Whip: score 0
+   * 100.0% to use Tackle (target 0): score 5
+   => will use Tackle (target 0)
+
+[Round order] The opposing Delcatty (1), Chingling (0)
+
+[Use move] The opposing Delcatty (1) used Tackle
+"The opposing Delcatty used Tackle!"
+[HP change] Chingling lost 18 HP (66 -> 48)
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Delcatty lost 27 HP (27 -> 0)
+"The opposing Delcatty fainted!"
+
+===== Player won =====
+
+"You defeated Lass Haley!"
+"Wow. You're great!"
+
+"You got $384 for winning!"
