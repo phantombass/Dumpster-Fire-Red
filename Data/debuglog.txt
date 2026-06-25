@@ -29863,3 +29863,851 @@ Set up score for Beldum (0): 0
 "Wow. You're great!"
 
 "You got $320 for winning!"
+Roles for ZORUA: [:SETUPSWEEPER, :STALLBREAKER]
+=====> Nature for Zorua: Modest
+Roles for RATICATE: [:PHYSICALBREAKER]
+=====> Nature for Raticate: Adamant
+Roles for LINOONE: [:SETUPSWEEPER]
+=====> Nature for Linoone: Jolly
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Timmy!"
+"Youngster Timmy sent out Linoone!"
+"Go! Clefairy!"
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Shadow Sneak (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Shadow Sneak
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Curse (4) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Shadow Sneak
+     - 15 to discourage use
+     - 15 to discourage use
+     + 1 to make equal to highest damaging move
+     - -26 because we see kill or target sees 2HKO
+[AI] Linoone (1) is considering using Taunt (4) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Shadow Sneak
+
+**Exception: undefined method `pbMoveFailedAromaVeil?' for #<Battle::AI::AIMove>
+177:Data/Scripts/011_Battle/006_AI MoveEffects/009_AI_MoveEffects_SwitchingActing:765:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:139:in `trigger'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:102:in `move_will_fail_against_target?'
+[Phantombass AI] 03_AI_Moves.rb:26:in `pbPredictMoveFailureAgainstTarget'
+[Generation 9 Pack] [000] Battle_AI.rb:89:in `pbPredictMoveFailureAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:301:in `pbGetMoveScoreAgainstTarget'
+[Phantombass AI] 03_AI_Moves.rb:258:in `block in pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:251:in `each'
+[Phantombass AI] 03_AI_Moves.rb:251:in `pbGetMoveScore'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (3 levels) in pbGetMoveScores'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+[Phantombass AI] 03_AI_Moves.rb:103:in `block (2 levels) in pbGetMoveScores'
+[Phantombass AI] 03_AI_Moves.rb:97:in `each'
+[Phantombass AI] 03_AI_Moves.rb:97:in `block in pbGetMoveScores'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `block in eachMoveWithIndex'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `each'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `each_with_index'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:223:in `block in pbCommandPhaseLoop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:211:in `loop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:211:in `pbCommandPhaseLoop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:344:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:344:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:486:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for ZORUA: [:NONE]
+=====> Nature for Zorua: Modest
+Roles for RATICATE: [:PHYSICALBREAKER]
+=====> Nature for Raticate: Adamant
+Roles for LINOONE: [:SETUPSWEEPER]
+=====> Nature for Linoone: Jolly
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Timmy!"
+"Youngster Timmy sent out Linoone!"
+"Go! Clefairy!"
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Linoone (1) is considering using Hex (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Hex
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Echoed Voice (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Hex
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Echoed Voice (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+[Use move] The opposing Linoone (1) used Hex
+"The opposing Linoone used Hex!"
+[HP change] Clefairy lost 19 HP (79 -> 60)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Linoone lost 31 HP (50 -> 19)
+"The opposing Zorua's illusion wore off!"
+"The opposing Zorua had its energy drained!"
+[HP change] Clefairy gained 19 HP (60 -> 79)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zorua (1) is considering using Hex (1) against Clefairy (0)...
+     Zorua (1)'s highest damaging move vs Clefairy: Hex
+     + 4 to prioritize highest damaging move
+[AI] Zorua (1) is considering using Echoed Voice (1) against Clefairy (0)...
+     Zorua (1)'s highest damaging move vs Clefairy: Hex
+[AI] Move choices for Zorua (1):
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Echoed Voice (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Zorua (1), Clefairy (0)
+
+[Use move] The opposing Zorua (1) used Hex
+"The opposing Zorua used Hex!"
+[HP change] Clefairy lost 19 HP (79 -> 60)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Zorua lost 19 HP (19 -> 0)
+"The opposing Zorua fainted!"
+"The opposing Zorua had its energy drained!"
+[HP change] Clefairy gained 14 HP (60 -> 74)
+"Clefairy got 1 Exp. Points!"
+
+[End of round 2]
+==============================
+     [Raticate] using Bite vs Clefairy does a max of 9/74 damage
+     [Raticate] using Take Down vs Clefairy does a max of 39/74 damage
+     [Raticate] using Assurance vs Clefairy does a max of 9/74 damage
+     Clefairy (0)'s best move: Draining Kiss for 24/58 damage
+==============================
+     Clefairy (0) speed (27) vs Raticate speed: 50
+[AI] =====> Flags assigned to Raticate:
+==========> fast_2hko: true
+
+     [Raticate] +  6: for fast 2HKO
+     [Raticate] final Switch score: 6
+"Youngster Timmy sent out Raticate!"
+
+===== Round 3 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] The opposing Raticate (1), Clefairy (0)
+
+"Clefairy, come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Raticate (1) used Take Down
+"The opposing Raticate used Take Down!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Raticate's attack missed!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] The opposing Raticate (1), Sandshrew (0)
+
+[Use move] The opposing Raticate (1) used Take Down
+"The opposing Raticate used Take Down!"
+[HP change] Sandshrew lost 10 HP (70 -> 60)
+"It's not very effective..."
+[HP change] The opposing Raticate lost 3 HP (58 -> 55)
+"The opposing Raticate is damaged by recoil!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Raticate lost 37 HP (55 -> 18)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] Sandshrew (0), the opposing Raticate (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Raticate lost 18 HP (18 -> 0)
+"The opposing Raticate fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 5]
+==============================
+     [Linoone] using Snarl vs Sandshrew does a max of 19/60 damage
+     [Linoone] using Headbutt vs Sandshrew does a max of 7/60 damage
+     [Linoone] using Fury Swipes vs Sandshrew does a max of 6/60 damage
+     Sandshrew (0)'s best move: Iron Head for 42/70 damage
+==============================
+     Sandshrew (0) speed (32) vs Linoone speed: 58
+[AI] =====> Flags assigned to Linoone:
+==========> faster: true
+
+     [Linoone] final Switch score: 0
+"Youngster Timmy sent out Linoone!"
+
+===== Round 6 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Headbutt (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Snarl: score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Snarl
+
+[Round order] The opposing Linoone (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Clefairy!"
+[Use move] The opposing Linoone (1) used Snarl
+"The opposing Linoone used Snarl!"
+[HP change] Clefairy lost 5 HP (74 -> 69)
+"It's not very effective..."
+[Stat change] Clefairy's Special Attack changed by -1 (0 -> -1)
+"Clefairy's Special Attack fell!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Linoone (1) is considering using Headbutt (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Move choices for Linoone (1):
+   *   0.0% to use Snarl: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+[Use move] The opposing Linoone (1) used Headbutt
+"The opposing Linoone used Headbutt!"
+[HP change] Clefairy lost 26 HP (69 -> 43)
+[Use move] Clefairy (0) used Charm
+"Clefairy flinched and couldn't move!"
+[Move failed] Clefairy flinched
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Linoone (1) is considering using Headbutt (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Move choices for Linoone (1):
+   *   0.0% to use Snarl: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+[Use move] The opposing Linoone (1) used Headbutt
+"The opposing Linoone used Headbutt!"
+[HP change] Clefairy lost 27 HP (43 -> 16)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Linoone lost 33 HP (70 -> 37)
+"It's super effective!"
+"The opposing Linoone had its energy drained!"
+[HP change] Clefairy gained 25 HP (16 -> 41)
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Linoone (1) is considering using Headbutt (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Move choices for Linoone (1):
+   *   0.0% to use Snarl: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+[Use move] The opposing Linoone (1) used Headbutt
+"The opposing Linoone used Headbutt!"
+[HP change] Clefairy lost 26 HP (41 -> 15)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy flinched and couldn't move!"
+[Move failed] Clefairy flinched
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Linoone (1) is considering using Headbutt (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+      + 20 for fast kill
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Headbutt
+      + 20 for fast kill
+[AI] Move choices for Linoone (1):
+   *   0.0% to use Snarl: score 0
+   *  50.0% to use Headbutt (target 0): score 21
+   *   0.0% to use Hone Claws: score 0
+   *  50.0% to use Fury Swipes (target 0): score 21
+   => will use Fury Swipes (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+"Good job, Clefairy! Come back!"
+"Go for it, Sandshrew!"
+[Use move] The opposing Linoone (1) used Fury Swipes
+"The opposing Linoone used Fury Swipes!"
+[HP change] Sandshrew lost 3 HP (60 -> 57)
+[HP change] Sandshrew lost 3 HP (57 -> 54)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Headbutt (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Snarl: score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Snarl
+
+[Round order] The opposing Linoone (1), Sandshrew (0)
+
+[Use move] The opposing Linoone (1) used Snarl
+"The opposing Linoone used Snarl!"
+[HP change] Sandshrew lost 17 HP (54 -> 37)
+[Stat change] Sandshrew's Special Attack changed by -1 (0 -> -1)
+"Sandshrew's Special Attack fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Linoone lost 37 HP (37 -> 0)
+"The opposing Linoone fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Timmy!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for APPLETUN: [:NONE]
+=====> Nature for Appletun: Adamant
+Roles for ALCREMIE: [:CLERIC]
+=====> Nature for Alcremie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Reli!"
+"Lass Reli sent out Appletun!"
+"Go! Clefairy!"
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 1 to make equal to highest damaging move
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *  50.0% to use Leech Seed (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 36 HP (83 -> 47)
+"It's super effective!"
+"The opposing Appletun had its energy drained!"
+[Use move] The opposing Appletun (1) used Bullet Seed
+"The opposing Appletun used Bullet Seed!"
+[HP change] Clefairy lost 13 HP (79 -> 66)
+[HP change] Clefairy lost 13 HP (66 -> 53)
+"Hit 2 times!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     - 3 because this will be pointless
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 40 HP (47 -> 7)
+"It's super effective!"
+"The opposing Appletun had its energy drained!"
+[HP change] Clefairy gained 26 HP (53 -> 79)
+[Use move] The opposing Appletun (1) used Bullet Seed
+"The opposing Appletun used Bullet Seed!"
+[HP change] Clefairy lost 13 HP (79 -> 66)
+[HP change] Clefairy lost 12 HP (66 -> 54)
+"Hit 2 times!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     - 3 because this will be pointless
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 7 HP (7 -> 0)
+"It's super effective!"
+"The opposing Appletun fainted!"
+"The opposing Appletun had its energy drained!"
+[HP change] Clefairy gained 5 HP (54 -> 59)
+
+[End of round 3]
+==============================
+     [Alcremie] using Draining Kiss vs Clefairy does a max of 22/59 damage
+     Clefairy (0)'s best move: Draining Kiss for 16/64 damage
+==============================
+     Clefairy (0) speed (27) vs Alcremie speed: 38
+[AI] =====> Flags assigned to Alcremie:
+==========> fast_outdamage: true
+
+     [Alcremie] +  5: for fast outdamage
+     [Alcremie] final Switch score: 5
+"Lass Reli sent out Alcremie!"
+
+===== Round 4 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Clefairy (0)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 1 to make equal to highest damaging move
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 1 to make equal to highest damaging move
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Clefairy (0)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *  33.3% to use Sweet Kiss (target 0): score 5
+   *  33.3% to use Sweet Scent: score 5
+   *  33.3% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] The opposing Alcremie (1), Clefairy (0)
+
+"Clefairy, come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Alcremie (1) used Draining Kiss
+"The opposing Alcremie used Draining Kiss!"
+[HP change] Trubbish lost 13 HP (74 -> 61)
+"It's not very effective..."
+"Trubbish had its energy drained!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *   0.0% to use Sweet Kiss (target 0): score 0
+   *   0.0% to use Sweet Scent: score 0
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Trubbish (0), the opposing Alcremie (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Alcremie lost 36 HP (64 -> 28)
+"It's super effective!"
+[Use move] The opposing Alcremie (1) used Draining Kiss
+"The opposing Alcremie used Draining Kiss!"
+[HP change] Trubbish lost 11 HP (61 -> 50)
+"It's not very effective..."
+"Trubbish had its energy drained!"
+[HP change] The opposing Alcremie gained 8 HP (28 -> 36)
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *   0.0% to use Sweet Kiss (target 0): score 0
+   *   0.0% to use Sweet Scent: score 0
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Trubbish (0), the opposing Alcremie (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Alcremie lost 36 HP (36 -> 0)
+"It's super effective!"
+"The opposing Alcremie fainted!"
+"Trubbish got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Lass Reli!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for SABLEYE: [:NONE]
+=====> Nature for Sableye: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Ethan!"
+"Camper Ethan sent out Sableye!"
+"Go! Clefairy!"
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sableye (1) is considering using Knock Off (1) against Clefairy (0)...
+     Sableye (1)'s highest damaging move vs Clefairy: Knock Off
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Clefairy lost 23 HP (59 -> 36)
+"A critical hit!"
+"It's not very effective..."
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Sableye lost 41 HP (60 -> 19)
+"It's super effective!"
+"The opposing Sableye had its energy drained!"
+[HP change] Clefairy gained 31 HP (36 -> 67)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sableye (1) is considering using Knock Off (1) against Clefairy (0)...
+     Sableye (1)'s highest damaging move vs Clefairy: Knock Off
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Clefairy lost 14 HP (67 -> 53)
+"It's not very effective..."
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Sableye lost 19 HP (19 -> 0)
+"It's super effective!"
+"The opposing Sableye fainted!"
+"The opposing Sableye had its energy drained!"
+[HP change] Clefairy gained 14 HP (53 -> 67)
+
+===== Player won =====
+
+"You defeated Camper Ethan!"
+"Wow. You're great!"
+
+"You got $352 for winning!"

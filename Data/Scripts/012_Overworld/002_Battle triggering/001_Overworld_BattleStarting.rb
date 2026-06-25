@@ -282,6 +282,7 @@ module BattleCreationHelperMethods
     else
       base = battleRules["base"]
     end
+    base = "interior" if !base
     battle.backdropBase = base if base
     # Time of day
     if $game_map.metadata&.battle_environment == :Cave

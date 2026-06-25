@@ -510,7 +510,7 @@ PB_Trainers.register(:YOUNGSTER,"Timmy",{
 
 
 :level => 20,
-
+:moves => [:HEX,:ECHOEDVOICE],
 
 },
 {:species => :RATICATE,

@@ -45,8 +45,8 @@ class Battle::Scene
         bg = "water"
         back = "water"
       elsif pbGetEnvironment == :None
-        bg = "indoor1"
-        back = "indoor1"
+        bg = "interior"
+        back = "interior"
       else
         bg = GameData::Environment.get(pbGetEnvironment).battle_base
         back = pbGetEnvironment == :Cave ? "cave1" : "field"
