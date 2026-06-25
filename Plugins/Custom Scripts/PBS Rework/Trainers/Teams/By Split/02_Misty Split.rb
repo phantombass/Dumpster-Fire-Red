@@ -459,7 +459,7 @@ PB_Trainers.register(:RIVAL1,"Blue",{
 #===================================#
 PB_Trainers.register(:BUGCATCHER,"Cale",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Whoo! Good stuff!",
 :pokemon=> [
 {:species => :DUSTOX,
 
@@ -485,7 +485,7 @@ PB_Trainers.register(:BUGCATCHER,"Cale",{
 
 PB_Trainers.register(:LASS,"Ali",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "How could I lose?",
 :pokemon=> [
 {:species => :CLEFABLE,
 :ability => :MISTYSURGE,
@@ -504,7 +504,7 @@ PB_Trainers.register(:LASS,"Ali",{
 
 PB_Trainers.register(:YOUNGSTER,"Timmy",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Ow! Stomped flat!",
 :pokemon=> [
 {:species => :ZORUA_1,
 
@@ -530,7 +530,7 @@ PB_Trainers.register(:YOUNGSTER,"Timmy",{
 
 PB_Trainers.register(:LASS,"Reli",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I lost, too!",
 :pokemon=> [
 {:species => :APPLETUN,
 
@@ -549,7 +549,7 @@ PB_Trainers.register(:LASS,"Reli",{
 
 PB_Trainers.register(:CAMPER,"Ethan",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Whoa! Too much!",
 :pokemon=> [
 {:species => :SABLEYE,
 :ability => :WONDERGUARD,
@@ -561,7 +561,7 @@ PB_Trainers.register(:CAMPER,"Ethan",{
 
 PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 :Nugget => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Arrgh! You are good!",
 :pokemon=> [
 {:species => :ARBOK,
 
@@ -587,7 +587,7 @@ PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
 
 PB_Trainers.register(:CAMPER,"Shane",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I thought not!",
 :pokemon=> [
 {:species => :TOEDSCOOL,
 
@@ -609,7 +609,7 @@ PB_Trainers.register(:CAMPER,"Shane",{
 #===================================#
 PB_Trainers.register(:HIKER,"Franklin",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You worked hard!",
 :pokemon=> [
 {:species => :GROTLE,
 
@@ -628,7 +628,7 @@ PB_Trainers.register(:HIKER,"Franklin",{
 
 PB_Trainers.register(:YOUNGSTER,"Joey",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You're decent.",
 :pokemon=> [
 {:species => :VENONAT,
 
@@ -647,7 +647,7 @@ PB_Trainers.register(:YOUNGSTER,"Joey",{
 
 PB_Trainers.register(:HIKER,"Wayne",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You're something.",
 :pokemon=> [
 {:species => :GRAVELER_1,
 :ability => :GALVANIZE,
@@ -680,7 +680,7 @@ PB_Trainers.register(:HIKER,"Wayne",{
 
 PB_Trainers.register(:YOUNGSTER,"Dan",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I'm not mad!",
 :pokemon=> [
 {:species => :VAROOM,
 
@@ -699,7 +699,7 @@ PB_Trainers.register(:YOUNGSTER,"Dan",{
 
 PB_Trainers.register(:PICNICKER,"Kelsey",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "My conditioning isn't the best...",
 :pokemon=> [
 {:species => :NIDORINA,
 
@@ -725,7 +725,7 @@ PB_Trainers.register(:PICNICKER,"Kelsey",{
 
 PB_Trainers.register(:HIKER,"Nob",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You done got me, and real good, too!",
 :pokemon=> [
 {:species => :KLAWF,
 :ability => :SHELLARMOR,
@@ -758,7 +758,7 @@ PB_Trainers.register(:HIKER,"Nob",{
 
 PB_Trainers.register(:CAMPER,"Flint",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Aww, darn...",
 :pokemon=> [
 {:species => :DACHSBUN,
 
@@ -776,7 +776,7 @@ PB_Trainers.register(:CAMPER,"Flint",{
 }]}})
 PB_Trainers.register(:YOUNGSTER,"Chad",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I knew I'd lose, too!",
 :pokemon=> [
 {:species => :GROWLITHE,
 
@@ -802,7 +802,7 @@ PB_Trainers.register(:YOUNGSTER,"Chad",{
 
 PB_Trainers.register(:LASS,"Haley",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "I'm not so jealous!",
 :pokemon=> [
 {:species => :PERRSERKER,
 
@@ -825,7 +825,7 @@ PB_Trainers.register(:LASS,"Haley",{
 
 PB_Trainers.register(:SWIMMER2_M,"Luis",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "That can't be!",
 :pokemon=> [
 {:species => :TENTACOOL,
 
@@ -844,7 +844,7 @@ PB_Trainers.register(:SWIMMER2_M,"Luis",{
 
 PB_Trainers.register(:PICNICKER,"Diana",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "You overwhelmed me!",
 :pokemon=> [
 {:species => :PELIPPER,
 :ability => :KEENEYE,
@@ -856,7 +856,7 @@ PB_Trainers.register(:PICNICKER,"Diana",{
 
 PB_Trainers.register(:LEADER_Misty,"Misty",{
 :base => {
-:lose_text => "Wow. You're great!",
+:lose_text => "Wow! You're too much!",
 :pokemon=> [
 {:species => :SEAKING,
 :ability => :HECKYEAH,
