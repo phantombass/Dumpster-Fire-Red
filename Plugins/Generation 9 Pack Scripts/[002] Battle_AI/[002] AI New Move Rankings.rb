@@ -131,7 +131,9 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("PoisonParalyzeOrSleepTar
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetPoisonedPoisonTarget",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user.battler, target.battler)
+    user_battler = user.is_a?(Battle::Battler) ? user : user.battler
+    target_battler = target.is_a?(Battle::Battler) ? target : target.battler
+    next move.pbBaseDamage(power, user_battler, target_battler)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetPoisonedPoisonTarget",
@@ -150,7 +152,9 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetPoiso
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("DoublePowerIfTargetStatusProblemBurnTarget",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user.battler, target.battler)
+    user_battler = user.is_a?(Battle::Battler) ? user : user.battler
+    target_battler = target.is_a?(Battle::Battler) ? target : target.battler
+    next move.pbBaseDamage(power, user_battler, target_battler)
   }
 )
 Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("DoublePowerIfTargetStatusProblemBurnTarget",
@@ -326,7 +330,9 @@ Battle::AI::Handlers::MoveEffectScore.copy("RemoveScreens",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("IncreasePowerEachFaintedAlly",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user.battler, target.battler)
+    user_battler = user.is_a?(Battle::Battler) ? user : user.battler
+    target_battler = target.is_a?(Battle::Battler) ? target : target.battler
+    next move.pbBaseDamage(power, user_battler, target_battler)
   }
 )
 
@@ -335,7 +341,9 @@ Battle::AI::Handlers::MoveBasePower.add("IncreasePowerEachFaintedAlly",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("IncreasePowerEachTimeHit",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user.battler, target.battler)
+    user_battler = user.is_a?(Battle::Battler) ? user : user.battler
+    target_battler = target.is_a?(Battle::Battler) ? target : target.battler
+    next move.pbBaseDamage(power, user_battler, target_battler)
   }
 )
 
@@ -344,7 +352,9 @@ Battle::AI::Handlers::MoveBasePower.add("IncreasePowerEachTimeHit",
 #===============================================================================
 Battle::AI::Handlers::MoveBasePower.add("IncreasePowerSuperEffective",
   proc { |power, move, user, target, ai, battle|
-    next move.move.pbBaseDamage(power, user.battler, target.battler)
+    user_battler = user.is_a?(Battle::Battler) ? user : user.battler
+    target_battler = target.is_a?(Battle::Battler) ? target : target.battler
+    next move.pbBaseDamage(power, user_battler, target_battler)
   }
 )
 
@@ -1064,7 +1074,7 @@ Battle::AI::Handlers::MoveEffectAgainstTargetScore.add("CrashDamageIfFails",
 Battle::AI::Handlers::MoveFailureAgainstTargetCheck.add("DisableTargetHealingMoves2Turns",
   proc { |move, user, target, ai, battle|
     next true if target.effects[PBEffects::HealBlock] > 0
-    next true if move.move.pbMoveFailedAromaVeil?(user.battler, target.battler, false)
+    next true if move.pbMoveFailedAromaVeil?(user.battler, target.battler, false)
     next false
   }
 )

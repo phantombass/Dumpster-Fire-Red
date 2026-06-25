@@ -156,3 +156,15 @@ UIActionHandlers.add(UI::Bag::SCREEN_ID, :give, {
     end
   }
 })
+
+class Battle::Scene::Animation::AbilitySplashAppear < Battle::Scene::Animation
+  def createProcesses
+    return if !@sprites["abilityBar_#{@side}"]
+    bar = addSprite(@sprites["abilityBar_#{@side}"])
+    bar.setVisible(0, true)
+    bar.setSE(0, "Battle ability")
+    bar.z = @sprites["pokemon_#{@side}"].z+1
+    dir = (@side == 0) ? 1 : -1
+    bar.moveDelta(0, 8, dir * Graphics.width / 2, 0)
+  end
+end

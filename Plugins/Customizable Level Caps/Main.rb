@@ -53,7 +53,7 @@ class Level_Cap
   attr_accessor :index
 
   def initialize
-    @cap_list = [14,21]
+    @cap_list = [14,21,28,32]
     @index = 0
   end
 
@@ -62,7 +62,7 @@ class Level_Cap
   end
 
   def setup
-    @cap_list = [14,21]
+    @cap_list = [14,21,28,32]
   end
 
   def cap
@@ -567,7 +567,7 @@ ItemHandlers::UseOnPokemon.add(:INFINITECANDY, proc { |item, qty, pkmn, scene|
         evo.pbStartScreen(pkmn, new_species)
         evo.pbEvolution
         evo.pbEndScreen
-        scene.pbRefresh if scene.is_a?(PokemonPartyScreen)
+        scene.pbRefresh if scene.is_a?(UI::Party)
       }
       next true
     end
@@ -584,7 +584,7 @@ ItemHandlers::UseOnPokemon.add(:INFINITECANDY, proc { |item, qty, pkmn, scene|
         evo.pbStartScreen(pkmn, new_species)
         evo.pbEvolution
         evo.pbEndScreen
-        scene.pbRefresh if scene.is_a?(PokemonPartyScreen)
+        scene.pbRefresh if scene.is_a?(UI::Party)
       }
       next true
     end
