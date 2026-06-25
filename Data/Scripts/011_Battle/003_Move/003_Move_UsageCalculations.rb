@@ -251,7 +251,6 @@ class Battle::Move
     target.damageState.critical = pbIsCritical?(user, target)
     # Calcuate base power of move
     baseDmg = pbBaseDamage(@power, user, target)
-    baseDmg = target.totalhp if user.hasActiveAbility?(:HECKYEAH) && !target.hasActiveAbility?(:STURDY)
     # Calculate user's attack stat
     atk, atkStage = pbGetAttackStats(user, target)
     if !target.hasActiveAbility?(:UNAWARE) || @battle.moldBreaker

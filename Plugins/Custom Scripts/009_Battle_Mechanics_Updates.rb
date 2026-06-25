@@ -33,7 +33,13 @@ class Battle::Battler
       return false
     end
     if user.hasActiveAbility?(:HECKYEAH) && target.hasActiveAbility?(:STURDY)
-      @battle.pbDisplay(_INTL("{1}'s {2} blocked {3}'s {4} from doing anything!",target.pbThis,target.abilityName,user.pbThis,user.abilityName)) if show_message
+      if show_message
+        @battle.pbShowAbilitySplash(user)
+        @battle.pbShowAbilitySplash(target)
+        @battle.pbDisplay(_INTL("{1}'s {2} blocked {3}'s {4} from doing anything!",target.pbThis,target.abilityName,user.pbThis,user.abilityName))
+        @battle.pbHideAbilitySplash(target)
+        @battle.pbHideAbilitySplash(user)
+      end
       return false
     end
     # Crafty Shield
@@ -1131,5 +1137,20 @@ Battle::AbilityEffects::OnSwitchIn.add(:INKSPRAY,
     end
     battle.pbHideAbilitySplash(battler)
     battle.pbSetAbilityTrigger(battler)
+  }
+)
+
+Battle::AbilityEffects::OnDealingHit.add(:HECKYEAH,
+  proc { |ability, user, target, move, battle|
+    if target.hasActiveAbility?(:STURDY) && !target.being_mold_broken?
+      battle.pbShowAbilitySplash(user)
+      battle.pbShowAbilitySplash(target)
+      battle.pbHideAbilitySplash(target)
+    else
+      msg = nil
+      battle.pbShowAbilitySplash(user)
+      battle.pbDisplay(_INTL("Seaking! Heck yeah!"))
+    end
+    battle.pbHideAbilitySplash(user)
   }
 )

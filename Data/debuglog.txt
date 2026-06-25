@@ -38467,3 +38467,1260 @@ Set up score for Charjabug (0): 0
 
 ===== Round 2 =====
 
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Charjabug!"
+[Round order] The opposing Seaking (1), Charjabug (0)
+
+===== Round 1 =====
+
+Set up score for Charjabug (0): 0
+     Threat Score for Charjabug (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Charjabug (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Charjabug (0)...
+     Seaking (1)'s highest damaging move vs Charjabug: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Charjabug (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[HP change] Charjabug lost 72 HP (72 -> 0)
+"Charjabug fainted!"
+
+[End of round 1]
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Charjabug!"
+[Round order] The opposing Seaking (1), Charjabug (0)
+
+===== Round 1 =====
+
+Set up score for Charjabug (0): 0
+     Threat Score for Charjabug (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Charjabug (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Charjabug (0)...
+     Seaking (1)'s highest damaging move vs Charjabug: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Charjabug (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[HP change] Charjabug lost 72 HP (72 -> 0)
+"A critical hit!"
+[Ability triggered] The opposing Seaking's Heck Yeah
+"Seaking! Heck yeah!"
+"Charjabug fainted!"
+
+[End of round 1]
+"You're in charge, Chingling!"
+
+===== Round 2 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 32 HP (85 -> 53)
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 32 HP (53 -> 21)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 21 HP (21 -> 0)
+"The opposing Seaking fainted!"
+
+[End of round 4]
+==============================
+     [Horsea] using Octazooka vs Chingling does a max of 37/66 damage
+     Chingling (0)'s best move: Psyshock for 30/61 damage
+==============================
+     Chingling (0) speed (34) vs Horsea speed: 45
+[AI] =====> Flags assigned to Horsea:
+==========> fast_2hko: true
+
+     [Horsea] +  6: for fast 2HKO
+     [Horsea] final Switch score: 6
+==============================
+     [Quagsire] using Earthquake vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/96 damage
+==============================
+     Chingling (0) speed (34) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> outdamage: true
+
+     [Quagsire] +  3: for outdamage
+     [Quagsire] final Switch score: 3
+==============================
+     [Starmie] using Hydro Pump vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/80 damage
+==============================
+     Chingling (0) speed (34) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_2hko: true
+
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 6
+"Leader Misty sent out Horsea!"
+[Ability triggered] The opposing Horsea's Ink Spray
+"the opposing Horsea covered the other side in ink!"
+[Stat change] Chingling's accuracy changed by -1 (0 -> -1)
+"Chingling's accuracy fell!"
+
+===== Round 5 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Horsea (1) is considering using Octazooka (1) against Chingling (0)...
+     Horsea (1)'s highest damaging move vs Chingling: Octazooka
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Horsea (1):
+   * 100.0% to use Octazooka (target 0): score 5
+   => will use Octazooka (target 0)
+
+[Round order] The opposing Horsea (1), Chingling (0)
+
+"Chingling, come back!"
+"You're in charge, Pikachu!"
+[Use move] The opposing Horsea (1) used Octazooka
+"The opposing Horsea used Octazooka!"
+[HP change] Pikachu lost 32 HP (60 -> 28)
+[HP change] Pikachu gained 10 HP (28 -> 38)
+"Pikachu restored a little HP using its Oran Berry!"
+[Item consumed] Pikachu consumed its held Oran Berry
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pikachu (0): 0
+     Threat Score for Pikachu (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Horsea (1) is considering using Octazooka (1) against Pikachu (0)...
+     Horsea (1)'s highest damaging move vs Pikachu: Octazooka
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Horsea (1):
+   * 100.0% to use Octazooka (target 0): score 5
+   => will use Octazooka (target 0)
+
+[Round order] Pikachu (0), the opposing Horsea (1)
+
+[Use move] Pikachu (0) used Shock Wave
+"Pikachu used Shock Wave!"
+[HP change] The opposing Horsea lost 61 HP (61 -> 0)
+"It's super effective!"
+"The opposing Horsea fainted!"
+"Pikachu got 1 Exp. Points!"
+
+[End of round 6]
+==============================
+     [Quagsire] using Earthquake vs Pikachu does a max of 153/38 damage
+     Pikachu (0)'s best move: Nuzzle for 1/96 damage
+==============================
+     Pikachu (0) speed (61) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> slow_kill: true
+
+     [Quagsire] +  9: for slow kill
+     [Quagsire] final Switch score: 9
+==============================
+     [Starmie] using Hydro Pump vs Pikachu does a max of 87/38 damage
+     Pikachu (0)'s best move: Shock Wave for 36/80 damage
+==============================
+     Pikachu (0) speed (61) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_kill: true
+
+     [Starmie] + 12: for fast kill
+     [Starmie] final Switch score: 12
+"Leader Misty sent out Starmie!"
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy changed by +6 (0 -> 6)
+"The opposing Starmie's accuracy rose drastically!"
+
+===== Round 7 =====
+
+Set up score for Pikachu (0): 0
+     Threat Score for Pikachu (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Pikachu (0)...
+     Starmie (1)'s highest damaging move vs Pikachu: Hydro Pump
+      + 20 for fast kill
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 21
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Pikachu (0)
+
+"Pikachu, come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 15 HP (76 -> 61)
+"It's not very effective..."
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 17 HP (61 -> 44)
+"It's not very effective..."
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 26 HP (80 -> 54)
+"It's super effective!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 13 HP (44 -> 57)
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 15 HP (57 -> 42)
+"It's not very effective..."
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 27 HP (54 -> 27)
+"It's super effective!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 14 HP (42 -> 56)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 16 HP (56 -> 40)
+"It's not very effective..."
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Starmie fainted!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 14 HP (40 -> 54)
+
+[End of round 10]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 30/54 damage
+     Lombre (0)'s best move: Bubble Beam for 28/96 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> outdamage: true
+
+     [Quagsire] +  3: for outdamage
+     [Quagsire] final Switch score: 3
+"Leader Misty sent out Quagsire!"
+
+===== Round 11 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Lombre: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Quagsire (1) is considering using Yawn (4) against Lombre (0)...
+     Quagsire (1)'s highest damaging move vs Lombre: Earthquake
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Quagsire (1):
+   *  50.0% to use Earthquake: score 5
+   *  50.0% to use Yawn (target 0): score 5
+   => will use Earthquake
+
+[Round order] Lombre (0), the opposing Quagsire (1)
+
+"Lombre, come back!"
+"You're in charge, Trubbish!"
+"Trubbish floats in the air with its Air Balloon!"
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Quagsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Yawn (target 0): score 1
+   => will use Yawn (target 0)
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Gastro Acid
+"Trubbish used Gastro Acid!"
+"The opposing Quagsire's Ability was suppressed!"
+[Use move] The opposing Quagsire (1) used Yawn
+"The opposing Quagsire used Yawn!"
+"The opposing Quagsire made Trubbish drowsy!"
+
+[End of round 12]
+
+===== Round 13 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Quagsire lost 17 HP (96 -> 79)
+[HP change] The opposing Quagsire lost 30 HP (79 -> 49)
+"A critical hit!"
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 13]
+[Lingering effect] Trubbish fell asleep because of Yawn
+"Trubbish fell asleep!"
+[Status change] Trubbish's sleep count is 4
+
+===== Round 14 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish is fast asleep."
+[Status continues] Trubbish's sleep count is 3
+[Move failed] Trubbish is asleep
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 14]
+
+===== Round 15 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish is fast asleep."
+[Status continues] Trubbish's sleep count is 2
+[Move failed] Trubbish is asleep
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 15]
+
+===== Round 16 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish is fast asleep."
+[Status continues] Trubbish's sleep count is 1
+[Move failed] Trubbish is asleep
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 16]
+
+===== Round 17 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish woke up!"
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Quagsire lost 19 HP (49 -> 30)
+[HP change] The opposing Quagsire lost 17 HP (30 -> 13)
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 17]
+
+===== Round 18 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Quagsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Yawn (target 0): score 1
+   => will use Yawn (target 0)
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Quagsire lost 13 HP (13 -> 0)
+"The opposing Quagsire fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+===== Player won =====
+
+"You defeated Leader Misty!"
+"Wow. You're great!"
+
+"You got $2,800 for winning!"
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Chingling!"
+[Round order] The opposing Seaking (1), Chingling (0)
+
+===== Round 1 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Chingling (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+
+**Exception: undefined method `pbShowAbilitySplash' for #<Battle::Battler>
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:37:in `pbSuccessCheckAgainstTarget'
+[Generation 9 Pack] [002] Battle_Battler.rb:572:in `pbSuccessCheckAgainstTarget'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:395:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:393:in `each'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:393:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:486:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+Roles for SEAKING: [:REVENGEKILLER]
+=====> Nature for Seaking: Adamant
+Roles for HORSEA: [:NONE]
+=====> Nature for Horsea: Modest
+Roles for QUAGSIRE: [:NONE]
+=====> Nature for Quagsire: Adamant
+Roles for STARMIE: [:NONE]
+=====> Nature for Starmie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Leader Misty!"
+"Leader Misty sent out Seaking!"
+"Go! Chingling!"
+[Round order] The opposing Seaking (1), Chingling (0)
+
+===== Round 1 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Chingling (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[Ability triggered] The opposing Seaking's Heck Yeah
+[Ability triggered] Chingling's Sturdy
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 28 HP (85 -> 57)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[Ability triggered] The opposing Seaking's Heck Yeah
+[Ability triggered] Chingling's Sturdy
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 28 HP (57 -> 29)
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seaking (1) is considering using Waterfall (1) against Chingling (0)...
+     Seaking (1)'s highest damaging move vs Chingling: Waterfall
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Seaking (1):
+   * 100.0% to use Waterfall (target 0): score 5
+   => will use Waterfall (target 0)
+
+[Round order] The opposing Seaking (1), Chingling (0)
+
+[Use move] The opposing Seaking (1) used Waterfall
+"The opposing Seaking used Waterfall!"
+[Ability triggered] The opposing Seaking's Heck Yeah
+[Ability triggered] Chingling's Sturdy
+"Chingling's Sturdy blocked The opposing Seaking's Heck Yeah from doing anything!"
+[Use move] Chingling (0) used Psyshock
+"Chingling used Psyshock!"
+[HP change] The opposing Seaking lost 29 HP (29 -> 0)
+"A critical hit!"
+"The opposing Seaking fainted!"
+
+[End of round 3]
+==============================
+     [Horsea] using Octazooka vs Chingling does a max of 37/66 damage
+     Chingling (0)'s best move: Psyshock for 30/61 damage
+==============================
+     Chingling (0) speed (34) vs Horsea speed: 45
+[AI] =====> Flags assigned to Horsea:
+==========> fast_2hko: true
+
+     [Horsea] +  6: for fast 2HKO
+     [Horsea] final Switch score: 6
+==============================
+     [Quagsire] using Earthquake vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/96 damage
+==============================
+     Chingling (0) speed (34) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> outdamage: true
+
+     [Quagsire] +  3: for outdamage
+     [Quagsire] final Switch score: 3
+==============================
+     [Starmie] using Hydro Pump vs Chingling does a max of 65/66 damage
+     Chingling (0)'s best move: Night Shade for 28/80 damage
+==============================
+     Chingling (0) speed (34) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_2hko: true
+
+     [Starmie] +  6: for fast 2HKO
+     [Starmie] final Switch score: 6
+"Leader Misty sent out Horsea!"
+[Ability triggered] The opposing Horsea's Ink Spray
+"the opposing Horsea covered the other side in ink!"
+[Stat change] Chingling's accuracy changed by -1 (0 -> -1)
+"Chingling's accuracy fell!"
+
+===== Round 4 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Horsea (1) is considering using Octazooka (1) against Chingling (0)...
+     Horsea (1)'s highest damaging move vs Chingling: Octazooka
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Horsea (1):
+   * 100.0% to use Octazooka (target 0): score 5
+   => will use Octazooka (target 0)
+
+[Round order] The opposing Horsea (1), Chingling (0)
+
+"Chingling, come back!"
+"You're in charge, Pikachu!"
+[Use move] The opposing Horsea (1) used Octazooka
+"The opposing Horsea used Octazooka!"
+[HP change] Pikachu lost 32 HP (60 -> 28)
+[HP change] Pikachu gained 10 HP (28 -> 38)
+"Pikachu restored a little HP using its Oran Berry!"
+[Item consumed] Pikachu consumed its held Oran Berry
+[Stat change] Pikachu's accuracy changed by -1 (0 -> -1)
+"Pikachu's accuracy fell!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pikachu (0): 0
+     Threat Score for Pikachu (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Horsea (1) is considering using Octazooka (1) against Pikachu (0)...
+     Horsea (1)'s highest damaging move vs Pikachu: Octazooka
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Horsea (1):
+   * 100.0% to use Octazooka (target 0): score 5
+   => will use Octazooka (target 0)
+
+[Round order] Pikachu (0), the opposing Horsea (1)
+
+[Use move] Pikachu (0) used Shock Wave
+"Pikachu used Shock Wave!"
+[HP change] The opposing Horsea lost 61 HP (61 -> 0)
+"It's super effective!"
+"The opposing Horsea fainted!"
+"Pikachu got 1 Exp. Points!"
+
+[End of round 5]
+==============================
+     [Quagsire] using Earthquake vs Pikachu does a max of 153/38 damage
+     Pikachu (0)'s best move: Nuzzle for 1/96 damage
+==============================
+     Pikachu (0) speed (61) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> slow_kill: true
+
+     [Quagsire] +  9: for slow kill
+     [Quagsire] final Switch score: 9
+==============================
+     [Starmie] using Hydro Pump vs Pikachu does a max of 87/38 damage
+     Pikachu (0)'s best move: Shock Wave for 36/80 damage
+==============================
+     Pikachu (0) speed (61) vs Starmie speed: 78
+[AI] =====> Flags assigned to Starmie:
+==========> fast_kill: true
+
+     [Starmie] + 12: for fast kill
+     [Starmie] final Switch score: 12
+"Leader Misty sent out Starmie!"
+[Ability triggered] The opposing Starmie's Illuminate
+[Stat change] The opposing Starmie's accuracy changed by +6 (0 -> 6)
+"The opposing Starmie's accuracy rose drastically!"
+
+===== Round 6 =====
+
+Set up score for Pikachu (0): 0
+     Threat Score for Pikachu (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Pikachu (0)...
+     Starmie (1)'s highest damaging move vs Pikachu: Hydro Pump
+      + 20 for fast kill
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 21
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Pikachu (0)
+
+"Pikachu, come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 15 HP (76 -> 61)
+"It's not very effective..."
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 15 HP (61 -> 46)
+"It's not very effective..."
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 28 HP (80 -> 52)
+"It's super effective!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 14 HP (46 -> 60)
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 24 HP (60 -> 36)
+"A critical hit!"
+"It's not very effective..."
+[HP change] Lombre gained 10 HP (36 -> 46)
+"Lombre restored a little HP using its Oran Berry!"
+[Item consumed] Lombre consumed its held Oran Berry
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 28 HP (52 -> 24)
+"It's super effective!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 14 HP (46 -> 60)
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Starmie (1) is considering using Hydro Pump (1) against Lombre (0)...
+     Starmie (1)'s highest damaging move vs Lombre: Hydro Pump
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Starmie (1):
+   * 100.0% to use Hydro Pump (target 0): score 5
+   => will use Hydro Pump (target 0)
+
+[Round order] The opposing Starmie (1), Lombre (0)
+
+[Use move] The opposing Starmie (1) used Hydro Pump
+"The opposing Starmie used Hydro Pump!"
+[HP change] Lombre lost 16 HP (60 -> 44)
+"It's not very effective..."
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Starmie lost 24 HP (24 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Starmie fainted!"
+"The opposing Starmie had its energy drained!"
+[HP change] Lombre gained 12 HP (44 -> 56)
+
+[End of round 9]
+==============================
+     [Quagsire] using Earthquake vs Lombre does a max of 30/56 damage
+     Lombre (0)'s best move: Bubble Beam for 28/96 damage
+==============================
+     Lombre (0) speed (33) vs Quagsire speed: 32
+[AI] =====> Flags assigned to Quagsire:
+==========> outdamage: true
+
+     [Quagsire] +  3: for outdamage
+     [Quagsire] final Switch score: 3
+"Leader Misty sent out Quagsire!"
+
+===== Round 10 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Lombre: Earthquake
+     + 4 to prioritize highest damaging move
+[AI] Quagsire (1) is considering using Yawn (4) against Lombre (0)...
+     Quagsire (1)'s highest damaging move vs Lombre: Earthquake
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Quagsire (1):
+   *  50.0% to use Earthquake: score 5
+   *  50.0% to use Yawn (target 0): score 5
+   => will use Earthquake
+
+[Round order] Lombre (0), the opposing Quagsire (1)
+
+"Lombre, come back!"
+"You're in charge, Trubbish!"
+"Trubbish floats in the air with its Air Balloon!"
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Quagsire (1):
+   *   0.0% to use Earthquake: score 0
+   * 100.0% to use Yawn (target 0): score 1
+   => will use Yawn (target 0)
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Gastro Acid
+"Trubbish used Gastro Acid!"
+"The opposing Quagsire's Ability was suppressed!"
+[Use move] The opposing Quagsire (1) used Yawn
+"The opposing Quagsire used Yawn!"
+"The opposing Quagsire made Trubbish drowsy!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Quagsire lost 18 HP (96 -> 78)
+[HP change] The opposing Quagsire lost 19 HP (78 -> 59)
+[HP change] The opposing Quagsire lost 19 HP (59 -> 40)
+[HP change] The opposing Quagsire lost 18 HP (40 -> 22)
+[HP change] The opposing Quagsire lost 19 HP (22 -> 3)
+"It's super effective!"
+"Hit 5 times!"
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 12]
+[Lingering effect] Trubbish fell asleep because of Yawn
+"Trubbish fell asleep!"
+[Status change] Trubbish's sleep count is 2
+
+===== Round 13 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish is fast asleep."
+[Status continues] Trubbish's sleep count is 1
+[Move failed] Trubbish is asleep
+[Use move] The opposing Quagsire (1) used Earthquake
+"The opposing Quagsire used Earthquake!"
+"Trubbish's Air Balloon makes Ground moves miss!"
+
+[End of round 13]
+
+===== Round 14 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Quagsire (1) is considering using Earthquake (1)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  1: move will fail
+[AI] Quagsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Quagsire (1)'s highest damaging move vs Trubbish: Earthquake
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Quagsire (1):
+   * 100.0% to use Earthquake: score 1
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Earthquake
+
+[Round order] Trubbish (0), the opposing Quagsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish woke up!"
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Quagsire lost 3 HP (3 -> 0)
+"The opposing Quagsire fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+===== Player won =====
+
+"You defeated Leader Misty!"
+"Wow. You're great!"
+
+"You got $2,800 for winning!"
