@@ -30711,3 +30711,1832 @@ Set up score for Clefairy (0): 0
 "Wow. You're great!"
 
 "You got $352 for winning!"
+Roles for ZORUA: [:NONE]
+=====> Nature for Zorua: Modest
+Roles for RATICATE: [:PHYSICALBREAKER]
+=====> Nature for Raticate: Adamant
+Roles for LINOONE: [:SETUPSWEEPER]
+=====> Nature for Linoone: Jolly
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Timmy!"
+"Youngster Timmy sent out Linoone!"
+"Go! Clefairy!"
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Linoone (1) is considering using Hex (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Hex
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Echoed Voice (1) against Clefairy (0)...
+     Linoone (1)'s highest damaging move vs Clefairy: Hex
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Echoed Voice (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Linoone (1), Clefairy (0)
+
+[Use move] The opposing Linoone (1) used Hex
+"The opposing Linoone used Hex!"
+[HP change] Clefairy lost 21 HP (79 -> 58)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Linoone lost 33 HP (50 -> 17)
+"The opposing Zorua's illusion wore off!"
+"The opposing Zorua had its energy drained!"
+[HP change] Clefairy gained 21 HP (58 -> 79)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Zorua (1) is considering using Hex (1) against Clefairy (0)...
+     Zorua (1)'s highest damaging move vs Clefairy: Hex
+     + 4 to prioritize highest damaging move
+[AI] Zorua (1) is considering using Echoed Voice (1) against Clefairy (0)...
+     Zorua (1)'s highest damaging move vs Clefairy: Hex
+[AI] Move choices for Zorua (1):
+   * 100.0% to use Hex (target 0): score 5
+   *   0.0% to use Echoed Voice (target 0): score 0
+   => will use Hex (target 0)
+
+[Round order] The opposing Zorua (1), Clefairy (0)
+
+[Use move] The opposing Zorua (1) used Hex
+"The opposing Zorua used Hex!"
+[HP change] Clefairy lost 21 HP (79 -> 58)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Zorua lost 17 HP (17 -> 0)
+"The opposing Zorua fainted!"
+"The opposing Zorua had its energy drained!"
+[HP change] Clefairy gained 13 HP (58 -> 71)
+"Clefairy got 1 Exp. Points!"
+
+[End of round 2]
+==============================
+     [Raticate] using Bite vs Clefairy does a max of 9/71 damage
+     [Raticate] using Take Down vs Clefairy does a max of 39/71 damage
+     [Raticate] using Assurance vs Clefairy does a max of 9/71 damage
+     Clefairy (0)'s best move: Draining Kiss for 24/58 damage
+==============================
+     Clefairy (0) speed (27) vs Raticate speed: 50
+[AI] =====> Flags assigned to Raticate:
+==========> fast_2hko: true
+
+     [Raticate] +  6: for fast 2HKO
+     [Raticate] final Switch score: 6
+"Youngster Timmy sent out Raticate!"
+
+===== Round 3 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Clefairy (0)...
+     Raticate (1)'s highest damaging move vs Clefairy: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] The opposing Raticate (1), Clefairy (0)
+
+"Clefairy, come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Raticate (1) used Take Down
+"The opposing Raticate used Take Down!"
+[HP change] Sandshrew lost 10 HP (70 -> 60)
+"It's not very effective..."
+[HP change] The opposing Raticate lost 3 HP (58 -> 55)
+"The opposing Raticate is damaged by recoil!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] The opposing Raticate (1), Sandshrew (0)
+
+[Use move] The opposing Raticate (1) used Take Down
+"The opposing Raticate used Take Down!"
+[HP change] Sandshrew lost 10 HP (60 -> 50)
+"It's not very effective..."
+[HP change] The opposing Raticate lost 3 HP (55 -> 52)
+"The opposing Raticate is damaged by recoil!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Raticate lost 38 HP (52 -> 14)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Raticate (1) is considering using Bite (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Raticate (1) is considering using Laser Focus (4)...
+[AI] Raticate (1) is considering using Take Down (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+     + 4 to prioritize highest damaging move
+[AI] Raticate (1) is considering using Assurance (1) against Sandshrew (0)...
+     Raticate (1)'s highest damaging move vs Sandshrew: Take Down
+[AI] Move choices for Raticate (1):
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Laser Focus: score 0
+   * 100.0% to use Take Down (target 0): score 5
+   *   0.0% to use Assurance (target 0): score 0
+   => will use Take Down (target 0)
+
+[Round order] Sandshrew (0), the opposing Raticate (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Raticate lost 14 HP (14 -> 0)
+"The opposing Raticate fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 5]
+==============================
+     [Linoone] using Snarl vs Sandshrew does a max of 19/50 damage
+     [Linoone] using Headbutt vs Sandshrew does a max of 7/50 damage
+     [Linoone] using Fury Swipes vs Sandshrew does a max of 6/50 damage
+     Sandshrew (0)'s best move: Iron Head for 42/70 damage
+==============================
+     Sandshrew (0) speed (32) vs Linoone speed: 58
+[AI] =====> Flags assigned to Linoone:
+==========> faster: true
+
+     [Linoone] final Switch score: 0
+"Youngster Timmy sent out Linoone!"
+
+===== Round 6 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Headbutt (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Snarl: score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Snarl
+
+[Round order] The opposing Linoone (1), Sandshrew (0)
+
+[Use move] The opposing Linoone (1) used Snarl
+"The opposing Linoone used Snarl!"
+[HP change] Sandshrew lost 17 HP (50 -> 33)
+[Stat change] Sandshrew's Special Attack changed by -1 (0 -> -1)
+"Sandshrew's Special Attack fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Linoone lost 37 HP (70 -> 33)
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Linoone (1) is considering using Snarl (1)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+     + 4 to prioritize highest damaging move
+[AI] Linoone (1) is considering using Headbutt (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Linoone (1) is considering using Hone Claws (4)...
+[AI] Linoone (1) is considering using Fury Swipes (1) against Sandshrew (0)...
+     Linoone (1)'s highest damaging move vs Sandshrew: Snarl
+[AI] Move choices for Linoone (1):
+   * 100.0% to use Snarl: score 5
+   *   0.0% to use Headbutt (target 0): score 0
+   *   0.0% to use Hone Claws: score 0
+   *   0.0% to use Fury Swipes (target 0): score 0
+   => will use Snarl
+
+[Round order] The opposing Linoone (1), Sandshrew (0)
+
+[Use move] The opposing Linoone (1) used Snarl
+"The opposing Linoone used Snarl!"
+[HP change] Sandshrew lost 19 HP (33 -> 14)
+[Stat change] Sandshrew's Special Attack changed by -1 (-1 -> -2)
+"Sandshrew's Special Attack fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Linoone lost 33 HP (33 -> 0)
+"The opposing Linoone fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Timmy!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for APPLETUN: [:NONE]
+=====> Nature for Appletun: Adamant
+Roles for ALCREMIE: [:CLERIC]
+=====> Nature for Alcremie: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Reli!"
+"Lass Reli sent out Appletun!"
+"Go! Clefairy!"
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 1 to make equal to highest damaging move
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *  50.0% to use Leech Seed (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *  50.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 41 HP (83 -> 42)
+"It's super effective!"
+"The opposing Appletun had its energy drained!"
+[Use move] The opposing Appletun (1) used Bullet Seed
+"The opposing Appletun used Bullet Seed!"
+[HP change] Clefairy lost 13 HP (79 -> 66)
+[HP change] Clefairy lost 12 HP (66 -> 54)
+[HP change] Clefairy lost 12 HP (54 -> 42)
+"Hit 3 times!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     - 3 because this will be pointless
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 37 HP (42 -> 5)
+"It's super effective!"
+"The opposing Appletun had its energy drained!"
+[HP change] Clefairy gained 28 HP (42 -> 70)
+[Use move] The opposing Appletun (1) used Bullet Seed
+"The opposing Appletun used Bullet Seed!"
+[HP change] Clefairy lost 13 HP (70 -> 57)
+[HP change] Clefairy lost 13 HP (57 -> 44)
+"Hit 2 times!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Appletun (1) is considering using Stomp (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+[AI] Appletun (1) is considering using Leech Seed (4) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     - 3 because this will be pointless
+[AI] Appletun (1) is considering using Protect (4)...
+[AI] Appletun (1) is considering using Bullet Seed (1) against Clefairy (0)...
+     Appletun (1)'s highest damaging move vs Clefairy: Bullet Seed
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Appletun (1):
+   *   0.0% to use Stomp (target 0): score 0
+   *   0.0% to use Leech Seed (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Bullet Seed (target 0): score 5
+   => will use Bullet Seed (target 0)
+
+[Round order] Clefairy (0), the opposing Appletun (1)
+
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Appletun lost 5 HP (5 -> 0)
+"It's super effective!"
+"The opposing Appletun fainted!"
+"The opposing Appletun had its energy drained!"
+[HP change] Clefairy gained 4 HP (44 -> 48)
+
+[End of round 3]
+==============================
+     [Alcremie] using Draining Kiss vs Clefairy does a max of 22/48 damage
+     Clefairy (0)'s best move: Draining Kiss for 16/64 damage
+==============================
+     Clefairy (0) speed (27) vs Alcremie speed: 38
+[AI] =====> Flags assigned to Alcremie:
+==========> fast_outdamage: true
+
+     [Alcremie] +  5: for fast outdamage
+     [Alcremie] final Switch score: 5
+"Lass Reli sent out Alcremie!"
+
+===== Round 4 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Clefairy (0)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 1 to make equal to highest damaging move
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 1 to make equal to highest damaging move
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Clefairy (0)...
+     Alcremie (1)'s highest damaging move vs Clefairy: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *  33.3% to use Sweet Kiss (target 0): score 5
+   *  33.3% to use Sweet Scent: score 5
+   *  33.3% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Sweet Scent
+
+[Round order] The opposing Alcremie (1), Clefairy (0)
+
+"Clefairy, come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Alcremie (1) used Sweet Scent
+"The opposing Alcremie used Sweet Scent!"
+[Stat change] Trubbish's evasiveness changed by -2 (0 -> -2)
+"Trubbish's evasiveness harshly fell!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *   0.0% to use Sweet Kiss (target 0): score 0
+   *   0.0% to use Sweet Scent: score 0
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Trubbish (0), the opposing Alcremie (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Alcremie lost 39 HP (64 -> 25)
+"It's super effective!"
+[Use move] The opposing Alcremie (1) used Draining Kiss
+"The opposing Alcremie used Draining Kiss!"
+[HP change] Trubbish lost 11 HP (74 -> 63)
+"It's not very effective..."
+"Trubbish had its energy drained!"
+[HP change] The opposing Alcremie gained 8 HP (25 -> 33)
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Alcremie (1) is considering using Sweet Kiss (4) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Sweet Scent (4)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     - 3 because this will be pointless
+[AI] Alcremie (1) is considering using Draining Kiss (1) against Trubbish (0)...
+     Alcremie (1)'s highest damaging move vs Trubbish: Draining Kiss
+     + 4 to prioritize highest damaging move
+[AI] Alcremie (1) is considering using Aromatherapy...
+     +  1: move will fail
+[AI] Move choices for Alcremie (1):
+   *   0.0% to use Sweet Kiss (target 0): score 0
+   *   0.0% to use Sweet Scent: score 0
+   * 100.0% to use Draining Kiss (target 0): score 5
+   *   0.0% to use Aromatherapy: score 0
+   => will use Draining Kiss (target 0)
+
+[Round order] Trubbish (0), the opposing Alcremie (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Alcremie lost 33 HP (33 -> 0)
+"It's super effective!"
+"The opposing Alcremie fainted!"
+"Trubbish got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Lass Reli!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for SABLEYE: [:NONE]
+=====> Nature for Sableye: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Ethan!"
+"Camper Ethan sent out Sableye!"
+"Go! Clefairy!"
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+===== Round 1 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Clefairy (0) has been assigned Should Taunt flag
+     Clefairy (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sableye (1) is considering using Knock Off (1) against Clefairy (0)...
+     Sableye (1)'s highest damaging move vs Clefairy: Knock Off
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye used Knock Off!"
+[HP change] Clefairy lost 14 HP (48 -> 34)
+"It's not very effective..."
+[Ability triggered] Clefairy's Cute Charm
+"The opposing Sableye fell in love!"
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Sableye lost 48 HP (60 -> 12)
+"It's super effective!"
+"The opposing Sableye had its energy drained!"
+[HP change] Clefairy gained 36 HP (34 -> 70)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sableye (1) is considering using Knock Off (1) against Clefairy (0)...
+     Sableye (1)'s highest damaging move vs Clefairy: Knock Off
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sableye (1):
+   * 100.0% to use Knock Off (target 0): score 5
+   => will use Knock Off (target 0)
+
+[Round order] The opposing Sableye (1), Clefairy (0)
+
+[Use move] The opposing Sableye (1) used Knock Off
+"The opposing Sableye is in love with Clefairy!"
+"The opposing Sableye is immobilized by love!"
+[Move failed] The opposing Sableye is immobilized by love
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Sableye lost 12 HP (12 -> 0)
+"It's super effective!"
+"The opposing Sableye fainted!"
+"The opposing Sableye had its energy drained!"
+[HP change] Clefairy gained 9 HP (70 -> 79)
+
+===== Player won =====
+
+"You defeated Camper Ethan!"
+"Wow. You're great!"
+
+"You got $352 for winning!"
+Roles for ARBOK: [:SPEEDCONTROL]
+=====> Nature for Arbok: Modest
+Roles for SEVIPER: [:SPEEDCONTROL]
+=====> Nature for Seviper: Modest
+Roles for GOLBAT: [:NONE]
+=====> Nature for Golbat: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Rocket Grunt!"
+"Team Rocket Grunt sent out Arbok!"
+"Go! Sandshrew!"
+[Round order] The opposing Arbok (1), Sandshrew (0)
+[Ability triggered] The opposing Arbok's Intimidate
+[Stat change] Sandshrew's Attack changed by -1 (0 -> -1)
+"Sandshrew's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Arbok (1) is considering using Bite (1) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Arbok (1) is considering using Glare (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 for being a Speed Control Role
+     + 1 to make equal to highest damaging move
+[AI] Arbok (1) is considering using Screech (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 to make equal to highest damaging move
+[AI] Arbok (1) is considering using Acid (1)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Arbok (1):
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Glare (target 0): score 6
+   *   0.0% to use Screech (target 0): score 0
+   *   0.0% to use Acid: score 0
+   => will use Glare (target 0)
+
+[Round order] The opposing Arbok (1), Sandshrew (0)
+
+[Use move] The opposing Arbok (1) used Glare
+"The opposing Arbok used Glare!"
+"Sandshrew is paralyzed! It may be unable to move!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew is paralyzed! It can't move!"
+[Move failed] Sandshrew is paralyzed
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arbok (1) is considering using Bite (1) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Arbok (1) is considering using Glare (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Arbok (1) is considering using Screech (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 to make equal to highest damaging move
+[AI] Arbok (1) is considering using Acid (1)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Arbok (1):
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Glare (target 0): score 0
+   *  50.0% to use Screech (target 0): score 5
+   *   0.0% to use Acid: score 0
+   => will use Screech (target 0)
+
+[Round order] The opposing Arbok (1), Sandshrew (0)
+
+[Use move] The opposing Arbok (1) used Screech
+"The opposing Arbok used Screech!"
+[Stat change] Sandshrew's Defense changed by -2 (0 -> -2)
+"Sandshrew's Defense harshly fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Arbok lost 25 HP (65 -> 40)
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): -3
+     Threat Score for Sandshrew (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arbok (1) is considering using Bite (1) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Arbok (1) is considering using Glare (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Arbok (1) is considering using Screech (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 to make equal to highest damaging move
+[AI] Arbok (1) is considering using Acid (1)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Arbok (1):
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Glare (target 0): score 0
+   *  50.0% to use Screech (target 0): score 5
+   *   0.0% to use Acid: score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arbok (1), Sandshrew (0)
+
+[Use move] The opposing Arbok (1) used Bite
+"The opposing Arbok used Bite!"
+[HP change] Sandshrew lost 19 HP (70 -> 51)
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew flinched and couldn't move!"
+[Move failed] Sandshrew flinched
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Sandshrew (0): -3
+     Threat Score for Sandshrew (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arbok (1) is considering using Bite (1) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Arbok (1) is considering using Glare (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Arbok (1) is considering using Screech (4) against Sandshrew (0)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 to make equal to highest damaging move
+[AI] Arbok (1) is considering using Acid (1)...
+     Arbok (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Arbok (1):
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Glare (target 0): score 0
+   *  50.0% to use Screech (target 0): score 5
+   *   0.0% to use Acid: score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arbok (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"Go for it, Noctowl!"
+[Use move] The opposing Arbok (1) used Bite
+"The opposing Arbok used Bite!"
+[HP change] Noctowl lost 14 HP (94 -> 80)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Arbok (1) is considering using Bite (1) against Noctowl (0)...
+     Arbok (1)'s highest damaging move vs Noctowl: Bite
+     + 4 to prioritize highest damaging move
+[AI] Arbok (1) is considering using Glare (4) against Noctowl (0)...
+     Arbok (1)'s highest damaging move vs Noctowl: Bite
+     + 1 for being a Speed Control Role
+     - 4 because this will be pointless
+[AI] Arbok (1) is considering using Screech (4) against Noctowl (0)...
+     Arbok (1)'s highest damaging move vs Noctowl: Bite
+     - 3 because this will be pointless
+[AI] Arbok (1) is considering using Acid (1)...
+     Arbok (1)'s highest damaging move vs Noctowl: Bite
+[AI] Move choices for Arbok (1):
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Glare (target 0): score 0
+   *   0.0% to use Screech (target 0): score 0
+   *   0.0% to use Acid: score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Arbok (1), Noctowl (0)
+
+[Use move] The opposing Arbok (1) used Bite
+"The opposing Arbok used Bite!"
+[HP change] Noctowl lost 15 HP (80 -> 65)
+[Use move] Noctowl (0) used Extrasensory
+"Noctowl used Extrasensory!"
+[HP change] The opposing Arbok lost 40 HP (40 -> 0)
+"It's super effective!"
+"The opposing Arbok fainted!"
+
+[End of round 5]
+==============================
+     [Seviper] using Venoshock vs Noctowl does a max of 22/65 damage
+     [Seviper] using Poison Fang vs Noctowl does a max of 21/65 damage
+     Noctowl (0)'s best move: Extrasensory for 70/70 damage
+==============================
+     Noctowl (0) speed (42) vs Seviper speed: 40
+[AI] =====> Flags assigned to Seviper:
+==========> target_fast_kill: true
+
+     [Seviper] -  9: for target fast kill
+     [Seviper] final Switch score: -9
+==============================
+     [Golbat] using Poison Fang vs Noctowl does a max of 21/65 damage
+     Noctowl (0)'s best move: Extrasensory for 60/71 damage
+==============================
+     Noctowl (0) speed (42) vs Golbat speed: 51
+[AI] =====> Flags assigned to Golbat:
+==========> faster: true
+
+     [Golbat] final Switch score: 0
+"Team Rocket Grunt sent out Golbat!"
+
+===== Round 6 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Astonish (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Mean Look (4) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 1 to make equal to highest damaging move
+[AI] Golbat (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Quick Guard (4)...
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Astonish (target 0): score 0
+   *  50.0% to use Mean Look (target 0): score 5
+   *  50.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Quick Guard: score 0
+   => will use Poison Fang (target 0)
+
+[Round order] The opposing Golbat (1), Noctowl (0)
+
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[HP change] Noctowl lost 18 HP (65 -> 47)
+[HP change] Noctowl gained 10 HP (47 -> 57)
+"Noctowl restored a little HP using its Oran Berry!"
+[Item consumed] Noctowl consumed its held Oran Berry
+"Noctowl was badly poisoned!"
+[Use move] Noctowl (0) used Extrasensory
+"Noctowl used Extrasensory!"
+[HP change] The opposing Golbat lost 56 HP (71 -> 15)
+"It's super effective!"
+
+[End of round 6]
+[HP change] Noctowl lost 5 HP (57 -> 52)
+"Noctowl was hurt by poison!"
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Astonish (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Mean Look (4) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     - 3 because this will be pointless
+[AI] Golbat (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Quick Guard (4)...
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Astonish (target 0): score 0
+   *   0.0% to use Mean Look (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Quick Guard: score 0
+   => will use Poison Fang (target 0)
+
+[Round order] The opposing Golbat (1), Noctowl (0)
+
+"Noctowl, come back!"
+"Your opponent's weak! Get 'em, Sandshrew!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[Target immune] Sandshrew's type immunity
+"It doesn't affect Sandshrew..."
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Astonish (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Astonish
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Mean Look (4) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Astonish
+     - 3 because this will be pointless
+[AI] Golbat (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Astonish
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Quick Guard (4)...
+[AI] Move choices for Golbat (1):
+   * 100.0% to use Astonish (target 0): score 5
+   *   0.0% to use Mean Look (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Quick Guard: score 0
+   => will use Astonish (target 0)
+
+[Round order] Sandshrew (0), the opposing Golbat (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Golbat lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Golbat fainted!"
+
+[End of round 8]
+     move will not affect Sandshrew (0)
+==============================
+     Sandshrew (0)'s best move: Iron Head for 40/70 damage
+==============================
+     Sandshrew (0) speed (32) vs Seviper speed: 40
+[AI] =====> Flags assigned to Seviper:
+==========> faster: true
+
+     [Seviper] final Switch score: 0
+"Team Rocket Grunt sent out Seviper!"
+
+===== Round 9 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seviper (1) is considering using Screech (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     + 1 to make equal to highest damaging move
+[AI] Seviper (1) is considering using Venoshock (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Seviper (1) is considering using Glare (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Seviper (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Seviper (1):
+   * 100.0% to use Screech (target 0): score 5
+   *   0.0% to use Venoshock (target 0): score 0
+   *   0.0% to use Glare (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Screech (target 0)
+
+[Round order] The opposing Seviper (1), Sandshrew (0)
+
+[Use move] The opposing Seviper (1) used Screech
+"The opposing Seviper used Screech!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Seviper's attack missed!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Seviper lost 39 HP (70 -> 31)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seviper (1) is considering using Screech (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     - 3 because this will be pointless
+[AI] Seviper (1) is considering using Venoshock (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Seviper (1) is considering using Glare (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Seviper (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Seviper (1):
+   * 100.0% to use Screech (target 0): score 1
+   *   0.0% to use Venoshock (target 0): score 0
+   *   0.0% to use Glare (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Screech (target 0)
+
+[Round order] The opposing Seviper (1), Sandshrew (0)
+
+[Use move] The opposing Seviper (1) used Screech
+"The opposing Seviper used Screech!"
+[Stat change] Sandshrew's Defense changed by -2 (0 -> -2)
+"Sandshrew's Defense harshly fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew is paralyzed! It can't move!"
+[Move failed] Sandshrew is paralyzed
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): -2
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Seviper (1) is considering using Screech (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     - 3 because this will be pointless
+[AI] Seviper (1) is considering using Venoshock (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Seviper (1) is considering using Glare (4) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  4: move will fail
+[AI] Seviper (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Seviper (1)'s highest damaging move vs Sandshrew: Poison Fang
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Move choices for Seviper (1):
+   * 100.0% to use Screech (target 0): score 1
+   *   0.0% to use Venoshock (target 0): score 0
+   *   0.0% to use Glare (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Screech (target 0)
+
+[Round order] The opposing Seviper (1), Sandshrew (0)
+
+[Use move] The opposing Seviper (1) used Screech
+"The opposing Seviper used Screech!"
+[Stat change] Sandshrew's Defense changed by -2 (-2 -> -4)
+"Sandshrew's Defense harshly fell!"
+[Use move] Sandshrew (0) used Iron Head
+"Sandshrew used Iron Head!"
+[HP change] The opposing Seviper lost 31 HP (31 -> 0)
+"The opposing Seviper fainted!"
+
+===== Player won =====
+
+"You defeated Team Rocket Grunt!"
+"Wow. You're great!"
+
+"You got $704 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Chingling appeared!"
+"Go! Sandshrew!"
+[Round order] Sandshrew (0), the wild Chingling (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Chingling (1) is considering using Confusion (1) against Sandshrew (0)...
+     Chingling (1)'s highest damaging move vs Sandshrew: Confusion
+[AI] Move choices for Chingling (1):
+   *  50.0% to use Confusion (target 0): score 1
+   *  50.0% to use Confusion (target 0): score 1
+   => will use Confusion (target 0)
+
+[Round order] Sandshrew (0), the wild Chingling (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Chingling was caught!"
+
+===== Pokémon caught =====
+
+"Chingling's data was added to the Pokédex."
+"Would you like to give a nickname to Chingling?"
+"Where do you want to send Chingling to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Wynaut has been sent to Box "Box 1"."
+"Chingling has been added to your party."
+Roles for TOEDSCOOL: [:NONE]
+=====> Nature for Toedscool: Modest
+Roles for SANDSLASH: [:PHYSICALBREAKER, :SETUPSWEEPER, :HAZARDREMOVAL, :SPEEDCONTROL]
+=====> Nature for Sandslash: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Camper Shane!"
+"Camper Shane sent out Toedscool!"
+"Go! Sandshrew!"
+[Round order] The opposing Toedscool (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Toedscool (1) is considering using Supersonic (4) against Sandshrew (0)...
+     Toedscool (1)'s highest damaging move vs Sandshrew: Mega Drain
+     - 3 because this will be pointless
+[AI] Toedscool (1) is considering using Tackle (1) against Sandshrew (0)...
+     Toedscool (1)'s highest damaging move vs Sandshrew: Mega Drain
+[AI] Toedscool (1) is considering using Mega Drain (1) against Sandshrew (0)...
+     Toedscool (1)'s highest damaging move vs Sandshrew: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Toedscool (1) is considering using Screech (4) against Sandshrew (0)...
+     Toedscool (1)'s highest damaging move vs Sandshrew: Mega Drain
+     - 3 because this will be pointless
+[AI] Move choices for Toedscool (1):
+   *   0.0% to use Supersonic (target 0): score 0
+   *   0.0% to use Tackle (target 0): score 0
+   * 100.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Screech (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Sandshrew (0), the opposing Toedscool (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Toedscool lost 54 HP (54 -> 0)
+"It's super effective!"
+"The opposing Toedscool fainted!"
+
+[End of round 1]
+==============================
+     [Sandslash] using Fury Cutter vs Sandshrew does a max of 4/70 damage
+     [Sandslash] using Rapid Spin vs Sandshrew does a max of 5/70 damage
+     [Sandslash] using Bulldoze vs Sandshrew does a max of 39/70 damage
+     [Sandslash] using Rock Tomb vs Sandshrew does a max of 13/70 damage
+     Sandshrew (0)'s best move: Ice Punch for 54/69 damage
+==============================
+     Sandshrew (0) speed (32) vs Sandslash speed: 38
+[AI] =====> Flags assigned to Sandslash:
+==========> fast_2hko: true
+
+     [Sandslash] +  6: for fast 2HKO
+     [Sandslash] final Switch score: 6
+"Camper Shane sent out Sandslash!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandslash (1) is considering using Fury Cutter (1) against Sandshrew (0)...
+     Sandslash (1)'s highest damaging move vs Sandshrew: Bulldoze
+[AI] Sandslash (1) is considering using Rapid Spin (1) against Sandshrew (0)...
+     Sandslash (1)'s highest damaging move vs Sandshrew: Bulldoze
+     - 15 to discourage use
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Sandslash (1) is considering using Bulldoze (1)...
+     Sandslash (1)'s highest damaging move vs Sandshrew: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Sandslash (1) is considering using Rock Tomb (1) against Sandshrew (0)...
+     Sandslash (1)'s highest damaging move vs Sandshrew: Bulldoze
+[AI] Move choices for Sandslash (1):
+   *   0.0% to use Fury Cutter (target 0): score 0
+   *   0.0% to use Rapid Spin (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Sandslash (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Sandslash (1) used Bulldoze
+"The opposing Sandslash used Bulldoze!"
+[HP change] Lombre lost 13 HP (76 -> 63)
+"It's not very effective..."
+[Stat change] Lombre's Speed changed by -1 (0 -> -1)
+"Lombre's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Lombre (0): -1
+     Threat Score for Lombre (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandslash (1) is considering using Fury Cutter (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+     + 4 to prioritize highest damaging move
+[AI] Sandslash (1) is considering using Rapid Spin (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+     - 15 to discourage use
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Sandslash (1) is considering using Bulldoze (1)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+[AI] Sandslash (1) is considering using Rock Tomb (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+[AI] Move choices for Sandslash (1):
+   * 100.0% to use Fury Cutter (target 0): score 5
+   *   0.0% to use Rapid Spin (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fury Cutter (target 0)
+
+[Round order] The opposing Sandslash (1), Lombre (0)
+
+[Use move] The opposing Sandslash (1) used Fury Cutter
+"The opposing Sandslash used Fury Cutter!"
+[HP change] Lombre lost 25 HP (63 -> 38)
+"It's super effective!"
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Sandslash lost 45 HP (69 -> 24)
+"It's super effective!"
+"The opposing Sandslash had its energy drained!"
+[HP change] Lombre gained 23 HP (38 -> 61)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Lombre (0): -1
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sandslash (1) is considering using Fury Cutter (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+     + 4 to prioritize highest damaging move
+[AI] Sandslash (1) is considering using Rapid Spin (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+     - 15 to discourage use
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Sandslash (1) is considering using Bulldoze (1)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+[AI] Sandslash (1) is considering using Rock Tomb (1) against Lombre (0)...
+     Sandslash (1)'s highest damaging move vs Lombre: Fury Cutter
+[AI] Move choices for Sandslash (1):
+   * 100.0% to use Fury Cutter (target 0): score 5
+   *   0.0% to use Rapid Spin (target 0): score 0
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   => will use Fury Cutter (target 0)
+
+[Round order] The opposing Sandslash (1), Lombre (0)
+
+[Use move] The opposing Sandslash (1) used Fury Cutter
+"The opposing Sandslash used Fury Cutter!"
+[HP change] Lombre lost 44 HP (61 -> 17)
+"It's super effective!"
+[Use move] Lombre (0) used Mega Drain
+"Lombre used Mega Drain!"
+[HP change] The opposing Sandslash lost 24 HP (24 -> 0)
+"It's super effective!"
+"The opposing Sandslash fainted!"
+"The opposing Sandslash had its energy drained!"
+[HP change] Lombre gained 12 HP (17 -> 29)
+
+===== Player won =====
+
+"You defeated Camper Shane!"
+"Wow. You're great!"
+
+"You got $336 for winning!"
+Roles for GROTLE: [:SETUPSWEEPER]
+=====> Nature for Grotle: Adamant
+Roles for DREDNAW: [:NONE]
+=====> Nature for Drednaw: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Franklin!"
+"Hiker Franklin sent out Grotle!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Grotle (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Grotle (1) is considering using Leafage (1) against Trubbish (0)...
+     Grotle (1)'s highest damaging move vs Trubbish: Razor Leaf
+[AI] Grotle (1) is considering using Growth (4)...
+[AI] Grotle (1) is considering using Razor Leaf (1)...
+     Grotle (1)'s highest damaging move vs Trubbish: Razor Leaf
+     + 4 to prioritize highest damaging move
+
+**Exception: undefined method `rough_type' for #<Battle::Move::CurseTargetOrLowerUserSpd1RaiseUserAtkDef1>
+176:Data/Scripts/011_Battle/006_AI MoveEffects/008_AI_MoveEffects_ChangeMoveEffect:83:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:139:in `trigger'
+158:Data/Scripts/011_Battle/005_AI/001_Battle_AI:98:in `move_will_fail?'
+[Phantombass AI] 03_AI_Moves.rb:20:in `pbPredictMoveFailure'
+[Phantombass AI] 03_AI_Moves.rb:74:in `block in pbGetMoveScores'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `block in eachMoveWithIndex'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `each'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `each_with_index'
+126:Data/Scripts/011_Battle/002_Battler/001_Battle_Battler:474:in `eachMoveWithIndex'
+[Phantombass AI] 03_AI_Moves.rb:58:in `pbGetMoveScores'
+[Phantombass AI] 01_AI_Main.rb:82:in `pbDefaultChooseEnemyCommand'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:223:in `block in pbCommandPhaseLoop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:211:in `loop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:211:in `pbCommandPhaseLoop'
+123:Data/Scripts/011_Battle/001_Battle/009_Battle_CommandPhase:202:in `pbCommandPhase'
+[Delta Speed Up] _Main_Script.rb:83:in `pbCommandPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:344:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:344:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:521:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:520:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:486:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for GROTLE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+=====> Nature for Grotle: Adamant
+Roles for DREDNAW: [:NONE]
+=====> Nature for Drednaw: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Franklin!"
+"Hiker Franklin sent out Grotle!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Grotle (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Grotle (1) is considering using Bullet Seed (1) against Trubbish (0)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Grotle (1) is considering using Bite (1) against Trubbish (0)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Grotle (1) is considering using Bulldoze (1)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grotle (1):
+   *   0.0% to use Bullet Seed (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   => will use Bulldoze
+
+[Round order] Trubbish (0), the opposing Grotle (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Grotle lost 63 HP (69 -> 6)
+"It's super effective!"
+[Use move] The opposing Grotle (1) used Bulldoze
+"The opposing Grotle used Bulldoze!"
+[HP change] Trubbish lost 29 HP (74 -> 45)
+"It's super effective!"
+[Stat change] Trubbish's Speed changed by -1 (0 -> -1)
+"Trubbish's Speed fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): -1
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grotle (1) is considering using Bullet Seed (1) against Trubbish (0)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Grotle (1) is considering using Bite (1) against Trubbish (0)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Grotle (1) is considering using Bulldoze (1)...
+     Grotle (1)'s highest damaging move vs Trubbish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grotle (1):
+   *   0.0% to use Bullet Seed (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Bulldoze: score 5
+   => will use Bulldoze
+
+[Round order] Trubbish (0), the opposing Grotle (1)
+
+[Use move] Trubbish (0) used Sludge Bomb
+"Trubbish used Sludge Bomb!"
+[HP change] The opposing Grotle lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Grotle fainted!"
+
+[End of round 2]
+==============================
+     [Drednaw] using Water Gun vs Trubbish does a max of 10/45 damage
+     [Drednaw] using Bite vs Trubbish does a max of 29/45 damage
+     [Drednaw] using Headbutt vs Trubbish does a max of 23/45 damage
+     Trubbish (0)'s best move: Bullet Seed for 56/78 damage
+==============================
+     Trubbish (0) speed (32) vs Drednaw speed: 44
+[AI] =====> Flags assigned to Drednaw:
+==========> fast_2hko: true
+
+     [Drednaw] +  6: for fast 2HKO
+     [Drednaw] final Switch score: 6
+"Hiker Franklin sent out Drednaw!"
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): -1
+     Threat Score for Trubbish (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Trubbish (0)...
+     Drednaw (1)'s highest damaging move vs Trubbish: Bite
+[AI] Drednaw (1) is considering using Bite (1) against Trubbish (0)...
+     Drednaw (1)'s highest damaging move vs Trubbish: Bite
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Trubbish (0)...
+     Drednaw (1)'s highest damaging move vs Trubbish: Bite
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Drednaw (1), Trubbish (0)
+
+"Trubbish, come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Drednaw (1) used Bite
+"The opposing Drednaw used Bite!"
+[HP change] Lombre lost 27 HP (76 -> 49)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Bite
+[AI] Drednaw (1) is considering using Bite (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Bite
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Bite
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Drednaw (1), Lombre (0)
+
+[Use move] The opposing Drednaw (1) used Bite
+"The opposing Drednaw used Bite!"
+[HP change] Lombre lost 28 HP (49 -> 21)
+[Use move] Lombre (0) used Worry Seed
+"Lombre used Worry Seed!"
+"The opposing Drednaw acquired Insomnia!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Lombre (0)...
+     Drednaw (1)'s highest damaging move vs Lombre: Headbutt
+      + 20 for fast kill
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 21
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Lombre (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Lombre lost 21 HP (21 -> 0)
+"Lombre fainted!"
+
+[End of round 5]
+"You're in charge, Chingling!"
+
+===== Round 6 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+[AI] Drednaw (1) is considering using Bite (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+     + 4 to prioritize highest damaging move
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Drednaw (1), Chingling (0)
+
+[Use move] The opposing Drednaw (1) used Bite
+"The opposing Drednaw used Bite!"
+[HP change] Chingling lost 41 HP (66 -> 25)
+"It's super effective!"
+[Use move] Chingling (0) used Draining Kiss
+"Chingling used Draining Kiss!"
+[HP change] The opposing Drednaw lost 15 HP (78 -> 63)
+"The opposing Drednaw had its energy drained!"
+[HP change] Chingling gained 11 HP (25 -> 36)
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Chingling (0): 0
+     Threat Score for Chingling (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+[AI] Drednaw (1) is considering using Bite (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+      + 20 for fast kill
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Chingling (0)...
+     Drednaw (1)'s highest damaging move vs Chingling: Bite
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   * 100.0% to use Bite (target 0): score 21
+   *   0.0% to use Protect: score 0
+   *   0.0% to use Headbutt (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Drednaw (1), Chingling (0)
+
+"Chingling, come back!"
+"Go for it, Clefairy!"
+[Use move] The opposing Drednaw (1) used Bite
+"The opposing Drednaw used Bite!"
+[HP change] Clefairy lost 12 HP (79 -> 67)
+"It's not very effective..."
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Clefairy (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Clefairy lost 30 HP (67 -> 37)
+[Use move] Clefairy (0) used Charm
+"Clefairy used Charm!"
+[Stat change] The opposing Drednaw's Attack changed by -2 (0 -> -2)
+"The opposing Drednaw's Attack harshly fell!"
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Clefairy (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Clefairy lost 14 HP (37 -> 23)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Drednaw lost 21 HP (63 -> 42)
+"The opposing Drednaw had its energy drained!"
+[HP change] Clefairy gained 16 HP (23 -> 39)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Clefairy (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Clefairy lost 16 HP (39 -> 23)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy flinched and couldn't move!"
+[Move failed] Clefairy flinched
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Clefairy (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Clefairy lost 14 HP (23 -> 9)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Drednaw lost 23 HP (42 -> 19)
+"The opposing Drednaw had its energy drained!"
+[HP change] Clefairy gained 17 HP (9 -> 26)
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Clefairy (0): 0
+     Threat Score for Clefairy (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Drednaw (1) is considering using Water Gun (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Bite (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+[AI] Drednaw (1) is considering using Protect (4)...
+[AI] Drednaw (1) is considering using Headbutt (1) against Clefairy (0)...
+     Drednaw (1)'s highest damaging move vs Clefairy: Headbutt
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Drednaw (1):
+   *   0.0% to use Water Gun (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   *   0.0% to use Protect: score 0
+   * 100.0% to use Headbutt (target 0): score 5
+   => will use Headbutt (target 0)
+
+[Round order] The opposing Drednaw (1), Clefairy (0)
+
+[Use move] The opposing Drednaw (1) used Headbutt
+"The opposing Drednaw used Headbutt!"
+[HP change] Clefairy lost 14 HP (26 -> 12)
+[Use move] Clefairy (0) used Draining Kiss
+"Clefairy used Draining Kiss!"
+[HP change] The opposing Drednaw lost 19 HP (19 -> 0)
+"The opposing Drednaw fainted!"
+"The opposing Drednaw had its energy drained!"
+[HP change] Clefairy gained 14 HP (12 -> 26)
+"Chingling got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Hiker Franklin!"
+"Wow. You're great!"
+
+"You got $704 for winning!"

@@ -615,7 +615,7 @@ PB_Trainers.register(:HIKER,"Franklin",{
 
 
 :level => 21,
-
+:moves => [:BULLETSEED,:BITE,:BULLDOZE],
 
 },
 {:species => :DREDNAW,
