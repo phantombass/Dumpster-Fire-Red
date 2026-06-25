@@ -38085,3 +38085,126 @@ Set up score for Lombre (0): 0
 "Wow. You're great!"
 
 "You got $400 for winning!"
+Roles for PELIPPER: [:SPEEDCONTROL]
+=====> Nature for Pelipper: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Picnicker Diana!"
+"Picnicker Diana sent out Pelipper!"
+"Go! Lombre!"
+[Round order] The opposing Pelipper (1), Lombre (0)
+[Ability triggered] The opposing Pelipper's Keen Eye
+"The opposing Pelipper is getting pumped!"
+
+===== Round 1 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+     + 1 to make equal to highest damaging move
+[AI] Pelipper (1) is considering using Wing Attack (1) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Water Pulse (1) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Tailwind: score 0
+   *  50.0% to use Supersonic (target 0): score 5
+   *  50.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Water Pulse (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Pelipper (1), Lombre (0)
+
+"Lombre, switch out! Come back!"
+"You're in charge, Noctowl!"
+[Use move] The opposing Pelipper (1) used Wing Attack
+"The opposing Pelipper used Wing Attack!"
+[HP change] Noctowl lost 19 HP (94 -> 75)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 1 to make equal to highest damaging move
+[AI] Pelipper (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+[AI] Pelipper (1) is considering using Water Pulse (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Tailwind: score 0
+   *  50.0% to use Supersonic (target 0): score 5
+   *   0.0% to use Wing Attack (target 0): score 0
+   *  50.0% to use Water Pulse (target 0): score 5
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Pelipper (1), Noctowl (0)
+
+[Use move] The opposing Pelipper (1) used Water Pulse
+"The opposing Pelipper used Water Pulse!"
+[HP change] Noctowl lost 23 HP (75 -> 52)
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Pelipper lost 40 HP (72 -> 32)
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     - 3 because this will be pointless
+[AI] Pelipper (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+[AI] Pelipper (1) is considering using Water Pulse (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pelipper (1):
+   *   0.0% to use Tailwind: score 0
+   *   0.0% to use Supersonic (target 0): score 0
+   *   0.0% to use Wing Attack (target 0): score 0
+   * 100.0% to use Water Pulse (target 0): score 5
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Pelipper (1), Noctowl (0)
+
+[Use move] The opposing Pelipper (1) used Water Pulse
+"The opposing Pelipper used Water Pulse!"
+[HP change] Noctowl lost 25 HP (52 -> 27)
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Pelipper lost 32 HP (32 -> 0)
+"The opposing Pelipper fainted!"
+
+===== Player won =====
+
+"You defeated Picnicker Diana!"
+"Wow. You're great!"
+
+"You got $400 for winning!"

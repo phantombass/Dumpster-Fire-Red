@@ -53,7 +53,7 @@ class Level_Cap
   attr_accessor :index
 
   def initialize
-    @cap_list = [14,21,28]
+    @cap_list = [14,21,28,32]
     @index = 0
   end
 
@@ -62,7 +62,7 @@ class Level_Cap
   end
 
   def setup
-    @cap_list = [14,21,28]
+    @cap_list = [14,21,28,32]
   end
 
   def cap

@@ -26326,3 +26326,187 @@ Set up score for Lombre (0): 0
 [0;1;30m"Wow. You're great!"[0m
 
 [0;1;30m"You got $400 for winning!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 23.674167 * 3 - 1
+Roles for PELIPPER: [:SPEEDCONTROL]
+=====> Nature for Pelipper: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Picnicker Diana!"[0m
+[0;1;30m"Picnicker Diana sent out Pelipper!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] The opposing Pelipper (1), Lombre (0)
+[Ability triggered] The opposing Pelipper's Keen Eye
+[0;1;30m"The opposing Pelipper is getting pumped!"[0m
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -1: for us outspeeding
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+     + 1 to make equal to highest damaging move
+[AI] Pelipper (1) is considering using Wing Attack (1) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+     + 4 to prioritize highest damaging move
+[AI] Pelipper (1) is considering using Water Pulse (1) against Lombre (0)...
+     Pelipper (1)'s highest damaging move vs Lombre: Wing Attack
+[AI] Move choices for Pelipper (1):
+   *   0.0%% to use Tailwind: score 0
+   *  50.0%% to use Supersonic (target 0): score 5
+   *  50.0%% to use Wing Attack (target 0): score 5
+   *   0.0%% to use Water Pulse (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Pelipper (1), Lombre (0)
+
+[0;1;30m"Lombre, switch out! Come back!"[0m
+[0;1;30m"You're in charge, Noctowl!"[0m
+[Use move] The opposing Pelipper (1) used Wing Attack
+[0;1;30m"The opposing Pelipper used Wing Attack!"[0m
+[HP change] Noctowl lost 19 HP (94 -> 75)
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Noctowl] -1: for us outspeeding
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 1 to make equal to highest damaging move
+[AI] Pelipper (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+[AI] Pelipper (1) is considering using Water Pulse (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pelipper (1):
+   *   0.0%% to use Tailwind: score 0
+   *  50.0%% to use Supersonic (target 0): score 5
+   *   0.0%% to use Wing Attack (target 0): score 0
+   *  50.0%% to use Water Pulse (target 0): score 5
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Pelipper (1), Noctowl (0)
+
+[Use move] The opposing Pelipper (1) used Water Pulse
+[0;1;30m"The opposing Pelipper used Water Pulse!"[0m
+[HP change] Noctowl lost 23 HP (75 -> 52)
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Pelipper lost 40 HP (72 -> 32)
+
+[End of round 2]
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Noctowl] +2: for target having slow kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pelipper (1) is considering using Tailwind (4)...
+     - 5 because we already outspeed
+[AI] Pelipper (1) is considering using Supersonic (4) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     - 3 because this will be pointless
+[AI] Pelipper (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+[AI] Pelipper (1) is considering using Water Pulse (1) against Noctowl (0)...
+     Pelipper (1)'s highest damaging move vs Noctowl: Water Pulse
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pelipper (1):
+   *   0.0%% to use Tailwind: score 0
+   *   0.0%% to use Supersonic (target 0): score 0
+   *   0.0%% to use Wing Attack (target 0): score 0
+   * 100.0%% to use Water Pulse (target 0): score 5
+   => will use Water Pulse (target 0)
+
+[Round order] The opposing Pelipper (1), Noctowl (0)
+
+[Use move] The opposing Pelipper (1) used Water Pulse
+[0;1;30m"The opposing Pelipper used Water Pulse!"[0m
+[HP change] Noctowl lost 25 HP (52 -> 27)
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Pelipper lost 32 HP (32 -> 0)
+[0;1;30m"The opposing Pelipper fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Picnicker Diana!"[0m
+[0;1;30m"Wow. You're great!"[0m
+
+[0;1;30m"You got $400 for winning!"[0m
