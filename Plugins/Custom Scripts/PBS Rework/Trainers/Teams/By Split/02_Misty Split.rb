@@ -728,7 +728,7 @@ PB_Trainers.register(:HIKER,"Nob",{
 :lose_text => "Wow. You're great!",
 :pokemon=> [
 {:species => :KLAWF,
-
+:ability => :SHELLARMOR,
 
 :level => 23,
 
@@ -789,7 +789,7 @@ PB_Trainers.register(:YOUNGSTER,"Chad",{
 
 
 :level => 24,
-
+:moves => [:BITE,:SPARK,:COVET],
 
 },
 {:species => :LUCARIO,
@@ -862,7 +862,7 @@ PB_Trainers.register(:LEADER_Misty,"Misty",{
 :ability => :HECKYEAH,
 
 :level => 26,
-:moves => [:WATERFALL,:DRILLRUN,:HORNATTACK],
+:moves => [:WATERFALL],
 :item => :CHOICESCARF
 },
 {:species => :HORSEA,
