@@ -19,3 +19,11 @@ Description = Multi-hit moves heal on alternating turns.
 [MASOCHIST]
 Name = Masochist
 Description = Boosts SpAtk and Speed if an opponent flinches.
+#-------------------------------
+[INKSPRAY]
+Name = Ink Spray
+Description = Lowers enemy Accuracy on entry.
+#-------------------------------
+[HECKYEAH]
+Name = Heck Yeah
+Description = All moves are OHKO moves.

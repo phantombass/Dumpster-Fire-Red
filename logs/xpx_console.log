@@ -16258,3 +16258,452 @@ Set up score for Wynaut (0): 0
 [0;1;30m"Hey! Take it easy! You won already!"[0m
 
 [0;1;30m"You got $336 for winning!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 30.602038 * 3 - 1
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mCompiling PBS file [0;36mtown_map.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_connections.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtypes.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves.txt[0m...........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_hidden_power.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems.txt[0m..........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mberry_plants.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon.txt[0m..............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_forms.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics.txt[0m...............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mregional_dexes.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mribbons.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mencounters.txt[0m.............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainer_types.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainers.txt[0m......................[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mbattle_facility_lists.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmetadata.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_metadata.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_tilesets.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_parameters.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mphone.txt[0m....[0;32mdone[0m
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 33.554562 * 3 - 1
+Roles for DUSTOX: [:TANK]
+=====> Nature for Dustox: Modest
+Roles for FROSMOTH: [:HAZARDREMOVAL]
+=====> Nature for Frosmoth: Modest
+Roles for PARASECT: [:NONE]
+=====> Nature for Parasect: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Bug Catcher Cale!"[0m
+[0;1;30m"Bug Catcher Cale sent out Dustox!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the opposing Dustox (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dustox (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Dustox (1) is considering using Confusion (1) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+[AI] Dustox (1) is considering using Poison Powder (4) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+     - 3 because this will be pointless
+[AI] Dustox (1) is considering using Moonlight...
+     +  1: move will fail
+[AI] Move choices for Dustox (1):
+   * 100.0%% to use Bug Bite (target 0): score 5
+   *   0.0%% to use Confusion (target 0): score 0
+   *   0.0%% to use Poison Powder (target 0): score 0
+   *   0.0%% to use Moonlight: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Noctowl (0), the opposing Dustox (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Dustox lost 57 HP (57 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Dustox fainted!"[0m
+[0;1;30m"Noctowl got 1 Exp. Points!"[0m
+
+[End of round 1]
+==============================
+     [Frosmoth] using Infestation vs Noctowl does a max of 4/94 damage
+     Noctowl (0)'s best move: Air Slash for 84/61 damage
+==============================
+     Noctowl (0) speed (42) vs Frosmoth speed: 35
+[AI] =====> Flags assigned to Frosmoth:
+==========> target_fast_kill: true
+
+     [Frosmoth] -  9: for target fast kill
+     [Frosmoth] final Switch score: -9
+[0;1;30m"Bug Catcher Cale sent out Frosmoth!"[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Frosmoth (1) is considering using Stun Spore (4) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     - 3 because this will be pointless
+[AI] Frosmoth (1) is considering using Infestation (1) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     + 4 to prioritize highest damaging move
+[AI] Frosmoth (1) is considering using Mist (4)...
+[AI] Frosmoth (1) is considering using Defog (4) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     - 3 because this will be pointless
+[AI] Move choices for Frosmoth (1):
+   *   0.0%% to use Stun Spore (target 0): score 0
+   * 100.0%% to use Infestation (target 0): score 5
+   *   0.0%% to use Mist: score 0
+   *   0.0%% to use Defog (target 0): score 0
+   => will use Infestation (target 0)
+
+[Round order] Noctowl (0), the opposing Frosmoth (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Frosmoth lost 61 HP (61 -> 0)
+[0;1;30m"A critical hit!"[0m
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Frosmoth fainted!"[0m
+
+[End of round 2]
+==============================
+     [Parasect] using Absorb vs Noctowl does a max of 3/94 damage
+     [Parasect] using Fury Cutter vs Noctowl does a max of 7/94 damage
+     Noctowl (0)'s best move: Air Slash for 174/60 damage
+==============================
+     Noctowl (0) speed (42) vs Parasect speed: 23
+[AI] =====> Flags assigned to Parasect:
+==========> target_fast_kill: true
+
+     [Parasect] -  9: for target fast kill
+     [Parasect] final Switch score: -9
+[0;1;30m"Bug Catcher Cale sent out Parasect!"[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Parasect (1) is considering using Stun Spore (4) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     - 3 because this will be pointless
+[AI] Parasect (1) is considering using Poison Powder (4) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     - 3 because this will be pointless
+[AI] Parasect (1) is considering using Absorb (1) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+[AI] Parasect (1) is considering using Fury Cutter (1) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Parasect (1):
+   *   0.0%% to use Stun Spore (target 0): score 0
+   *   0.0%% to use Poison Powder (target 0): score 0
+   *   0.0%% to use Absorb (target 0): score 0
+   * 100.0%% to use Fury Cutter (target 0): score 5
+   => will use Fury Cutter (target 0)
+
+[Round order] Noctowl (0), the opposing Parasect (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Parasect lost 60 HP (60 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Parasect fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Bug Catcher Cale!"[0m
+[0;1;30m"Wow. You're great!"[0m
+
+[0;1;30m"You got $320 for winning!"[0m
+Roles for CLEFABLE: [:WEATHERTERRAIN]
+=====> Nature for Clefable: Modest
+Roles for WIGGLYTUFF: [:NONE]
+=====> Nature for Wigglytuff: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Lass Ali!"[0m
+[0;1;30m"Lass Ali sent out Clefable!"[0m
+[0;1;30m"Go! Lombre!"[0m
+[Round order] The opposing Clefable (1), Lombre (0)
+[Ability triggered] The opposing Clefable's Misty Surge
+[0;1;30m"Mist swirled about the battlefield!"[0m
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Lombre] -1: for us outspeeding
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Lombre (0)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   *   0.0%% to use Misty Explosion: score 0
+   * 100.0%% to use Dual Wingbeat (target 0): score 5
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Clefable (1), Lombre (0)
+
+[0;1;30m"Lombre, switch out! Come back!"[0m
+[0;1;30m"You're in charge, Beldum!"[0m
+[Use move] The opposing Clefable (1) used Dual Wingbeat
+[0;1;30m"The opposing Clefable used Dual Wingbeat!"[0m
+[HP change] Beldum lost 3 HP (63 -> 60)
+[HP change] Beldum gained 3 HP (60 -> 63)
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"Hit 2 times!"[0m
+
+[End of round 1]
+[0;1;30m"Mist is swirling about the battlefield."[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Beldum] -1: for us outspeeding
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Beldum: Dual Wingbeat
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Beldum (0)...
+     Clefable (1)'s highest damaging move vs Beldum: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   *   0.0%% to use Misty Explosion: score 0
+   * 100.0%% to use Dual Wingbeat (target 0): score 5
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Clefable (1), Beldum (0)
+
+[0;1;30m"Beldum, switch out! Come back!"[0m
+[0;1;30m"You're in charge, Lombre!"[0m
+[Use move] The opposing Clefable (1) used Dual Wingbeat
+[0;1;30m"The opposing Clefable used Dual Wingbeat!"[0m
+[HP change] Lombre lost 17 HP (76 -> 59)
+[HP change] Lombre lost 18 HP (59 -> 41)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"Hit 2 times!"[0m
+
+[End of round 2]
+[0;1;30m"Mist is swirling about the battlefield."[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Lombre] -3: for us having fast kill
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+      + 20 for fast kill
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Lombre (0)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   * 100.0%% to use Misty Explosion: score 21
+   *   0.0%% to use Dual Wingbeat (target 0): score 0
+   => will use Misty Explosion
+
+[Round order] The opposing Clefable (1), Lombre (0)
+
+[0;1;30m"Lombre, switch out! Come back!"[0m
+[0;1;30m"You're in charge, Beldum!"[0m
+[Use move] The opposing Clefable (1) used Misty Explosion
+[0;1;30m"The opposing Clefable used Misty Explosion!"[0m
+[HP change] Beldum lost 25 HP (63 -> 38)
+[HP change] The opposing Clefable lost 74 HP (74 -> 0)
+[0;1;30m"The opposing Clefable fainted!"[0m
+[0;1;30m"It's not very effective..."[0m
+[0;1;30m"Lombre got 1 Exp. Points!"[0m
+[0;1;30m"Beldum got 1 Exp. Points!"[0m
+
+[End of round 3]
+[0;1;30m"Mist is swirling about the battlefield."[0m
+==============================
+     [Wigglytuff] using Misty Explosion vs Beldum does a max of 25/38 damage
+     Beldum (0)'s best move: Metal Claw for 57/92 damage
+==============================
+     Beldum (0) speed (22) vs Wigglytuff speed: 29
+[AI] =====> Flags assigned to Wigglytuff:
+==========> fast_2hko: true
+
+     [Wigglytuff] +  6: for fast 2HKO
+     [Wigglytuff] final Switch score: 6
+[0;1;30m"Lass Ali sent out Wigglytuff!"[0m
+
+[0;1;35m===== Round 4 =====[0m
+
+[AI Threat Assessment: Beldum] -1: for us outspeeding
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wigglytuff (1) is considering using Misty Explosion (1)...
+     Wigglytuff (1)'s highest damaging move vs Beldum: Misty Explosion
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Misty Explosion because we are last mon
+[AI] Move choices for Wigglytuff (1):
+   * 100.0%% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[Round order] The opposing Wigglytuff (1), Beldum (0)
+
+[Use move] The opposing Wigglytuff (1) used Misty Explosion
+[0;1;30m"The opposing Wigglytuff used Misty Explosion!"[0m
+[HP change] Beldum lost 23 HP (38 -> 15)
+[HP change] The opposing Wigglytuff lost 92 HP (92 -> 0)
+[0;1;30m"The opposing Wigglytuff fainted!"[0m
+[0;1;30m"It's not very effective..."[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Lass Ali!"[0m
+[0;1;30m"Wow. You're great!"[0m
+
+[0;1;30m"You got $320 for winning!"[0m

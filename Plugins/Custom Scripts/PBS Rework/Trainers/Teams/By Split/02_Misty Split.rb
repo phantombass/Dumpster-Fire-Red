@@ -453,3 +453,436 @@ PB_Trainers.register(:RIVAL1,"Blue",{
 :moves => [:DRAGONRAGE]
 
 }]}})
+
+#===================================#
+#             Route 24              #
+#===================================#
+PB_Trainers.register(:BUGCATCHER,"Cale",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :DUSTOX,
+
+
+:level => 19,
+
+
+},
+{:species => :FROSMOTH,
+
+
+:level => 19,
+
+
+},
+{:species => :PARASECT,
+
+
+:level => 20,
+
+
+}]}})
+
+PB_Trainers.register(:LASS,"Ali",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :CLEFABLE,
+:ability => :MISTYSURGE,
+
+:level => 20,
+:moves => [:MISTYEXPLOSION,:DUALWINGBEAT]
+
+},
+{:species => :WIGGLYTUFF,
+
+
+:level => 20,
+:moves => [:MISTYEXPLOSION]
+
+}]}})
+
+PB_Trainers.register(:YOUNGSTER,"Timmy",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :ZORUA_1,
+
+
+:level => 20,
+
+
+},
+{:species => :RATICATE,
+
+
+:level => 20,
+
+
+},
+{:species => :LINOONE_1,
+
+
+:level => 21,
+
+
+}]}})
+
+PB_Trainers.register(:LASS,"Reli",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :APPLETUN,
+
+
+:level => 21,
+
+
+},
+{:species => :ALCREMIE,
+
+
+:level => 21,
+
+
+}]}})
+
+PB_Trainers.register(:CAMPER,"Ethan",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :SABLEYE,
+:ability => :WONDERGUARD,
+
+:level => 22,
+:moves => [:KNOCKOFF]
+
+}]}})
+
+PB_Trainers.register(:TEAMROCKET_M,"Grunt",{
+:Nugget => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :ARBOK,
+
+
+:level => 22,
+
+
+},
+{:species => :SEVIPER,
+
+
+:level => 22,
+
+
+},
+{:species => :GOLBAT,
+
+
+:level => 22,
+
+
+}]}})
+
+PB_Trainers.register(:CAMPER,"Shane",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :TOEDSCOOL,
+
+
+:level => 21,
+
+
+},
+{:species => :SANDSLASH,
+
+
+:level => 21,
+
+
+}]}})
+
+#===================================#
+#             Route 25              #
+#===================================#
+PB_Trainers.register(:HIKER,"Franklin",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :GROTLE,
+
+
+:level => 21,
+
+
+},
+{:species => :DREDNAW,
+
+
+:level => 22,
+
+
+}]}})
+
+PB_Trainers.register(:YOUNGSTER,"Joey",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :VENONAT,
+
+
+:level => 22,
+
+
+},
+{:species => :WATCHOG,
+
+
+:level => 22,
+
+
+}]}})
+
+PB_Trainers.register(:HIKER,"Wayne",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :GRAVELER_1,
+:ability => :GALVANIZE,
+
+:level => 28,
+:moves => [:STEALTHROCK,:EXPLOSION]
+
+},
+{:species => :QUAGSIRE,
+:ability => :UNAWARE,
+
+:level => 28,
+:moves => [:EARTHQUAKE],
+:item => :REDCARD
+},
+{:species => :QWILFISH,
+:ability => :CORROSION,
+:nature => :JOLLY,
+:level => 28,
+:moves => [:BARBBARRAGE],
+:item => :POISONBARB
+},
+{:species => :ONIX,
+:ability => :SPRINKLERPOWER,
+
+:level => 28,
+:moves => [:DRAGONTAIL],
+:item => :CHOICESCARF
+}]}})
+
+PB_Trainers.register(:YOUNGSTER,"Dan",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :VAROOM,
+
+
+:level => 22,
+
+
+},
+{:species => :KLINK,
+
+
+:level => 23,
+
+
+}]}})
+
+PB_Trainers.register(:PICNICKER,"Kelsey",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :NIDORINA,
+
+
+:level => 23,
+
+
+},
+{:species => :CLEFAIRY,
+
+
+:level => 23,
+
+
+},
+{:species => :PONYTA,
+
+
+:level => 23,
+
+
+}]}})
+
+PB_Trainers.register(:HIKER,"Nob",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :KLAWF,
+
+
+:level => 23,
+
+
+},
+{:species => :SCRAGGY,
+
+
+:level => 22,
+
+
+},
+{:species => :SWINUB,
+
+
+:level => 23,
+
+
+},
+{:species => :MAGCARGO,
+
+
+:level => 22,
+
+
+}]}})
+
+PB_Trainers.register(:CAMPER,"Flint",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :DACHSBUN,
+
+
+:level => 24,
+
+
+},
+{:species => :LOKIX,
+
+
+:level => 24,
+
+
+}]}})
+PB_Trainers.register(:YOUNGSTER,"Chad",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :GROWLITHE,
+
+
+:level => 23,
+
+
+},
+{:species => :BOLTUND,
+
+
+:level => 24,
+
+
+},
+{:species => :LUCARIO,
+
+
+:level => 24,
+
+
+}]}})
+
+PB_Trainers.register(:LASS,"Haley",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :PERRSERKER,
+
+
+:level => 24,
+
+
+},
+{:species => :DELCATTY,
+
+
+:level => 24,
+
+
+}]}})
+
+#===================================#
+#           Cerulean Gym            #
+#===================================#
+
+PB_Trainers.register(:SWIMMER2_M,"Swimmer",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :TENTACOOL,
+
+
+:level => 24,
+
+
+},
+{:species => :GASTRODON,
+
+
+:level => 25,
+
+
+}]}})
+
+PB_Trainers.register(:PICNICKER,"Diana",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :PELIPPER,
+:ability => :KEENEYE,
+
+:level => 25,
+
+
+}]}})
+
+PB_Trainers.register(:LEADER_Misty,"Misty",{
+:base => {
+:lose_text => "Wow. You're great!",
+:pokemon=> [
+{:species => :SEAKING,
+:ability => :HECKYEAH,
+
+:level => 26,
+:moves => [:WATERFALL,:DRILLRUN,:HORNATTACK],
+:item => :CHOICESCARF
+},
+{:species => :HORSEA,
+:ability => :INKSPRAY,
+
+:level => 27,
+:moves => [:OCTAZOOKA]
+
+},
+{:species => :QUAGSIRE,
+:ability => :SAPSIPPER,
+
+:level => 27,
+:moves => [:EARTHQUAKE,:YAWN]
+
+},
+{:species => :STARMIE,
+:ability => :ILLUMINATE,
+
+:level => 28,
+:moves => [:HYDROPUMP]
+
+}]}})

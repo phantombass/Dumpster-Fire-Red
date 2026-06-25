@@ -32,6 +32,10 @@ class Battle::Battler
       @battle.pbDisplay(_INTL("{1} surrounds itself with psychic terrain!", target.pbThis)) if show_message
       return false
     end
+    if user.hasActiveAbility?(:HECKYEAH) && target.hasActiveAbility?(:STURDY)
+      @battle.pbDisplay(_INTL("{1}'s {2} blocked {3}'s {4} from doing anything!",target.pbThis,target.abilityName,user.pbThis,user.abilityName)) if show_message
+      return false
+    end
     # Crafty Shield
     if target.pbOwnSide.effects[PBEffects::CraftyShield] && user.index != target.index &&
        move.statusMove? && !move.pbTarget(user).targets_all
@@ -419,7 +423,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:KEENEYE,
 Battle::AbilityEffects::OnSwitchIn.add(:ILLUMINATE,
   proc { |ability, battler, battle, switch_in|
     next if battler.statStageAtMax?(:ACCURACY)
-    battler.pbRaiseStatStageByAbility(:ACCURACY, 1, battler)
+    battler.pbRaiseStatStageByAbility(:ACCURACY, 6, battler)
   }
 )
 
@@ -1074,5 +1078,41 @@ Battle::ItemEffects::AfterMoveUseFromTarget.add(:EJECTBERRY,
     switched_battlers.push(battler.index)
     battle.moldBreaker = false if battler.index == user.index
     battle.pbOnBattlerEnteringBattle(battler.index)
+  }
+)
+
+Battle::AbilityEffects::OnSwitchIn.add(:PSYCHICSURGE,
+  proc { |ability, battler, battle, switch_in|
+    next if battle.field.terrain == :Psychic
+    battle.pbShowAbilitySplash(battler)
+    battle.pbStartTerrain(battler, :Psychic, Settings::FIXED_DURATION_WEATHER_FROM_ABILITY)
+    # NOTE: The ability splash is hidden again in def pbStartTerrain.
+  }
+)
+
+Battle::AbilityEffects::OnSwitchIn.add(:MISTYSURGE,
+  proc { |ability, battler, battle, switch_in|
+    next if battle.field.terrain == :Misty
+    battle.pbShowAbilitySplash(battler)
+    battle.pbStartTerrain(battler, :Misty, Settings::FIXED_DURATION_WEATHER_FROM_ABILITY)
+    # NOTE: The ability splash is hidden again in def pbStartTerrain.
+  }
+)
+
+Battle::AbilityEffects::OnSwitchIn.add(:GRASSYSURGE,
+  proc { |ability, battler, battle, switch_in|
+    next if battle.field.terrain == :Grassy
+    battle.pbShowAbilitySplash(battler)
+    battle.pbStartTerrain(battler, :Grassy, Settings::FIXED_DURATION_WEATHER_FROM_ABILITY)
+    # NOTE: The ability splash is hidden again in def pbStartTerrain.
+  }
+)
+
+Battle::AbilityEffects::OnSwitchIn.add(:ELECTRICSURGE,
+  proc { |ability, battler, battle, switch_in|
+    next if battle.field.terrain == :Electric
+    battle.pbShowAbilitySplash(battler)
+    battle.pbStartTerrain(battler, :Electric, Settings::FIXED_DURATION_WEATHER_FROM_ABILITY)
+    # NOTE: The ability splash is hidden again in def pbStartTerrain.
   }
 )

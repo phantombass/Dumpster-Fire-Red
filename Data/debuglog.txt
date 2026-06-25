@@ -29562,3 +29562,304 @@ Set up score for Wynaut (0): 0
 "Hey! Take it easy! You won already!"
 
 "You got $336 for winning!"
+Roles for DUSTOX: [:TANK]
+=====> Nature for Dustox: Modest
+Roles for FROSMOTH: [:HAZARDREMOVAL]
+=====> Nature for Frosmoth: Modest
+Roles for PARASECT: [:NONE]
+=====> Nature for Parasect: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Cale!"
+"Bug Catcher Cale sent out Dustox!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Dustox (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dustox (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+     + 4 to prioritize highest damaging move
+[AI] Dustox (1) is considering using Confusion (1) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+[AI] Dustox (1) is considering using Poison Powder (4) against Noctowl (0)...
+     Dustox (1)'s highest damaging move vs Noctowl: Bug Bite
+     - 3 because this will be pointless
+[AI] Dustox (1) is considering using Moonlight...
+     +  1: move will fail
+[AI] Move choices for Dustox (1):
+   * 100.0% to use Bug Bite (target 0): score 5
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Poison Powder (target 0): score 0
+   *   0.0% to use Moonlight: score 0
+   => will use Bug Bite (target 0)
+
+[Round order] Noctowl (0), the opposing Dustox (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Dustox lost 57 HP (57 -> 0)
+"It's super effective!"
+"The opposing Dustox fainted!"
+"Noctowl got 1 Exp. Points!"
+
+[End of round 1]
+==============================
+     [Frosmoth] using Infestation vs Noctowl does a max of 4/94 damage
+     Noctowl (0)'s best move: Air Slash for 84/61 damage
+==============================
+     Noctowl (0) speed (42) vs Frosmoth speed: 35
+[AI] =====> Flags assigned to Frosmoth:
+==========> target_fast_kill: true
+
+     [Frosmoth] -  9: for target fast kill
+     [Frosmoth] final Switch score: -9
+"Bug Catcher Cale sent out Frosmoth!"
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Frosmoth (1) is considering using Stun Spore (4) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     - 3 because this will be pointless
+[AI] Frosmoth (1) is considering using Infestation (1) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     + 4 to prioritize highest damaging move
+[AI] Frosmoth (1) is considering using Mist (4)...
+[AI] Frosmoth (1) is considering using Defog (4) against Noctowl (0)...
+     Frosmoth (1)'s highest damaging move vs Noctowl: Infestation
+     - 3 because this will be pointless
+[AI] Move choices for Frosmoth (1):
+   *   0.0% to use Stun Spore (target 0): score 0
+   * 100.0% to use Infestation (target 0): score 5
+   *   0.0% to use Mist: score 0
+   *   0.0% to use Defog (target 0): score 0
+   => will use Infestation (target 0)
+
+[Round order] Noctowl (0), the opposing Frosmoth (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Frosmoth lost 61 HP (61 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Frosmoth fainted!"
+
+[End of round 2]
+==============================
+     [Parasect] using Absorb vs Noctowl does a max of 3/94 damage
+     [Parasect] using Fury Cutter vs Noctowl does a max of 7/94 damage
+     Noctowl (0)'s best move: Air Slash for 174/60 damage
+==============================
+     Noctowl (0) speed (42) vs Parasect speed: 23
+[AI] =====> Flags assigned to Parasect:
+==========> target_fast_kill: true
+
+     [Parasect] -  9: for target fast kill
+     [Parasect] final Switch score: -9
+"Bug Catcher Cale sent out Parasect!"
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Parasect (1) is considering using Stun Spore (4) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     - 3 because this will be pointless
+[AI] Parasect (1) is considering using Poison Powder (4) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     - 3 because this will be pointless
+[AI] Parasect (1) is considering using Absorb (1) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+[AI] Parasect (1) is considering using Fury Cutter (1) against Noctowl (0)...
+     Parasect (1)'s highest damaging move vs Noctowl: Fury Cutter
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Parasect (1):
+   *   0.0% to use Stun Spore (target 0): score 0
+   *   0.0% to use Poison Powder (target 0): score 0
+   *   0.0% to use Absorb (target 0): score 0
+   * 100.0% to use Fury Cutter (target 0): score 5
+   => will use Fury Cutter (target 0)
+
+[Round order] Noctowl (0), the opposing Parasect (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Parasect lost 60 HP (60 -> 0)
+"It's super effective!"
+"The opposing Parasect fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Cale!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
+Roles for CLEFABLE: [:WEATHERTERRAIN]
+=====> Nature for Clefable: Modest
+Roles for WIGGLYTUFF: [:NONE]
+=====> Nature for Wigglytuff: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Ali!"
+"Lass Ali sent out Clefable!"
+"Go! Lombre!"
+[Round order] The opposing Clefable (1), Lombre (0)
+[Ability triggered] The opposing Clefable's Misty Surge
+"Mist swirled about the battlefield!"
+
+===== Round 1 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Lombre (0)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   *   0.0% to use Misty Explosion: score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Clefable (1), Lombre (0)
+
+"Lombre, switch out! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Clefable (1) used Dual Wingbeat
+"The opposing Clefable used Dual Wingbeat!"
+[HP change] Beldum lost 3 HP (63 -> 60)
+[HP change] Beldum gained 3 HP (60 -> 63)
+"It's not very effective..."
+"Hit 2 times!"
+
+[End of round 1]
+"Mist is swirling about the battlefield."
+
+===== Round 2 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Beldum: Dual Wingbeat
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Beldum (0)...
+     Clefable (1)'s highest damaging move vs Beldum: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   *   0.0% to use Misty Explosion: score 0
+   * 100.0% to use Dual Wingbeat (target 0): score 5
+   => will use Dual Wingbeat (target 0)
+
+[Round order] The opposing Clefable (1), Beldum (0)
+
+"Beldum, switch out! Come back!"
+"You're in charge, Lombre!"
+[Use move] The opposing Clefable (1) used Dual Wingbeat
+"The opposing Clefable used Dual Wingbeat!"
+[HP change] Lombre lost 17 HP (76 -> 59)
+[HP change] Lombre lost 18 HP (59 -> 41)
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 2]
+"Mist is swirling about the battlefield."
+
+===== Round 3 =====
+
+Set up score for Lombre (0): 0
+     Threat Score for Lombre (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefable (1) is considering using Misty Explosion (1)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+      + 20 for fast kill
+[AI] Clefable (1) is considering using Dual Wingbeat (1) against Lombre (0)...
+     Clefable (1)'s highest damaging move vs Lombre: Dual Wingbeat
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Clefable (1):
+   * 100.0% to use Misty Explosion: score 21
+   *   0.0% to use Dual Wingbeat (target 0): score 0
+   => will use Misty Explosion
+
+[Round order] The opposing Clefable (1), Lombre (0)
+
+"Lombre, switch out! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Clefable (1) used Misty Explosion
+"The opposing Clefable used Misty Explosion!"
+[HP change] Beldum lost 25 HP (63 -> 38)
+[HP change] The opposing Clefable lost 74 HP (74 -> 0)
+"The opposing Clefable fainted!"
+"It's not very effective..."
+"Lombre got 1 Exp. Points!"
+"Beldum got 1 Exp. Points!"
+
+[End of round 3]
+"Mist is swirling about the battlefield."
+==============================
+     [Wigglytuff] using Misty Explosion vs Beldum does a max of 25/38 damage
+     Beldum (0)'s best move: Metal Claw for 57/92 damage
+==============================
+     Beldum (0) speed (22) vs Wigglytuff speed: 29
+[AI] =====> Flags assigned to Wigglytuff:
+==========> fast_2hko: true
+
+     [Wigglytuff] +  6: for fast 2HKO
+     [Wigglytuff] final Switch score: 6
+"Lass Ali sent out Wigglytuff!"
+
+===== Round 4 =====
+
+Set up score for Beldum (0): 0
+     Threat Score for Beldum (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Wigglytuff (1) is considering using Misty Explosion (1)...
+     Wigglytuff (1)'s highest damaging move vs Beldum: Misty Explosion
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Misty Explosion because we are last mon
+[AI] Move choices for Wigglytuff (1):
+   * 100.0% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[Round order] The opposing Wigglytuff (1), Beldum (0)
+
+[Use move] The opposing Wigglytuff (1) used Misty Explosion
+"The opposing Wigglytuff used Misty Explosion!"
+[HP change] Beldum lost 23 HP (38 -> 15)
+[HP change] The opposing Wigglytuff lost 92 HP (92 -> 0)
+"The opposing Wigglytuff fainted!"
+"It's not very effective..."
+
+===== Player won =====
+
+"You defeated Lass Ali!"
+"Wow. You're great!"
+
+"You got $320 for winning!"
