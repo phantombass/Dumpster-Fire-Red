@@ -796,7 +796,7 @@ PB_Trainers.register(:YOUNGSTER,"Chad",{
 
 
 :level => 24,
-
+:moves => [:KARATECHOP,:VACUUMWAVE],
 
 }]}})
 
