@@ -32334,3 +32334,17 @@ UNSCALED 25.733876 * 3 - 1
 [0;1;30m"Grubbin's data was added to the Pokédex."[0m
 [0;1;30m"Where do you want to send Grubbin to?"[0m
 [0;1;30m"Grubbin has been sent to Box "Box 1"!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+

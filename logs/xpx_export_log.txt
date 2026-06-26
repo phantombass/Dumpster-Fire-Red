@@ -3105,3 +3105,58 @@ ment ===
 [2026-06-26 06:40:54]     write_mkxp_json             104.9ms
 [2026-06-26 06:40:54]     write_tilesets               19.8ms
 [2026-06-26 06:40:54]     seed_terrain_tags             0.0ms
+[2026-06-26 06:42:20] 
+[2026-06-26 06:42:20] ================================================
+[2026-06-26 06:42:20] === integrate_essentials invoked ===
+[2026-06-26 06:42:20]   project_root = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-26 06:42:20]   ess_folder   = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-26 06:42:20]   project.start_map_id = 1
+[2026-06-26 06:42:20] === environment ===
+[2026-06-26 06:42:20]   os       : Windows 11 (10.0.26200)
+[2026-06-26 06:42:20]   arch     : AMD64
+[2026-06-26 06:42:20]   python   : 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+[2026-06-26 06:42:20]   pyqt6    : 6.7.1 (Qt 6.7.1)
+[2026-06-26 06:42:20]   locale   : ('English_United States', '1252')
+[2026-06-26 06:42:20]   preferred encoding   : cp1252
+[2026-06-26 06:42:20]   filesystem encoding  : utf-8
+[2026-06-26 06:42:20]   default str encoding : utf-8
+[2026-06-26 06:42:20]   win32 code pages: ACP=1252, OEM=437
+[2026-06-26 06:42:20]   ess path repr : 'E:\\Games\\Dumpster Fire Red'
+[2026-06-26 06:42:20]   settings: do_preload=True, do_rxdata=True, do_runtime=True
+[2026-06-26 06:42:20]   Game.ini script source: kind='rxdata', ini_value='Data\\Scripts.rxdata', custom_script=None, entry_rb=None
+[2026-06-26 06:42:21]   export_to_rxdata: 0 written, 221 skipped (rxdata up-to-date)
+[2026-06-26 06:42:21] === write_system invoked ===
+[2026-06-26 06:42:21]   ess_folder = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-26 06:42:21]   project.essentials_settings.essentials_folder = None
+[2026-06-26 06:42:21]   project.project_root = 'E:\\Games\\Dumpster Fire Red'
+[2026-06-26 06:42:22]   fast-path: System.rxdata cached as matching (smid=1, x=9, y=7)
+[2026-06-26 06:42:22] 
+[2026-06-26 06:42:22] === _deploy_xpx_runtime ===
+[2026-06-26 06:42:22]   source: E:\XPX Engine\_internal\base_runtime
+[2026-06-26 06:42:22]   dest:   E:\Games\Dumpster Fire Red
+[2026-06-26 06:42:22]   XPX install integrity: OK (1922 file(s), cached)
+[2026-06-26 06:42:22]   manifest: 5 file(s), 1 folder(s)
+[2026-06-26 06:42:22]     BEFORE Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-26 06:42:22]     BEFORE MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-26 06:42:22]     BEFORE build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-26 06:42:22]     BEFORE x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-26 06:42:22]     BEFORE zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-26 06:42:22]     5 file(s) already in sync — byte copy skipped
+[2026-06-26 06:42:24]     1 folder(s) already in sync — rebuild skipped
+[2026-06-26 06:42:24]     AFTER  Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[2026-06-26 06:42:24]     AFTER  MANIFEST.json: 336030 bytes, mtime=2026-06-15 13:19:40
+[2026-06-26 06:42:24]     AFTER  build_info.json: 274 bytes, mtime=2026-06-15 13:19:40
+[2026-06-26 06:42:24]     AFTER  x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[2026-06-26 06:42:24]     AFTER  zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[2026-06-26 06:42:24]   hash-verifying against MANIFEST.json (runtime v0.3.7, 1922 expected file(s))
+[2026-06-26 06:42:25]     ? build_info.json: not in MANIFEST (extra file in runtime folder)
+[2026-06-26 06:42:25]   manifest verified: 3/1922 file(s) match shipped hashes; 0 mismatch(es), 0 error(s)
+[2026-06-26 06:42:25]   result: copied 5 file(s), 1 folder(s); verified 5/5 sizes; 0 file failure(s), 0 folder failure(s)
+[2026-06-26 06:42:25]   integrate timings (total 4693ms):
+[2026-06-26 06:42:25]     deploy_runtime             3353.6ms
+[2026-06-26 06:42:25]     export_to_rxdata            682.6ms
+[2026-06-26 06:42:25]     write_system                405.3ms
+[2026-06-26 06:42:25]     write_tilesets              120.9ms
+[2026-06-26 06:42:25]     write_preload_script         75.7ms
+[2026-06-26 06:42:25]     write_mkxp_json              49.3ms
+[2026-06-26 06:42:25]     seed_terrain_tags             6.1ms
