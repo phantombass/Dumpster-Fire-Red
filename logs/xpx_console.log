@@ -32416,3 +32416,1039 @@ UNSCALED 19.040437 * 3 - 1
 
 [0;1;35m===== Round 1 =====[0m
 
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mPlugins were not compiled
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 19.199879 * 3 - 1
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+[0;1;30m"Oh! A wild Grubbin appeared!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the wild Grubbin (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mNot compiled
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 20.551205000000003 * 3 - 1
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+[0;1;30m"Oh! A wild Grubbin appeared!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the wild Grubbin (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[0;1;30m"You got away safely!"[0m
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+[0;1;30m"Oh! A wild Sandshrew appeared!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the wild Sandshrew (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[0;1;30m"You got away safely!"[0m
+Roles for DOTTLER: [:SCREENS]
+=====> Nature for Dottler: Modest
+Roles for PINECO: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Bug Catcher Kent!"[0m
+[0;1;30m"Bug Catcher Kent sent out Dottler!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the opposing Dottler (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dottler (1) is considering using Reflect (4)...
+     + 8 based on enemy and physical enemy count
+[AI] Dottler (1) is considering using Light Screen (4)...
+     + 7 based on enemy and special enemy count
+[AI] Dottler (1) is considering using Confusion (1) against Noctowl (0)...
+     Dottler (1)'s highest damaging move vs Noctowl: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Dottler (1) is considering using Struggle Bug (1)...
+     Dottler (1)'s highest damaging move vs Noctowl: Confusion
+[AI] Move choices for Dottler (1):
+   * 100.0%% to use Reflect: score 12
+   *   0.0%% to use Light Screen: score 0
+   *   0.0%% to use Confusion (target 0): score 0
+   *   0.0%% to use Struggle Bug: score 0
+   => will use Reflect
+
+[Round order] Noctowl (0), the opposing Dottler (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Dottler lost 46 HP (46 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Dottler fainted!"[0m
+
+[End of round 1]
+==============================
+     [Pineco] using Explosion vs Noctowl does a max of 62/74 damage
+     Noctowl (0)'s best move: Air Slash for 45/46 damage
+==============================
+     Noctowl (0) speed (36) vs Pineco speed: 14
+[AI] =====> Flags assigned to Pineco:
+==========> outdamage: true
+
+     [Pineco] +  3: for outdamage
+     [Pineco] final Switch score: 3
+[0;1;30m"Bug Catcher Kent sent out Pineco!"[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Noctowl] +3: for target having fast 2HKO
+[AI Threat Assessment: Noctowl] +1: for target outspeeding
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pineco (1) is considering using Explosion (1)...
+     Pineco (1)'s highest damaging move vs Noctowl: Explosion
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Pineco (1):
+   * 100.0%% to use Explosion: score 1
+   => will use Explosion
+
+[Round order] Noctowl (0), the opposing Pineco (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Pineco lost 45 HP (46 -> 1)
+[0;1;30m"It's super effective!"[0m
+[Ability triggered] The opposing Pineco's Sturdy
+[0;1;30m"The opposing Pineco endured the hit!"[0m
+[Use move] The opposing Pineco (1) used Explosion
+[0;1;30m"The opposing Pineco used Explosion!"[0m
+[HP change] Noctowl lost 74 HP (74 -> 0)
+[HP change] The opposing Pineco lost 1 HP (1 -> 0)
+[0;1;30m"The opposing Pineco fainted!"[0m
+[0;1;30m"Noctowl fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Bug Catcher Kent!"[0m
+[0;1;30m"You got me!"[0m
+
+[0;1;30m"You got $256 for winning!"[0m
+Roles for CLEFAIRY: [:NONE]
+=====> Nature for Clefairy: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Lass Iris!"[0m
+[0;1;30m"Lass Iris sent out Clefairy!"[0m
+[0;1;30m"Go! Trubbish!"[0m
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Trubbish] +3: for target having fast 2HKO
+[AI Threat Assessment: Trubbish] +1: for target outspeeding
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Clefairy (1) is considering using Metronome (4)...
+[AI] Move choices for Clefairy (1):
+   * 100.0%% to use Metronome: score 4
+   => will use Metronome
+
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+[Use move] Trubbish (0) used Sludge
+[0;1;30m"Trubbish used Sludge!"[0m
+[HP change] The opposing Clefairy lost 29 HP (56 -> 27)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Clefairy was poisoned!"[0m
+[Use move] The opposing Clefairy (1) used Metronome
+[0;1;30m"The opposing Clefairy used Metronome!"[0m
+[Use move] The opposing Clefairy used the called/simple move Lucky Chant
+[0;1;30m"The opposing Clefairy used Lucky Chant!"[0m
+[0;1;30m"The Lucky Chant shielded the opposing team from critical hits!"[0m
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Trubbish] +5: for target having fast kill
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (1) is considering using Metronome (4)...
+[AI] Move choices for Clefairy (1):
+   * 100.0%% to use Metronome: score 4
+   => will use Metronome
+
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+[Use move] Trubbish (0) used Sludge
+[0;1;30m"Trubbish used Sludge!"[0m
+[HP change] The opposing Clefairy lost 27 HP (27 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Clefairy fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Lass Iris!"[0m
+[0;1;30m"I lost?"[0m
+
+[0;1;30m"You got $272 for winning!"[0m
+Roles for BELLSPROUT: [:NONE]
+=====> Nature for Bellsprout: Adamant
+Roles for ODDISH: [:NONE]
+=====> Nature for Oddish: Modest
+Roles for TANGELA: [:NONE]
+=====> Nature for Tangela: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Lass Miriam!"[0m
+[0;1;30m"Lass Miriam sent out Bellsprout!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the opposing Bellsprout (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Bellsprout (1) is considering using Razor Leaf (1)...
+     Bellsprout (1)'s highest damaging move vs Noctowl: Poison Fang
+[AI] Bellsprout (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Bellsprout (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bellsprout (1):
+   *   0.0%% to use Razor Leaf: score 0
+   * 100.0%% to use Poison Fang (target 0): score 5
+   => will use Poison Fang (target 0)
+
+[Round order] Noctowl (0), the opposing Bellsprout (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Bellsprout lost 46 HP (46 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Bellsprout fainted!"[0m
+
+[End of round 1]
+==============================
+     [Oddish] using Mega Drain vs Noctowl does a max of 4/74 damage
+     [Oddish] using Sludge vs Noctowl does a max of 13/74 damage
+     Noctowl (0)'s best move: Air Slash for 63/47 damage
+==============================
+     Noctowl (0) speed (36) vs Oddish speed: 20
+[AI] =====> Flags assigned to Oddish:
+==========> target_fast_kill: true
+
+     [Oddish] -  9: for target fast kill
+     [Oddish] final Switch score: -9
+[0;1;30m"Lass Miriam sent out Oddish!"[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oddish (1) is considering using Mega Drain (1) against Noctowl (0)...
+     Oddish (1)'s highest damaging move vs Noctowl: Sludge
+[AI] Oddish (1) is considering using Sludge (1) against Noctowl (0)...
+     Oddish (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Oddish (1):
+   *   0.0%% to use Mega Drain (target 0): score 0
+   * 100.0%% to use Sludge (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Noctowl (0), the opposing Oddish (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Oddish lost 47 HP (47 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Oddish fainted!"[0m
+
+[End of round 2]
+==============================
+     [Tangela] using Mega Drain vs Noctowl does a max of 7/74 damage
+     [Tangela] using Ancient Power vs Noctowl does a max of 24/74 damage
+     Noctowl (0)'s best move: Air Slash for 84/56 damage
+==============================
+     Noctowl (0) speed (36) vs Tangela speed: 32
+[AI] =====> Flags assigned to Tangela:
+==========> target_fast_kill: true
+
+     [Tangela] -  9: for target fast kill
+     [Tangela] final Switch score: -9
+[0;1;30m"Lass Miriam sent out Tangela!"[0m
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangela (1) is considering using Mega Drain (1) against Noctowl (0)...
+     Tangela (1)'s highest damaging move vs Noctowl: Ancient Power
+[AI] Tangela (1) is considering using Ancient Power (1) against Noctowl (0)...
+     Tangela (1)'s highest damaging move vs Noctowl: Ancient Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tangela (1):
+   *   0.0%% to use Mega Drain (target 0): score 0
+   * 100.0%% to use Ancient Power (target 0): score 5
+   => will use Ancient Power (target 0)
+
+[Round order] Noctowl (0), the opposing Tangela (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Tangela lost 56 HP (56 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Tangela fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Lass Miriam!"[0m
+[0;1;30m"Oh! I lost it!"[0m
+
+[0;1;30m"You got $288 for winning!"[0m
+Roles for SIZZLIPEDE: [:PHYSICALBREAKER]
+=====> Nature for Sizzlipede: Adamant
+Roles for DWEBBLE: [:PHYSICALBREAKER]
+=====> Nature for Dwebble: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Bug Catcher Robby!"[0m
+[0;1;30m"Bug Catcher Robby sent out Sizzlipede!"[0m
+[0;1;30m"Go! Noctowl!"[0m
+[Round order] Noctowl (0), the opposing Sizzlipede (1)
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sizzlipede (1) is considering using Smokescreen (4) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+     - 3 because this will be pointless
+[AI] Sizzlipede (1) is considering using Wrap (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+[AI] Sizzlipede (1) is considering using Bite (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sizzlipede (1):
+   *   0.0%% to use Smokescreen (target 0): score 0
+   *   0.0%% to use Wrap (target 0): score 0
+   *   0.0%% to use Bite (target 0): score 0
+   * 100.0%% to use Flame Wheel (target 0): score 5
+   => will use Flame Wheel (target 0)
+
+[Round order] Noctowl (0), the opposing Sizzlipede (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Sizzlipede lost 51 HP (51 -> 0)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"The opposing Sizzlipede fainted!"[0m
+
+[End of round 1]
+==============================
+     [Dwebble] using Smack Down vs Noctowl does a max of 39/74 damage
+     [Dwebble] using Bug Bite vs Noctowl does a max of 11/74 damage
+     [Dwebble] using Flail vs Noctowl does a max of 6/74 damage
+     Noctowl (0)'s best move: Air Slash for 43/51 damage
+==============================
+     Noctowl (0) speed (36) vs Dwebble speed: 30
+[AI] =====> Flags assigned to Dwebble:
+==========> target_fast_2hko: true
+
+     [Dwebble] -  5: for target having fast 2HKO and us having no kill
+     [Dwebble] final Switch score: -5
+[0;1;30m"Bug Catcher Robby sent out Dwebble!"[0m
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Noctowl] +3: for target having fast 2HKO
+[AI Threat Assessment: Noctowl] +1: for target outspeeding
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Withdraw (4)...
+[AI] Dwebble (1) is considering using Smack Down (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Dwebble (1) is considering using Flail (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Move choices for Dwebble (1):
+   *   0.0%% to use Withdraw: score 0
+   * 100.0%% to use Smack Down (target 0): score 5
+   *   0.0%% to use Bug Bite (target 0): score 0
+   *   0.0%% to use Flail (target 0): score 0
+   => will use Smack Down (target 0)
+
+[Round order] Noctowl (0), the opposing Dwebble (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Dwebble lost 43 HP (51 -> 8)
+[Use move] The opposing Dwebble (1) used Smack Down
+[0;1;30m"The opposing Dwebble used Smack Down!"[0m
+[HP change] Noctowl lost 39 HP (74 -> 35)
+[0;1;30m"It's super effective!"[0m
+[0;1;30m"Noctowl fell straight down!"[0m
+
+[End of round 2]
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Noctowl] -2: for us having slow kill
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Withdraw (4)...
+[AI] Dwebble (1) is considering using Smack Down (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+      + 17 for slow kill
+[AI] Dwebble (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Dwebble (1) is considering using Flail (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Move choices for Dwebble (1):
+   *   0.0%% to use Withdraw: score 0
+   * 100.0%% to use Smack Down (target 0): score 18
+   *   0.0%% to use Bug Bite (target 0): score 0
+   *   0.0%% to use Flail (target 0): score 0
+   => will use Smack Down (target 0)
+
+[Round order] Noctowl (0), the opposing Dwebble (1)
+
+[Use move] Noctowl (0) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Dwebble lost 8 HP (8 -> 0)
+[0;1;30m"The opposing Dwebble fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Bug Catcher Robby!"[0m
+[0;1;30m"I lost."[0m
+
+[0;1;30m"You got $288 for winning!"[0m
+Roles for MARILL: [:NONE]
+=====> Nature for Marill: Modest
+Roles for GRIMER: [:PHYSICALBREAKER]
+=====> Nature for Grimer: Adamant
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Super Nerd Jovan!"[0m
+[0;1;30m"Super Nerd Jovan sent out Marill and Grimer!"[0m
+[0;1;30m"Go! Wooper and Trubbish!"[0m
+[Round order] Trubbish (2), the opposing Marill (1), the opposing Grimer (3), Wooper (0)
+[0;1;30m"The opposing Grimer floats in the air with its Air Balloon!"[0m
+
+[0;1;35m===== Round 1 =====[0m
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+[AI Threat Assessment: Trubbish] +3: for target having fast 2HKO
+[AI Threat Assessment: Trubbish] +1: for target outspeeding
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0%% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Trubbish] +1: for target outspeeding
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Move choices for Grimer (3):
+   *   0.0%% to use Poison Fang (target 0): score 0
+   *   0.0%% to use Poison Fang (target 2): score 0
+   *   0.0%% to use Pursuit (target 0): score 0
+   * 100.0%% to use Pursuit (target 2): score 6
+   *   0.0%% to use Brick Break (target 0): score 0
+   *   0.0%% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 2)
+
+[Round order] Wooper (0), Trubbish (2), the opposing Marill (1), the opposing Grimer (3)
+
+[Use move] Wooper (0) used Protect
+[0;1;30m"Wooper used Protect!"[0m
+[0;1;30m"Wooper protected itself!"[0m
+[Use move] Trubbish (2) used Gastro Acid
+[0;1;30m"Trubbish used Gastro Acid!"[0m
+[0;1;30m"The opposing Grimer's Ability was suppressed!"[0m
+[Use move] The opposing Marill (1) used Misty Explosion
+[0;1;30m"The opposing Marill used Misty Explosion!"[0m
+[Ability triggered] Wooper's Damp
+[0;1;30m"The opposing Marill cannot use Misty Explosion!"[0m
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] The opposing Grimer (3) used Pursuit
+[0;1;30m"The opposing Grimer used Pursuit!"[0m
+[HP change] Trubbish lost 18 HP (58 -> 40)
+
+[End of round 1]
+
+[0;1;35m===== Round 2 =====[0m
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Trubbish] +1: for target outspeeding
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0%% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Trubbish] +1: for target outspeeding
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Move choices for Grimer (3):
+   *   0.0%% to use Poison Fang (target 0): score 0
+   *   0.0%% to use Poison Fang (target 2): score 0
+   *   0.0%% to use Pursuit (target 0): score 0
+   * 100.0%% to use Pursuit (target 2): score 8
+   *   0.0%% to use Brick Break (target 0): score 0
+   *   0.0%% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 2)
+
+[Round order] Trubbish (2), the opposing Marill (1), the opposing Grimer (3), Wooper (0)
+
+[0;1;30m"Trubbish, come back!"[0m
+[Use move] The opposing Grimer (3) used Pursuit
+[0;1;30m"The opposing Grimer used Pursuit!"[0m
+[HP change] Trubbish lost 40 HP (40 -> 0)
+[0;1;30m"Trubbish fainted!"[0m
+[0;1;30m"You're in charge, Noctowl!"[0m
+[Use move] The opposing Marill (1) used Misty Explosion
+[0;1;30m"The opposing Marill used Misty Explosion!"[0m
+[Ability triggered] Wooper's Damp
+[0;1;30m"The opposing Marill cannot use Misty Explosion!"[0m
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] Wooper (0) used Bulldoze
+[0;1;30m"Wooper used Bulldoze!"[0m
+[Target immune] Noctowl's type immunity
+[0;1;30m"It doesn't affect Noctowl..."[0m
+[0;1;30m"The opposing Grimer's Air Balloon makes Ground moves miss!"[0m
+[HP change] The opposing Marill lost 14 HP (66 -> 52)
+[Stat change] The opposing Marill's Speed changed by -1 (0 -> -1)
+[0;1;30m"The opposing Marill's Speed fell!"[0m
+
+[End of round 2]
+
+[0;1;35m===== Round 3 =====[0m
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Noctowl] +3: for target having fast 2HKO
+[AI Threat Assessment: Noctowl] +1: for target outspeeding
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0%% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[AI Threat Assessment: Wooper] -1: for us outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Noctowl] +1: for target outspeeding
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grimer (3):
+   *   0.0%% to use Poison Fang (target 0): score 0
+   *   0.0%% to use Poison Fang (target 2): score 0
+   *  40.0%% to use Pursuit (target 0): score 4
+   *   0.0%% to use Pursuit (target 2): score 0
+   *   0.0%% to use Brick Break (target 0): score 0
+   *  60.0%% to use Brick Break (target 2): score 6
+   => will use Pursuit (target 0)
+
+[Round order] Noctowl (2), the opposing Grimer (3), the opposing Marill (1), Wooper (0)
+
+[Use move] Noctowl (2) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Grimer lost 27 HP (71 -> 44)
+[0;1;30m"The opposing Grimer's Air Balloon popped!"[0m
+[Item consumed] The opposing Grimer consumed its held Air Balloon
+[Use move] The opposing Grimer (3) used Pursuit
+[0;1;30m"The opposing Grimer used Pursuit!"[0m
+[HP change] Wooper lost 25 HP (55 -> 30)
+[Use move] The opposing Marill (1) used Misty Explosion
+[0;1;30m"The opposing Marill used Misty Explosion!"[0m
+[Ability triggered] Wooper's Damp
+[0;1;30m"The opposing Marill cannot use Misty Explosion!"[0m
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] Wooper (0) used Bulldoze
+[0;1;30m"Wooper used Bulldoze!"[0m
+[Target immune] Noctowl's type immunity
+[0;1;30m"It doesn't affect Noctowl..."[0m
+[HP change] The opposing Marill lost 14 HP (52 -> 38)
+[HP change] The opposing Grimer lost 29 HP (44 -> 15)
+[0;1;30m"It's super effective on the opposing Grimer!"[0m
+[Stat change] The opposing Marill's Speed changed by -1 (-1 -> -2)
+[0;1;30m"The opposing Marill's Speed fell!"[0m
+[Stat change] The opposing Grimer's Speed changed by -1 (0 -> -1)
+[0;1;30m"The opposing Grimer's Speed fell!"[0m
+
+[End of round 3]
+
+[0;1;35m===== Round 4 =====[0m
+
+[AI Threat Assessment: Wooper] +3: for target having fast 2HKO
+[AI Threat Assessment: Wooper] +1: for target outspeeding
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Noctowl] +3: for target having fast 2HKO
+[AI Threat Assessment: Noctowl] +1: for target outspeeding
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0%% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+[AI Threat Assessment: Wooper] +5: for target having fast kill
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI Threat Assessment: Noctowl] +5: for target having fast kill
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Poison Fang (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grimer (3):
+   *   0.0%% to use Poison Fang (target 0): score 0
+   *   0.0%% to use Poison Fang (target 2): score 0
+   * 100.0%% to use Pursuit (target 0): score 12
+   *   0.0%% to use Pursuit (target 2): score 0
+   *   0.0%% to use Brick Break (target 0): score 0
+   *   0.0%% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 0)
+
+[Round order] Noctowl (2), Wooper (0), the opposing Grimer (3), the opposing Marill (1)
+
+[Use move] Noctowl (2) used Air Slash
+[0;1;30m"Noctowl used Air Slash!"[0m
+[HP change] The opposing Marill lost 31 HP (38 -> 7)
+[Use move] Wooper (0) used Bulldoze
+[0;1;30m"Wooper used Bulldoze!"[0m
+[Target immune] Noctowl's type immunity
+[0;1;30m"It doesn't affect Noctowl..."[0m
+[HP change] The opposing Marill lost 7 HP (7 -> 0)
+[HP change] The opposing Grimer lost 15 HP (15 -> 0)
+[0;1;30m"It's super effective on the opposing Grimer!"[0m
+[0;1;30m"The opposing Grimer fainted!"[0m
+[0;1;30m"The opposing Marill fainted!"[0m
+
+[0;1;35m===== Player won =====[0m
+
+[0;1;30m"You defeated Super Nerd Jovan!"[0m
+[0;1;30m"My Pokémon won't do!"[0m
+
+[0;1;30m"You got $1,008 for winning!"[0m
+GPU Cache Max: 16384
+-------------------------------------------------------------------------------
+Dumpster Fire Red Output Window
+-------------------------------------------------------------------------------
+If you can see this window, you are running the game in Debug Mode. This means
+that you're either playing a debug version of the game, or you're playing from
+within XPX Engine.
+
+Closing this window will close the game. If you want to get rid of this window,
+run the program from the Shell, or download a release version of the game.
+-------------------------------------------------------------------------------
+Debug Output:
+-------------------------------------------------------------------------------
+
+[0;33m*** Checking plugins ***[0m
+
+[0;33m  -> [0mCompiling plugin scripts...[0;32mdone[0m
+[0;33m  -> [0mLoaded plugin: [0;35mv21.1 Hotfixes[0m (ver. 1.0.9)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass AI[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mPhantombass Custom Scripts[0m (ver. 1.0.0)
+[0;33m  -> [0mLoaded plugin: [0;35mGeneration 9 Pack[0m (ver. 3.3.3)
+[0;33m  -> [0mLoaded plugin: [0;35mEncounter List UI (v20)[0m (ver. 1.0.2)
+[0;33m  -> [0mLoaded plugin: [0;35mDelta Speed Up[0m (ver. 1.2)
+[0;33m  -> [0mLoaded plugin: [0;35mCustomizable Level Cap[0m (ver. 1.3)
+[0;33m  -> [0mLoaded plugin: [0;35mHM Catalogue[0m (ver. 2.0)
+[0;33m  -> [0mLoaded plugin: [0;35mBOTW-Like Item Gathering v21.1 port[0m (ver. 1.3)
+[0;32m  -> [0m[0;32mSuccessfully loaded 9 plugin(s)[0m
+
+[0;33m*** Compiling PBS files ***[0m
+
+[0;33m  -> [0mCompiling PBS file [0;36mtown_map.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_connections.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtypes.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mabilities_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves.txt[0m...........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_Gen_9_Pack.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmoves_hidden_power.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems.txt[0m..........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mitems_custom.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mberry_plants.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon.txt[0m..............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_forms.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics.txt[0m...............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mpokemon_metrics_Gen_9_Pack.txt[0m.....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mregional_dexes.txt[0m...[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mribbons.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mencounters.txt[0m.............[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainer_types.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mtrainers.txt[0m......................[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mbattle_facility_lists.txt[0m........[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmetadata.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mmap_metadata.txt[0m......[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_tilesets.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mdungeon_parameters.txt[0m....[0;32mdone[0m
+[0;33m  -> [0mCompiling PBS file [0;36mphone.txt[0m....[0;32mdone[0m
+
+[0;33m*** Compiling animations ***[0m
+
+[0;33m  -> [0mCompiling animation PBS files....................................................................................................................................................................................................................................................................................................................................................................................................................................................[0;32mdone[0m
+
+[0;33m*** Importing new maps ***[0m
+
+[0;33m  -> [0mNone found
+
+[0;33m*** Modifying map events ***[0m
+
+[0;33m  -> [0mProcessing 221 maps......[0;32mdone[0m
+[0;1;33mWARNING: Map 39: 'Cerulean City' was modified and saved.[0m
+[0;1;33mWARNING: Map 53: 'Route 24' was modified and saved.[0m
+[0;33m  -> [0mProcessing common events...[0;32mdone[0m
+[0;1;33mWARNING: RMXP data was altered. Close RMXP now without saving to ensure changes are applied.[0m
+
+[0;33m*** Gathering messages for translations ***[0m
+
+[0;33m  -> [0mFinding messages...[0;32mdone[0m
+[0;33m  -> [0mSaving messages...[0;32mdone[0m
+
+[0;33m*** Creating map metadata for maps without it ***[0m
+
+[0;33m  -> [0mNone found
+
+UNSCALED 33.447082 * 3 - 1
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+=====> Nature for Geodude: Adamant
+Roles for ROGGENROLA: [:LEAD]
+=====> Nature for Roggenrola: Modest
+Roles for OMANYTE: [:NONE]
+=====> Nature for Omanyte: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+[0;1;30m"You are challenged by Hiker Marcos!"[0m

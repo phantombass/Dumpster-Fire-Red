@@ -43082,3 +43082,804 @@ Set up score for Trubbish (0): 0
 
 ===== Round 1 =====
 
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Grubbin appeared!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the wild Grubbin (1)
+
+===== Round 1 =====
+
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Grubbin appeared!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the wild Grubbin (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sandshrew appeared!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the wild Sandshrew (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+Roles for DOTTLER: [:SCREENS]
+=====> Nature for Dottler: Modest
+Roles for PINECO: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Kent!"
+"Bug Catcher Kent sent out Dottler!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Dottler (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Dottler (1) is considering using Reflect (4)...
+     + 8 based on enemy and physical enemy count
+[AI] Dottler (1) is considering using Light Screen (4)...
+     + 7 based on enemy and special enemy count
+[AI] Dottler (1) is considering using Confusion (1) against Noctowl (0)...
+     Dottler (1)'s highest damaging move vs Noctowl: Confusion
+     + 4 to prioritize highest damaging move
+[AI] Dottler (1) is considering using Struggle Bug (1)...
+     Dottler (1)'s highest damaging move vs Noctowl: Confusion
+[AI] Move choices for Dottler (1):
+   * 100.0% to use Reflect: score 12
+   *   0.0% to use Light Screen: score 0
+   *   0.0% to use Confusion (target 0): score 0
+   *   0.0% to use Struggle Bug: score 0
+   => will use Reflect
+
+[Round order] Noctowl (0), the opposing Dottler (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Dottler lost 46 HP (46 -> 0)
+"It's super effective!"
+"The opposing Dottler fainted!"
+
+[End of round 1]
+==============================
+     [Pineco] using Explosion vs Noctowl does a max of 62/74 damage
+     Noctowl (0)'s best move: Air Slash for 45/46 damage
+==============================
+     Noctowl (0) speed (36) vs Pineco speed: 14
+[AI] =====> Flags assigned to Pineco:
+==========> outdamage: true
+
+     [Pineco] +  3: for outdamage
+     [Pineco] final Switch score: 3
+"Bug Catcher Kent sent out Pineco!"
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pineco (1) is considering using Explosion (1)...
+     Pineco (1)'s highest damaging move vs Noctowl: Explosion
+     - 5 to set one lower than other moves that can kill if we are last mon
+     skipping remaining scoring for Explosion because we are last mon
+[AI] Move choices for Pineco (1):
+   * 100.0% to use Explosion: score 1
+   => will use Explosion
+
+[Round order] Noctowl (0), the opposing Pineco (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Pineco lost 45 HP (46 -> 1)
+"It's super effective!"
+[Ability triggered] The opposing Pineco's Sturdy
+"The opposing Pineco endured the hit!"
+[Use move] The opposing Pineco (1) used Explosion
+"The opposing Pineco used Explosion!"
+[HP change] Noctowl lost 74 HP (74 -> 0)
+[HP change] The opposing Pineco lost 1 HP (1 -> 0)
+"The opposing Pineco fainted!"
+"Noctowl fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Kent!"
+"You got me!"
+
+"You got $256 for winning!"
+Roles for CLEFAIRY: [:NONE]
+=====> Nature for Clefairy: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Iris!"
+"Lass Iris sent out Clefairy!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Clefairy (1) is considering using Metronome (4)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Metronome: score 4
+   => will use Metronome
+
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Clefairy lost 29 HP (56 -> 27)
+"It's super effective!"
+"The opposing Clefairy was poisoned!"
+[Use move] The opposing Clefairy (1) used Metronome
+"The opposing Clefairy used Metronome!"
+[Use move] The opposing Clefairy used the called/simple move Lucky Chant
+"The opposing Clefairy used Lucky Chant!"
+"The Lucky Chant shielded the opposing team from critical hits!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clefairy (1) is considering using Metronome (4)...
+[AI] Move choices for Clefairy (1):
+   * 100.0% to use Metronome: score 4
+   => will use Metronome
+
+[Round order] Trubbish (0), the opposing Clefairy (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Clefairy lost 27 HP (27 -> 0)
+"It's super effective!"
+"The opposing Clefairy fainted!"
+
+===== Player won =====
+
+"You defeated Lass Iris!"
+"I lost?"
+
+"You got $272 for winning!"
+Roles for BELLSPROUT: [:NONE]
+=====> Nature for Bellsprout: Adamant
+Roles for ODDISH: [:NONE]
+=====> Nature for Oddish: Modest
+Roles for TANGELA: [:NONE]
+=====> Nature for Tangela: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Lass Miriam!"
+"Lass Miriam sent out Bellsprout!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Bellsprout (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Bellsprout (1) is considering using Razor Leaf (1)...
+     Bellsprout (1)'s highest damaging move vs Noctowl: Poison Fang
+[AI] Bellsprout (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Bellsprout (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Bellsprout (1):
+   *   0.0% to use Razor Leaf: score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   => will use Poison Fang (target 0)
+
+[Round order] Noctowl (0), the opposing Bellsprout (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Bellsprout lost 46 HP (46 -> 0)
+"It's super effective!"
+"The opposing Bellsprout fainted!"
+
+[End of round 1]
+==============================
+     [Oddish] using Mega Drain vs Noctowl does a max of 4/74 damage
+     [Oddish] using Sludge vs Noctowl does a max of 13/74 damage
+     Noctowl (0)'s best move: Air Slash for 63/47 damage
+==============================
+     Noctowl (0) speed (36) vs Oddish speed: 20
+[AI] =====> Flags assigned to Oddish:
+==========> target_fast_kill: true
+
+     [Oddish] -  9: for target fast kill
+     [Oddish] final Switch score: -9
+"Lass Miriam sent out Oddish!"
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Oddish (1) is considering using Mega Drain (1) against Noctowl (0)...
+     Oddish (1)'s highest damaging move vs Noctowl: Sludge
+[AI] Oddish (1) is considering using Sludge (1) against Noctowl (0)...
+     Oddish (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Oddish (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Sludge (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Noctowl (0), the opposing Oddish (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Oddish lost 47 HP (47 -> 0)
+"It's super effective!"
+"The opposing Oddish fainted!"
+
+[End of round 2]
+==============================
+     [Tangela] using Mega Drain vs Noctowl does a max of 7/74 damage
+     [Tangela] using Ancient Power vs Noctowl does a max of 24/74 damage
+     Noctowl (0)'s best move: Air Slash for 84/56 damage
+==============================
+     Noctowl (0) speed (36) vs Tangela speed: 32
+[AI] =====> Flags assigned to Tangela:
+==========> target_fast_kill: true
+
+     [Tangela] -  9: for target fast kill
+     [Tangela] final Switch score: -9
+"Lass Miriam sent out Tangela!"
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Tangela (1) is considering using Mega Drain (1) against Noctowl (0)...
+     Tangela (1)'s highest damaging move vs Noctowl: Ancient Power
+[AI] Tangela (1) is considering using Ancient Power (1) against Noctowl (0)...
+     Tangela (1)'s highest damaging move vs Noctowl: Ancient Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Tangela (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   => will use Ancient Power (target 0)
+
+[Round order] Noctowl (0), the opposing Tangela (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Tangela lost 56 HP (56 -> 0)
+"It's super effective!"
+"The opposing Tangela fainted!"
+
+===== Player won =====
+
+"You defeated Lass Miriam!"
+"Oh! I lost it!"
+
+"You got $288 for winning!"
+Roles for SIZZLIPEDE: [:PHYSICALBREAKER]
+=====> Nature for Sizzlipede: Adamant
+Roles for DWEBBLE: [:PHYSICALBREAKER]
+=====> Nature for Dwebble: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Bug Catcher Robby!"
+"Bug Catcher Robby sent out Sizzlipede!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Sizzlipede (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sizzlipede (1) is considering using Smokescreen (4) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+     - 3 because this will be pointless
+[AI] Sizzlipede (1) is considering using Wrap (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+[AI] Sizzlipede (1) is considering using Bite (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+[AI] Sizzlipede (1) is considering using Flame Wheel (1) against Noctowl (0)...
+     Sizzlipede (1)'s highest damaging move vs Noctowl: Flame Wheel
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sizzlipede (1):
+   *   0.0% to use Smokescreen (target 0): score 0
+   *   0.0% to use Wrap (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   * 100.0% to use Flame Wheel (target 0): score 5
+   => will use Flame Wheel (target 0)
+
+[Round order] Noctowl (0), the opposing Sizzlipede (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Sizzlipede lost 51 HP (51 -> 0)
+"It's super effective!"
+"The opposing Sizzlipede fainted!"
+
+[End of round 1]
+==============================
+     [Dwebble] using Smack Down vs Noctowl does a max of 39/74 damage
+     [Dwebble] using Bug Bite vs Noctowl does a max of 11/74 damage
+     [Dwebble] using Flail vs Noctowl does a max of 6/74 damage
+     Noctowl (0)'s best move: Air Slash for 43/51 damage
+==============================
+     Noctowl (0) speed (36) vs Dwebble speed: 30
+[AI] =====> Flags assigned to Dwebble:
+==========> target_fast_2hko: true
+
+     [Dwebble] -  5: for target having fast 2HKO and us having no kill
+     [Dwebble] final Switch score: -5
+"Bug Catcher Robby sent out Dwebble!"
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Withdraw (4)...
+[AI] Dwebble (1) is considering using Smack Down (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+     + 4 to prioritize highest damaging move
+[AI] Dwebble (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Dwebble (1) is considering using Flail (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Withdraw: score 0
+   * 100.0% to use Smack Down (target 0): score 5
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Flail (target 0): score 0
+   => will use Smack Down (target 0)
+
+[Round order] Noctowl (0), the opposing Dwebble (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Dwebble lost 43 HP (51 -> 8)
+[Use move] The opposing Dwebble (1) used Smack Down
+"The opposing Dwebble used Smack Down!"
+[HP change] Noctowl lost 39 HP (74 -> 35)
+"It's super effective!"
+"Noctowl fell straight down!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Dwebble (1) is considering using Withdraw (4)...
+[AI] Dwebble (1) is considering using Smack Down (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+      + 17 for slow kill
+[AI] Dwebble (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Dwebble (1) is considering using Flail (1) against Noctowl (0)...
+     Dwebble (1)'s highest damaging move vs Noctowl: Smack Down
+[AI] Move choices for Dwebble (1):
+   *   0.0% to use Withdraw: score 0
+   * 100.0% to use Smack Down (target 0): score 18
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Flail (target 0): score 0
+   => will use Smack Down (target 0)
+
+[Round order] Noctowl (0), the opposing Dwebble (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Dwebble lost 8 HP (8 -> 0)
+"The opposing Dwebble fainted!"
+
+===== Player won =====
+
+"You defeated Bug Catcher Robby!"
+"I lost."
+
+"You got $288 for winning!"
+Roles for MARILL: [:NONE]
+=====> Nature for Marill: Modest
+Roles for GRIMER: [:PHYSICALBREAKER]
+=====> Nature for Grimer: Adamant
+
+================================================================
+
+[Started battle] Double trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Super Nerd Jovan!"
+"Super Nerd Jovan sent out Marill and Grimer!"
+"Go! Wooper and Trubbish!"
+[Round order] Trubbish (2), the opposing Marill (1), the opposing Grimer (3), Wooper (0)
+"The opposing Grimer floats in the air with its Air Balloon!"
+
+===== Round 1 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 1
+     End flag assignment.
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 3
+     Priority Move Count: 0
+     Trubbish (2) has been assigned No Priority flag
+     End flag assignment.
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Move choices for Grimer (3):
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Poison Fang (target 2): score 0
+   *   0.0% to use Pursuit (target 0): score 0
+   * 100.0% to use Pursuit (target 2): score 6
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 2)
+
+[Round order] Wooper (0), Trubbish (2), the opposing Marill (1), the opposing Grimer (3)
+
+[Use move] Wooper (0) used Protect
+"Wooper used Protect!"
+"Wooper protected itself!"
+[Use move] Trubbish (2) used Gastro Acid
+"Trubbish used Gastro Acid!"
+"The opposing Grimer's Ability was suppressed!"
+[Use move] The opposing Marill (1) used Misty Explosion
+"The opposing Marill used Misty Explosion!"
+[Ability triggered] Wooper's Damp
+"The opposing Marill cannot use Misty Explosion!"
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] The opposing Grimer (3) used Pursuit
+"The opposing Grimer used Pursuit!"
+[HP change] Trubbish lost 18 HP (58 -> 40)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Trubbish (2): 0
+     Threat Score for Trubbish (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Trubbish (2)...
+     Grimer (3)'s highest damaging move vs Trubbish: Pursuit
+     + 1 to factor in threat scoring.
+[AI] Move choices for Grimer (3):
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Poison Fang (target 2): score 0
+   *   0.0% to use Pursuit (target 0): score 0
+   * 100.0% to use Pursuit (target 2): score 8
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 2)
+
+[Round order] Trubbish (2), the opposing Marill (1), the opposing Grimer (3), Wooper (0)
+
+"Trubbish, come back!"
+[Use move] The opposing Grimer (3) used Pursuit
+"The opposing Grimer used Pursuit!"
+[HP change] Trubbish lost 40 HP (40 -> 0)
+"Trubbish fainted!"
+"You're in charge, Noctowl!"
+[Use move] The opposing Marill (1) used Misty Explosion
+"The opposing Marill used Misty Explosion!"
+[Ability triggered] Wooper's Damp
+"The opposing Marill cannot use Misty Explosion!"
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[Target immune] Noctowl's type immunity
+"It doesn't affect Noctowl..."
+"The opposing Grimer's Air Balloon makes Ground moves miss!"
+[HP change] The opposing Marill lost 14 HP (66 -> 52)
+[Stat change] The opposing Marill's Speed changed by -1 (0 -> -1)
+"The opposing Marill's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Poison Fang (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 1 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + -1 to factor in threat scoring.
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Grimer (3) is considering using Brick Break (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 1 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grimer (3):
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Poison Fang (target 2): score 0
+   *  40.0% to use Pursuit (target 0): score 4
+   *   0.0% to use Pursuit (target 2): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *  60.0% to use Brick Break (target 2): score 6
+   => will use Pursuit (target 0)
+
+[Round order] Noctowl (2), the opposing Grimer (3), the opposing Marill (1), Wooper (0)
+
+[Use move] Noctowl (2) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Grimer lost 27 HP (71 -> 44)
+"The opposing Grimer's Air Balloon popped!"
+[Item consumed] The opposing Grimer consumed its held Air Balloon
+[Use move] The opposing Grimer (3) used Pursuit
+"The opposing Grimer used Pursuit!"
+[HP change] Wooper lost 25 HP (55 -> 30)
+[Use move] The opposing Marill (1) used Misty Explosion
+"The opposing Marill used Misty Explosion!"
+[Ability triggered] Wooper's Damp
+"The opposing Marill cannot use Misty Explosion!"
+[Move failed] In function code UserFaintsPowersUpInMistyTerrainExplosive's def pbMoveFailed?
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[Target immune] Noctowl's type immunity
+"It doesn't affect Noctowl..."
+[HP change] The opposing Marill lost 14 HP (52 -> 38)
+[HP change] The opposing Grimer lost 29 HP (44 -> 15)
+"It's super effective on the opposing Grimer!"
+[Stat change] The opposing Marill's Speed changed by -1 (-1 -> -2)
+"The opposing Marill's Speed fell!"
+[Stat change] The opposing Grimer's Speed changed by -1 (0 -> -1)
+"The opposing Grimer's Speed fell!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 4
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Marill (1) is considering using Misty Explosion...
+     +  1: move will fail
+[AI] Move choices for Marill (1):
+   * 100.0% to use Misty Explosion: score 1
+   => will use Misty Explosion
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+Set up score for Noctowl (2): 0
+     Threat Score for Noctowl (2): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (3) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Poison Fang (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Pursuit (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Grimer (3) is considering using Pursuit (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 2 because we see kill with Pursuit, but only if target switches
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (3)'s highest damaging move vs Wooper: Pursuit
+     + 5 to factor in threat scoring.
+[AI] Grimer (3) is considering using Brick Break (1) against Noctowl (2)...
+     Grimer (3)'s highest damaging move vs Noctowl: Brick Break
+     + 5 to factor in threat scoring.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grimer (3):
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Poison Fang (target 2): score 0
+   * 100.0% to use Pursuit (target 0): score 12
+   *   0.0% to use Pursuit (target 2): score 0
+   *   0.0% to use Brick Break (target 0): score 0
+   *   0.0% to use Brick Break (target 2): score 0
+   => will use Pursuit (target 0)
+
+[Round order] Noctowl (2), Wooper (0), the opposing Grimer (3), the opposing Marill (1)
+
+[Use move] Noctowl (2) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Marill lost 31 HP (38 -> 7)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[Target immune] Noctowl's type immunity
+"It doesn't affect Noctowl..."
+[HP change] The opposing Marill lost 7 HP (7 -> 0)
+[HP change] The opposing Grimer lost 15 HP (15 -> 0)
+"It's super effective on the opposing Grimer!"
+"The opposing Grimer fainted!"
+"The opposing Marill fainted!"
+
+===== Player won =====
+
+"You defeated Super Nerd Jovan!"
+"My Pokémon won't do!"
+
+"You got $1,008 for winning!"
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+=====> Nature for Geodude: Adamant
+Roles for ROGGENROLA: [:LEAD]
+=====> Nature for Roggenrola: Modest
+Roles for OMANYTE: [:NONE]
+=====> Nature for Omanyte: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Marcos!"
