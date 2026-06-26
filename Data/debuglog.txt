@@ -43883,3 +43883,4749 @@ Roles for OMANYTE: [:NONE]
 
 [Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
 "You are challenged by Hiker Marcos!"
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+=====> Nature for Geodude: Adamant
+Roles for ROGGENROLA: [:LEAD]
+=====> Nature for Roggenrola: Modest
+Roles for OMANYTE: [:NONE]
+=====> Nature for Omanyte: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Marcos!"
+"Hiker Marcos sent out Geodude!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Geodude (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Geodude (1) is considering using Smack Down (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+[AI] Geodude (1) is considering using Rock Tomb (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+     + 4 to prioritize highest damaging move
+[AI] Geodude (1) is considering using Steamroller (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   * 100.0% to use Rock Tomb (target 0): score 5
+   *   0.0% to use Steamroller (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Noctowl (0), the opposing Geodude (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Geodude lost 22 HP (47 -> 25)
+[Use move] The opposing Geodude (1) used Rock Tomb
+"The opposing Geodude used Rock Tomb!"
+[HP change] Noctowl lost 45 HP (74 -> 29)
+"It's super effective!"
+[Stat change] Noctowl's Speed changed by -1 (0 -> -1)
+"Noctowl's Speed fell!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): -1
+     Threat Score for Noctowl (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Geodude (1) is considering using Smack Down (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Rock Tomb (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Steamroller (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *  50.0% to use Smack Down (target 0): score 18
+   *  50.0% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Steamroller (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Noctowl (0), the opposing Geodude (1)
+
+"OK, Noctowl! Come back!"
+"Go for it, Sunkern!"
+[Use move] The opposing Geodude (1) used Rock Tomb
+"The opposing Geodude used Rock Tomb!"
+[HP change] Sunkern lost 30 HP (45 -> 15)
+[Stat change] Sunkern's Speed changed by -1 (0 -> -1)
+"Sunkern's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Sunkern (0): 0
+     Threat Score for Sunkern (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Smack Down (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Rock Tomb (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Steamroller (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Smack Down (target 0): score 21
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Steamroller (target 0): score 21
+   => will use Bulldoze
+
+[Round order] The opposing Geodude (1), Sunkern (0)
+
+"OK, Sunkern! Come back!"
+"Go for it, Wooper!"
+[Use move] The opposing Geodude (1) used Bulldoze
+"The opposing Geodude used Bulldoze!"
+[HP change] Wooper lost 50 HP (55 -> 5)
+"It's super effective!"
+[Stat change] Wooper's Speed changed by -1 (0 -> -1)
+"Wooper's Speed fell!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Wooper (0): -1
+     Threat Score for Wooper (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Wooper: Bulldoze
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Smack Down (1) against Wooper (0)...
+     Geodude (1)'s highest damaging move vs Wooper: Bulldoze
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Rock Tomb (1) against Wooper (0)...
+     Geodude (1)'s highest damaging move vs Wooper: Bulldoze
+      + 20 for fast kill
+[AI] Geodude (1) is considering using Steamroller (1) against Wooper (0)...
+     Geodude (1)'s highest damaging move vs Wooper: Bulldoze
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *  25.0% to use Bulldoze: score 21
+   *  25.0% to use Smack Down (target 0): score 21
+   *  25.0% to use Rock Tomb (target 0): score 21
+   *  25.0% to use Steamroller (target 0): score 21
+   => will use Rock Tomb (target 0)
+
+[Round order] The opposing Geodude (1), Wooper (0)
+
+[Use move] The opposing Geodude (1) used Rock Tomb
+"The opposing Geodude used Rock Tomb!"
+[HP change] Wooper lost 5 HP (5 -> 0)
+"A critical hit!"
+"It's not very effective..."
+"Wooper fainted!"
+
+[End of round 4]
+"Go for it, Wynaut!"
+
+===== Round 5 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Smack Down (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Rock Tomb (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Steamroller (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Steamroller (target 0): score 5
+   => will use Steamroller (target 0)
+
+[Round order] The opposing Geodude (1), Wynaut (0)
+
+[Use move] The opposing Geodude (1) used Steamroller
+"The opposing Geodude used Steamroller!"
+[HP change] Wynaut lost 36 HP (72 -> 36)
+"It's super effective!"
+[Use move] Wynaut (0) used Counter
+"Wynaut flinched and couldn't move!"
+[Move failed] Wynaut flinched
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Smack Down (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Rock Tomb (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+[AI] Geodude (1) is considering using Steamroller (1) against Wynaut (0)...
+     Geodude (1)'s highest damaging move vs Wynaut: Steamroller
+      + 20 for fast kill
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Steamroller (target 0): score 21
+   => will use Steamroller (target 0)
+
+[Round order] The opposing Geodude (1), Wynaut (0)
+
+[Use move] The opposing Geodude (1) used Steamroller
+"The opposing Geodude used Steamroller!"
+[HP change] Wynaut lost 36 HP (36 -> 0)
+"It's super effective!"
+"Wynaut fainted!"
+
+[End of round 6]
+"Go for it, Noctowl!"
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Geodude (1) is considering using Smack Down (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Rock Tomb (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Steamroller (1) against Noctowl (0)...
+     Geodude (1)'s highest damaging move vs Noctowl: Rock Tomb
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *  50.0% to use Smack Down (target 0): score 18
+   *  50.0% to use Rock Tomb (target 0): score 18
+   *   0.0% to use Steamroller (target 0): score 0
+   => will use Rock Tomb (target 0)
+
+[Round order] Noctowl (0), the opposing Geodude (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Geodude lost 22 HP (25 -> 3)
+[Use move] The opposing Geodude (1) used Rock Tomb
+"The opposing Geodude used Rock Tomb!"
+[HP change] Noctowl lost 29 HP (29 -> 0)
+"It's super effective!"
+"Noctowl fainted!"
+
+[End of round 7]
+"Your opponent's weak! Get 'em, Trubbish!"
+
+===== Round 8 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Trubbish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Geodude (1) is considering using Smack Down (1) against Trubbish (0)...
+     Geodude (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Geodude (1) is considering using Rock Tomb (1) against Trubbish (0)...
+     Geodude (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Geodude (1) is considering using Steamroller (1) against Trubbish (0)...
+     Geodude (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Move choices for Geodude (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Smack Down (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   *   0.0% to use Steamroller (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Trubbish (0), the opposing Geodude (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Geodude lost 3 HP (3 -> 0)
+"The opposing Geodude fainted!"
+"It's super effective!"
+"Hit 1 time!"
+"Sunkern got 1 Exp. Points!"
+
+[End of round 8]
+==============================
+     [Roggenrola] using Mud-Slap vs Trubbish does a max of 8/58 damage
+     [Roggenrola] using Smack Down vs Trubbish does a max of 18/58 damage
+     Trubbish (0)'s best move: Bullet Seed for 26/55 damage
+==============================
+     Trubbish (0) speed (38) vs Roggenrola speed: 16
+[AI] =====> Flags assigned to Roggenrola:
+
+     [Roggenrola] final Switch score: 0
+==============================
+     [Omanyte] using Bubble Beam vs Trubbish does a max of 28/58 damage
+     [Omanyte] using Ancient Power vs Trubbish does a max of 27/58 damage
+     Trubbish (0)'s best move: Bullet Seed for 48/48 damage
+==============================
+     Trubbish (0) speed (38) vs Omanyte speed: 24
+[AI] =====> Flags assigned to Omanyte:
+==========> target_fast_kill: true
+
+     [Omanyte] -  9: for target fast kill
+     [Omanyte] final Switch score: -9
+"Hiker Marcos sent out Roggenrola!"
+
+===== Round 9 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roggenrola (1) is considering using Harden (4)...
+[AI] Roggenrola (1) is considering using Stealth Rock (4)...
+     + 3 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Roggenrola (1) is considering using Mud-Slap (1) against Trubbish (0)...
+     Roggenrola (1)'s highest damaging move vs Trubbish: Smack Down
+[AI] Roggenrola (1) is considering using Smack Down (1) against Trubbish (0)...
+     Roggenrola (1)'s highest damaging move vs Trubbish: Smack Down
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Harden: score 0
+   * 100.0% to use Stealth Rock: score 53
+   *   0.0% to use Mud-Slap (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] Trubbish (0), the opposing Roggenrola (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Roggenrola lost 9 HP (55 -> 46)
+[HP change] The opposing Roggenrola lost 9 HP (46 -> 37)
+[HP change] The opposing Roggenrola lost 10 HP (37 -> 27)
+[HP change] The opposing Roggenrola lost 9 HP (27 -> 18)
+[HP change] The opposing Roggenrola lost 10 HP (18 -> 8)
+"It's super effective!"
+"Hit 5 times!"
+[Use move] The opposing Roggenrola (1) used Stealth Rock
+"The opposing Roggenrola used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roggenrola (1) is considering using Harden (4)...
+[AI] Roggenrola (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Roggenrola (1) is considering using Mud-Slap (1) against Trubbish (0)...
+     Roggenrola (1)'s highest damaging move vs Trubbish: Smack Down
+[AI] Roggenrola (1) is considering using Smack Down (1) against Trubbish (0)...
+     Roggenrola (1)'s highest damaging move vs Trubbish: Smack Down
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Harden: score 0
+   *   0.0% to use Stealth Rock: score 0
+   *   0.0% to use Mud-Slap (target 0): score 0
+   * 100.0% to use Smack Down (target 0): score 5
+   => will use Smack Down (target 0)
+
+[Round order] Trubbish (0), the opposing Roggenrola (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Roggenrola lost 8 HP (8 -> 0)
+"The opposing Roggenrola fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+[End of round 10]
+==============================
+     [Omanyte] using Bubble Beam vs Trubbish does a max of 28/58 damage
+     [Omanyte] using Ancient Power vs Trubbish does a max of 27/58 damage
+     Trubbish (0)'s best move: Bullet Seed for 48/48 damage
+==============================
+     Trubbish (0) speed (38) vs Omanyte speed: 24
+[AI] =====> Flags assigned to Omanyte:
+==========> target_fast_kill: true
+
+     [Omanyte] -  9: for target fast kill
+     [Omanyte] final Switch score: -9
+"Hiker Marcos sent out Omanyte!"
+
+===== Round 11 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Trubbish (0), the opposing Omanyte (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Omanyte lost 19 HP (48 -> 29)
+[Ability triggered] The opposing Omanyte's Weak Armor
+[Stat change] The opposing Omanyte's Defense changed by -1 (0 -> -1)
+"The opposing Omanyte's Defense fell!"
+[Stat change] The opposing Omanyte's Speed changed by +2 (0 -> 2)
+"The opposing Omanyte's Speed rose sharply!"
+[HP change] The opposing Omanyte lost 27 HP (29 -> 2)
+[Ability triggered] The opposing Omanyte's Weak Armor
+[Stat change] The opposing Omanyte's Defense changed by -1 (-1 -> -2)
+"The opposing Omanyte's Defense fell!"
+[Stat change] The opposing Omanyte's Speed changed by +2 (2 -> 4)
+"The opposing Omanyte's Speed rose sharply!"
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Omanyte (1) used Bubble Beam
+"The opposing Omanyte used Bubble Beam!"
+[HP change] Trubbish lost 29 HP (58 -> 29)
+[HP change] Trubbish gained 10 HP (29 -> 39)
+"Trubbish restored a little HP using its Oran Berry!"
+[Item consumed] Trubbish consumed its held Oran Berry
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] The opposing Omanyte (1), Trubbish (0)
+
+[Use move] The opposing Omanyte (1) used Bubble Beam
+"The opposing Omanyte used Bubble Beam!"
+[HP change] Trubbish lost 25 HP (39 -> 14)
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Omanyte lost 2 HP (2 -> 0)
+"The opposing Omanyte fainted!"
+"It's super effective!"
+"Hit 1 time!"
+
+===== Player won =====
+
+"You defeated Hiker Marcos!"
+"Wow! Shocked again!"
+
+"You got $608 for winning!"
+Roles for HERDIER: [:SETUPSWEEPER]
+=====> Nature for Herdier: Adamant
+Roles for NIDORINO: [:PHYSICALBREAKER]
+=====> Nature for Nidorino: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Josh!"
+"Youngster Josh sent out Herdier!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Herdier (1)
+[Ability triggered] The opposing Herdier's Intimidate
+[Stat change] Trubbish's Attack changed by -1 (0 -> -1)
+"Trubbish's Attack fell!"
+
+===== Round 1 =====
+
+Roles for GEODUDE: [:PHYSICALBREAKER, :SPEEDCONTROL]
+=====> Nature for Geodude: Adamant
+Roles for ROGGENROLA: [:LEAD]
+=====> Nature for Roggenrola: Modest
+Roles for OMANYTE: [:NONE]
+=====> Nature for Omanyte: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Hiker Marcos!"
+"Hiker Marcos sent out Geodude!"
+"Go! Sunkern!"
+[Round order] Sunkern (0), the opposing Geodude (1)
+
+===== Round 1 =====
+
+Set up score for Sunkern (0): 0
+     Threat Score for Sunkern (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 1
+     Sunkern (0) has been assigned Should Taunt flag
+     End flag assignment.
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+[AI] Geodude (1) is considering using Smack Down (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+[AI] Geodude (1) is considering using Rock Tomb (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+[AI] Geodude (1) is considering using Steamroller (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Geodude (1):
+   *   0.0% to use Bulldoze: score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   *   0.0% to use Rock Tomb (target 0): score 0
+   * 100.0% to use Steamroller (target 0): score 5
+   => will use Steamroller (target 0)
+
+[Round order] Sunkern (0), the opposing Geodude (1)
+
+[Use move] Sunkern (0) used Mega Drain
+"Sunkern used Mega Drain!"
+[HP change] The opposing Geodude lost 43 HP (47 -> 4)
+"It's super effective!"
+"The opposing Geodude had its energy drained!"
+[Use move] The opposing Geodude (1) used Steamroller
+"The opposing Geodude used Steamroller!"
+[HP change] Sunkern lost 44 HP (45 -> 1)
+"It's super effective!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Sunkern (0): 0
+     Threat Score for Sunkern (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Geodude (1) is considering using Bulldoze (1)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Smack Down (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Rock Tomb (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 17 for slow kill
+[AI] Geodude (1) is considering using Steamroller (1) against Sunkern (0)...
+     Geodude (1)'s highest damaging move vs Sunkern: Steamroller
+      + 17 for slow kill
+[AI] Move choices for Geodude (1):
+   *  25.0% to use Bulldoze: score 18
+   *  25.0% to use Smack Down (target 0): score 18
+   *  25.0% to use Rock Tomb (target 0): score 18
+   *  25.0% to use Steamroller (target 0): score 18
+   => will use Steamroller (target 0)
+
+[Round order] Sunkern (0), the opposing Geodude (1)
+
+[Use move] Sunkern (0) used Mega Drain
+"Sunkern used Mega Drain!"
+[HP change] The opposing Geodude lost 4 HP (4 -> 0)
+"It's super effective!"
+"The opposing Geodude fainted!"
+"The opposing Geodude had its energy drained!"
+[HP change] Sunkern gained 2 HP (1 -> 3)
+"Sunkern got 1 Exp. Points!"
+
+[End of round 2]
+==============================
+     [Roggenrola] using Mud-Slap vs Sunkern does a max of 3/3 damage
+     [Roggenrola] using Smack Down vs Sunkern does a max of 24/3 damage
+     Sunkern (0)'s best move: Mega Drain for 27/55 damage
+==============================
+     Sunkern (0) speed (23) vs Roggenrola speed: 16
+[AI] =====> Flags assigned to Roggenrola:
+==========> slow_kill: true
+
+     [Roggenrola] +  9: for slow kill
+     [Roggenrola] final Switch score: 9
+==============================
+     [Omanyte] using Bubble Beam vs Sunkern does a max of 25/3 damage
+     [Omanyte] using Ancient Power vs Sunkern does a max of 46/3 damage
+     Sunkern (0)'s best move: Mega Drain for 36/48 damage
+==============================
+     Sunkern (0) speed (23) vs Omanyte speed: 24
+[AI] =====> Flags assigned to Omanyte:
+==========> fast_kill: true
+
+     [Omanyte] + 12: for fast kill
+     [Omanyte] final Switch score: 12
+"Hiker Marcos sent out Omanyte!"
+
+===== Round 3 =====
+
+Set up score for Sunkern (0): 0
+     Threat Score for Sunkern (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Sunkern (0)...
+     Omanyte (1)'s highest damaging move vs Sunkern: Ancient Power
+      + 20 for fast kill
+[AI] Omanyte (1) is considering using Ancient Power (1) against Sunkern (0)...
+     Omanyte (1)'s highest damaging move vs Sunkern: Ancient Power
+      + 20 for fast kill
+[AI] Move choices for Omanyte (1):
+   *  50.0% to use Bubble Beam (target 0): score 21
+   *  50.0% to use Ancient Power (target 0): score 21
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Omanyte (1), Sunkern (0)
+
+"Good job, Sunkern! Come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Trubbish lost 24 HP (58 -> 34)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+     + 4 to prioritize highest damaging move
+[AI] Omanyte (1) is considering using Ancient Power (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+[AI] Move choices for Omanyte (1):
+   * 100.0% to use Bubble Beam (target 0): score 5
+   *   0.0% to use Ancient Power (target 0): score 0
+   => will use Bubble Beam (target 0)
+
+[Round order] Trubbish (0), the opposing Omanyte (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Omanyte lost 19 HP (48 -> 29)
+[Ability triggered] The opposing Omanyte's Weak Armor
+[Stat change] The opposing Omanyte's Defense changed by -1 (0 -> -1)
+"The opposing Omanyte's Defense fell!"
+[Stat change] The opposing Omanyte's Speed changed by +2 (0 -> 2)
+"The opposing Omanyte's Speed rose sharply!"
+[HP change] The opposing Omanyte lost 25 HP (29 -> 4)
+[Ability triggered] The opposing Omanyte's Weak Armor
+[Stat change] The opposing Omanyte's Defense changed by -1 (-1 -> -2)
+"The opposing Omanyte's Defense fell!"
+[Stat change] The opposing Omanyte's Speed changed by +2 (2 -> 4)
+"The opposing Omanyte's Speed rose sharply!"
+"It's super effective!"
+"Hit 2 times!"
+[Use move] The opposing Omanyte (1) used Bubble Beam
+"The opposing Omanyte used Bubble Beam!"
+[HP change] Trubbish lost 28 HP (34 -> 6)
+[HP change] Trubbish gained 10 HP (6 -> 16)
+"Trubbish restored a little HP using its Oran Berry!"
+[Item consumed] Trubbish consumed its held Oran Berry
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+      + 20 for fast kill
+[AI] Omanyte (1) is considering using Ancient Power (1) against Trubbish (0)...
+     Omanyte (1)'s highest damaging move vs Trubbish: Bubble Beam
+      + 20 for fast kill
+[AI] Move choices for Omanyte (1):
+   *  50.0% to use Bubble Beam (target 0): score 21
+   *  50.0% to use Ancient Power (target 0): score 21
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Omanyte (1), Trubbish (0)
+
+"OK, Trubbish! Come back!"
+"Your opponent's weak! Get 'em, Noctowl!"
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Noctowl lost 36 HP (74 -> 38)
+"It's super effective!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Omanyte (1) is considering using Bubble Beam (1) against Noctowl (0)...
+     Omanyte (1)'s highest damaging move vs Noctowl: Ancient Power
+[AI] Omanyte (1) is considering using Ancient Power (1) against Noctowl (0)...
+     Omanyte (1)'s highest damaging move vs Noctowl: Ancient Power
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Omanyte (1):
+   *   0.0% to use Bubble Beam (target 0): score 0
+   * 100.0% to use Ancient Power (target 0): score 5
+   => will use Ancient Power (target 0)
+
+[Round order] The opposing Omanyte (1), Noctowl (0)
+
+[Use move] The opposing Omanyte (1) used Ancient Power
+"The opposing Omanyte used Ancient Power!"
+[HP change] Noctowl lost 34 HP (38 -> 4)
+"It's super effective!"
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Omanyte lost 4 HP (4 -> 0)
+"The opposing Omanyte fainted!"
+
+[End of round 6]
+==============================
+     [Roggenrola] using Smack Down vs Noctowl does a max of 36/4 damage
+     Noctowl (0)'s best move: Air Slash for 25/55 damage
+==============================
+     Noctowl (0) speed (36) vs Roggenrola speed: 16
+[AI] =====> Flags assigned to Roggenrola:
+==========> slow_kill: true
+
+     [Roggenrola] +  9: for slow kill
+     [Roggenrola] final Switch score: 9
+"Hiker Marcos sent out Roggenrola!"
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roggenrola (1) is considering using Harden (4)...
+[AI] Roggenrola (1) is considering using Stealth Rock (4)...
+     + 6 to encourage hazards for each able opposing party member
+     + 46 to incentivize hazards turn 1
+[AI] Roggenrola (1) is considering using Mud-Slap (1) against Noctowl (0)...
+     Roggenrola (1)'s highest damaging move vs Noctowl: Smack Down
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Roggenrola (1) is considering using Smack Down (1) against Noctowl (0)...
+     Roggenrola (1)'s highest damaging move vs Noctowl: Smack Down
+      + 17 for slow kill
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Harden: score 0
+   * 100.0% to use Stealth Rock: score 56
+   *   0.0% to use Mud-Slap (target 0): score 0
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Stealth Rock
+
+[Round order] Noctowl (0), the opposing Roggenrola (1)
+
+"Good job, Noctowl! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Roggenrola (1) used Stealth Rock
+"The opposing Roggenrola used Stealth Rock!"
+"Pointed stones float in the air around your team!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roggenrola (1) is considering using Harden (4)...
+[AI] Roggenrola (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Roggenrola (1) is considering using Mud-Slap (1) against Wooper (0)...
+     Roggenrola (1)'s highest damaging move vs Wooper: Mud-Slap
+     + 4 to prioritize highest damaging move
+[AI] Roggenrola (1) is considering using Smack Down (1) against Wooper (0)...
+     Roggenrola (1)'s highest damaging move vs Wooper: Mud-Slap
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Harden: score 0
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Mud-Slap (target 0): score 5
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Mud-Slap (target 0)
+
+[Round order] The opposing Roggenrola (1), Wooper (0)
+
+[Use move] The opposing Roggenrola (1) used Mud-Slap
+"The opposing Roggenrola used Mud-Slap!"
+[HP change] Wooper lost 12 HP (55 -> 43)
+"It's super effective!"
+[Stat change] Wooper's accuracy changed by -1 (0 -> -1)
+"Wooper's accuracy fell!"
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Roggenrola lost 30 HP (55 -> 25)
+"It's super effective!"
+[Stat change] The opposing Roggenrola's Speed changed by -1 (0 -> -1)
+"The opposing Roggenrola's Speed fell!"
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Roggenrola (1) is considering using Harden (4)...
+[AI] Roggenrola (1) is considering using Stealth Rock...
+     +  1: move will fail
+[AI] Roggenrola (1) is considering using Mud-Slap (1) against Wooper (0)...
+     Roggenrola (1)'s highest damaging move vs Wooper: Mud-Slap
+     + 4 to prioritize highest damaging move
+[AI] Roggenrola (1) is considering using Smack Down (1) against Wooper (0)...
+     Roggenrola (1)'s highest damaging move vs Wooper: Mud-Slap
+[AI] Move choices for Roggenrola (1):
+   *   0.0% to use Harden: score 0
+   *   0.0% to use Stealth Rock: score 0
+   * 100.0% to use Mud-Slap (target 0): score 5
+   *   0.0% to use Smack Down (target 0): score 0
+   => will use Mud-Slap (target 0)
+
+[Round order] Wooper (0), the opposing Roggenrola (1)
+
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Roggenrola lost 25 HP (25 -> 0)
+"It's super effective!"
+"The opposing Roggenrola fainted!"
+
+===== Player won =====
+
+"You defeated Hiker Marcos!"
+"Wow! Shocked again!"
+
+"You got $608 for winning!"
+Roles for HERDIER: [:SETUPSWEEPER]
+=====> Nature for Herdier: Adamant
+Roles for NIDORINO: [:PHYSICALBREAKER]
+=====> Nature for Nidorino: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Youngster Josh!"
+"Youngster Josh sent out Herdier!"
+"Go! Sunkern!"
+[Round order] The opposing Herdier (1), Sunkern (0)
+[Ability triggered] The opposing Herdier's Intimidate
+[Stat change] Sunkern's Attack changed by -1 (0 -> -1)
+"Sunkern's Attack fell!"
+
+===== Round 1 =====
+
+Set up score for Sunkern (0): 0
+     Threat Score for Sunkern (0): -3
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 1
+     Sunkern (0) has been assigned Should Taunt flag
+     End flag assignment.
+[AI] Herdier (1) is considering using Leer (4)...
+     Herdier (1)'s highest damaging move vs Sunkern: Retaliate
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Herdier (1) is considering using Work Up (4)...
+[AI] Herdier (1) is considering using Bite (1) against Sunkern (0)...
+     Herdier (1)'s highest damaging move vs Sunkern: Retaliate
+      + 20 for fast kill
+[AI] Herdier (1) is considering using Retaliate (1) against Sunkern (0)...
+     Herdier (1)'s highest damaging move vs Sunkern: Retaliate
+      + 20 for fast kill
+[AI] Move choices for Herdier (1):
+   *   0.0% to use Leer: score 0
+   *   0.0% to use Work Up: score 0
+   *  50.0% to use Bite (target 0): score 21
+   *  50.0% to use Retaliate (target 0): score 21
+   => will use Retaliate (target 0)
+
+[Round order] The opposing Herdier (1), Sunkern (0)
+
+"Good job, Sunkern! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Herdier (1) used Retaliate
+"The opposing Herdier used Retaliate!"
+[HP change] Sandshrew lost 9 HP (53 -> 44)
+"It's not very effective..."
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Herdier (1) is considering using Leer (4)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+     + 1 to make equal to highest damaging move
+[AI] Herdier (1) is considering using Work Up (4)...
+[AI] Herdier (1) is considering using Bite (1) against Sandshrew (0)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Herdier (1) is considering using Retaliate (1) against Sandshrew (0)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+[AI] Move choices for Herdier (1):
+   *  50.0% to use Leer: score 5
+   *   0.0% to use Work Up: score 0
+   *  50.0% to use Bite (target 0): score 5
+   *   0.0% to use Retaliate (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Herdier (1), Sandshrew (0)
+
+[Use move] The opposing Herdier (1) used Bite
+"The opposing Herdier used Bite!"
+[HP change] Sandshrew lost 11 HP (44 -> 33)
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Herdier lost 28 HP (56 -> 28)
+"The opposing Herdier was frozen solid!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Herdier (1) is considering using Leer (4)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+     - 3 because this will be pointless
+[AI] Herdier (1) is considering using Work Up (4)...
+[AI] Herdier (1) is considering using Bite (1) against Sandshrew (0)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Herdier (1) is considering using Retaliate (1) against Sandshrew (0)...
+     Herdier (1)'s highest damaging move vs Sandshrew: Bite
+[AI] Move choices for Herdier (1):
+   *   0.0% to use Leer: score 0
+   *   0.0% to use Work Up: score 0
+   * 100.0% to use Bite (target 0): score 5
+   *   0.0% to use Retaliate (target 0): score 0
+   => will use Bite (target 0)
+
+[Round order] The opposing Herdier (1), Sandshrew (0)
+
+[Use move] The opposing Herdier (1) used Bite
+"The opposing Herdier is frozen solid!"
+[Move failed] The opposing Herdier is frozen
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Herdier lost 28 HP (28 -> 0)
+"The opposing Herdier fainted!"
+"Sandshrew got 1 Exp. Points!"
+
+[End of round 3]
+==============================
+     [Nidorino] using Peck vs Sandshrew does a max of 4/33 damage
+     [Nidorino] using Pluck vs Sandshrew does a max of 6/33 damage
+     [Nidorino] using Double Kick vs Sandshrew does a max of 48/33 damage
+     Sandshrew (0)'s best move: Ice Punch for 30/58 damage
+==============================
+     Sandshrew (0) speed (27) vs Nidorino speed: 35
+[AI] =====> Flags assigned to Nidorino:
+==========> fast_kill: true
+
+     [Nidorino] + 12: for fast kill
+     [Nidorino] final Switch score: 12
+"Youngster Josh sent out Nidorino!"
+
+===== Round 4 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nidorino (1) is considering using Poison Sting (1) against Sandshrew (0)...
+     Nidorino (1)'s highest damaging move vs Sandshrew: Double Kick
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Nidorino (1) is considering using Peck (1) against Sandshrew (0)...
+     Nidorino (1)'s highest damaging move vs Sandshrew: Double Kick
+[AI] Nidorino (1) is considering using Pluck (1) against Sandshrew (0)...
+     Nidorino (1)'s highest damaging move vs Sandshrew: Double Kick
+[AI] Nidorino (1) is considering using Double Kick (1) against Sandshrew (0)...
+     Nidorino (1)'s highest damaging move vs Sandshrew: Double Kick
+      + 20 for fast kill
+[AI] Move choices for Nidorino (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   *   0.0% to use Pluck (target 0): score 0
+   * 100.0% to use Double Kick (target 0): score 21
+   => will use Double Kick (target 0)
+
+[Round order] The opposing Nidorino (1), Sandshrew (0)
+
+[Use move] The opposing Nidorino (1) used Double Kick
+"The opposing Nidorino used Double Kick!"
+[HP change] Sandshrew lost 28 HP (33 -> 5)
+[HP change] Sandshrew lost 5 HP (5 -> 0)
+"Sandshrew fainted!"
+"It's super effective!"
+"Hit 2 times!"
+
+[End of round 4]
+"You're in charge, Wynaut!"
+
+===== Round 5 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nidorino (1) is considering using Poison Sting (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Nidorino (1) is considering using Peck (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Nidorino (1) is considering using Pluck (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Nidorino (1) is considering using Double Kick (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Move choices for Nidorino (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] The opposing Nidorino (1), Wynaut (0)
+
+[Use move] The opposing Nidorino (1) used Pluck
+"The opposing Nidorino used Pluck!"
+[HP change] Wynaut lost 16 HP (72 -> 56)
+[Use move] Wynaut (0) used Counter
+"Wynaut used Counter!"
+[HP change] The opposing Nidorino lost 32 HP (58 -> 26)
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Nidorino (1) is considering using Poison Sting (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Nidorino (1) is considering using Peck (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Nidorino (1) is considering using Pluck (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+     + 4 to prioritize highest damaging move
+[AI] Nidorino (1) is considering using Double Kick (1) against Wynaut (0)...
+     Nidorino (1)'s highest damaging move vs Wynaut: Pluck
+[AI] Move choices for Nidorino (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Pluck (target 0): score 5
+   *   0.0% to use Double Kick (target 0): score 0
+   => will use Pluck (target 0)
+
+[Round order] The opposing Nidorino (1), Wynaut (0)
+
+[Use move] The opposing Nidorino (1) used Pluck
+"The opposing Nidorino used Pluck!"
+[HP change] Wynaut lost 16 HP (56 -> 40)
+[Use move] Wynaut (0) used Counter
+"Wynaut used Counter!"
+[HP change] The opposing Nidorino lost 26 HP (26 -> 0)
+"The opposing Nidorino fainted!"
+
+===== Player won =====
+
+"You defeated Youngster Josh!"
+"Losing stinks! It's so uncool."
+
+"You got $304 for winning!"
+Roles for KOFFING: [:NONE]
+=====> Nature for Koffing: Modest
+Roles for GRIMER: [:NONE]
+=====> Nature for Grimer: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Rocket Grunt!"
+"Team Rocket Grunt sent out Koffing!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Koffing (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Koffing (1) is considering using Sludge (1) against Noctowl (0)...
+     Koffing (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Koffing (1) is considering using Flame Burst (1) against Noctowl (0)...
+     Koffing (1)'s highest damaging move vs Noctowl: Sludge
+[AI] Move choices for Koffing (1):
+   * 100.0% to use Sludge (target 0): score 5
+   *   0.0% to use Flame Burst (target 0): score 0
+   => will use Sludge (target 0)
+
+[Round order] Noctowl (0), the opposing Koffing (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Koffing lost 29 HP (52 -> 23)
+"It's super effective!"
+[Use move] The opposing Koffing (1) used Sludge
+"The opposing Koffing used Sludge!"
+[HP change] Noctowl lost 15 HP (74 -> 59)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Koffing (1) is considering using Sludge (1) against Noctowl (0)...
+     Koffing (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Koffing (1) is considering using Flame Burst (1) against Noctowl (0)...
+     Koffing (1)'s highest damaging move vs Noctowl: Sludge
+[AI] Move choices for Koffing (1):
+   * 100.0% to use Sludge (target 0): score 5
+   *   0.0% to use Flame Burst (target 0): score 0
+   => will use Sludge (target 0)
+
+[Round order] Noctowl (0), the opposing Koffing (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Koffing lost 23 HP (23 -> 0)
+"It's super effective!"
+"The opposing Koffing fainted!"
+
+[End of round 2]
+==============================
+     [Grimer] using Poison Fang vs Noctowl does a max of 27/59 damage
+     [Grimer] using Brick Break vs Noctowl does a max of 26/59 damage
+     Noctowl (0)'s best move: Air Slash for 33/68 damage
+==============================
+     Noctowl (0) speed (36) vs Grimer speed: 21
+[AI] =====> Flags assigned to Grimer:
+
+     [Grimer] final Switch score: 0
+"Team Rocket Grunt sent out Grimer!"
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Grimer (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Grimer (1) is considering using Brick Break (1) against Noctowl (0)...
+     Grimer (1)'s highest damaging move vs Noctowl: Poison Fang
+[AI] Move choices for Grimer (1):
+   * 100.0% to use Poison Fang (target 0): score 5
+   *   0.0% to use Brick Break (target 0): score 0
+   => will use Poison Fang (target 0)
+
+[Round order] Noctowl (0), the opposing Grimer (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Grimer lost 28 HP (68 -> 40)
+[Use move] The opposing Grimer (1) used Poison Fang
+"The opposing Grimer used Poison Fang!"
+[HP change] Noctowl lost 35 HP (59 -> 24)
+"A critical hit!"
+"Noctowl was badly poisoned!"
+[Item/ability triggered] The opposing Grimer's King's Rock/Razor Fang or Stench
+
+[End of round 3]
+[HP change] Noctowl lost 4 HP (24 -> 20)
+"Noctowl was hurt by poison!"
+
+===== Round 4 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Grimer (1)'s highest damaging move vs Noctowl: Poison Fang
+      + 17 for slow kill
+[AI] Grimer (1) is considering using Brick Break (1) against Noctowl (0)...
+     Grimer (1)'s highest damaging move vs Noctowl: Poison Fang
+      + 17 for slow kill
+[AI] Move choices for Grimer (1):
+   *  50.0% to use Poison Fang (target 0): score 18
+   *  50.0% to use Brick Break (target 0): score 18
+   => will use Brick Break (target 0)
+
+[Round order] Noctowl (0), the opposing Grimer (1)
+
+"OK, Noctowl! Come back!"
+"Go for it, Wooper!"
+[Use move] The opposing Grimer (1) used Brick Break
+"The opposing Grimer used Brick Break!"
+[HP change] Wooper lost 14 HP (55 -> 41)
+"It's not very effective..."
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Grimer (1) is considering using Poison Fang (1) against Wooper (0)...
+     Grimer (1)'s highest damaging move vs Wooper: Brick Break
+[AI] Grimer (1) is considering using Brick Break (1) against Wooper (0)...
+     Grimer (1)'s highest damaging move vs Wooper: Brick Break
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Grimer (1):
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Brick Break (target 0): score 5
+   => will use Brick Break (target 0)
+
+[Round order] The opposing Grimer (1), Wooper (0)
+
+[Use move] The opposing Grimer (1) used Brick Break
+"The opposing Grimer used Brick Break!"
+[HP change] Wooper lost 12 HP (41 -> 29)
+"It's not very effective..."
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Grimer lost 40 HP (40 -> 0)
+"It's super effective!"
+"The opposing Grimer fainted!"
+
+===== Player won =====
+
+"You defeated Team Rocket Grunt!"
+"I'm steamed!"
+
+"You got $640 for winning!"
+Roles for MAREANIE: [:NONE]
+=====> Nature for Mareanie: Modest
+Roles for WHIRLIPEDE: [:PHYSICALBREAKER]
+=====> Nature for Whirlipede: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Rocket Grunt!"
+"Team Rocket Grunt sent out Mareanie!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Mareanie (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Mareanie (1) is considering using Baneful Bunker (4)...
+[AI] Mareanie (1) is considering using Venoshock (1) against Noctowl (0)...
+     Mareanie (1)'s highest damaging move vs Noctowl: Venoshock
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mareanie (1):
+   *   0.0% to use Baneful Bunker: score 0
+   * 100.0% to use Venoshock (target 0): score 5
+   => will use Venoshock (target 0)
+
+[Round order] Noctowl (0), the opposing Mareanie (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Mareanie lost 31 HP (53 -> 22)
+"It's super effective!"
+[Use move] The opposing Mareanie (1) used Venoshock
+"The opposing Mareanie used Venoshock!"
+[HP change] Noctowl lost 12 HP (74 -> 62)
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Mareanie (1) is considering using Baneful Bunker (4)...
+[AI] Mareanie (1) is considering using Venoshock (1) against Noctowl (0)...
+     Mareanie (1)'s highest damaging move vs Noctowl: Venoshock
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Mareanie (1):
+   *   0.0% to use Baneful Bunker: score 0
+   * 100.0% to use Venoshock (target 0): score 5
+   => will use Venoshock (target 0)
+
+[Round order] Noctowl (0), the opposing Mareanie (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Mareanie lost 22 HP (22 -> 0)
+"It's super effective!"
+"The opposing Mareanie fainted!"
+
+[End of round 2]
+==============================
+     [Whirlipede] using Bug Bite vs Noctowl does a max of 12/62 damage
+     [Whirlipede] using Poison Tail vs Noctowl does a max of 21/62 damage
+     [Whirlipede] using Rollout vs Noctowl does a max of 32/62 damage
+     Noctowl (0)'s best move: Air Slash for 51/52 damage
+==============================
+     Noctowl (0) speed (36) vs Whirlipede speed: 30
+[AI] =====> Flags assigned to Whirlipede:
+==========> target_fast_2hko: true
+
+     [Whirlipede] -  5: for target having fast 2HKO and us having no kill
+     [Whirlipede] final Switch score: -5
+"Team Rocket Grunt sent out Whirlipede!"
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Whirlipede (1) is considering using Bug Bite (1) against Noctowl (0)...
+     Whirlipede (1)'s highest damaging move vs Noctowl: Rollout
+[AI] Whirlipede (1) is considering using Poison Tail (1) against Noctowl (0)...
+     Whirlipede (1)'s highest damaging move vs Noctowl: Rollout
+[AI] Whirlipede (1) is considering using Rollout (1) against Noctowl (0)...
+     Whirlipede (1)'s highest damaging move vs Noctowl: Rollout
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Whirlipede (1):
+   *   0.0% to use Bug Bite (target 0): score 0
+   *   0.0% to use Poison Tail (target 0): score 0
+   * 100.0% to use Rollout (target 0): score 5
+   => will use Rollout (target 0)
+
+[Round order] Noctowl (0), the opposing Whirlipede (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Whirlipede lost 47 HP (52 -> 5)
+"It's super effective!"
+[Use move] The opposing Whirlipede (1) used Rollout
+"The opposing Whirlipede used Rollout!"
+[HP change] Noctowl lost 17 HP (62 -> 45)
+"It's super effective!"
+
+[End of round 3]
+[Ability triggered] The opposing Whirlipede's Speed Boost
+[Stat change] The opposing Whirlipede's Speed changed by +1 (0 -> 1)
+"The opposing Whirlipede's Speed rose!"
+
+===== Round 4 =====
+
+[Command phase] The opposing Whirlipede (1) is forced to use a multi-turn move
+[Round order] The opposing Whirlipede (1), Noctowl (0)
+
+[Use move] The opposing Whirlipede (1) used Rollout
+"The opposing Whirlipede used Rollout!"
+[Move failed] Failed pbAccuracyCheck
+"The opposing Whirlipede's attack missed!"
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Whirlipede lost 5 HP (5 -> 0)
+"It's super effective!"
+"The opposing Whirlipede fainted!"
+
+===== Player won =====
+
+"You defeated Team Rocket Grunt!"
+"So, you are good..."
+
+"You got $640 for winning!"
+Roles for VAROOM: [:NONE]
+=====> Nature for Varoom: Adamant
+Roles for CROAGUNK: [:SPECIALBREAKER]
+=====> Nature for Croagunk: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Rocket Grunt!"
+"Team Rocket Grunt sent out Varoom!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the opposing Varoom (1)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Varoom (1) is considering using Metal Claw (1) against Noctowl (0)...
+     Varoom (1)'s highest damaging move vs Noctowl: Poison Fang
+[AI] Varoom (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Varoom (1)'s highest damaging move vs Noctowl: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   => will use Poison Fang (target 0)
+
+[Round order] Noctowl (0), the opposing Varoom (1)
+
+"Noctowl, switch out! Come back!"
+"You're in charge, Wynaut!"
+[Use move] The opposing Varoom (1) used Poison Fang
+"The opposing Varoom used Poison Fang!"
+[HP change] Wynaut lost 22 HP (72 -> 50)
+"Wynaut was badly poisoned!"
+
+[End of round 1]
+[HP change] Wynaut lost 4 HP (50 -> 46)
+"Wynaut was hurt by poison!"
+
+===== Round 2 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Metal Claw (1) against Wynaut (0)...
+     Varoom (1)'s highest damaging move vs Wynaut: Poison Fang
+[AI] Varoom (1) is considering using Poison Fang (1) against Wynaut (0)...
+     Varoom (1)'s highest damaging move vs Wynaut: Poison Fang
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Varoom (1):
+   *   0.0% to use Metal Claw (target 0): score 0
+   * 100.0% to use Poison Fang (target 0): score 5
+   => will use Poison Fang (target 0)
+
+[Round order] The opposing Varoom (1), Wynaut (0)
+
+[Use move] The opposing Varoom (1) used Poison Fang
+"The opposing Varoom used Poison Fang!"
+[HP change] Wynaut lost 23 HP (46 -> 23)
+[Use move] Wynaut (0) used Counter
+"Wynaut used Counter!"
+[HP change] The opposing Varoom lost 46 HP (54 -> 8)
+
+[End of round 2]
+[HP change] Wynaut lost 9 HP (23 -> 14)
+"Wynaut was hurt by poison!"
+
+===== Round 3 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Metal Claw (1) against Wynaut (0)...
+     Varoom (1)'s highest damaging move vs Wynaut: Poison Fang
+      + 20 for fast kill
+[AI] Varoom (1) is considering using Poison Fang (1) against Wynaut (0)...
+     Varoom (1)'s highest damaging move vs Wynaut: Poison Fang
+      + 20 for fast kill
+[AI] Move choices for Varoom (1):
+   *  50.0% to use Metal Claw (target 0): score 21
+   *  50.0% to use Poison Fang (target 0): score 21
+   => will use Metal Claw (target 0)
+
+[Round order] The opposing Varoom (1), Wynaut (0)
+
+"Good job, Wynaut! Come back!"
+"Your opponent's weak! Get 'em, Wooper!"
+[Use move] The opposing Varoom (1) used Metal Claw
+"The opposing Varoom used Metal Claw!"
+[HP change] Wooper lost 27 HP (55 -> 28)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Varoom (1) is considering using Metal Claw (1) against Wooper (0)...
+     Varoom (1)'s highest damaging move vs Wooper: Metal Claw
+     + 4 to prioritize highest damaging move
+[AI] Varoom (1) is considering using Poison Fang (1) against Wooper (0)...
+     Varoom (1)'s highest damaging move vs Wooper: Metal Claw
+[AI] Move choices for Varoom (1):
+   * 100.0% to use Metal Claw (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   => will use Metal Claw (target 0)
+
+[Round order] The opposing Varoom (1), Wooper (0)
+
+[Use move] The opposing Varoom (1) used Metal Claw
+"The opposing Varoom used Metal Claw!"
+[HP change] Wooper lost 26 HP (28 -> 2)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Varoom lost 8 HP (8 -> 0)
+"It's super effective!"
+"The opposing Varoom fainted!"
+
+[End of round 4]
+==============================
+     [Croagunk] using Sludge vs Wooper does a max of 12/2 damage
+     [Croagunk] using Vacuum Wave vs Wooper does a max of 16/2 damage
+     [Croagunk] using Mud Bomb vs Wooper does a max of 64/2 damage
+     Wooper (0)'s best move: Bulldoze for 45/55 damage
+==============================
+     Wooper (0) speed (15) vs Croagunk speed: 31
+[AI] =====> Flags assigned to Croagunk:
+==========> fast_kill: true
+
+     [Croagunk] + 12: for fast kill
+     [Croagunk] final Switch score: 12
+"Team Rocket Grunt sent out Croagunk!"
+
+===== Round 5 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Croagunk (1) is considering using Sludge (1) against Wooper (0)...
+     Croagunk (1)'s highest damaging move vs Wooper: Mud Bomb
+      + 20 for fast kill
+[AI] Croagunk (1) is considering using Vacuum Wave (1) against Wooper (0)...
+     Croagunk (1)'s highest damaging move vs Wooper: Mud Bomb
+      + 20 for fast kill
+[AI] Croagunk (1) is considering using Mud Bomb (1) against Wooper (0)...
+     Croagunk (1)'s highest damaging move vs Wooper: Mud Bomb
+      + 20 for fast kill
+[AI] Move choices for Croagunk (1):
+   *  33.3% to use Sludge (target 0): score 21
+   *  33.3% to use Vacuum Wave (target 0): score 21
+   *  33.3% to use Mud Bomb (target 0): score 21
+   => will use Mud Bomb (target 0)
+
+[Round order] The opposing Croagunk (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"You're in charge, Noctowl!"
+[Use move] The opposing Croagunk (1) used Mud Bomb
+"The opposing Croagunk used Mud Bomb!"
+[Target immune] Noctowl's type immunity
+"It doesn't affect Noctowl..."
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Croagunk (1) is considering using Sludge (1) against Noctowl (0)...
+     Croagunk (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Croagunk (1) is considering using Vacuum Wave (1) against Noctowl (0)...
+     Croagunk (1)'s highest damaging move vs Noctowl: Sludge
+     + 9 to get a last ditch hit off.
+[AI] Croagunk (1) is considering using Mud Bomb (1) against Noctowl (0)...
+     Croagunk (1)'s highest damaging move vs Noctowl: Sludge
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Move choices for Croagunk (1):
+   *   0.0% to use Sludge (target 0): score 0
+   * 100.0% to use Vacuum Wave (target 0): score 10
+   *   0.0% to use Mud Bomb (target 0): score 0
+   => will use Vacuum Wave (target 0)
+
+[Round order] The opposing Croagunk (1), Noctowl (0)
+
+[Use move] The opposing Croagunk (1) used Vacuum Wave
+"The opposing Croagunk used Vacuum Wave!"
+[HP change] Noctowl lost 10 HP (45 -> 35)
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Croagunk lost 55 HP (55 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Croagunk fainted!"
+
+===== Player won =====
+
+"You defeated Team Rocket Grunt!"
+"I blew it!"
+
+"You got $640 for winning!"
+Roles for SNEASEL: [:NONE]
+=====> Nature for Sneasel: Adamant
+Roles for CLODSIRE: [:SPEEDCONTROL]
+=====> Nature for Clodsire: Adamant
+Roles for IVYSAUR: [:NONE]
+=====> Nature for Ivysaur: Modest
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Team Rocket Grunt!"
+"Team Rocket Grunt sent out Sneasel!"
+"Go! Noctowl!"
+[Round order] The opposing Sneasel (1), Noctowl (0)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Sneasel (1) is considering using Rock Smash (1) against Noctowl (0)...
+     Sneasel (1)'s highest damaging move vs Noctowl: Poison Tail
+[AI] Sneasel (1) is considering using Poison Tail (1) against Noctowl (0)...
+     Sneasel (1)'s highest damaging move vs Noctowl: Poison Tail
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Rock Smash (target 0): score 0
+   * 100.0% to use Poison Tail (target 0): score 5
+   => will use Poison Tail (target 0)
+
+[Round order] The opposing Sneasel (1), Noctowl (0)
+
+[Use move] The opposing Sneasel (1) used Poison Tail
+"The opposing Sneasel used Poison Tail!"
+[HP change] Noctowl lost 26 HP (74 -> 48)
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Sneasel lost 43 HP (58 -> 15)
+"It's super effective!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Sneasel (1) is considering using Rock Smash (1) against Noctowl (0)...
+     Sneasel (1)'s highest damaging move vs Noctowl: Poison Tail
+[AI] Sneasel (1) is considering using Poison Tail (1) against Noctowl (0)...
+     Sneasel (1)'s highest damaging move vs Noctowl: Poison Tail
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Sneasel (1):
+   *   0.0% to use Rock Smash (target 0): score 0
+   * 100.0% to use Poison Tail (target 0): score 5
+   => will use Poison Tail (target 0)
+
+[Round order] The opposing Sneasel (1), Noctowl (0)
+
+[Use move] The opposing Sneasel (1) used Poison Tail
+"The opposing Sneasel used Poison Tail!"
+[HP change] Noctowl lost 39 HP (48 -> 9)
+"A critical hit!"
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Sneasel lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Sneasel fainted!"
+
+[End of round 2]
+==============================
+     [Clodsire] using Poison Tail vs Noctowl does a max of 25/9 damage
+     Noctowl (0)'s best move: Night Shade for 21/88 damage
+==============================
+     Noctowl (0) speed (36) vs Clodsire speed: 19
+[AI] =====> Flags assigned to Clodsire:
+==========> slow_kill: true
+
+     [Clodsire] +  9: for slow kill
+     [Clodsire] final Switch score: 9
+==============================
+     [Ivysaur] using Mega Drain vs Noctowl does a max of 7/9 damage
+     [Ivysaur] using Sludge vs Noctowl does a max of 21/9 damage
+     Noctowl (0)'s best move: Air Slash for 48/60 damage
+==============================
+     Noctowl (0) speed (36) vs Ivysaur speed: 35
+[AI] =====> Flags assigned to Ivysaur:
+==========> slow_kill: true
+
+     [Ivysaur] +  9: for slow kill
+     [Ivysaur] final Switch score: 9
+"Team Rocket Grunt sent out Clodsire!"
+
+===== Round 3 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Tail (1) against Noctowl (0)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Yawn (4) against Noctowl (0)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+     move will not affect Noctowl (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Poison Tail (target 0): score 18
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Tail (target 0)
+
+[Round order] Noctowl (0), the opposing Clodsire (1)
+
+"Good job, Noctowl! Come back!"
+"You're in charge, Wynaut!"
+[Use move] The opposing Clodsire (1) used Poison Tail
+"The opposing Clodsire used Poison Tail!"
+[HP change] Wynaut lost 26 HP (72 -> 46)
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Tail (1) against Wynaut (0)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+[AI] Clodsire (1) is considering using Yawn (4) against Wynaut (0)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Clodsire (1):
+   *  50.0% to use Bulldoze: score 5
+   *   0.0% to use Poison Tail (target 0): score 0
+   *  50.0% to use Yawn (target 0): score 5
+   => will use Bulldoze
+
+[Round order] The opposing Clodsire (1), Wynaut (0)
+
+[Use move] The opposing Clodsire (1) used Bulldoze
+"The opposing Clodsire used Bulldoze!"
+[HP change] Wynaut lost 32 HP (46 -> 14)
+[Stat change] Wynaut's Speed changed by -1 (0 -> -1)
+"Wynaut's Speed fell!"
+[Use move] Wynaut (0) used Counter
+"Wynaut used Counter!"
+[HP change] The opposing Clodsire lost 64 HP (88 -> 24)
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Wynaut (0): -1
+     Threat Score for Wynaut (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+      + 20 for fast kill
+[AI] Clodsire (1) is considering using Poison Tail (1) against Wynaut (0)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+      + 20 for fast kill
+[AI] Clodsire (1) is considering using Yawn (4) against Wynaut (0)...
+     Clodsire (1)'s highest damaging move vs Wynaut: Bulldoze
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Clodsire (1):
+   *  50.0% to use Bulldoze: score 21
+   *  50.0% to use Poison Tail (target 0): score 21
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Clodsire (1), Wynaut (0)
+
+"Good job, Wynaut! Come back!"
+"Just a little more! Hang in there, Sandshrew!"
+[Use move] The opposing Clodsire (1) used Bulldoze
+"The opposing Clodsire used Bulldoze!"
+[HP change] Sandshrew lost 41 HP (53 -> 12)
+"It's super effective!"
+[Stat change] Sandshrew's Speed changed by -1 (0 -> -1)
+"Sandshrew's Speed fell!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Sandshrew (0): -1
+     Threat Score for Sandshrew (0): -2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Sandshrew: Bulldoze
+      + 20 for fast kill
+[AI] Clodsire (1) is considering using Poison Tail (1) against Sandshrew (0)...
+     Clodsire (1)'s highest damaging move vs Sandshrew: Bulldoze
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Yawn (4) against Sandshrew (0)...
+     Clodsire (1)'s highest damaging move vs Sandshrew: Bulldoze
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Bulldoze: score 21
+   *   0.0% to use Poison Tail (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Bulldoze
+
+[Round order] The opposing Clodsire (1), Sandshrew (0)
+
+[Use move] The opposing Clodsire (1) used Bulldoze
+"The opposing Clodsire used Bulldoze!"
+[HP change] Sandshrew lost 12 HP (12 -> 0)
+"It's super effective!"
+"Sandshrew fainted!"
+
+[End of round 6]
+"Just a little more! Hang in there, Noctowl!"
+
+===== Round 7 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+     move will not affect Noctowl (0)
+     -  1: move will fail
+[AI] Clodsire (1) is considering using Poison Tail (1) against Noctowl (0)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+      + 17 for slow kill
+[AI] Clodsire (1) is considering using Yawn (4) against Noctowl (0)...
+     Clodsire (1)'s highest damaging move vs Noctowl: Poison Tail
+     move will not affect Noctowl (0)
+     -  4: move will fail
+[AI] Move choices for Clodsire (1):
+   *   0.0% to use Bulldoze: score 0
+   * 100.0% to use Poison Tail (target 0): score 18
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Poison Tail (target 0)
+
+[Round order] Noctowl (0), the opposing Clodsire (1)
+
+[Use move] Noctowl (0) used Confusion
+"Noctowl used Confusion!"
+[HP change] The opposing Clodsire lost 18 HP (24 -> 6)
+"It's super effective!"
+[Use move] The opposing Clodsire (1) used Poison Tail
+"The opposing Clodsire used Poison Tail!"
+[HP change] Noctowl lost 9 HP (9 -> 0)
+"Noctowl fainted!"
+
+[End of round 7]
+"Your opponent's weak! Get 'em, Trubbish!"
+
+===== Round 8 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Clodsire (1) is considering using Bulldoze (1)...
+     Clodsire (1)'s highest damaging move vs Trubbish: Bulldoze
+     + 4 to prioritize highest damaging move
+[AI] Clodsire (1) is considering using Poison Tail (1) against Trubbish (0)...
+     Clodsire (1)'s highest damaging move vs Trubbish: Bulldoze
+[AI] Clodsire (1) is considering using Yawn (4) against Trubbish (0)...
+     Clodsire (1)'s highest damaging move vs Trubbish: Bulldoze
+     - 3 because this will be pointless
+[AI] Move choices for Clodsire (1):
+   * 100.0% to use Bulldoze: score 5
+   *   0.0% to use Poison Tail (target 0): score 0
+   *   0.0% to use Yawn (target 0): score 0
+   => will use Bulldoze
+
+[Round order] Trubbish (0), the opposing Clodsire (1)
+
+[Use move] Trubbish (0) used Bullet Seed
+"Trubbish used Bullet Seed!"
+[HP change] The opposing Clodsire lost 6 HP (6 -> 0)
+"The opposing Clodsire fainted!"
+"Hit 1 time!"
+
+[End of round 8]
+==============================
+     [Ivysaur] using Mega Drain vs Trubbish does a max of 10/58 damage
+     [Ivysaur] using Sludge vs Trubbish does a max of 16/58 damage
+     Trubbish (0)'s best move: Sludge for 13/60 damage
+==============================
+     Trubbish (0) speed (38) vs Ivysaur speed: 35
+[AI] =====> Flags assigned to Ivysaur:
+==========> outdamage: true
+
+     [Ivysaur] +  3: for outdamage
+     [Ivysaur] final Switch score: 3
+"Team Rocket Grunt sent out Ivysaur!"
+
+===== Round 9 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *  50.0% to use Sludge (target 0): score 5
+   *  50.0% to use Leech Seed (target 0): score 5
+   => will use Leech Seed (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Ivysaur lost 13 HP (60 -> 47)
+[Use move] The opposing Ivysaur (1) used Leech Seed
+"The opposing Ivysaur used Leech Seed!"
+"Trubbish was seeded!"
+
+[End of round 9]
+[HP change] Trubbish lost 7 HP (58 -> 51)
+"Trubbish's health is sapped by Leech Seed!"
+[HP change] The opposing Ivysaur gained 7 HP (47 -> 54)
+
+===== Round 10 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     move will not affect Trubbish (0)
+     -  4: move will fail
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Sludge (target 0): score 5
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Sludge (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+"Trubbish, come back!"
+"Go for it, Wooper!"
+[Use move] The opposing Ivysaur (1) used Sludge
+"The opposing Ivysaur used Sludge!"
+[HP change] Wooper lost 14 HP (55 -> 41)
+"It's not very effective..."
+
+[End of round 10]
+
+===== Round 11 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Sludge (1) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Ivysaur (1):
+   *  50.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Sludge (target 0): score 0
+   *  50.0% to use Leech Seed (target 0): score 5
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Ivysaur (1), Wooper (0)
+
+[Use move] The opposing Ivysaur (1) used Mega Drain
+"The opposing Ivysaur used Mega Drain!"
+[HP change] Wooper lost 35 HP (41 -> 6)
+"Wooper had its energy drained!"
+[HP change] The opposing Ivysaur gained 6 HP (54 -> 60)
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Ivysaur lost 17 HP (60 -> 43)
+[Stat change] The opposing Ivysaur's Speed changed by -1 (0 -> -1)
+"The opposing Ivysaur's Speed fell!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+      + 20 for fast kill
+[AI] Ivysaur (1) is considering using Sludge (1) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+      + 20 for fast kill
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Wooper (0)...
+     Ivysaur (1)'s highest damaging move vs Wooper: Mega Drain
+     + 1 to make equal to highest damaging move
+     - 4 because we see kill or target sees 2HKO
+[AI] Move choices for Ivysaur (1):
+   *  50.0% to use Mega Drain (target 0): score 21
+   *  50.0% to use Sludge (target 0): score 21
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Ivysaur (1), Wooper (0)
+
+[Use move] The opposing Ivysaur (1) used Mega Drain
+"The opposing Ivysaur used Mega Drain!"
+[HP change] Wooper lost 6 HP (6 -> 0)
+"Wooper fainted!"
+"Wooper had its energy drained!"
+[HP change] The opposing Ivysaur gained 3 HP (43 -> 46)
+
+[End of round 12]
+"Go for it, Trubbish!"
+
+===== Round 13 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *  50.0% to use Sludge (target 0): score 5
+   *  50.0% to use Leech Seed (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+[Use move] Trubbish (0) used Gastro Acid
+"Trubbish used Gastro Acid!"
+"The opposing Ivysaur's Ability was suppressed!"
+[Use move] The opposing Ivysaur (1) used Sludge
+"The opposing Ivysaur used Sludge!"
+[HP change] Trubbish lost 15 HP (51 -> 36)
+"It's not very effective..."
+
+[End of round 13]
+
+===== Round 14 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *  50.0% to use Sludge (target 0): score 5
+   *  50.0% to use Leech Seed (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Ivysaur lost 12 HP (46 -> 34)
+[Use move] The opposing Ivysaur (1) used Sludge
+"The opposing Ivysaur used Sludge!"
+[HP change] Trubbish lost 14 HP (36 -> 22)
+"It's not very effective..."
+
+[End of round 14]
+
+===== Round 15 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     + 1 to make equal to highest damaging move
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   *  50.0% to use Sludge (target 0): score 5
+   *  50.0% to use Leech Seed (target 0): score 5
+   => will use Sludge (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Ivysaur lost 13 HP (34 -> 21)
+[Use move] The opposing Ivysaur (1) used Sludge
+"The opposing Ivysaur used Sludge!"
+[HP change] Trubbish lost 14 HP (22 -> 8)
+"It's not very effective..."
+
+[End of round 15]
+
+===== Round 16 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+      + 17 for slow kill
+[AI] Ivysaur (1) is considering using Sludge (1) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+      + 17 for slow kill
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Trubbish (0)...
+     Ivysaur (1)'s highest damaging move vs Trubbish: Sludge
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Ivysaur (1):
+   *  50.0% to use Mega Drain (target 0): score 18
+   *  50.0% to use Sludge (target 0): score 18
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] Trubbish (0), the opposing Ivysaur (1)
+
+[Use move] Trubbish (0) used Sludge
+"Trubbish used Sludge!"
+[HP change] The opposing Ivysaur lost 13 HP (21 -> 8)
+[Use move] The opposing Ivysaur (1) used Mega Drain
+"The opposing Ivysaur used Mega Drain!"
+[HP change] Trubbish lost 8 HP (8 -> 0)
+"It's not very effective..."
+"Trubbish fainted!"
+"Trubbish had its energy drained!"
+[HP change] The opposing Ivysaur gained 4 HP (8 -> 12)
+
+[End of round 16]
+"Your opponent's weak! Get 'em, Wynaut!"
+
+===== Round 17 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Wynaut (0)...
+     Ivysaur (1)'s highest damaging move vs Wynaut: Sludge
+      + 20 for fast kill
+[AI] Ivysaur (1) is considering using Sludge (1) against Wynaut (0)...
+     Ivysaur (1)'s highest damaging move vs Wynaut: Sludge
+      + 20 for fast kill
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Wynaut (0)...
+     Ivysaur (1)'s highest damaging move vs Wynaut: Sludge
+     - 3 because this will be pointless
+     - 0 because we see kill or target sees 2HKO
+[AI] Move choices for Ivysaur (1):
+   *  50.0% to use Mega Drain (target 0): score 21
+   *  50.0% to use Sludge (target 0): score 21
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Ivysaur (1), Wynaut (0)
+
+[Use move] The opposing Ivysaur (1) used Mega Drain
+"The opposing Ivysaur used Mega Drain!"
+[HP change] Wynaut lost 14 HP (14 -> 0)
+"Wynaut fainted!"
+"Wynaut had its energy drained!"
+[HP change] The opposing Ivysaur gained 7 HP (12 -> 19)
+
+[End of round 17]
+"Just a little more! Hang in there, Noctowl!"
+
+===== Round 18 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): 5
+     Checking flags...     Flags found.
+     End flag search
+[AI] Ivysaur (1) is considering using Mega Drain (1) against Noctowl (0)...
+     Ivysaur (1)'s highest damaging move vs Noctowl: Sludge
+[AI] Ivysaur (1) is considering using Sludge (1) against Noctowl (0)...
+     Ivysaur (1)'s highest damaging move vs Noctowl: Sludge
+     + 4 to prioritize highest damaging move
+[AI] Ivysaur (1) is considering using Leech Seed (4) against Noctowl (0)...
+     Ivysaur (1)'s highest damaging move vs Noctowl: Sludge
+     - 3 because this will be pointless
+[AI] Move choices for Ivysaur (1):
+   *   0.0% to use Mega Drain (target 0): score 0
+   * 100.0% to use Sludge (target 0): score 5
+   *   0.0% to use Leech Seed (target 0): score 0
+   => will use Sludge (target 0)
+
+[Round order] Noctowl (0), the opposing Ivysaur (1)
+
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Ivysaur lost 19 HP (19 -> 0)
+"It's super effective!"
+"The opposing Ivysaur fainted!"
+
+===== Player won =====
+
+"You defeated Team Rocket Grunt!"
+"Urgh! Now I'm mad!"
+
+"You got $640 for winning!"
+Roles for PAWMO: [:NONE]
+=====> Nature for Pawmo: Adamant
+Roles for VOLTORB: [:NONE]
+=====> Nature for Voltorb: Modest
+Roles for GOLBAT: [:PHYSICALBREAKER]
+=====> Nature for Golbat: Adamant
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Super Nerd Miguel!"
+"Super Nerd Miguel sent out Pawmo!"
+"Go! Noctowl!"
+[Round order] The opposing Pawmo (1), Noctowl (0)
+
+===== Round 1 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pawmo (1) is considering using Mach Punch (1) against Noctowl (0)...
+     Pawmo (1)'s highest damaging move vs Noctowl: Spark
+[AI] Pawmo (1) is considering using Spark (1) against Noctowl (0)...
+     Pawmo (1)'s highest damaging move vs Noctowl: Spark
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Pawmo (1):
+   *   0.0% to use Mach Punch (target 0): score 0
+   * 100.0% to use Spark (target 0): score 5
+   => will use Spark (target 0)
+
+[Round order] The opposing Pawmo (1), Noctowl (0)
+
+"Noctowl, switch out! Come back!"
+"You're in charge, Wooper!"
+[Use move] The opposing Pawmo (1) used Spark
+"The opposing Pawmo used Spark!"
+[Target immune] Wooper's type immunity
+"It doesn't affect Wooper..."
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (1) is considering using Mach Punch (1) against Wooper (0)...
+     Pawmo (1)'s highest damaging move vs Wooper: Mach Punch
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (1) is considering using Spark (1) against Wooper (0)...
+     Pawmo (1)'s highest damaging move vs Wooper: Mach Punch
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Pawmo (1):
+   * 100.0% to use Mach Punch (target 0): score 5
+   *   0.0% to use Spark (target 0): score 0
+   => will use Mach Punch (target 0)
+
+[Round order] The opposing Pawmo (1), Wooper (0)
+
+[Use move] The opposing Pawmo (1) used Mach Punch
+"The opposing Pawmo used Mach Punch!"
+[HP change] Wooper lost 11 HP (55 -> 44)
+"It's not very effective..."
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Pawmo lost 42 HP (60 -> 18)
+"It's super effective!"
+[Stat change] The opposing Pawmo's Speed changed by -1 (0 -> -1)
+"The opposing Pawmo's Speed fell!"
+
+[End of round 2]
+
+===== Round 3 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Pawmo (1) is considering using Mach Punch (1) against Wooper (0)...
+     Pawmo (1)'s highest damaging move vs Wooper: Mach Punch
+     + 4 to prioritize highest damaging move
+[AI] Pawmo (1) is considering using Spark (1) against Wooper (0)...
+     Pawmo (1)'s highest damaging move vs Wooper: Mach Punch
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Move choices for Pawmo (1):
+   * 100.0% to use Mach Punch (target 0): score 5
+   *   0.0% to use Spark (target 0): score 0
+   => will use Mach Punch (target 0)
+
+[Round order] The opposing Pawmo (1), Wooper (0)
+
+[Use move] The opposing Pawmo (1) used Mach Punch
+"The opposing Pawmo used Mach Punch!"
+[HP change] Wooper lost 10 HP (44 -> 34)
+"It's not very effective..."
+[Use move] Wooper (0) used Bulldoze
+"Wooper used Bulldoze!"
+[HP change] The opposing Pawmo lost 18 HP (18 -> 0)
+"It's super effective!"
+"The opposing Pawmo fainted!"
+
+[End of round 3]
+     move will not affect Wooper (0)
+==============================
+     [Voltorb] using Mega Drain vs Wooper does a max of 30/34 damage
+     [Voltorb] using Self-Destruct vs Wooper does a max of 44/34 damage
+     Wooper (0)'s best move: Poison Tail for 33/54 damage
+==============================
+     Wooper (0) speed (15) vs Voltorb speed: 53
+[AI] =====> Flags assigned to Voltorb:
+==========> fast_kill: true
+
+     [Voltorb] + 12: for fast kill
+     [Voltorb] final Switch score: 12
+==============================
+     [Golbat] using Wing Attack vs Wooper does a max of 36/34 damage
+     [Golbat] using Poison Fang vs Wooper does a max of 7/34 damage
+     [Golbat] using Bite vs Wooper does a max of 24/34 damage
+     Wooper (0)'s best move: Poison Tail for 7/69 damage
+==============================
+     Wooper (0) speed (15) vs Golbat speed: 49
+[AI] =====> Flags assigned to Golbat:
+==========> fast_kill: true
+
+     [Golbat] + 12: for fast kill
+     [Golbat] final Switch score: 12
+"Super Nerd Miguel sent out Voltorb!"
+
+===== Round 4 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Wooper (0)...
+     Voltorb (1)'s highest damaging move vs Wooper: Mega Drain
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Voltorb (1) is considering using Mega Drain (1) against Wooper (0)...
+     Voltorb (1)'s highest damaging move vs Wooper: Mega Drain
+     + 4 to prioritize highest damaging move
+[AI] Voltorb (1) is considering using Self-Destruct...
+     +  1: move will fail
+[AI] Move choices for Voltorb (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Mega Drain (target 0): score 5
+   *   0.0% to use Self-Destruct: score 0
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Voltorb (1), Wooper (0)
+
+[Use move] The opposing Voltorb (1) used Mega Drain
+"The opposing Voltorb used Mega Drain!"
+[HP change] Wooper lost 27 HP (34 -> 7)
+"Wooper had its energy drained!"
+[Use move] Wooper (0) used Poison Tail
+"Wooper used Poison Tail!"
+[HP change] The opposing Voltorb lost 29 HP (54 -> 25)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Wooper (0): 0
+     Threat Score for Wooper (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Wooper (0)...
+     Voltorb (1)'s highest damaging move vs Wooper: Mega Drain
+     move will not affect Wooper (0)
+     -  1: move will fail
+[AI] Voltorb (1) is considering using Mega Drain (1) against Wooper (0)...
+     Voltorb (1)'s highest damaging move vs Wooper: Mega Drain
+      + 20 for fast kill
+[AI] Voltorb (1) is considering using Self-Destruct...
+     +  1: move will fail
+[AI] Move choices for Voltorb (1):
+   *   0.0% to use Shock Wave (target 0): score 0
+   * 100.0% to use Mega Drain (target 0): score 21
+   *   0.0% to use Self-Destruct: score 0
+   => will use Mega Drain (target 0)
+
+[Round order] The opposing Voltorb (1), Wooper (0)
+
+"Good job, Wooper! Come back!"
+"Just a little more! Hang in there, Trubbish!"
+[Use move] The opposing Voltorb (1) used Mega Drain
+"The opposing Voltorb used Mega Drain!"
+[HP change] Trubbish lost 8 HP (58 -> 50)
+"It's not very effective..."
+"Trubbish had its energy drained!"
+[HP change] The opposing Voltorb gained 4 HP (25 -> 29)
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Trubbish (0)...
+     Voltorb (1)'s highest damaging move vs Trubbish: Shock Wave
+     + 4 to prioritize highest damaging move
+[AI] Voltorb (1) is considering using Mega Drain (1) against Trubbish (0)...
+     Voltorb (1)'s highest damaging move vs Trubbish: Shock Wave
+[AI] Voltorb (1) is considering using Self-Destruct (1)...
+     Voltorb (1)'s highest damaging move vs Trubbish: Shock Wave
+[AI] Move choices for Voltorb (1):
+   * 100.0% to use Shock Wave (target 0): score 5
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Self-Destruct: score 0
+   => will use Shock Wave (target 0)
+
+[Round order] The opposing Voltorb (1), Trubbish (0)
+
+"Trubbish, switch out! Come back!"
+"Go for it, Sandshrew!"
+[Use move] The opposing Voltorb (1) used Shock Wave
+"The opposing Voltorb used Shock Wave!"
+[HP change] Sandshrew lost 32 HP (53 -> 21)
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Voltorb (1) is considering using Shock Wave (1) against Sandshrew (0)...
+     Voltorb (1)'s highest damaging move vs Sandshrew: Shock Wave
+      + 20 for fast kill
+[AI] Voltorb (1) is considering using Mega Drain (1) against Sandshrew (0)...
+     Voltorb (1)'s highest damaging move vs Sandshrew: Shock Wave
+[AI] Voltorb (1) is considering using Self-Destruct (1)...
+     Voltorb (1)'s highest damaging move vs Sandshrew: Shock Wave
+     set to - 19 because we have a move that kills other than this
+     set score to 1 if lower than 1 to prevent not using a move
+[AI] Move choices for Voltorb (1):
+   * 100.0% to use Shock Wave (target 0): score 21
+   *   0.0% to use Mega Drain (target 0): score 0
+   *   0.0% to use Self-Destruct: score 0
+   => will use Shock Wave (target 0)
+
+[Round order] Sandshrew (0), the opposing Voltorb (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Voltorb lost 29 HP (29 -> 0)
+"It's super effective!"
+"The opposing Voltorb fainted!"
+
+[End of round 7]
+==============================
+     [Golbat] using Wing Attack vs Sandshrew does a max of 11/21 damage
+     [Golbat] using Bite vs Sandshrew does a max of 15/21 damage
+     Sandshrew (0)'s best move: Ice Punch for 51/69 damage
+==============================
+     Sandshrew (0) speed (27) vs Golbat speed: 49
+[AI] =====> Flags assigned to Golbat:
+==========> fast_2hko: true
+
+     [Golbat] +  6: for fast 2HKO
+     [Golbat] final Switch score: 6
+"Super Nerd Miguel sent out Golbat!"
+
+===== Round 8 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+[AI] Golbat (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Bite (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Bite (target 0): score 5
+   => will use Bite (target 0)
+
+[Round order] The opposing Golbat (1), Sandshrew (0)
+
+[Use move] The opposing Golbat (1) used Bite
+"The opposing Golbat used Bite!"
+[HP change] Sandshrew lost 15 HP (21 -> 6)
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew flinched and couldn't move!"
+[Move failed] Sandshrew flinched
+
+[End of round 8]
+
+===== Round 9 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+      + 20 for fast kill
+[AI] Golbat (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Bite (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+      + 20 for fast kill
+[AI] Move choices for Golbat (1):
+   *  50.0% to use Wing Attack (target 0): score 21
+   *   0.0% to use Poison Fang (target 0): score 0
+   *  50.0% to use Bite (target 0): score 21
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Golbat (1), Sandshrew (0)
+
+"Good job, Sandshrew! Come back!"
+"You're in charge, Wynaut!"
+[Use move] The opposing Golbat (1) used Wing Attack
+"The opposing Golbat used Wing Attack!"
+[HP change] Wynaut lost 32 HP (72 -> 40)
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Wynaut (0)...
+     Golbat (1)'s highest damaging move vs Wynaut: Bite
+[AI] Golbat (1) is considering using Poison Fang (1) against Wynaut (0)...
+     Golbat (1)'s highest damaging move vs Wynaut: Bite
+[AI] Golbat (1) is considering using Bite (1) against Wynaut (0)...
+     Golbat (1)'s highest damaging move vs Wynaut: Bite
+      + 20 for fast kill
+[AI] Move choices for Golbat (1):
+   *   0.0% to use Wing Attack (target 0): score 0
+   *   0.0% to use Poison Fang (target 0): score 0
+   * 100.0% to use Bite (target 0): score 21
+   => will use Bite (target 0)
+
+[Round order] The opposing Golbat (1), Wynaut (0)
+
+[Use move] The opposing Golbat (1) used Bite
+"The opposing Golbat used Bite!"
+[HP change] Wynaut lost 40 HP (40 -> 0)
+"It's super effective!"
+"Wynaut fainted!"
+
+[End of round 10]
+"You're in charge, Noctowl!"
+
+===== Round 11 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+[AI] Golbat (1) is considering using Bite (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+[AI] Move choices for Golbat (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Golbat (1), Noctowl (0)
+
+[Use move] The opposing Golbat (1) used Wing Attack
+"The opposing Golbat used Wing Attack!"
+[HP change] Noctowl lost 32 HP (74 -> 42)
+[Use move] Noctowl (0) used Air Slash
+"Noctowl used Air Slash!"
+[HP change] The opposing Golbat lost 22 HP (69 -> 47)
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+     + 4 to prioritize highest damaging move
+[AI] Golbat (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+[AI] Golbat (1) is considering using Bite (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+[AI] Move choices for Golbat (1):
+   * 100.0% to use Wing Attack (target 0): score 5
+   *   0.0% to use Poison Fang (target 0): score 0
+   *   0.0% to use Bite (target 0): score 0
+   => will use Wing Attack (target 0)
+
+[Round order] The opposing Golbat (1), Noctowl (0)
+
+[Use move] The opposing Golbat (1) used Wing Attack
+"The opposing Golbat used Wing Attack!"
+[HP change] Noctowl lost 31 HP (42 -> 11)
+[Use move] Noctowl (0) used Night Shade
+"Noctowl used Night Shade!"
+[HP change] The opposing Golbat lost 21 HP (47 -> 26)
+
+[End of round 12]
+
+===== Round 13 =====
+
+Set up score for Noctowl (0): 0
+     Threat Score for Noctowl (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+      + 20 for fast kill
+[AI] Golbat (1) is considering using Poison Fang (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+      + 20 for fast kill
+[AI] Golbat (1) is considering using Bite (1) against Noctowl (0)...
+     Golbat (1)'s highest damaging move vs Noctowl: Wing Attack
+      + 20 for fast kill
+[AI] Move choices for Golbat (1):
+   *  33.3% to use Wing Attack (target 0): score 21
+   *  33.3% to use Poison Fang (target 0): score 21
+   *  33.3% to use Bite (target 0): score 21
+   => will use Poison Fang (target 0)
+
+[Round order] The opposing Golbat (1), Noctowl (0)
+
+"Good job, Noctowl! Come back!"
+"Just a little more! Hang in there, Wooper!"
+[Use move] The opposing Golbat (1) used Poison Fang
+"The opposing Golbat used Poison Fang!"
+[HP change] Wooper lost 7 HP (7 -> 0)
+"It's not very effective..."
+"Wooper fainted!"
+
+[End of round 13]
+"Just a little more! Hang in there, Sandshrew!"
+
+===== Round 14 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Golbat (1) is considering using Wing Attack (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+      + 20 for fast kill
+[AI] Golbat (1) is considering using Poison Fang (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+     move will not affect Sandshrew (0)
+     -  1: move will fail
+[AI] Golbat (1) is considering using Bite (1) against Sandshrew (0)...
+     Golbat (1)'s highest damaging move vs Sandshrew: Bite
+      + 20 for fast kill
+[AI] Move choices for Golbat (1):
+   *  50.0% to use Wing Attack (target 0): score 21
+   *   0.0% to use Poison Fang (target 0): score 0
+   *  50.0% to use Bite (target 0): score 21
+   => will use Bite (target 0)
+
+[Round order] Sandshrew (0), the opposing Golbat (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Golbat lost 26 HP (26 -> 0)
+"It's super effective!"
+"The opposing Golbat fainted!"
+
+===== Player won =====
+
+"You defeated Super Nerd Miguel!"
+"Okay! I'll share!"
+
+"You got $1,008 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Beldum appeared!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the wild Beldum (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 0
+     Noctowl (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Beldum (1) is considering using Tackle (1) against Noctowl (0)...
+     Beldum (1)'s highest damaging move vs Noctowl: Tackle
+[AI] Move choices for Beldum (1):
+   *  50.0% to use Tackle (target 0): score 1
+   *  50.0% to use Tackle (target 0): score 1
+   => will use Tackle (target 0)
+
+[Round order] Noctowl (0), the wild Beldum (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Beldum was caught!"
+
+===== Pokémon caught =====
+
+"Beldum's data was added to the Pokédex."
+"Where do you want to send Beldum to?"
+"Choose a Pokémon in your party to send to your Boxes."
+"Sunkern has been sent to Box "Box 1"."
+"Beldum has been added to your party."
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 44 HP (51 -> 7)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (52 -> 46)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (46 -> 45)
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[HP change] The opposing Delibird lost 7 HP (7 -> 0)
+"The opposing Delibird fainted!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (45 -> 39)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 39/39 damage
+     Sandshrew (0)'s best move: Ice Punch for 42/70 damage
+==============================
+     Sandshrew (0) speed (27) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_kill: true
+
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+"Rival Horse sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 12 HP (70 -> 58)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 25 HP (58 -> 33)
+"A critical hit!"
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss is paralyzed! It can't move!"
+[Move failed] The opposing Togekiss is paralyzed
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 18 HP (33 -> 15)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 15 HP (15 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+
+[End of round 7]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 48/44 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 24/44 damage
+     Pichu (0)'s best move: Shock Wave for 36/50 damage
+==============================
+     Pichu (0) speed (27) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+"Rival Horse sent out Doduo!"
+
+===== Round 8 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Sandshrew!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Sandshrew lost 11 HP (39 -> 28)
+[HP change] Sandshrew lost 10 HP (28 -> 18)
+[HP change] Sandshrew lost 9 HP (18 -> 9)
+[HP change] Sandshrew lost 9 HP (9 -> 0)
+"Sandshrew fainted!"
+"Hit 4 times!"
+
+[End of round 8]
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 43 HP (51 -> 8)
+"It's super effective!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (52 -> 51)
+[Use move] Sandshrew (0) used Rapid Spin
+"Sandshrew used Rapid Spin!"
+[HP change] The opposing Delibird lost 8 HP (8 -> 0)
+"The opposing Delibird fainted!"
+[Stat change] Sandshrew's Speed changed by +1 (0 -> 1)
+"Sandshrew's Speed rose!"
+
+[End of round 2]
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 39/51 damage
+     Sandshrew (0)'s best move: Ice Punch for 42/70 damage
+==============================
+     Sandshrew (0) speed (40) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_2hko: true
+
+     [Togekiss] +  6: for fast 2HKO
+     [Togekiss] final Switch score: 6
+"Rival Horse sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 17 HP (70 -> 53)
+"It's super effective!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 11 HP (53 -> 42)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 18 HP (42 -> 24)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 18 HP (24 -> 6)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 6 HP (6 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+
+[End of round 8]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 48/44 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 24/44 damage
+     Pichu (0)'s best move: Shock Wave for 36/50 damage
+==============================
+     Pichu (0) speed (27) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+"Rival Horse sent out Doduo!"
+
+===== Round 9 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Trubbish lost 13 HP (58 -> 45)
+[HP change] Trubbish lost 12 HP (45 -> 33)
+[HP change] Trubbish lost 12 HP (33 -> 21)
+[HP change] Trubbish lost 12 HP (21 -> 9)
+"Hit 4 times!"
+"Trubbish is switched out with the Eject Berry!"
+[Item consumed] Trubbish consumed its held Eject Berry
+"You're in charge, Sandshrew!"
+
+[End of round 9]
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Sandshrew (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 5 HP (51 -> 46)
+[HP change] Sandshrew lost 5 HP (46 -> 41)
+[HP change] Sandshrew lost 5 HP (41 -> 36)
+[HP change] Sandshrew lost 5 HP (36 -> 31)
+"It's not very effective..."
+"Hit 4 times!"
+"The opposing Doduo stole and ate its target's Oran Berry!"
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Doduo lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Doduo fainted!"
+
+[End of round 10]
+==============================
+     [Yanma] using Dragon Rage vs Sandshrew does a max of 40/31 damage
+     Sandshrew (0)'s best move: Ice Punch for 66/64 damage
+==============================
+     Sandshrew (0) speed (27) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Horse sent out Yanma!"
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Sandshrew (0)...
+     Yanma (1)'s highest damaging move vs Sandshrew: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] Sandshrew (0), the opposing Yanma (1)
+
+[Use move] Sandshrew (0) used Ice Shard
+"Sandshrew used Ice Shard!"
+[Ability triggered] The opposing Yanma's Blinding Speed
+"Sandshrew is moving too fast!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Sandshrew lost 31 HP (31 -> 0)
+"Sandshrew fainted!"
+"Hit 1 time!"
+
+[End of round 11]
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 43 HP (51 -> 8)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (52 -> 46)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (46 -> 45)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 8 HP (8 -> 0)
+"A critical hit!"
+"It's super effective!"
+"The opposing Delibird fainted!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (45 -> 39)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 39/39 damage
+     Sandshrew (0)'s best move: Ice Punch for 42/70 damage
+==============================
+     Sandshrew (0) speed (27) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_kill: true
+
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+"Rival Horse sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 12 HP (70 -> 58)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 16 HP (58 -> 42)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 16 HP (42 -> 26)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 16 HP (26 -> 10)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+
+[End of round 8]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 48/44 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 24/44 damage
+     Pichu (0)'s best move: Shock Wave for 36/50 damage
+==============================
+     Pichu (0) speed (27) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+"Rival Horse sent out Doduo!"
+
+===== Round 9 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+      + 20 for fast kill
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 21
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Trubbish lost 12 HP (58 -> 46)
+[HP change] Trubbish lost 13 HP (46 -> 33)
+[HP change] Trubbish lost 12 HP (33 -> 21)
+[HP change] Trubbish lost 12 HP (21 -> 9)
+"Hit 4 times!"
+"Trubbish is switched out with the Eject Berry!"
+[Item consumed] Trubbish consumed its held Eject Berry
+"You're in charge, Sandshrew!"
+
+[End of round 9]
+[HP change] Sandshrew lost 6 HP (39 -> 33)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Sandshrew (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 4 HP (33 -> 29)
+[HP change] Sandshrew lost 5 HP (29 -> 24)
+[HP change] Sandshrew lost 5 HP (24 -> 19)
+[HP change] Sandshrew lost 5 HP (19 -> 14)
+"It's not very effective..."
+"Hit 4 times!"
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Doduo lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Doduo fainted!"
+
+[End of round 10]
+[HP change] Sandshrew lost 6 HP (14 -> 8)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Yanma] using Dragon Rage vs Sandshrew does a max of 40/8 damage
+     Sandshrew (0)'s best move: Ice Punch for 66/64 damage
+==============================
+     Sandshrew (0) speed (27) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Horse sent out Yanma!"
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Sandshrew (0)...
+     Yanma (1)'s highest damaging move vs Sandshrew: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Sandshrew (0)
+
+"Good job, Sandshrew! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Beldum lost 40 HP (48 -> 8)
+[HP change] Beldum gained 8 HP (8 -> 16)
+"Hit 2 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+"You're in charge, Wynaut!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (72 -> 32)
+[HP change] Wynaut gained 10 HP (32 -> 42)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (42 -> 2)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 64 HP (64 -> 0)
+"The opposing Yanma fainted!"
+"Beldum got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Horse!"
+"Hey! Take it easy! You won already!"
+
+"You got $336 for winning!"
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 43 HP (51 -> 8)
+"It's super effective!"
+
+[End of round 1]
+
+===== Round 2 =====
+
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 41 HP (51 -> 10)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (52 -> 46)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (46 -> 45)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 10 HP (10 -> 0)
+"It's super effective!"
+"The opposing Delibird fainted!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (45 -> 39)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 39/39 damage
+     Sandshrew (0)'s best move: Ice Punch for 42/70 damage
+==============================
+     Sandshrew (0) speed (27) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_kill: true
+
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+"Rival Horse sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 12 HP (70 -> 58)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 16 HP (58 -> 42)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 26 HP (42 -> 16)
+"A critical hit!"
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss is paralyzed! It can't move!"
+[Move failed] The opposing Togekiss is paralyzed
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 15 HP (16 -> 1)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 1 HP (1 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+
+[End of round 8]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 48/44 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 24/44 damage
+     Pichu (0)'s best move: Shock Wave for 36/50 damage
+==============================
+     Pichu (0) speed (27) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+"Rival Horse sent out Doduo!"
+
+===== Round 9 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -4
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+      + 20 for fast kill
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 21
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Trubbish lost 13 HP (58 -> 45)
+[HP change] Trubbish lost 12 HP (45 -> 33)
+[HP change] Trubbish lost 13 HP (33 -> 20)
+[HP change] Trubbish lost 12 HP (20 -> 8)
+"Hit 4 times!"
+"Trubbish is switched out with the Eject Berry!"
+[Item consumed] Trubbish consumed its held Eject Berry
+"You're in charge, Sandshrew!"
+
+[End of round 9]
+[HP change] Sandshrew lost 6 HP (39 -> 33)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Sandshrew (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 4 HP (33 -> 29)
+[HP change] Sandshrew lost 5 HP (29 -> 24)
+[HP change] Sandshrew lost 5 HP (24 -> 19)
+[HP change] Sandshrew lost 5 HP (19 -> 14)
+"It's not very effective..."
+"Hit 4 times!"
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Doduo lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Doduo fainted!"
+
+[End of round 10]
+[HP change] Sandshrew lost 6 HP (14 -> 8)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Yanma] using Dragon Rage vs Sandshrew does a max of 40/8 damage
+     Sandshrew (0)'s best move: Ice Punch for 66/64 damage
+==============================
+     Sandshrew (0) speed (27) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Horse sent out Yanma!"
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Sandshrew (0)...
+     Yanma (1)'s highest damaging move vs Sandshrew: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Sandshrew (0)
+
+"Good job, Sandshrew! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Beldum lost 40 HP (48 -> 8)
+[HP change] Beldum gained 8 HP (8 -> 16)
+"Hit 2 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+"You're in charge, Wynaut!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (72 -> 32)
+[HP change] Wynaut gained 10 HP (32 -> 42)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (42 -> 2)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 64 HP (64 -> 0)
+"The opposing Yanma fainted!"
+"Beldum got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Horse!"
+"Hey! Take it easy! You won already!"
+
+"You got $336 for winning!"
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 42 HP (51 -> 9)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+[Stat change] Sandshrew's Attack changed by +1 (0 -> 1)
+"Sandshrew's Attack rose!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (52 -> 46)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 9 to get a last ditch hit off.
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 14
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (46 -> 45)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 9 HP (9 -> 0)
+"It's super effective!"
+"The opposing Delibird fainted!"
+
+[End of round 2]
+[HP change] Sandshrew lost 6 HP (45 -> 39)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Togekiss] using Air Slash vs Sandshrew does a max of 39/39 damage
+     Sandshrew (0)'s best move: Ice Punch for 60/70 damage
+==============================
+     Sandshrew (0) speed (27) vs Togekiss speed: 47
+[AI] =====> Flags assigned to Togekiss:
+==========> fast_kill: true
+
+     [Togekiss] + 12: for fast kill
+     [Togekiss] final Switch score: 12
+"Rival Horse sent out Togekiss!"
+
+===== Round 3 =====
+
+Set up score for Sandshrew (0): 1
+     Threat Score for Sandshrew (0): 0
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Sandshrew (0)...
+     Togekiss (1)'s highest damaging move vs Sandshrew: Air Slash
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 5
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Sandshrew (0)
+
+"Sandshrew, come back!"
+"You're in charge, Pichu!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 3]
+
+===== Round 4 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] The opposing Togekiss (1), Pichu (0)
+
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+[Use move] Pichu (0) used Nuzzle
+"Pichu used Nuzzle!"
+[HP change] The opposing Togekiss lost 10 HP (70 -> 60)
+"It's super effective!"
+"The opposing Togekiss is paralyzed! It may be unable to move!"
+
+[End of round 4]
+
+===== Round 5 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 17 HP (60 -> 43)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 5]
+
+===== Round 6 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 16 HP (43 -> 27)
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss is paralyzed! It can't move!"
+[Move failed] The opposing Togekiss is paralyzed
+
+[End of round 6]
+
+===== Round 7 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 24 HP (27 -> 3)
+"A critical hit!"
+"It's super effective!"
+[Use move] The opposing Togekiss (1) used Air Slash
+"The opposing Togekiss used Air Slash!"
+[Ability triggered] Pichu's Wind Power
+"The strong winds charged the opposing Togekiss with power!"
+
+[End of round 7]
+
+===== Round 8 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Togekiss (1) is considering using Air Slash (1) against Pichu (0)...
+     Togekiss (1)'s highest damaging move vs Pichu: Air Slash
+     move will not affect Pichu (0)
+     -  1: move will fail
+[AI] Move choices for Togekiss (1):
+   * 100.0% to use Air Slash (target 0): score 1
+   => will use Air Slash (target 0)
+
+[Round order] Pichu (0), the opposing Togekiss (1)
+
+[Use move] Pichu (0) used Shock Wave
+"Pichu used Shock Wave!"
+[HP change] The opposing Togekiss lost 3 HP (3 -> 0)
+"It's super effective!"
+"The opposing Togekiss fainted!"
+
+[End of round 8]
+     move will not affect Pichu (0)
+==============================
+     [Doduo] using Double Headbonk vs Pichu does a max of 48/44 damage
+     [Doduo] using Dual WingBeak vs Pichu does a max of 24/44 damage
+     Pichu (0)'s best move: Shock Wave for 36/50 damage
+==============================
+     Pichu (0) speed (27) vs Doduo speed: 45
+[AI] =====> Flags assigned to Doduo:
+==========> fast_kill: true
+
+     [Doduo] + 12: for fast kill
+     [Doduo] final Switch score: 12
+"Rival Horse sent out Doduo!"
+
+===== Round 9 =====
+
+Set up score for Pichu (0): 0
+     Threat Score for Pichu (0): -3
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+     + 4 to prioritize highest damaging move
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Pichu (0)...
+     Doduo (1)'s highest damaging move vs Pichu: Double Headbonk
+[AI] Move choices for Doduo (1):
+   * 100.0% to use Double Headbonk (target 0): score 5
+   *   0.0% to use Dual WingBeak (target 0): score 0
+   => will use Double Headbonk (target 0)
+
+[Round order] The opposing Doduo (1), Pichu (0)
+
+"Pichu, that's enough! Come back!"
+"You're in charge, Trubbish!"
+[Use move] The opposing Doduo (1) used Double Headbonk
+"The opposing Doduo used Double Headbonk!"
+[HP change] Trubbish lost 12 HP (58 -> 46)
+[HP change] Trubbish lost 12 HP (46 -> 34)
+[HP change] Trubbish lost 12 HP (34 -> 22)
+[HP change] Trubbish lost 11 HP (22 -> 11)
+"Hit 4 times!"
+"Trubbish is switched out with the Eject Berry!"
+[Item consumed] Trubbish consumed its held Eject Berry
+"You're in charge, Sandshrew!"
+
+[End of round 9]
+[HP change] Sandshrew lost 6 HP (39 -> 33)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 10 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Doduo (1) is considering using Double Headbonk (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+[AI] Doduo (1) is considering using Dual WingBeak (1) against Sandshrew (0)...
+     Doduo (1)'s highest damaging move vs Sandshrew: Dual WingBeak
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Doduo (1):
+   *   0.0% to use Double Headbonk (target 0): score 0
+   * 100.0% to use Dual WingBeak (target 0): score 5
+   => will use Dual WingBeak (target 0)
+
+[Round order] The opposing Doduo (1), Sandshrew (0)
+
+[Use move] The opposing Doduo (1) used Dual WingBeak
+"The opposing Doduo used Dual WingBeak!"
+[HP change] Sandshrew lost 5 HP (33 -> 28)
+[HP change] Sandshrew lost 5 HP (28 -> 23)
+[HP change] Sandshrew lost 5 HP (23 -> 18)
+[HP change] Sandshrew lost 5 HP (18 -> 13)
+"It's not very effective..."
+"Hit 4 times!"
+[Use move] Sandshrew (0) used Ice Punch
+"Sandshrew used Ice Punch!"
+[HP change] The opposing Doduo lost 50 HP (50 -> 0)
+"It's super effective!"
+"The opposing Doduo fainted!"
+
+[End of round 10]
+[HP change] Sandshrew lost 6 HP (13 -> 7)
+"Sandshrew is hurt by its Sticky Barb!"
+==============================
+     [Yanma] using Dragon Rage vs Sandshrew does a max of 40/7 damage
+     Sandshrew (0)'s best move: Ice Punch for 66/64 damage
+==============================
+     Sandshrew (0) speed (27) vs Yanma speed: 56
+[AI] =====> Flags assigned to Yanma:
+==========> fast_kill: true
+
+     [Yanma] + 12: for fast kill
+     [Yanma] final Switch score: 12
+"Rival Horse sent out Yanma!"
+
+===== Round 11 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Sandshrew (0)...
+     Yanma (1)'s highest damaging move vs Sandshrew: Dragon Rage
+      + 20 for fast kill
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 21
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Sandshrew (0)
+
+"Good job, Sandshrew! Come back!"
+"You're in charge, Beldum!"
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Beldum lost 40 HP (48 -> 8)
+[HP change] Beldum gained 8 HP (8 -> 16)
+"Hit 2 times!"
+"Beldum is switched out with the Eject Button!"
+[Item consumed] Beldum consumed its held Eject Button
+"You're in charge, Wynaut!"
+
+[End of round 11]
+
+===== Round 12 =====
+
+Set up score for Wynaut (0): 0
+     Threat Score for Wynaut (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Dragon Rage (1) against Wynaut (0)...
+     Yanma (1)'s highest damaging move vs Wynaut: Dragon Rage
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Dragon Rage (target 0): score 5
+   => will use Dragon Rage (target 0)
+
+[Round order] The opposing Yanma (1), Wynaut (0)
+
+[Use move] The opposing Yanma (1) used Dragon Rage
+"The opposing Yanma used Dragon Rage!"
+[HP change] Wynaut lost 40 HP (72 -> 32)
+[HP change] Wynaut gained 10 HP (32 -> 42)
+"Wynaut restored a little HP using its Oran Berry!"
+[Item consumed] Wynaut consumed its held Oran Berry
+[HP change] Wynaut lost 40 HP (42 -> 2)
+"Hit 2 times!"
+[Use move] Wynaut (0) used Mirror Coat
+"Wynaut used Mirror Coat!"
+[HP change] The opposing Yanma lost 64 HP (64 -> 0)
+"The opposing Yanma fainted!"
+"Beldum got 1 Exp. Points!"
+
+===== Player won =====
+
+"You defeated Rival Horse!"
+"Hey! Take it easy! You won already!"
+
+"You got $336 for winning!"
+Roles for DELIBIRD: [:NONE]
+Roles for TOGEKISS: [:NONE]
+Roles for DODUO: [:NONE]
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Delibird!"
+"Go! Sandshrew!"
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+===== Round 1 =====
+
+Set up score for Sandshrew (0): 0
+     Threat Score for Sandshrew (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 4
+     Priority Move Count: 1
+     End flag assignment.
+[AI] Delibird (1) is considering using Ice Tomb (1) against Sandshrew (0)...
+     Delibird (1)'s highest damaging move vs Sandshrew: Ice Tomb
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Delibird (1):
+   * 100.0% to use Ice Tomb (target 0): score 5
+   => will use Ice Tomb (target 0)
+
+[Round order] The opposing Delibird (1), Sandshrew (0)
+
+[Use move] The opposing Delibird (1) used Ice Tomb
+"The opposing Delibird used Ice Tomb!"
+[HP change] Sandshrew lost 1 HP (53 -> 52)
+[Use move] Sandshrew (0) used Metal Claw
+"Sandshrew used Metal Claw!"
+[HP change] The opposing Delibird lost 48 HP (51 -> 3)
+"It's super effective!"
+"The opposing Delibird's Sticky Barb was transferred to Sandshrew!"
+
+[End of round 1]
+[HP change] Sandshrew lost 6 HP (52 -> 46)
+"Sandshrew is hurt by its Sticky Barb!"
+
+===== Round 2 =====
+
