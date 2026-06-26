@@ -43072,3 +43072,13 @@ Set up score for Trubbish (0): 0
 "Grubbin's data was added to the Pokédex."
 "Where do you want to send Grubbin to?"
 "Grubbin has been sent to Box "Box 1"!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Grubbin appeared!"
+"Go! Noctowl!"
+[Round order] Noctowl (0), the wild Grubbin (1)
+
+===== Round 1 =====
+
