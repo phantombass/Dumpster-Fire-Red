@@ -48,7 +48,7 @@ def block_debug
 end
 
 def write_version(path = "version")
-  # block_debug
+  block_debug
   $intro = true
   $in_battle = false
   File.open(path, "wb") { |f|
