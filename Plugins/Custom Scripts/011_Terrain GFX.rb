@@ -49,7 +49,7 @@ class Battle::Scene
         back = "interior"
       else
         bg = GameData::Environment.get(pbGetEnvironment).battle_base
-        back = pbGetEnvironment == :Cave ? "cave1" : "field"
+        back = pbGetEnvironment == :Cave ? "cave" : "field"
       end
       @battle.backdrop = back
       @battle.backdropBase = bg
