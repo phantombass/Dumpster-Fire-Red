@@ -39724,3 +39724,289 @@ Set up score for Trubbish (0): 0
 "Wow. You're great!"
 
 "You got $2,800 for winning!"
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Horse!"
+"Rival Horse sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 1]
+[HP change] The opposing Yanma lost 4 HP (36 -> 32)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 2]
+[HP change] The opposing Yanma lost 4 HP (32 -> 28)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 3]
+[HP change] The opposing Yanma lost 4 HP (28 -> 24)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 4]
+[HP change] The opposing Yanma lost 4 HP (24 -> 20)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 5]
+[HP change] The opposing Yanma lost 4 HP (20 -> 16)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 6]
+[HP change] The opposing Yanma lost 4 HP (16 -> 12)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 7 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 7]
+[HP change] The opposing Yanma lost 4 HP (12 -> 8)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 8 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 8]
+[HP change] The opposing Yanma lost 4 HP (8 -> 4)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 9 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): 2
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 9]
+[HP change] The opposing Yanma lost 4 HP (4 -> 0)
+"The opposing Yanma was hurt by poison!"
+"The opposing Yanma fainted!"
+"Trubbish got 370 Exp. Points!"
+"Trubbish grew to Lv. 6!"
+"Trubbish learned Acid Spray!"
+
+===== Player won =====
+
+"You defeated Rival Horse!"
+"WHAT? Unbelievable! I picked the wrong Pokémon!"
+
+"You got $160 for winning!"

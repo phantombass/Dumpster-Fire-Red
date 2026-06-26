@@ -1,48 +1,229 @@
-=== XPX Debug Log 2026-06-25 16:25:58 -0400 ===
+=== XPX Debug Log 2026-06-25 17:35:00 -0400 ===
 Ruby: 3.1.3 Platform: x64-mingw32
 GAME_ROOT : E:/Games/Dumpster Fire Red
 MAPS_DIR  : E:/Games/Dumpster Fire Red/Data/maps
 LOG_PATH  : E:/Games/Dumpster Fire Red/logs/xpx_debug.log
 $0        : -e
-[16:25:58] Boot started. MAPS_DIR=E:/Games/Dumpster Fire Red/Data/maps
-[16:25:58] Ruby: 3.1.3, JSON available: YES
-[16:25:58] Platform: x64-mingw32, encoding default_external=UTF-8, default_internal=UTF-8
-[16:25:58] === Runtime file inventory ===
-[16:25:58]   Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
-[16:25:58]   x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
-[16:25:58]   zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
-[16:25:58] System.rxdata: 8152 bytes, mtime=2026-06-25 16:25:00
-[16:25:58] System.rxdata @start_map_id=1 @start_x=9 @start_y=7
-[16:26:01] Indexed 221 maps
-[16:26:04] Map dict cache pre-warmed: 221 maps, 0 failed, 2520ms
-[16:26:04] Autotile DB: 40 entries loaded from XPX_AutotileDatabase.xpxdata
-[16:26:05] load_data patched
-[16:26:05] data_maps guard installed
-[16:26:05] pbRgssExists? patched
-[16:26:05] compiler safety patched
-[16:26:05] Start map 1 has 2 events: 5:Debug Intro(Action), 3:Cinematic Intro(Autorun)
-[16:26:05] Autorun events on start map: 3:Cinematic Intro
-[16:26:05] Boot complete
-[16:26:05] Bitmap#draw_text crisp-text wrapper installed
-[16:26:05] XPX Move to Location installed.
-[16:26:05] TilesetBitmaps patched for XPX extras-shift remap
-[16:26:05] AutotileBitmaps patched for is_water_type override (true/false)
-[16:26:08] Slow frame: 54ms in nil (n=1/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=26/1031644
-[16:26:08] Slow frame: 88ms in nil (n=2/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=26/1057525
-[16:26:08] Slow frame: 32ms in nil (n=3/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=26/1178564
-[16:26:09] Slow frame: 40ms in nil (n=4/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1298300
-[16:26:09] Slow frame: 194ms in nil (n=5/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1300319
-[16:26:09] Slow frame: 38ms in nil (n=6/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1300441
-[16:26:09] Slow frame: 104ms in nil (n=7/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1301189
-[16:26:09] Slow frame: 50ms in nil (n=8/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1301392
-[16:26:09] Slow frame: 59ms in nil (n=9/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1299626
-[16:26:09] Slow frame: 41ms in nil (n=10/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1299757
-[16:26:09] Slow frame: 40ms in nil (n=11/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1300760
-[16:26:10] Slow frame: 31ms in nil (n=12/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=29/1301513
-[16:26:10] Slow frame: 113ms in nil (n=13/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=30/1300657
-[16:26:10] Slow frame: 266ms in nil (n=14/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1299800
-[16:26:11] Slow frame: 432ms in nil (n=15/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1289444
-[16:26:12] Slow frame: 1008ms in nil (n=16/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300483
-[16:26:12] Slow frame: 231ms in Scene_Intro (n=17/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=32/1300644
-[16:26:12] Slow frame: 448ms in Scene_Intro (n=18/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300782
-[16:26:15] Slow frame: 32ms in Scene_Intro (n=19/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300120
+[17:35:00] Boot started. MAPS_DIR=E:/Games/Dumpster Fire Red/Data/maps
+[17:35:00] Ruby: 3.1.3, JSON available: YES
+[17:35:00] Platform: x64-mingw32, encoding default_external=UTF-8, default_internal=UTF-8
+[17:35:00] === Runtime file inventory ===
+[17:35:00]   Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[17:35:00]   x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[17:35:00]   zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[17:35:00] System.rxdata: 8152 bytes, mtime=2026-06-25 16:26:10
+[17:35:00] System.rxdata @start_map_id=1 @start_x=9 @start_y=7
+[17:35:03] Indexed 221 maps
+[17:35:05] Map dict cache pre-warmed: 221 maps, 0 failed, 2279ms
+[17:35:05] Autotile DB: 40 entries loaded from XPX_AutotileDatabase.xpxdata
+[17:35:06] load_data patched
+[17:35:06] data_maps guard installed
+[17:35:06] pbRgssExists? patched
+[17:35:06] compiler safety patched
+[17:35:06] Start map 1 has 2 events: 5:Debug Intro(Action), 3:Cinematic Intro(Autorun)
+[17:35:06] Autorun events on start map: 3:Cinematic Intro
+[17:35:06] Boot complete
+[17:35:06] Bitmap#draw_text crisp-text wrapper installed
+[17:35:06] XPX Move to Location installed.
+[17:35:06] TilesetBitmaps patched for XPX extras-shift remap
+[17:35:06] AutotileBitmaps patched for is_water_type override (true/false)
+[17:35:10] Slow frame: 31ms in nil (n=1/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1298194
+[17:35:10] Slow frame: 108ms in nil (n=2/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1300691
+[17:35:11] Slow frame: 145ms in nil (n=3/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=30/1300760
+[17:35:12] Slow frame: 290ms in nil (n=4/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1300095
+[17:35:12] Slow frame: 48ms in nil (n=5/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1299668
+[17:35:12] Slow frame: 423ms in nil (n=6/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1288849
+[17:35:13] Slow frame: 946ms in nil (n=7/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300607
+[17:35:13] Slow frame: 552ms in Scene_DebugIntro (n=8/200) dt=ol:0/sh:0/pt:40 dt_ms=38 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1299887
+[17:37:24] Slow frame: 332ms in Scene_DebugIntro (n=9/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1299723
+[17:37:24] Slow frame: 157ms in Scene_DebugIntro (n=10/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1299767
+[17:37:32] Slow frame: 46ms in Scene_DebugIntro (n=11/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1301040
+[17:39:44] Slow frame: 45ms in Scene_DebugIntro (n=12/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=32/1497760
+[17:39:44] Slow frame: 336ms in Scene_DebugIntro (n=13/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1497806
+[17:40:00] Slow frame: 33ms in Scene_DebugIntro (n=14/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=32/1522476
+[17:40:01] Slow frame: 36ms in Scene_DebugIntro (n=15/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1522522
+[17:43:00] Slow frame: 734ms in Scene_DebugIntro (n=16/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1788061
+[17:43:00] Slow frame: 38ms in Scene_DebugIntro (n=17/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1788107
+[17:43:54] Slow frame: 314ms in Scene_DebugIntro (n=18/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1787948
+[17:48:08] Slow frame: 34ms in Scene_DebugIntro (n=19/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=33/1789997
+[18:08:09] Slow frame: 33ms in Scene_DebugIntro (n=20/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=36/1789678
+[18:08:09] Slow frame: 463ms in Scene_DebugIntro (n=21/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=36/1789725
+[18:28:08] Slow frame: 33ms in Scene_DebugIntro (n=22/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=38/1789137
+[18:48:08] Slow frame: 33ms in Scene_DebugIntro (n=23/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=41/1788530
+[18:48:08] Slow frame: 297ms in Scene_DebugIntro (n=24/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=41/1788577
+[19:08:08] Slow frame: 34ms in Scene_DebugIntro (n=25/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=43/1788124
+[19:08:08] Slow frame: 308ms in Scene_DebugIntro (n=26/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=43/1788171
+[19:28:08] Slow frame: 32ms in Scene_DebugIntro (n=27/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=46/1789564
+[19:28:08] Slow frame: 314ms in Scene_DebugIntro (n=28/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=46/1789611
+[20:08:09] Slow frame: 34ms in Scene_DebugIntro (n=29/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=51/1788677
+[20:08:09] Slow frame: 507ms in Scene_DebugIntro (n=30/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=51/1788724
+[20:15:57] Slow frame: 329ms in Scene_DebugIntro (n=31/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=52/1788061
+[20:28:08] Slow frame: 32ms in Scene_DebugIntro (n=32/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=54/1790007
+[20:28:08] Slow frame: 303ms in Scene_DebugIntro (n=33/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=54/1790054
+[20:48:08] Slow frame: 34ms in Scene_DebugIntro (n=34/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=56/1788885
+[20:48:09] Slow frame: 306ms in Scene_DebugIntro (n=35/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=56/1788932
+[20:55:57] Slow frame: 298ms in Scene_DebugIntro (n=36/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=57/1788067
+[21:08:08] Slow frame: 33ms in Scene_DebugIntro (n=37/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=59/1789803
+[21:08:09] Slow frame: 301ms in Scene_DebugIntro (n=38/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=59/1789850
+[21:28:09] Slow frame: 32ms in Scene_DebugIntro (n=39/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=61/1789640
+[21:28:09] Slow frame: 495ms in Scene_DebugIntro (n=40/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=61/1789687
+[21:35:56] Slow frame: 330ms in Scene_DebugIntro (n=41/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=62/1788049
+[21:48:09] Slow frame: 34ms in Scene_DebugIntro (n=42/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=64/1790180
+[21:48:10] Slow frame: 306ms in Scene_DebugIntro (n=43/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=64/1790227
+[22:28:10] Slow frame: 33ms in Scene_DebugIntro (n=44/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=69/1789147
+[22:28:10] Slow frame: 345ms in Scene_DebugIntro (n=45/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=69/1789194
+[22:55:17] Slow frame: 313ms in Scene_DebugIntro (n=46/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=72/1788073
+[22:55:17] Slow frame: 240ms in Scene_DebugIntro (n=47/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=72/1788119
+[22:55:19] Slow frame: 94ms in Scene_DebugIntro (n=48/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=73/1788365
+[23:03:05] Slow frame: 324ms in Scene_DebugIntro (n=49/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=73/1788053
+[23:08:09] Slow frame: 32ms in Scene_DebugIntro (n=50/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=74/1789375
+[23:28:10] Slow frame: 33ms in Scene_DebugIntro (n=51/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=77/1789697
+[23:28:10] Slow frame: 434ms in Scene_DebugIntro (n=52/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=77/1789744
+[23:42:09] Slow frame: 40ms in Scene_DebugIntro (n=53/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=79/1788349
+[23:42:10] Slow frame: 535ms in Scene_DebugIntro (n=54/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=79/1788395
+[23:48:09] Slow frame: 33ms in Scene_DebugIntro (n=55/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=79/1789909
+[23:49:58] Slow frame: 356ms in Scene_DebugIntro (n=56/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=80/1788353
+[00:00:11] Slow frame: 36ms in Scene_DebugIntro (n=57/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=36 mm_cache=0 gc=81/1790398
+[00:00:11] Slow frame: 482ms in Scene_DebugIntro (n=58/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=81/1790445
+[00:05:36] Slow frame: 389ms in Scene_DebugIntro (n=59/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=82/1788351
+[00:07:58] Slow frame: 58ms in Scene_DebugIntro (n=60/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=82/1788052
+[00:07:58] Slow frame: 51ms in Scene_DebugIntro (n=61/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=82/1788098
+[00:08:10] Slow frame: 34ms in Scene_DebugIntro (n=62/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=82/1790056
+[00:13:23] Slow frame: 303ms in Scene_DebugIntro (n=63/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=82/1788048
+[00:13:24] Slow frame: 189ms in Scene_DebugIntro (n=64/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=83/1788369
+[00:14:38] Slow frame: 67ms in Scene_DebugIntro (n=65/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=67 mm_cache=0 gc=83/1788428
+[00:28:10] Slow frame: 33ms in Scene_DebugIntro (n=66/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=84/1789367
+[00:48:09] Slow frame: 34ms in Scene_DebugIntro (n=67/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=87/1788560
+[00:48:10] Slow frame: 301ms in Scene_DebugIntro (n=68/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=87/1788607
+[00:55:58] Slow frame: 334ms in Scene_DebugIntro (n=69/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=88/1788069
+[00:55:58] Slow frame: 215ms in Scene_DebugIntro (n=70/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=88/1788115
+[01:05:00] Slow frame: 34ms in Scene_DebugIntro (n=71/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=89/1789833
+[01:05:00] Slow frame: 274ms in Scene_DebugIntro (n=72/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=89/1789880
+[01:07:28] Slow frame: 34ms in Scene_DebugIntro (n=73/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=89/1788629
+[01:07:28] Slow frame: 292ms in Scene_DebugIntro (n=74/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=89/1788675
+[01:08:04] Slow frame: 56ms in Scene_DebugIntro (n=75/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=90/1788364
+[01:08:10] Slow frame: 33ms in Scene_DebugIntro (n=76/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=90/1788632
+[01:28:09] Slow frame: 33ms in Scene_DebugIntro (n=77/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=92/1788450
+[01:28:10] Slow frame: 301ms in Scene_DebugIntro (n=78/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=92/1788497
+[01:48:09] Slow frame: 34ms in Scene_DebugIntro (n=79/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=95/1790102
+[01:48:10] Slow frame: 306ms in Scene_DebugIntro (n=80/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=95/1790149
+[01:55:57] Slow frame: 343ms in Scene_DebugIntro (n=81/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=96/1788161
+[02:08:09] Slow frame: 33ms in Scene_DebugIntro (n=82/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=97/1789104
+[02:08:10] Slow frame: 301ms in Scene_DebugIntro (n=83/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=97/1789151
+[02:15:57] Slow frame: 57ms in Scene_DebugIntro (n=84/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=98/1788063
+[02:28:10] Slow frame: 33ms in Scene_DebugIntro (n=85/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=100/1789164
+[02:28:10] Slow frame: 339ms in Scene_DebugIntro (n=86/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=100/1789211
+[02:48:09] Slow frame: 33ms in Scene_DebugIntro (n=87/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=102/1789912
+[02:48:10] Slow frame: 305ms in Scene_DebugIntro (n=88/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=102/1789959
+[02:57:12] Slow frame: 92ms in Scene_DebugIntro (n=89/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=91 mm_cache=0 gc=103/1790046
+[02:57:12] Slow frame: 350ms in Scene_DebugIntro (n=90/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=103/1790093
+[02:57:12] Slow frame: 39ms in Scene_DebugIntro (n=91/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=103/1790138
+[02:57:57] Slow frame: 34ms in Scene_DebugIntro (n=92/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=104/1788421
+[02:57:58] Slow frame: 78ms in Scene_DebugIntro (n=93/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=104/1788468
+[03:08:10] Slow frame: 34ms in Scene_DebugIntro (n=94/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=105/1788458
+[03:08:10] Slow frame: 330ms in Scene_DebugIntro (n=95/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=105/1788505
+[03:08:10] Slow frame: 39ms in Scene_DebugIntro (n=96/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=105/1788550
+[03:28:09] Slow frame: 33ms in Scene_DebugIntro (n=97/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=107/1790221
+[03:28:10] Slow frame: 305ms in Scene_DebugIntro (n=98/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=107/1790268
+[03:48:10] Slow frame: 32ms in Scene_DebugIntro (n=99/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=110/1789337
+[03:48:10] Slow frame: 460ms in Scene_DebugIntro (n=100/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=110/1789384
+[04:08:09] Slow frame: 34ms in Scene_DebugIntro (n=101/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=113/1789113
+[04:08:10] Slow frame: 60ms in Scene_DebugIntro (n=102/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=113/1789160
+[04:48:10] Slow frame: 33ms in Scene_DebugIntro (n=103/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=118/1789105
+[04:48:10] Slow frame: 497ms in Scene_DebugIntro (n=104/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=118/1789152
+[04:48:10] Slow frame: 51ms in Scene_DebugIntro (n=105/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=118/1789197
+[04:55:58] Slow frame: 314ms in Scene_DebugIntro (n=106/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=119/1788383
+[05:08:10] Slow frame: 34ms in Scene_DebugIntro (n=107/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=120/1788630
+[05:08:10] Slow frame: 298ms in Scene_DebugIntro (n=108/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=120/1788677
+[05:08:10] Slow frame: 39ms in Scene_DebugIntro (n=109/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=120/1788722
+[05:28:10] Slow frame: 33ms in Scene_DebugIntro (n=110/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=33 mm_cache=0 gc=123/1790293
+[05:28:10] Slow frame: 802ms in Scene_DebugIntro (n=111/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=1 mm_cache=0 gc=123/1790340
+[05:28:11] Slow frame: 39ms in Scene_DebugIntro (n=112/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=123/1790385
+[05:45:50] Slow frame: 35ms in Scene_DebugIntro (n=113/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=125/1790341
+[05:45:51] Slow frame: 87701988ms in Scene_DebugIntro (n=114/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1790288
+[05:45:51] Slow frame: 37ms in Scene_DebugIntro (n=115/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=34 mm_cache=0 gc=125/1790333
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=116/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1790379
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=117/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=44 mm_cache=0 gc=125/1790425
+[05:45:52] Slow frame: 52ms in Scene_DebugIntro (n=118/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=50 mm_cache=0 gc=125/1790471
+[05:45:52] Slow frame: 47ms in Scene_DebugIntro (n=119/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=125/1788065
+[05:45:52] Slow frame: 50ms in Scene_DebugIntro (n=120/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788111
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=121/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788157
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=122/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788203
+[05:45:52] Slow frame: 1538ms in Scene_DebugIntro (n=123/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=19 mm_cache=0 gc=125/1788365
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=124/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=49 mm_cache=0 gc=125/1788437
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=125/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=125/1788483
+[05:45:52] Slow frame: 50ms in Scene_DebugIntro (n=126/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788529
+[05:45:52] Slow frame: 50ms in Scene_DebugIntro (n=127/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788575
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=128/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1788621
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=129/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788667
+[05:45:52] Slow frame: 51ms in Scene_DebugIntro (n=130/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788713
+[05:45:52] Slow frame: 49ms in Scene_DebugIntro (n=131/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788759
+[05:45:53] Slow frame: 1983ms in Scene_DebugIntro (n=132/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=2 mm_cache=0 gc=125/1789309
+[05:45:53] Slow frame: 408ms in Scene_DebugIntro (n=133/200) dt=ol:0/sh:0/pt:4 dt_ms=284 tr_ms=0 gu_ms=3 mm_cache=0 gc=125/1789569
+[05:45:53] Slow frame: 451ms in Scene_DebugIntro (n=134/200) dt=ol:0/sh:0/pt:220 dt_ms=166 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1788099
+[05:45:53] Slow frame: 52ms in Scene_DebugIntro (n=135/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=52 mm_cache=0 gc=125/1788131
+[05:45:53] Slow frame: 385ms in Scene_DebugIntro (n=136/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=6 mm_cache=0 gc=125/1788154
+[05:45:53] Slow frame: 63ms in Scene_DebugIntro (n=137/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=36 mm_cache=0 gc=125/1788176
+[05:45:53] Slow frame: 52ms in Scene_DebugIntro (n=138/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=42 mm_cache=0 gc=125/1788199
+[05:45:53] Slow frame: 49ms in Scene_DebugIntro (n=139/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788222
+[05:45:53] Slow frame: 49ms in Scene_DebugIntro (n=140/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788245
+[05:45:53] Slow frame: 49ms in Scene_DebugIntro (n=141/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1788268
+[05:45:53] Slow frame: 49ms in Scene_DebugIntro (n=142/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788291
+[05:45:53] Slow frame: 50ms in Scene_DebugIntro (n=143/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788314
+[05:45:53] Slow frame: 50ms in Scene_DebugIntro (n=144/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788337
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=145/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788360
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=146/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788383
+[05:45:54] Slow frame: 48ms in Scene_DebugIntro (n=147/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=43 mm_cache=0 gc=125/1788406
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=148/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788429
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=149/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788452
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=150/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788475
+[05:45:54] Slow frame: 52ms in Scene_DebugIntro (n=151/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=50 mm_cache=0 gc=125/1788498
+[05:45:54] Slow frame: 48ms in Scene_DebugIntro (n=152/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1788521
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=153/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788544
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=154/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788567
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=155/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788590
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=156/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788613
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=157/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788636
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=158/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=49 mm_cache=0 gc=125/1788659
+[05:45:54] Slow frame: 68ms in Scene_DebugIntro (n=159/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=63 mm_cache=0 gc=125/1788747
+[05:45:54] Slow frame: 34ms in Scene_DebugIntro (n=160/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=28 mm_cache=0 gc=125/1788777
+[05:45:54] Slow frame: 126ms in Scene_DebugIntro (n=161/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1788928
+[05:45:54] Slow frame: 69ms in Scene_DebugIntro (n=162/200) dt=ol:0/sh:0/pt:48 dt_ms=24 tr_ms=0 gu_ms=39 mm_cache=0 gc=125/1790261
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=163/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790288
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=164/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790310
+[05:45:54] Slow frame: 51ms in Scene_DebugIntro (n=165/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790332
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=166/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790354
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=167/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=125/1790376
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=168/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790398
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=169/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1790420
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=170/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=6 mm_cache=0 gc=125/1788488
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=171/200) dt=ol:0/sh:0/pt:4 dt_ms=3 tr_ms=0 gu_ms=39 mm_cache=0 gc=125/1788620
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=172/200) dt=ol:0/sh:0/pt:4 dt_ms=2 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1788765
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=173/200) dt=ol:0/sh:0/pt:12 dt_ms=7 tr_ms=0 gu_ms=40 mm_cache=0 gc=125/1789117
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=174/200) dt=ol:0/sh:0/pt:12 dt_ms=7 tr_ms=0 gu_ms=39 mm_cache=0 gc=125/1789470
+[05:45:54] Slow frame: 64ms in Scene_DebugIntro (n=175/200) dt=ol:0/sh:0/pt:12 dt_ms=5 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1789838
+[05:45:54] Slow frame: 114ms in Scene_DebugIntro (n=176/200) dt=ol:0/sh:0/pt:28 dt_ms=14 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1788164
+[05:45:54] Slow frame: 71ms in Scene_DebugIntro (n=177/200) dt=ol:0/sh:0/pt:32 dt_ms=22 tr_ms=0 gu_ms=31 mm_cache=0 gc=125/1789024
+[05:45:54] Slow frame: 63ms in Scene_DebugIntro (n=178/200) dt=ol:0/sh:0/pt:8 dt_ms=2 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1789280
+[05:45:54] Slow frame: 39ms in Scene_DebugIntro (n=179/200) dt=ol:0/sh:0/pt:20 dt_ms=10 tr_ms=0 gu_ms=21 mm_cache=0 gc=125/1789830
+[05:45:54] Slow frame: 76ms in Scene_DebugIntro (n=180/200) dt=ol:0/sh:0/pt:12 dt_ms=5 tr_ms=0 gu_ms=1 mm_cache=0 gc=125/1790193
+[05:45:54] Slow frame: 58ms in Scene_DebugIntro (n=181/200) dt=ol:0/sh:0/pt:24 dt_ms=9 tr_ms=0 gu_ms=2 mm_cache=0 gc=125/1788402
+[05:45:54] Slow frame: 61ms in Scene_DebugIntro (n=182/200) dt=ol:0/sh:0/pt:8 dt_ms=2 tr_ms=0 gu_ms=33 mm_cache=0 gc=125/1788652
+[05:45:54] Slow frame: 51ms in Scene_DebugIntro (n=183/200) dt=ol:0/sh:0/pt:12 dt_ms=3 tr_ms=0 gu_ms=34 mm_cache=0 gc=125/1789001
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=184/200) dt=ol:0/sh:0/pt:12 dt_ms=6 tr_ms=0 gu_ms=40 mm_cache=0 gc=125/1789351
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=185/200) dt=ol:0/sh:0/pt:4 dt_ms=4 tr_ms=0 gu_ms=42 mm_cache=0 gc=125/1789503
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=186/200) dt=ol:0/sh:0/pt:24 dt_ms=8 tr_ms=0 gu_ms=32 mm_cache=0 gc=125/1790245
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=187/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=44 mm_cache=0 gc=125/1790269
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=188/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1790292
+[05:45:54] Slow frame: 54ms in Scene_DebugIntro (n=189/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=52 mm_cache=0 gc=125/1790315
+[05:45:54] Slow frame: 46ms in Scene_DebugIntro (n=190/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=44 mm_cache=0 gc=125/1790338
+[05:45:54] Slow frame: 52ms in Scene_DebugIntro (n=191/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790361
+[05:45:54] Slow frame: 48ms in Scene_DebugIntro (n=192/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=45 mm_cache=0 gc=125/1790384
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=193/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1790407
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=194/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=46 mm_cache=0 gc=125/1790430
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=195/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1790453
+[05:45:54] Slow frame: 49ms in Scene_DebugIntro (n=196/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=40 mm_cache=0 gc=125/1788084
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=197/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=48 mm_cache=0 gc=125/1788113
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=198/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788220
+[05:45:54] Slow frame: 50ms in Scene_DebugIntro (n=199/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=47 mm_cache=0 gc=125/1788357
+[05:45:55] Slow frame: 50ms in Scene_DebugIntro (n=200/200) dt=ol:0/sh:0/pt:36 dt_ms=23 tr_ms=0 gu_ms=22 mm_cache=0 gc=125/1789397
