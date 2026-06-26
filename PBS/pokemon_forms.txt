@@ -834,7 +834,7 @@ Category = Poison Fish
 Pokedex = After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.
 Generation = 9
 Flags = EggInRegion_4,InheritFormWithEverStone
-Evolutions = CLODSIRE,Level,20
+Evolutions = CLODSIRE,Level,30
 #-------------------------------
 [SLOWKING,1]
 FormName = Galarian
