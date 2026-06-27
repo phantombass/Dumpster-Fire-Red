@@ -1154,3 +1154,18 @@ Battle::AbilityEffects::OnDealingHit.add(:HECKYEAH,
     battle.pbHideAbilitySplash(user)
   }
 )
+
+Battle::AbilityEffects::EndOfRoundEffect.add(:HUSTLE,
+  proc { |ability, battler, battle|
+    # A Pokémon's turnCount is 0 if it became active after the beginning of a
+    # round
+    if battler.turnCount > 0 && battle.choices[battler.index][0] != :Run
+      if battler.pbCanRaiseStatStage?(:SPEED, battler)
+        battler.pbRaiseStatStageByAbility(:SPEED, 1, battler)
+      end
+      if battler.pbCanLowerStatStage?(:DEFENSE)
+        battler.pbLowerStatStageByAbility(:DEFENSE, 1, battler)
+      end
+    end
+  }
+)

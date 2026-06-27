@@ -796,7 +796,7 @@ PB_Trainers.register(:YOUNGSTER,"Chad",{
 
 
 :level => 24,
-
+:moves => [:KARATECHOP,:VACUUMWAVE],
 
 }]}})
 
@@ -862,7 +862,7 @@ PB_Trainers.register(:LEADER_Misty,"Misty",{
 :ability => :HECKYEAH,
 
 :level => 26,
-:moves => [:WATERFALL],
+:moves => [:HORNATTACK],
 :item => :CHOICESCARF
 },
 {:species => :HORSEA,

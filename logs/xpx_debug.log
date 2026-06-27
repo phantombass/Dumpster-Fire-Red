@@ -1,48 +1,42 @@
-=== XPX Debug Log 2026-06-26 07:04:39 -0400 ===
+=== XPX Debug Log 2026-06-27 08:35:59 -0400 ===
 Ruby: 3.1.3 Platform: x64-mingw32
 GAME_ROOT : E:/Games/Dumpster Fire Red
 MAPS_DIR  : E:/Games/Dumpster Fire Red/Data/maps
 LOG_PATH  : E:/Games/Dumpster Fire Red/logs/xpx_debug.log
 $0        : -e
-[07:04:39] Boot started. MAPS_DIR=E:/Games/Dumpster Fire Red/Data/maps
-[07:04:39] Ruby: 3.1.3, JSON available: YES
-[07:04:39] Platform: x64-mingw32, encoding default_external=UTF-8, default_internal=UTF-8
-[07:04:39] === Runtime file inventory ===
-[07:04:39]   Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
-[07:04:39]   x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
-[07:04:39]   zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
-[07:04:39] System.rxdata: 8152 bytes, mtime=2026-06-26 07:04:09
-[07:04:39] System.rxdata @start_map_id=1 @start_x=9 @start_y=7
-[07:04:42] Indexed 221 maps
-[07:04:44] Map dict cache pre-warmed: 221 maps, 0 failed, 2225ms
-[07:04:44] Autotile DB: 40 entries loaded from XPX_AutotileDatabase.xpxdata
-[07:04:45] load_data patched
-[07:04:45] data_maps guard installed
-[07:04:45] pbRgssExists? patched
-[07:04:45] compiler safety patched
-[07:04:45] Start map 1 has 2 events: 5:Debug Intro(Action), 3:Cinematic Intro(Autorun)
-[07:04:45] Autorun events on start map: 3:Cinematic Intro
-[07:04:45] Boot complete
-[07:04:46] Bitmap#draw_text crisp-text wrapper installed
-[07:04:46] XPX Move to Location installed.
-[07:04:46] TilesetBitmaps patched for XPX extras-shift remap
-[07:04:46] AutotileBitmaps patched for is_water_type override (true/false)
-[07:04:48] Slow frame: 47ms in nil (n=1/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=26/1057534
-[07:04:48] Slow frame: 132ms in nil (n=2/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=26/1083002
-[07:04:49] Slow frame: 126ms in nil (n=3/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1274222
-[07:04:49] Slow frame: 71ms in nil (n=4/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1297971
-[07:04:49] Slow frame: 85ms in nil (n=5/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1302174
-[07:04:49] Slow frame: 35ms in nil (n=6/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1300604
-[07:04:50] Slow frame: 31ms in nil (n=7/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=16 mm_cache=0 gc=30/1300822
-[07:04:50] Slow frame: 194ms in nil (n=8/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=30/1301719
-[07:04:50] Slow frame: 248ms in nil (n=9/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1300989
-[07:04:51] Slow frame: 462ms in nil (n=10/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1291621
-[07:04:52] Slow frame: 1043ms in nil (n=11/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=36 mm_cache=0 gc=32/1300638
-[07:04:52] Slow frame: 85ms in Scene_Intro (n=12/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=13 mm_cache=0 gc=32/1300800
-[07:04:52] Slow frame: 293ms in Scene_Intro (n=13/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300938
-[07:04:52] Slow frame: 31ms in Scene_Intro (n=14/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300971
-[07:04:54] Slow frame: 32ms in Scene_Intro (n=15/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=32 mm_cache=0 gc=32/1301851
-[07:04:58] Slow frame: 100ms in Scene_Intro (n=16/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1301948
-[07:04:58] Slow frame: 196ms in Scene_Intro (n=17/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1300145
-[07:05:00] Slow frame: 31ms in Scene_Intro (n=18/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=31 mm_cache=0 gc=32/1300884
-[07:05:05] Slow frame: 64ms in Scene_Intro (n=19/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=63 mm_cache=0 gc=32/1301672
+[08:35:59] Boot started. MAPS_DIR=E:/Games/Dumpster Fire Red/Data/maps
+[08:35:59] Ruby: 3.1.3, JSON available: YES
+[08:35:59] Platform: x64-mingw32, encoding default_external=UTF-8, default_internal=UTF-8
+[08:35:59] === Runtime file inventory ===
+[08:35:59]   Game.exe: 29110999 bytes, mtime=2026-06-02 07:28:44
+[08:35:59]   x64-msvcrt-ruby310.dll: 10240557 bytes, mtime=2026-06-02 07:28:44
+[08:35:59]   zlib1.dll: 128488 bytes, mtime=2026-06-02 07:29:08
+[08:35:59] System.rxdata: 8152 bytes, mtime=2026-06-27 08:35:27
+[08:35:59] System.rxdata @start_map_id=1 @start_x=9 @start_y=7
+[08:35:59] Indexed 221 maps
+[08:36:00] Map dict cache pre-warmed: 221 maps, 0 failed, 1143ms
+[08:36:00] Autotile DB: 40 entries loaded from XPX_AutotileDatabase.xpxdata
+[08:36:02] load_data patched
+[08:36:02] data_maps guard installed
+[08:36:02] pbRgssExists? patched
+[08:36:02] compiler safety patched
+[08:36:02] Start map 1 has 2 events: 5:Debug Intro(Action), 3:Cinematic Intro(Autorun)
+[08:36:02] Autorun events on start map: 3:Cinematic Intro
+[08:36:02] Boot complete
+[08:36:02] Bitmap#draw_text crisp-text wrapper installed
+[08:36:02] XPX Move to Location installed.
+[08:36:02] TilesetBitmaps patched for XPX extras-shift remap
+[08:36:02] AutotileBitmaps patched for is_water_type override (true/false)
+[08:36:04] Slow frame: 87ms in nil (n=1/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1227072
+[08:36:04] Slow frame: 39ms in nil (n=2/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1226751
+[08:36:04] Slow frame: 37ms in nil (n=3/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=28/1227360
+[08:36:04] Slow frame: 65ms in nil (n=4/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=29/1227729
+[08:36:05] Slow frame: 87ms in nil (n=5/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=31/1202526
+[08:36:05] Slow frame: 272ms in nil (n=6/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1184367
+[08:36:05] Slow frame: 81ms in nil (n=7/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1186169
+[08:36:06] Slow frame: 474ms in nil (n=8/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=32/1226375
+[08:36:06] Slow frame: 357ms in nil (n=9/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1227198
+[08:36:06] Slow frame: 33ms in Scene_Intro (n=10/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1227475
+[08:36:09] Slow frame: 45ms in Scene_Intro (n=11/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1227040
+[08:36:12] Slow frame: 78ms in Scene_Intro (n=12/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1226581
+[08:36:12] Slow frame: 152ms in Scene_Intro (n=13/200) dt=ol:0/sh:0/pt:0 dt_ms=0 tr_ms=0 gu_ms=0 mm_cache=0 gc=33/1226870
