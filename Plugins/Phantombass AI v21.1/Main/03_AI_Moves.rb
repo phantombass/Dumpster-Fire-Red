@@ -371,7 +371,7 @@ class Battle::AI::AIMove
     end
 
     def self.hazard_move?(move)
-      list = [:STEALTHROCK,:SPIKES,:TOXICSPIKES,:STICKYWEB,:STONEAXE,:CEASELESSEDGE]
+      list = [:STEALTHROCK,:SPIKES,:TOXICSPIKES,:STICKYWEB,:STONEAXE,:CEASELESSEDGE,:DEATHTRAP]
       m = move.is_a?(Symbol) ? move : move.id
       return list.include?(m)
     end
