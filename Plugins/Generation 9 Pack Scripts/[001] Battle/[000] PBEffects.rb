@@ -23,6 +23,7 @@ module PBEffects
   Syrupy          = 414 # Used to track the remaining number of turns until Syrup Bomb's effect wares off.
   SyrupyUser      = 415 # Used to track the Syrup Bomb user so the effect ends if they leave the field.
   BurningBulwark  = 416 # Used for the effect of Burning Bulwark.
+  DeathTrap       = 417
 end
 
 #-------------------------------------------------------------------------------

@@ -1169,3 +1169,104 @@ Battle::AbilityEffects::EndOfRoundEffect.add(:HUSTLE,
     end
   }
 )
+
+class Battle
+  def pbEntryHazards(battler)
+    battler_side = battler.pbOwnSide
+    # Death Trap
+    if battler_side.effects[PBEffects::DeathTrap] && battler.takesIndirectDamage? && !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+      battler.pbReduceHP(battler.totalhp, false)
+      pbDisplay(_INTL("{1} fell into the Death Trap!", battler.pbThis))
+    end
+    # Stealth Rock
+    if battler_side.effects[PBEffects::StealthRock] && battler.takesIndirectDamage? &&
+       GameData::Type.exists?(:ROCK) && !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+      bTypes = battler.pbTypes(true)
+      eff = Effectiveness.calculate(:ROCK, *bTypes)
+      if !Effectiveness.ineffective?(eff)
+        battler.pbReduceHP(battler.totalhp * eff / 8, false)
+        pbDisplay(_INTL("Pointed stones dug into {1}!", battler.pbThis))
+        battler.pbItemHPHealCheck
+      end
+    end
+    # Spikes
+    if battler_side.effects[PBEffects::Spikes] > 0 && battler.takesIndirectDamage? &&
+       !battler.airborne? && !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+      spikesDiv = [8, 6, 4][battler_side.effects[PBEffects::Spikes] - 1]
+      battler.pbReduceHP(battler.totalhp / spikesDiv, false)
+      pbDisplay(_INTL("{1} is hurt by the spikes!", battler.pbThis))
+      battler.pbItemHPHealCheck
+    end
+    # Toxic Spikes
+    if battler_side.effects[PBEffects::ToxicSpikes] > 0 && !battler.fainted? && !battler.airborne?
+      if battler.pbHasType?(:POISON)
+        battler_side.effects[PBEffects::ToxicSpikes] = 0
+        pbDisplay(_INTL("{1} absorbed the poison spikes!", battler.pbThis))
+      elsif battler.pbCanPoison?(nil, false) && !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+        if battler_side.effects[PBEffects::ToxicSpikes] == 2
+          battler.pbPoison(nil, _INTL("{1} was badly poisoned by the poison spikes!", battler.pbThis), true)
+        else
+          battler.pbPoison(nil, _INTL("{1} was poisoned by the poison spikes!", battler.pbThis))
+        end
+      end
+    end
+    # Sticky Web
+    if battler_side.effects[PBEffects::StickyWeb] && !battler.fainted? && !battler.airborne? &&
+       !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+      pbDisplay(_INTL("{1} was caught in a sticky web!", battler.pbThis))
+      if battler.pbCanLowerStatStage?(:SPEED)
+        battler.pbLowerStatStage(:SPEED, 1, nil)
+        battler.pbItemStatRestoreCheck
+      end
+    end
+  end
+end
+
+class Battle::ActiveSide
+  attr_accessor :effects
+
+  def initialize
+    @effects = []
+    @effects[PBEffects::AuroraVeil]         = 0
+    @effects[PBEffects::CraftyShield]       = false
+    @effects[PBEffects::DeathTrap]          = false
+    @effects[PBEffects::EchoedVoiceCounter] = 0
+    @effects[PBEffects::EchoedVoiceUsed]    = false
+    @effects[PBEffects::LastRoundFainted]   = -1
+    @effects[PBEffects::LightScreen]        = 0
+    @effects[PBEffects::LuckyChant]         = 0
+    @effects[PBEffects::MatBlock]           = false
+    @effects[PBEffects::Mist]               = 0
+    @effects[PBEffects::QuickGuard]         = false
+    @effects[PBEffects::Rainbow]            = 0
+    @effects[PBEffects::Reflect]            = 0
+    @effects[PBEffects::Round]              = false
+    @effects[PBEffects::Safeguard]          = 0
+    @effects[PBEffects::SeaOfFire]          = 0
+    @effects[PBEffects::Spikes]             = 0
+    @effects[PBEffects::StealthRock]        = false
+    @effects[PBEffects::StickyWeb]          = false
+    @effects[PBEffects::Swamp]              = 0
+    @effects[PBEffects::Tailwind]           = 0
+    @effects[PBEffects::ToxicSpikes]        = 0
+    @effects[PBEffects::WideGuard]          = false
+  end
+end
+
+class Battle::Move::AddDeathTrapToFoeSide < Battle::Move
+  def canMagicCoat?; return true; end
+
+  def pbMoveFailed?(user, targets)
+    if user.pbOpposingSide.effects[PBEffects::DeathTrap]
+      @battle.pbDisplay(_INTL("But it failed!"))
+      return true
+    end
+    return false
+  end
+
+  def pbEffectGeneral(user)
+    user.pbOpposingSide.effects[PBEffects::DeathTrap] = true
+    @battle.pbDisplay(_INTL("The Death Trap was set around {1}!",
+                            user.pbOpposingTeam(true)))
+  end
+end
