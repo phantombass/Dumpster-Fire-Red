@@ -61,8 +61,8 @@ Land,21
 
 [039] # Cerulean City
 Land,21
-    50,BELDUM,2
-    50,PAWNIARD,2
+    90,HONEDGE,2
+    10,PAWNIARD,2
 
 
 [053] # Route 24
