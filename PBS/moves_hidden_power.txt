@@ -241,3 +241,13 @@ FunctionCode = HitTwiceAsManyAsHeads
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The target is hit twice as many times as the user has heads. Always hits for neutral damage.
 #-------------------------------
+[DEATHTRAP]
+Name = Death Trap
+Type = ELECTRIC
+Category = Status
+Accuracy = 0
+TotalPP = 20
+Target = FoeSide
+FunctionCode = AddDeathTrapToFoeSide
+Description = The user lays a death trap around the foes feet. The trap hurts foes that switch into battle.
+#-------------------------------
