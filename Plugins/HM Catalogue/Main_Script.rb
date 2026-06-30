@@ -78,7 +78,7 @@ class HM_Catalogue
 
   def self.setup
     @obtained = true
-    $game_switches[HMCatalogue::RockSmash] = true if $player.badge_count >= 1
+    $game_switches[HMCatalogue::Cut] = true
     @cut = $game_switches[HMCatalogue::Cut]
     @rock_smash = $game_switches[HMCatalogue::RockSmash]
     @strength = $game_switches[HMCatalogue::Strength]
@@ -341,9 +341,8 @@ class HMScreen
           else
             ret = nil
               pbFadeOutIn{
-              scene = PokemonRegionMap_Scene.new(-1,false)
-              screen = PokemonRegionMapScreen.new(scene)
-              ret = screen.pbStartFlyScreen
+              town_map_screen = UI::TownMap.new
+              ret = town_map_screen.main
               next 0 if !ret
             if ret
               $game_temp.fly_destination = ret
