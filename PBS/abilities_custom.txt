@@ -27,3 +27,7 @@ Description = Lowers enemy Accuracy on entry.
 [HECKYEAH]
 Name = Heck Yeah
 Description = All moves are OHKO moves.
+#-------------------------------
+[TIMEBOMB]
+Name = Time Bomb
+Description = You blow up at the end of the turn...most of the time.

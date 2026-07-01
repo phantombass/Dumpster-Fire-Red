@@ -1270,3 +1270,54 @@ class Battle::Move::AddDeathTrapToFoeSide < Battle::Move
                             user.pbOpposingTeam(true)))
   end
 end
+
+class Battle::Move::FixedDamageUserLevel < Battle::Move::FixedDamageMove
+  def multiHitMove?;            return @type == :QMARKS ; end
+  def pbNumHits(user, targets)
+    return 1 unless multiHitMove?
+    return 2
+  end
+  def pbFixedDamage(user, target)
+    return user.level
+  end
+end
+
+Battle::AbilityEffects::EndOfRoundHealing.add(:RESURGENCE,
+  proc { |ability,battler,battle|
+    next if !battler.canHeal?
+    battle.pbShowAbilitySplash(battler)
+    battler.pbRecoverHP(battler.totalhp/16)
+    if Battle::Scene::USE_ABILITY_SPLASH
+      battle.pbDisplay(_INTL("{1}'s HP was restored.",battler.pbThis))
+    else
+      battle.pbDisplay(_INTL("{1}'s {2} restored its HP.",battler.pbThis,battler.abilityName))
+    end
+    battle.pbHideAbilitySplash(battler)
+  }
+)
+
+Battle::AbilityEffects::EndOfRoundHealing.add(:TIMEBOMB,
+  proc { |ability,battler,battle|
+    next if battle.battlers.any? { |b| b.hasActiveAbility?(:DAMP) }
+    dud = rand(100) >= 90
+    battle.pbShowAbilitySplash(battler)
+    if dud
+      battle.pbDisplay(_INTL("The Time Bomb was a dud!"))
+    else
+      battle.scene.pbAnimation(GameData::Move.get(:EXPLOSION).id,battler,battler)
+      battler.pbReduceHP(battler.totalhp, false)
+      battler.pbFaint if battler&.fainted?
+      battle.battlers.each do |opp|
+        next if opp.hasActiveAbility?(:DAMP)
+        move = Battle::Move.new(battle,GameData::Move.get(:EXPLOSION))
+        dmg = move.pbCalcDamage(battler,opp)
+        opp.pbReduceHP(dmg)
+        opp.pbFaint if opp&.fainted?
+      end
+      if Battle::Scene::USE_ABILITY_SPLASH
+        battle.pbDisplay(_INTL("{1}'s blew up!",battler.pbThis))
+      end
+    end
+    battle.pbHideAbilitySplash(battler)
+  }
+)

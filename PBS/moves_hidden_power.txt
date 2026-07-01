@@ -251,3 +251,15 @@ Target = FoeSide
 FunctionCode = AddDeathTrapToFoeSide
 Description = The user lays a death trap around the foes feet. The trap hurts foes that switch into battle.
 #-------------------------------
+[NIGHTSHADE2]
+Name = Night Shade
+Type = QMARKS
+Category = Special
+Power = 1
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = FixedDamageUserLevel
+Flags = CanProtect,CanMirrorMove
+Description = The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
+#-------------------------------
