@@ -55650,3 +55650,1364 @@ Set up score for Trubbish (0): 0
 "Wow! You're too much!"
 
 "You got $2,800 for winning!"
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] The opposing Yanma (1), Trubbish (0)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] The opposing Yanma (1), Trubbish (0)
+
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+
+**Exception: undefined method `pbShowItemSplash' for #<Battle>
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:972:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item triggered] Trubbish's Berry Juice
+
+**Exception: Invalid argument passed to method.
+Expected nil to be one of [Symbol, GameData::Item, String], but got NilClass.
+012:Data/Scripts/001_Technical/001_Debugging/004_Validation:29:in `validate'
+075:Data/Scripts/010_Data/001_GameData:103:in `get'
+[Phantombass Custom Scripts] 002_UI.rb:274:in `refresh'
+[Phantombass Custom Scripts] 002_UI.rb:261:in `battler='
+[Phantombass Custom Scripts] 002_UI.rb:362:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:1302:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:972:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+[Item triggered] Trubbish's Berry Juice
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+
+**Exception: wrong number of arguments (given 1, expected 2..4)
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:236:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:254:in `pbCommonAnimation'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:296:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:57:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:74:in `triggerHPHeal'
+131:Data/Scripts/011_Battle/002_Battler/006_Battler_AbilityAndItem:327:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+
+**Exception: wrong number of arguments (given 1, expected 2..4)
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:236:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:255:in `pbCommonAnimation'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:296:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:57:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:74:in `triggerHPHeal'
+131:Data/Scripts/011_Battle/002_Battler/006_Battler_AbilityAndItem:327:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+
+**Exception: Invalid argument passed to method.
+Expected nil to be one of [Symbol, GameData::Item, String], but got NilClass.
+012:Data/Scripts/001_Technical/001_Debugging/004_Validation:29:in `validate'
+075:Data/Scripts/010_Data/001_GameData:103:in `get'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:88:in `refresh'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:75:in `battler='
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:177:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:240:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:255:in `pbCommonAnimation'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:296:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:57:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:74:in `triggerHPHeal'
+131:Data/Scripts/011_Battle/002_Battler/006_Battler_AbilityAndItem:327:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+
+**Exception: Invalid argument passed to method.
+Expected nil to be one of [Symbol, GameData::Item, String], but got NilClass.
+012:Data/Scripts/001_Technical/001_Debugging/004_Validation:29:in `validate'
+075:Data/Scripts/010_Data/001_GameData:103:in `get'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:88:in `refresh'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:75:in `battler='
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:177:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:241:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:256:in `pbCommonAnimation'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:296:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:57:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:74:in `triggerHPHeal'
+131:Data/Scripts/011_Battle/002_Battler/006_Battler_AbilityAndItem:327:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+
+**Exception: Invalid argument passed to method.
+Expected nil to be one of [Symbol, GameData::Item, String], but got NilClass.
+012:Data/Scripts/001_Technical/001_Debugging/004_Validation:29:in `validate'
+075:Data/Scripts/010_Data/001_GameData:103:in `get'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:89:in `refresh'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:76:in `battler='
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:178:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:242:in `pbShowItemSplash'
+[Phantombass Custom Scripts] 013_Item_Splashes.rb:257:in `pbCommonAnimation'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:296:in `block in <main>'
+026:Data/Scripts/003_Game processing/005_Event_Handlers:199:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:57:in `trigger'
+186:Data/Scripts/011_Battle/007_Other battle code/009_Battle_ItemEffects:74:in `triggerHPHeal'
+131:Data/Scripts/011_Battle/002_Battler/006_Battler_AbilityAndItem:327:in `pbItemHPHealCheck'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:873:in `block in pbProcessMoveHit'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `each'
+[Phantombass Custom Scripts] 009_Battle_Mechanics_Updates.rb:871:in `pbProcessMoveHit'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:421:in `block in pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `times'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:419:in `pbUseMove'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `block in pbProcessTurn'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+132:Data/Scripts/011_Battle/002_Battler/007_Battler_UseMove:55:in `pbProcessTurn'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:132:in `block (2 levels) in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `each'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:128:in `block in pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `loop'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:114:in `pbAttackPhaseMoves'
+124:Data/Scripts/011_Battle/001_Battle/010_Battle_AttackPhase:205:in `pbAttackPhase'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block (2 levels) in pbBattleLoop'
+009:Data/Scripts/001_Technical/001_Debugging/001_PBDebug:6:in `logonerr'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:347:in `block in pbBattleLoop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `loop'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:332:in `pbBattleLoop'
+[Generation 9 Pack] [003] Weather and Status.rb:98:in `pbStartBattleCore'
+116:Data/Scripts/011_Battle/001_Battle/002_Battle_StartAndEnd:277:in `pbStartBattle'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block (2 levels) in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:55:in `pbSceneStandby'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:524:in `block in start_core'
+205:Data/Scripts/012_Overworld/002_Battle triggering/002_Overworld_BattleIntroAnim:126:in `pbBattleAnimation'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:523:in `start_core'
+204:Data/Scripts/012_Overworld/002_Battle triggering/001_Overworld_BattleStarting:489:in `start'
+(eval):1:in `execute_script'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `eval'
+024:Data/Scripts/003_Game processing/003_Interpreter:138:in `execute_script'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:434:in `command_111'
+025:Data/Scripts/003_Game processing/004_Interpreter_Commands:29:in `execute_command'
+024:Data/Scripts/003_Game processing/003_Interpreter:130:in `block in update'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `loop'
+024:Data/Scripts/003_Game processing/003_Interpreter:86:in `update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:163:in `block in update'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:162:in `update'
+Scripts/XPX_Preload.rb:3066:in `block (2 levels) in _xpx_install_scene_map_update_wrap'
+023:Data/Scripts/003_Game processing/002_Scene_Map:234:in `block in main'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `loop'
+023:Data/Scripts/003_Game processing/002_Scene_Map:231:in `main'
+366:Data/Scripts/999_Main/999_Main:45:in `mainFunctionDebug'
+366:Data/Scripts/999_Main/999_Main:22:in `block in mainFunction'
+011:Data/Scripts/001_Technical/001_Debugging/003_Errors:80:in `pbCriticalCode'
+366:Data/Scripts/999_Main/999_Main:22:in `mainFunction'
+366:Data/Scripts/999_Main/999_Main:58:in `block in <main>'
+366:Data/Scripts/999_Main/999_Main:57:in `loop'
+366:Data/Scripts/999_Main/999_Main:57:in `<main>'
+-e:in `eval'
+
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] The opposing Yanma (1), Trubbish (0)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 1]
+[HP change] The opposing Yanma lost 4 HP (36 -> 32)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 2]
+[HP change] The opposing Yanma lost 4 HP (32 -> 28)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 3 =====
+
+Roles for YANMA: [:NONE]
+
+================================================================
+
+[Started battle] Single trainer battle (1 trainer(s) vs. 1 trainer(s))
+"You are challenged by Rival Blue!"
+"Rival Blue sent out Yanma!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+===== Round 1 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 1
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Poison Gas
+"Trubbish used Poison Gas!"
+"The opposing Yanma was poisoned!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 1]
+[HP change] The opposing Yanma lost 4 HP (36 -> 32)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 2 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 2]
+[HP change] The opposing Yanma lost 4 HP (32 -> 28)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 3 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 3]
+[HP change] The opposing Yanma lost 4 HP (28 -> 24)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 4 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 4]
+[HP change] The opposing Yanma lost 4 HP (24 -> 20)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 5 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 5]
+[HP change] The opposing Yanma lost 4 HP (20 -> 16)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 6 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 6]
+[HP change] The opposing Yanma lost 4 HP (16 -> 12)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 7 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 7]
+[HP change] The opposing Yanma lost 4 HP (12 -> 8)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 8 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 8]
+[HP change] The opposing Yanma lost 4 HP (8 -> 4)
+"The opposing Yanma was hurt by poison!"
+
+===== Round 9 =====
+
+Set up score for Trubbish (0): 0
+     Threat Score for Trubbish (0): -1
+     Checking flags...     Flags found.
+     End flag search
+[AI] Yanma (1) is considering using Sonic Boom (1) against Trubbish (0)...
+     Yanma (1)'s highest damaging move vs Trubbish: Sonic Boom
+     + 4 to prioritize highest damaging move
+[AI] Move choices for Yanma (1):
+   * 100.0% to use Sonic Boom (target 0): score 5
+   => will use Sonic Boom (target 0)
+
+[Round order] Trubbish (0), the opposing Yanma (1)
+
+[Use move] Trubbish (0) used Recycle
+"Trubbish used Recycle!"
+"Trubbish found a Berry Juice!"
+[Use move] The opposing Yanma (1) used Sonic Boom
+"The opposing Yanma used Sonic Boom!"
+[HP change] Trubbish lost 20 HP (21 -> 1)
+[Item triggered] Trubbish's Berry Juice
+[HP change] Trubbish gained 20 HP (1 -> 21)
+"Trubbish restored its health using its Berry Juice!"
+[Item consumed] Trubbish consumed its held Berry Juice
+
+[End of round 9]
+[HP change] The opposing Yanma lost 4 HP (4 -> 0)
+"The opposing Yanma was hurt by poison!"
+"The opposing Yanma fainted!"
+"Trubbish got 370 Exp. Points!"
+"Trubbish grew to Lv. 6!"
+"Trubbish learned Acid Spray!"
+
+===== Player won =====
+
+"You defeated Rival Blue!"
+"WHAT? Unbelievable! I picked the wrong Pokémon!"
+
+"You got $160 for winning!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Sunkern appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Sunkern (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Paras appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Paras (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Paras appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Paras (1)
+
+===== Round 1 =====
+
+"You got away safely!"
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Feebas appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Feebas (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Feebas (1) is considering using Splash (4)...
+[AI] Move choices for Feebas (1):
+   *  50.0% to use Splash: score 4
+   *  50.0% to use Splash: score 4
+   => will use Splash
+
+[Round order] Trubbish (0), the wild Feebas (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Feebas was caught!"
+"Trubbish got 6 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Feebas's data was added to the Pokédex."
+"Would you like to give a nickname to Feebas?"
+"Feebas has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Paras appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Paras (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Paras (1) is considering using Scratch (1) against Trubbish (0)...
+     Paras (1)'s highest damaging move vs Trubbish: Scratch
+[AI] Move choices for Paras (1):
+   *  50.0% to use Scratch (target 0): score 1
+   *  50.0% to use Scratch (target 0): score 1
+   => will use Scratch (target 0)
+
+[Round order] Trubbish (0), the wild Paras (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Paras was caught!"
+"Trubbish got 8 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Paras's data was added to the Pokédex."
+"Would you like to give a nickname to Paras?"
+"Paras has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Hoothoot appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Hoothoot (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Hoothoot (1) is considering using Peck (1) against Trubbish (0)...
+     Hoothoot (1)'s highest damaging move vs Trubbish: Peck
+[AI] Hoothoot (1) is considering using Growl (4)...
+     Hoothoot (1)'s highest damaging move vs Trubbish: Peck
+[AI] Move choices for Hoothoot (1):
+   *   0.0% to use Peck (target 0): score 0
+   *   0.0% to use Peck (target 0): score 0
+   * 100.0% to use Growl: score 4
+   => will use Growl
+
+[Round order] Trubbish (0), the wild Hoothoot (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Hoothoot was caught!"
+"Trubbish got 8 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Hoothoot's data was added to the Pokédex."
+"Would you like to give a nickname to Hoothoot?"
+"Hoothoot has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Togepi appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Togepi (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Togepi (1) is considering using Growl (4)...
+     Togepi (1)'s highest damaging move vs Trubbish: Pound
+[AI] Togepi (1) is considering using Pound (1) against Trubbish (0)...
+     Togepi (1)'s highest damaging move vs Trubbish: Pound
+[AI] Move choices for Togepi (1):
+   * 100.0% to use Growl: score 4
+   *   0.0% to use Pound (target 0): score 0
+   *   0.0% to use Pound (target 0): score 0
+   => will use Growl
+
+[Round order] Trubbish (0), the wild Togepi (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Togepi was caught!"
+"Trubbish got 7 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Togepi's data was added to the Pokédex."
+"Would you like to give a nickname to Togepi?"
+"Togepi has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Pichu appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Pichu (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Pichu (1) is considering using Thunder Shock (1) against Trubbish (0)...
+     Pichu (1)'s highest damaging move vs Trubbish: Thunder Shock
+[AI] Pichu (1) is considering using Tail Whip (4)...
+     Pichu (1)'s highest damaging move vs Trubbish: Thunder Shock
+[AI] Move choices for Pichu (1):
+   *   0.0% to use Thunder Shock (target 0): score 0
+   *  50.0% to use Tail Whip: score 4
+   *  50.0% to use Tail Whip: score 4
+   => will use Tail Whip
+
+[Round order] Trubbish (0), the wild Pichu (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Pichu was caught!"
+"Trubbish got 6 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Pichu's data was added to the Pokédex."
+"Would you like to give a nickname to Pichu?"
+"Pichu has been added to your party."
+
+================================================================
+
+[Started battle] Single wild battle (1 trainer(s) vs. 1 wild Pokémon)
+"Oh! A wild Spinarak appeared!"
+"Go! Trubbish!"
+[Round order] Trubbish (0), the wild Spinarak (1)
+
+===== Round 1 =====
+
+[AI] Threat assessment skipped for being a wild battle
+     Checking flags...
+     No flags found.
+     Setting flags...
+     Offensive Move Count: 2
+     Priority Move Count: 0
+     Trubbish (0) has been assigned No Priority flag
+     End flag assignment.
+[AI] Spinarak (1) is considering using Poison Sting (1) against Trubbish (0)...
+     Spinarak (1)'s highest damaging move vs Trubbish: Poison Sting
+[AI] Spinarak (1) is considering using String Shot (4)...
+     Spinarak (1)'s highest damaging move vs Trubbish: Poison Sting
+[AI] Move choices for Spinarak (1):
+   *   0.0% to use Poison Sting (target 0): score 0
+   *   0.0% to use Poison Sting (target 0): score 0
+   * 100.0% to use String Shot: score 4
+   => will use String Shot
+
+[Round order] Trubbish (0), the wild Spinarak (1)
+
+"Tyler threw a Poké Ball!"
+[Threw Poké Ball] Poké Ball, 4 shakes (4=capture)
+"Gotcha! Spinarak was caught!"
+"Trubbish got 1 Exp. Points!"
+
+===== Pokémon caught =====
+
+"Spinarak's data was added to the Pokédex."
+"Where do you want to send Spinarak to?"
+"Where do you want to send Spinarak to?"
+"Spinarak has been sent to Box "Box 1"!"

@@ -862,8 +862,8 @@ PB_Trainers.register(:LEADER_Misty,"Misty",{
 :ability => :HECKYEAH,
 
 :level => 26,
-:moves => [:HORNATTACK],
-:item => :CHOICESCARF
+:moves => [:HORNATTACK,:WATERFALL],
+:item => :LUMBERRY
 },
 {:species => :HORSEA,
 :ability => :INKSPRAY,

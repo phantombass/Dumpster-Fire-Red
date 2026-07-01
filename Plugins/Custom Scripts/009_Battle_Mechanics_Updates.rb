@@ -944,123 +944,6 @@ class Battle::Battler
     end
     return true
   end
-  # Implementing Item Splashes
-  def pbHeldItemTriggerCheck(item_to_use = nil, fling = false)
-    return if fainted?
-    return if !item_to_use && !itemActive?
-    pbItemHPHealCheck(item_to_use, fling)
-    pbItemStatusCureCheck(item_to_use, fling)
-    pbItemEndOfMoveCheck(item_to_use, fling)
-    # For Enigma Berry, Kee Berry and Maranga Berry, which have their effects
-    # when forcibly consumed by Pluck/Fling.
-    if item_to_use
-      itm = item_to_use || self.item
-      if Battle::ItemEffects.triggerOnBeingHitPositiveBerry(itm, self, @battle, true)
-        @battle.pbShowItemSplash(self,itm)
-        pbHeldItemTriggered(itm, false, fling)
-        @battle.pbHideItemSplash(self)
-      end
-    end
-  end
-
-  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
-  # fling is for Fling only.
-  def pbItemHPHealCheck(item_to_use = nil, fling = false)
-    return if !item_to_use && !itemActive?
-    itm = item_to_use || self.item
-    if Battle::ItemEffects.triggerHPHeal(itm, self, @battle, !item_to_use.nil?)
-      @battle.pbShowItemSplash(self,itm)
-      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
-      @battle.pbHideItemSplash(self)
-    elsif !item_to_use
-      pbItemTerrainStatBoostCheck
-    end
-  end
-
-  # Cures status conditions, confusion, infatuation and the other effects cured
-  # by Mental Herb.
-  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
-  # fling is for Fling only.
-  def pbItemStatusCureCheck(item_to_use = nil, fling = false)
-    return if fainted?
-    return if !item_to_use && !itemActive?
-    itm = item_to_use || self.item
-    if Battle::ItemEffects.triggerStatusCure(itm, self, @battle, !item_to_use.nil?)
-      @battle.pbShowItemSplash(self,itm)
-      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
-      @battle.pbHideItemSplash(self)
-    end
-  end
-
-  # Called at the end of using a move.
-  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
-  # fling is for Fling only.
-  def pbItemEndOfMoveCheck(item_to_use = nil, fling = false)
-    return if fainted?
-    return if !item_to_use && !itemActive?
-    itm = item_to_use || self.item
-    if Battle::ItemEffects.triggerOnEndOfUsingMove(itm, self, @battle, !item_to_use.nil?)
-      @battle.pbShowItemSplash(self,itm)
-      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
-      @battle.pbHideItemSplash(self)
-    elsif Battle::ItemEffects.triggerOnEndOfUsingMoveStatRestore(itm, self, @battle, !item_to_use.nil?)
-      @battle.pbShowItemSplash(self,itm)
-      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
-      @battle.pbHideItemSplash(self)
-    end
-  end
-
-  # Used for White Herb (restore lowered stats). Only called by Moody and Sticky
-  # Web, as all other stat reduction happens because of/during move usage and
-  # this handler is also called at the end of each move's usage.
-  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
-  # fling is for Fling only.
-  def pbItemStatRestoreCheck(item_to_use = nil, fling = false)
-    return if fainted?
-    return if !item_to_use && !itemActive?
-    itm = item_to_use || self.item
-    if Battle::ItemEffects.triggerOnEndOfUsingMoveStatRestore(itm, self, @battle, !item_to_use.nil?)
-      @battle.pbShowItemSplash(self,itm)
-      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
-      @battle.pbHideItemSplash(self)
-    end
-  end
-
-  # Called when the battle terrain changes and when a Pokémon loses HP.
-  def pbItemTerrainStatBoostCheck
-    return if !itemActive?
-    if Battle::ItemEffects.triggerTerrainStatBoost(self.item, self, @battle)
-      @battle.pbShowItemSplash(self,self.item)
-      pbHeldItemTriggered(self.item)
-      @battle.pbHideItemSplash(self)
-    end
-  end
-
-  # Used for Adrenaline Orb. Called when Intimidate is triggered (even if
-  # Intimidate has no effect on the Pokémon).
-  def pbItemOnIntimidatedCheck
-    return if !itemActive?
-    if Battle::ItemEffects.triggerOnIntimidated(self.item, self, @battle)
-      @battle.pbShowItemSplash(self,self.item)
-      pbHeldItemTriggered(self.item)
-      @battle.pbHideItemSplash(self)
-    end
-  end
-
-  # Used for Eject Pack. Returns whether self has switched out.
-  def pbItemOnStatDropped(move_user = nil)
-    return false if !@statsDropped
-    return false if !itemActive?
-    return Battle::ItemEffects.triggerOnStatLoss(self.item, self, move_user, @battle)
-  end
-
-  def pbItemsOnUnnerveEnding
-    @battle.pbPriority(true).each do |b|
-      @battle.pbShowItemSplash(self,b.item)
-      b.pbHeldItemTriggerCheck if b.item&.is_berry?
-      @battle.pbHideItemSplash(self)
-    end
-  end
 end
 
 Battle::AbilityEffects::OnTargetFlinch.add(:MASOCHIST,
@@ -1258,7 +1141,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:INKSPRAY,
       if b.itemActive? && !b.hasActiveAbility?(:CONTRARY) && b.effects[PBEffects::Substitute] == 0
         next if Battle::ItemEffects.triggerStatLossImmunity(b.item, b, :ACCURACY, battle, true)
       end
-      b.pbLowerStatStageByAbility(:ACCURACY, 1, battler, false)
+      b.pbLowerStatStageByAbility(:ACCURACY, 6, battler, false)
     end
     battle.pbHideAbilitySplash(battler)
     battle.pbSetAbilityTrigger(battler)
@@ -1296,6 +1179,7 @@ Battle::AbilityEffects::EndOfRoundEffect.add(:HUSTLE,
 )
 
 class Battle
+
   def pbEntryHazards(battler)
     battler_side = battler.pbOwnSide
     # Death Trap
@@ -1451,10 +1335,12 @@ Battle::ItemEffects::OnBeingHit.add(:ROCKIESTHELMET,
   proc { |item, user, target, move, battle|
     next if !move.pbContactMove?(user) || !user.affectedByContactEffect?
     next if !user.takesIndirectDamage?
+    battle.pbShowItemSplash(target,item)
     battle.scene.pbDamageAnimation(user)
     user.pbReduceHP(user.totalhp, false)
     battle.pbDisplay(_INTL("{1} was hurt by the {2}!", user.pbThis, target.itemName))
     user.pbFaint if user&.fainted?
+    battle.pbHideItemSplash(target)
   }
 )
 
