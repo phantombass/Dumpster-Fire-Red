@@ -263,3 +263,16 @@ FunctionCode = FixedDamageUserLevel
 Flags = CanProtect,CanMirrorMove
 Description = The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
 #-------------------------------
+[UPROOT]
+Name = UPROOT
+Type = FIGHTING
+Category = Physical
+Power = 1
+Accuracy = 100
+TotalPP = 30
+Target = NearOther
+Priority = 0
+FunctionCode = SwitchOutTargetDamagingMoveBypassIngrain
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends.
+#-------------------------------

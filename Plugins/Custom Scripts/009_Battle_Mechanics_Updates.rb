@@ -9,6 +9,7 @@ class Battle::Battler
     ret = :Sun if hasActiveAbility?(:MEGASOL)
     return ret
   end
+
   def pbSuccessCheckAgainstTarget(move, user, target, targets)
     show_message = move.pbShowFailMessages?(targets)
     typeMod = move.pbCalcTypeMod(move.calcType, user, target)
@@ -804,8 +805,10 @@ class Battle::Battler
       # NOTE: The consume animation and message for Gems are shown now, but the
       #       actual removal of the item happens in def pbEffectsAfterMove.
       @battle.pbCommonAnimation("UseItem", user)
+      @battle.pbShowItemSplash(self)
       @battle.pbDisplay(_INTL("The {1} strengthened {2}'s power!",
                               GameData::Item.get(user.effects[PBEffects::GemConsumed]).name, move.name))
+      @battle.pbHideItemSplash(self)
     end
     # Messages about missed target(s) (relevant for multi-target moves only)
     if !move.pbRepeatHit?
@@ -824,7 +827,9 @@ class Battle::Battler
       # This just changes the HP amounts and does nothing else
       targets.each do  |b|
         if heal_turn && b.hasActiveAbility?(:PARRYBLOW)
+          @battle.pbShowAbilitySplash(b)
           move.pbHealHPDamage(b) if !b.damageState.unaffected
+          @battle.pbHideAbilitySplash(b)
           healed = true
         else
           move.pbInflictHPDamage(b) if !b.damageState.unaffected
@@ -913,9 +918,11 @@ class Battle::Battler
     targets.each do |b|
       next if b.damageState.unaffected
       next if !b.damageState.berryWeakened
+      @battle.pbShowItemSplash(self)
       b.damageState.berryWeakened = false   # Weakening only applies for one hit
       @battle.pbDisplay(_INTL("The {1} weakened the damage to {2}!", b.itemName, b.pbThis(true)))
       b.pbConsumeItem
+      @battle.pbHideItemSplash(self)
     end
     # Steam Engine (goes here because it should be after stat changes caused by
     # the move)
@@ -936,6 +943,123 @@ class Battle::Battler
       pbProcessMoveHit(move, user, all_targets, 1, skipAccuracyCheck)
     end
     return true
+  end
+  # Implementing Item Splashes
+  def pbHeldItemTriggerCheck(item_to_use = nil, fling = false)
+    return if fainted?
+    return if !item_to_use && !itemActive?
+    pbItemHPHealCheck(item_to_use, fling)
+    pbItemStatusCureCheck(item_to_use, fling)
+    pbItemEndOfMoveCheck(item_to_use, fling)
+    # For Enigma Berry, Kee Berry and Maranga Berry, which have their effects
+    # when forcibly consumed by Pluck/Fling.
+    if item_to_use
+      itm = item_to_use || self.item
+      if Battle::ItemEffects.triggerOnBeingHitPositiveBerry(itm, self, @battle, true)
+        @battle.pbShowItemSplash(self,itm)
+        pbHeldItemTriggered(itm, false, fling)
+        @battle.pbHideItemSplash(self)
+      end
+    end
+  end
+
+  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
+  # fling is for Fling only.
+  def pbItemHPHealCheck(item_to_use = nil, fling = false)
+    return if !item_to_use && !itemActive?
+    itm = item_to_use || self.item
+    if Battle::ItemEffects.triggerHPHeal(itm, self, @battle, !item_to_use.nil?)
+      @battle.pbShowItemSplash(self,itm)
+      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
+      @battle.pbHideItemSplash(self)
+    elsif !item_to_use
+      pbItemTerrainStatBoostCheck
+    end
+  end
+
+  # Cures status conditions, confusion, infatuation and the other effects cured
+  # by Mental Herb.
+  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
+  # fling is for Fling only.
+  def pbItemStatusCureCheck(item_to_use = nil, fling = false)
+    return if fainted?
+    return if !item_to_use && !itemActive?
+    itm = item_to_use || self.item
+    if Battle::ItemEffects.triggerStatusCure(itm, self, @battle, !item_to_use.nil?)
+      @battle.pbShowItemSplash(self,itm)
+      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
+      @battle.pbHideItemSplash(self)
+    end
+  end
+
+  # Called at the end of using a move.
+  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
+  # fling is for Fling only.
+  def pbItemEndOfMoveCheck(item_to_use = nil, fling = false)
+    return if fainted?
+    return if !item_to_use && !itemActive?
+    itm = item_to_use || self.item
+    if Battle::ItemEffects.triggerOnEndOfUsingMove(itm, self, @battle, !item_to_use.nil?)
+      @battle.pbShowItemSplash(self,itm)
+      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
+      @battle.pbHideItemSplash(self)
+    elsif Battle::ItemEffects.triggerOnEndOfUsingMoveStatRestore(itm, self, @battle, !item_to_use.nil?)
+      @battle.pbShowItemSplash(self,itm)
+      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
+      @battle.pbHideItemSplash(self)
+    end
+  end
+
+  # Used for White Herb (restore lowered stats). Only called by Moody and Sticky
+  # Web, as all other stat reduction happens because of/during move usage and
+  # this handler is also called at the end of each move's usage.
+  # item_to_use is an item ID for Bug Bite/Pluck and Fling, and nil otherwise.
+  # fling is for Fling only.
+  def pbItemStatRestoreCheck(item_to_use = nil, fling = false)
+    return if fainted?
+    return if !item_to_use && !itemActive?
+    itm = item_to_use || self.item
+    if Battle::ItemEffects.triggerOnEndOfUsingMoveStatRestore(itm, self, @battle, !item_to_use.nil?)
+      @battle.pbShowItemSplash(self,itm)
+      pbHeldItemTriggered(itm, item_to_use.nil?, fling)
+      @battle.pbHideItemSplash(self)
+    end
+  end
+
+  # Called when the battle terrain changes and when a Pokémon loses HP.
+  def pbItemTerrainStatBoostCheck
+    return if !itemActive?
+    if Battle::ItemEffects.triggerTerrainStatBoost(self.item, self, @battle)
+      @battle.pbShowItemSplash(self,self.item)
+      pbHeldItemTriggered(self.item)
+      @battle.pbHideItemSplash(self)
+    end
+  end
+
+  # Used for Adrenaline Orb. Called when Intimidate is triggered (even if
+  # Intimidate has no effect on the Pokémon).
+  def pbItemOnIntimidatedCheck
+    return if !itemActive?
+    if Battle::ItemEffects.triggerOnIntimidated(self.item, self, @battle)
+      @battle.pbShowItemSplash(self,self.item)
+      pbHeldItemTriggered(self.item)
+      @battle.pbHideItemSplash(self)
+    end
+  end
+
+  # Used for Eject Pack. Returns whether self has switched out.
+  def pbItemOnStatDropped(move_user = nil)
+    return false if !@statsDropped
+    return false if !itemActive?
+    return Battle::ItemEffects.triggerOnStatLoss(self.item, self, move_user, @battle)
+  end
+
+  def pbItemsOnUnnerveEnding
+    @battle.pbPriority(true).each do |b|
+      @battle.pbShowItemSplash(self,b.item)
+      b.pbHeldItemTriggerCheck if b.item&.is_berry?
+      @battle.pbHideItemSplash(self)
+    end
   end
 end
 
@@ -1023,7 +1147,8 @@ class Battle::Move
   def pbHealHPDamage(target)
     if target.damageState.substitute
     elsif target.damageState.hpLost > 0
-      target.pbRecoverHP(target.damageState.hpLost)
+      amt = (target.damageState.calcDamage >= target.damageState.hpLost) ? target.damageState.calcDamage : target.damageState.hpLost
+      target.pbRecoverHP(amt)
     end
   end
 end
@@ -1174,7 +1299,7 @@ class Battle
   def pbEntryHazards(battler)
     battler_side = battler.pbOwnSide
     # Death Trap
-    if battler_side.effects[PBEffects::DeathTrap] && battler.takesIndirectDamage? && !battler.hasActiveItem?(:HEAVYDUTYBOOTS)
+    if battler_side.effects[PBEffects::DeathTrap] && battler.takesIndirectDamage? && !battler.hasActiveItem?(:HEAVYDUTYBOOTS) && !battler.pbHasType?(:GHOST)
       battler.pbReduceHP(battler.totalhp, false)
       pbDisplay(_INTL("{1} fell into the Death Trap!", battler.pbThis))
     end
@@ -1321,3 +1446,47 @@ Battle::AbilityEffects::EndOfRoundHealing.add(:TIMEBOMB,
     battle.pbHideAbilitySplash(battler)
   }
 )
+
+Battle::ItemEffects::OnBeingHit.add(:ROCKIESTHELMET,
+  proc { |item, user, target, move, battle|
+    next if !move.pbContactMove?(user) || !user.affectedByContactEffect?
+    next if !user.takesIndirectDamage?
+    battle.scene.pbDamageAnimation(user)
+    user.pbReduceHP(user.totalhp, false)
+    battle.pbDisplay(_INTL("{1} was hurt by the {2}!", user.pbThis, target.itemName))
+    user.pbFaint if user&.fainted?
+  }
+)
+
+class Battle::Move::SwitchOutTargetDamagingMoveBypassIngrain < Battle::Move::FixedDamageMove
+  def pbEffectAgainstTarget(user, target)
+    if target.wild? && target.allAllies.length == 0 && @battle.canRun &&
+       target.level <= user.level &&
+       (target.effects[PBEffects::Substitute] == 0 || ignoresSubstitute?(user))
+      @battle.decision = 3   # Escaped from battle
+    end
+  end
+
+  def pbSwitchOutTargetEffect(user, targets, numHits, switched_battlers)
+    return if !switched_battlers.empty?
+    return if user.fainted? || numHits == 0
+    targets.each do |b|
+      next if b.fainted? || b.damageState.unaffected || b.damageState.substitute
+      next if b.wild?
+      newPkmn = @battle.pbGetReplacementPokemonIndex(b.index, true)   # Random
+      next if newPkmn < 0
+      @battle.pbRecallAndReplace(b.index, newPkmn, true)
+      @battle.pbDisplay(_INTL("{1} was dragged out!", b.pbThis))
+      @battle.pbClearChoice(b.index)   # Replacement Pokémon does nothing this round
+      @battle.pbOnBattlerEnteringBattle(b.index)
+      switched_battlers.push(b.index)
+      break
+    end
+  end
+
+  def pbFixedDamage(user, target)
+    uproot = target.effects[PBEffects::Ingrain]
+    return target.totalhp if uproot
+    return 30
+  end
+end
